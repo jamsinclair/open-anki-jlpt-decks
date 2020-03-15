@@ -1,0 +1,28 @@
+.card {
+  font-family: arial;
+  font-size: 24px;
+  text-align: center;
+  color: #333333;
+  background-color:white; 
+}
+
+.divider {
+  width: 85%;
+  margin: 1.5rem auto;
+  border-bottom: 1px solid black;
+}
+
+.expression {
+  font-size: 40px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .card {
+      background-color: #333333;
+      color: #FAFAFA;
+  }
+
+  .divider {
+    border-color: white;
+  }
+}
