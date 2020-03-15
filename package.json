@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:jamsinclair/open-anki-jplt-decks.git",
   "author": "jamsinclair <jamsinclairnz@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "scripts/csv-to-anki.py"
+  }
 }
