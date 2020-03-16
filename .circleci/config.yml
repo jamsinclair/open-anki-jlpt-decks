@@ -14,6 +14,9 @@ jobs:
       - run:
           command: black scripts --check
           name: Lint
+      - run:
+          command: scripts/csv-to-anki.py
+          name: Build
 
 workflows:
   main:
