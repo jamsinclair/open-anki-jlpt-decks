@@ -7,7 +7,6 @@
   "author": "jamsinclair <jamsinclairnz@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "scripts/csv-to-anki.py",
     "generate-screenshots": "scripts/templates-serve.js & (sleep 2 && scripts/templates-screenshot.js && kill -9 $(pgrep -f templates-serve))"
   },
   "devDependencies": {
