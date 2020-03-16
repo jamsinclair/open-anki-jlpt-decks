@@ -23,14 +23,3 @@
 .expression {
   font-size: 44px;
 }
-
-@media (prefers-color-scheme: dark) {
-  .card {
-      background-color: #333333;
-      color: #FAFAFA;
-  }
-
-  .divider {
-    border-color: white;
-  }
-}
