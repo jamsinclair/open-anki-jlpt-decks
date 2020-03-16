@@ -1,16 +1,21 @@
-version: 2
+version: 2.1
+
+orbs:
+  python: circleci/python@0.2.1
+
 jobs:
-  build:
-    docker:
-      - image: circleci/python:3.8.2
+  build-and-test:
+    executor: python/default
     steps:
       - checkout
-      - restore_cache:
-          key: deps-{{ .Branch }}-{{ checksum "requirements.txt" }}
+      - python/load-cache
+      - python/install-deps
+      - python/save-cache
       - run:
-          command: pip install -r requirements.txt
-      - save_cache:
-          key: deps-{{ .Branch }}-{{ checksum "requirements.txt" }}
-      - run:
-         name: Lint
-         command: black scripts --check
+          command: black scripts --check
+          name: Lint
+
+workflows:
+  main:
+    jobs:
+      - build-and-test
