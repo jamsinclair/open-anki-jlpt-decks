@@ -17,8 +17,8 @@ jobs:
       - save_cache:
           key: pip-cache-{{ checksum "requirements.txt" }}
           paths:
-            - "/home/circleci/.local/bin/"
-            - "/home/circleci/.local/lib/
+            - /home/circleci/.local/bin/
+            - /home/circleci/.local/lib/
       - run:
           command: black scripts --check
           name: Lint
