@@ -7,10 +7,13 @@
   "author": "jamsinclair <jamsinclairnz@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "generate-screenshots": "scripts/templates-serve.js & (sleep 2 && scripts/templates-screenshot.js && kill -9 $(pgrep -f templates-serve))"
+    "generate-screenshots": "scripts/templates-serve.js & (sleep 2 && scripts/templates-screenshot.js && kill -9 $(pgrep -f templates-serve))",
+    "format": "prettier-standard **/*.js --format",
+    "lint": "prettier-standard  **/*.js --lint"
   },
   "devDependencies": {
     "express": "^4.17.1",
+    "prettier-standard": "^16.2.1",
     "puppeteer": "^2.1.1"
   }
 }
