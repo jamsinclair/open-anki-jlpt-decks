@@ -9,7 +9,7 @@ const init = async () => {
   await page.setViewport({
     width: 320,
     height: 350,
-    deviceScaleFactor: 1
+    deviceScaleFactor: 2
   })
   await page.goto('http://localhost:3000/question')
   await page.screenshot({ path: 'screenshots/question.png' })
