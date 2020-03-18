@@ -67,4 +67,4 @@ workflows:
     jobs:
       - release:
           requires:
-            - main
+            - build
