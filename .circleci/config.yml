@@ -5,7 +5,7 @@ orbs:
   python: circleci/python@0.2.1
 
 jobs:
-  scripts-check:
+  lint-js:
     executor:
       name: node/default
       tag: '12.16'
@@ -18,7 +18,7 @@ jobs:
           command: npm run lint
           name: Lint
 
-  build-and-test:
+  lint-python:
     executor: python/default
     steps:
       - checkout
@@ -36,6 +36,22 @@ jobs:
       - run:
           command: black scripts --check
           name: Lint
+
+  build:
+    executor: python/default
+    steps:
+      - checkout
+      # Manually handle caching until circleci python orb is fixed
+      # https://github.com/CircleCI-Public/python-orb/issues/27
+      - restore_cache:
+          keys:
+            - pip-cache-{{ checksum "requirements.txt" }}
+      - python/install-deps
+      - save_cache:
+          key: pip-cache-{{ checksum "requirements.txt" }}
+          paths:
+            - /home/circleci/.local/bin/
+            - /home/circleci/.local/lib/
       - run:
           command: scripts/csv-to-anki.py
           name: Build
@@ -43,5 +59,6 @@ jobs:
 workflows:
   main:
     jobs:
-      - scripts-check
-      - build-and-test
+      - lint-js
+      - lint-python
+      - build
