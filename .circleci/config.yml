@@ -57,14 +57,11 @@ jobs:
       - run: ls /tmp/workspace
 
 workflows:
-  main:
+  build-and-release:
     jobs:
       - lint-js
       - lint-python
       - build
-
-  release:
-    jobs:
       - release
           requires:
             - build
