@@ -43,18 +43,18 @@ jobs:
       - checkout
       # Manually handle caching until circleci python orb is fixed
       # https://github.com/CircleCI-Public/python-orb/issues/27
-      - restore_cache:
-          keys:
-            - pip-cache-{{ checksum "requirements.txt" }}
-      - python/install-deps
-      - save_cache:
-          key: pip-cache-{{ checksum "requirements.txt" }}
+      - run: scripts/csv-to-anki.py
+      - persist_to_workspace:
+          root: /tmp/workspace
           paths:
-            - /home/circleci/.local/bin/
-            - /home/circleci/.local/lib/
-      - run:
-          command: scripts/csv-to-anki.py
-          name: Build
+            - decks/*
+
+  release:
+    executor: python/default
+    steps:
+      - attach_workspace:
+          at: /tmp/workspace
+      - run: ls /tmp/workspace
 
 workflows:
   main:
@@ -62,3 +62,9 @@ workflows:
       - lint-js
       - lint-python
       - build
+
+  release:
+    jobs:
+      - release
+        requires:
+          - build
