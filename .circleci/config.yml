@@ -70,7 +70,10 @@ workflows:
     jobs:
       - lint-js
       - lint-python
-      - build
+      - build:
+          requires:
+            - lint-js
+            - lint-python
       - release:
           requires:
             - build
