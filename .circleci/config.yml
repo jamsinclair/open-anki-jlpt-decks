@@ -39,6 +39,7 @@ jobs:
 
   build:
     executor: python/default
+    working_directory: ~/workspace
     steps:
       - checkout
       # Manually handle caching until circleci python orb is fixed
@@ -54,16 +55,17 @@ jobs:
             - /home/circleci/.local/lib/
       - run: scripts/csv-to-anki.py
       - persist_to_workspace:
-          root: /tmp/workspace
+          root: .
           paths:
             - decks/*
 
   release:
     executor: python/default
+    working_directory: ~/workspace
     steps:
       - attach_workspace:
-          at: /tmp/workspace
-      - run: ls /tmp/workspace
+          at: .
+      - run: ls && ls decks
 
 workflows:
   build-and-release:
