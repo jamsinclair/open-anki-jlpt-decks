@@ -1,6 +1,6 @@
 # open-anki-jplt-decks
-[![CircleCI](https://circleci.com/gh/jamsinclair/open-anki-jplt-decks.svg?style=svg&circle-token=7d839bbb41ce0f2dd5d27eeb7b9668fc7b5c55f5)](https://circleci.com/gh/jamsinclair/open-anki-jplt-decks)
-  
+[![Build Status](https://www.travis-ci.com/jamsinclair/open-anki-jplt-decks.svg?token=yUwj6sQDufx9XzvuNEjP&branch=master)](https://www.travis-ci.com/jamsinclair/open-anki-jplt-decks)
+
 Open source and updatable JPLT Anki Decks. You can help improve and maintain the notes contained for everyone!
 
 The notes are stored in csv files to allow easy editing and reviewing of changes. New updated decks will be generated from any changes.
