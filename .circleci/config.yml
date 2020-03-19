@@ -64,7 +64,7 @@ jobs:
     executor: github-release/default
     working_directory: ~/workspace
     steps:
-      - run: echo $CIRCLE_TAG
+      - run: echo $CIRCLE_TAG 
 
 workflows:
   build-and-release:
