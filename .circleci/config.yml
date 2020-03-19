@@ -69,6 +69,7 @@ jobs:
       - github-release/create:
           tag: $CIRCLE_TAG
           title: $CIRCLE_TAG
+          description: $CIRCLE_TAG
           file-path: ./decks
 
 workflows:
