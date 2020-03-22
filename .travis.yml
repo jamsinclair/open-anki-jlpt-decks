@@ -1,25 +1,23 @@
-language: python
-python: 3.8
-os: linux
-dist: xenial
-jobs:
+matrix:
   include:
+  - language: python
+    python: 3.8
     script:
     - black scripts --check
     - scripts/csv-to-anki.py
     deploy:
       provider: releases
-      token:
+      api_key:
         secure: bUdn1Ll7VzUuIiojm1zAwHVmkB6wO45BofaQovrsW8EYfpmnxjLqKsyNPGdwxFXMC54BSN30flRHSI2b6cIUYknt/Ko/yMPjlRyUgA+tjA657CrIF3ot4apAbTqje6Kau7XQtcGX8C8npAYd8UO8n9+1/L/kbsBel45kl1zOwWNZk6TzFrQGaLNSY7zguXPpWrZU+dB3oWMrAvIpvOxx7GpNPkZkA/IINJHfYon0MjAxX2QwOjLx55TAuaErdpZMjkTAQi6jZPtnR/vdKNav9Gff1aZczey8BXNwJ13aOXLtHW42wuXpk0z95pYIxdLl0noEj9SgpnEzKIMYwZ4WDCOxquVMps+DFi/LNqLN+5ESLK2zqY5p8Fg+lsKjre/+aLxaUOx+xL62nW7u4xMZef1KKpy2wYtv6q4nntGan3Z8BC1IcBWGqzB7r8elTMkmGuJ93aynMd4PcbHuitQD08Vr5pG+Pwgz79Fxx7jHHK5BBcFoUW8K9Y8QK3kmtZtjbZ57oGxZjgCvAcxNAfeIFS616iEPvbIB2A+scyFY0XtFdVJlrzkfx6nkHUgzzSZWLCUK0CCARGLEnM9R5rfqMxy6Wt83rtjHT5ighhqamZapkxx5E2f+vV4q8N5XPzrzOGezck7S0LM7sYRAwyT/oufELp2ucOrGOWkFqPKEtcM=
       file_glob: true
       file: decks/*
-      cleanup: false
+      skip_cleanup: true
       on:
         repo: jamsinclair/open-anki-jlpt-decks
         branch: master
         tags: true
   - language: node_js
     node_js:
-    - 12.x.x
+    - 12
     script:
     - npm run lint
