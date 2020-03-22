@@ -1,7 +1,7 @@
-# open-anki-jplt-decks
-[![Build Status](https://www.travis-ci.com/jamsinclair/open-anki-jplt-decks.svg?token=yUwj6sQDufx9XzvuNEjP&branch=master)](https://www.travis-ci.com/jamsinclair/open-anki-jplt-decks)
+# open-anki-jlpt-decks
+[![Build Status](https://www.travis-ci.com/jamsinclair/open-anki-jlpt-decks.svg?token=yUwj6sQDufx9XzvuNEjP&branch=master)](https://www.travis-ci.com/jamsinclair/open-anki-jlpt-decks)
 
-Open source and updatable JPLT Anki Decks. You can help improve and maintain the notes contained for everyone!
+Open source and updatable JLPT Anki Decks. You can help improve and maintain the notes contained for everyone!
 
 The notes are stored in csv files to allow easy editing and reviewing of changes. New updated decks will be generated from any changes.
 

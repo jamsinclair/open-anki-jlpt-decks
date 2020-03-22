@@ -15,21 +15,21 @@ afmt = fileToStr("src/templates/answer.html")
 css = fileToStr("src/templates/styles.css")
 
 decks = [
-    {"id": 1116267102, "name": "Open Anki JPLT N5 Deck", "csv": "src/n5.csv"},
-    {"id": 2097673790, "name": "Open Anki JPLT N4 Deck", "csv": "src/n4.csv"},
-    {"id": 1859281248, "name": "Open Anki JPLT N3 Deck", "csv": "src/n3.csv"},
-    {"id": 1482466869, "name": "Open Anki JPLT N2 Deck", "csv": "src/n2.csv"},
-    {"id": 1626470530, "name": "Open Anki JPLT N1 Deck", "csv": "src/n1.csv"},
+    {"id": 1116267102, "name": "Open Anki JLPT N5 Deck", "csv": "src/n5.csv"},
+    {"id": 2097673790, "name": "Open Anki JLPT N4 Deck", "csv": "src/n4.csv"},
+    {"id": 1859281248, "name": "Open Anki JLPT N3 Deck", "csv": "src/n3.csv"},
+    {"id": 1482466869, "name": "Open Anki JLPT N2 Deck", "csv": "src/n2.csv"},
+    {"id": 1626470530, "name": "Open Anki JLPT N1 Deck", "csv": "src/n1.csv"},
 ]
 
-deckDescription = """Open source and updatable JPLT Anki Decks to help you learn Japanese.
+deckDescription = """Open source and updatable JLPT Anki Decks to help you learn Japanese.
 
-                     Checkout https://github.com/jamsinclair/open-anki-jplt-decks for more information"""
+                     Checkout https://github.com/jamsinclair/open-anki-jlpt-decks for more information"""
 model = genanki.Model(
     2000494194,
-    "Open Anki JPLT Vocab",
+    "Open Anki JLPT Vocab",
     fields=[{"name": "expression"}, {"name": "reading"}, {"name": "meaning"}],
-    templates=[{"name": "JPLT Expressions", "qfmt": qfmt, "afmt": afmt},],
+    templates=[{"name": "JLPT Expressions", "qfmt": qfmt, "afmt": afmt},],
     css=css,
 )
 

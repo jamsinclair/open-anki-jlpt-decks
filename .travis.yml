@@ -13,7 +13,7 @@ matrix:
       file: decks/*
       skip_cleanup: true
       on:
-        repo: jamsinclair/open-anki-jplt-decks
+        repo: jamsinclair/open-anki-jlpt-decks
         branch: master
         tags: true
   - language: node_js
