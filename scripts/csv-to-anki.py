@@ -25,7 +25,7 @@ deckInfos = [
 
 deckDescription = """Open source and updatable JLPT Anki Decks to help you learn Japanese.
 
-                     Checkout https://github.com/jamsinclair/open-anki-jlpt-decks for more information"""
+                     Visit <a href="https://github.com/jamsinclair/open-anki-jlpt-decks">https://github.com/jamsinclair/open-anki-jlpt-decks</a> for more information"""
 model = genanki.Model(
     2000494194,
     "Open Anki JLPT Vocab",
