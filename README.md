@@ -3,7 +3,7 @@
 
 Open source and updatable JLPT Anki Decks. You can help improve and maintain the notes contained for everyone!
 
-The notes are stored in csv files to allow easy editing and reviewing of changes. New updated decks will be generated from any changes.
+The notes are stored in csv files to allow easy editing and reviewing of changes. Newer decks will be generated from any changes.
 
 | Question Template | Answer Template |
 | :---: | :---: |
