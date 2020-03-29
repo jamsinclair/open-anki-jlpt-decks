@@ -1,6 +1,6 @@
 {
   "name": "open-anki-jlpt-decks",
-  "version": "0.1.4",
+  "version": "0.1.0",
   "description": "Open source and updatable JLPT Anki Decks",
   "main": "index.js",
   "repository": "git@github.com:jamsinclair/open-anki-jlpt-decks.git",
