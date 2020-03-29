@@ -13,6 +13,10 @@ The notes are stored in csv files to allow easy editing and reviewing of changes
 
 Todo: Upload to ankiweb and share. Can we automate this?
 
+## How to contribute to the project?
+
+Please see the [contributing document.](CONTRIBUTING.md)
+
 ## Acknowledgements
 Original deck data was taken from https://github.com/chyyran/jlpt-anki-decks,
 which were based on decks from tanos.co.uk
