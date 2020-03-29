@@ -23,7 +23,7 @@ deckInfos = [
     {"id": 1626470530, "name": "Open Anki JLPT N1 Deck", "csv": "src/n1.csv"},
 ]
 
-deckDescription = """Open source and updatable JLPT Anki Decks to help you learn Japanese.
+deckDescription = """Open source and updatable JLPT deck to help you learn Japanese.
 
                      Visit <a href="https://github.com/jamsinclair/open-anki-jlpt-decks">https://github.com/jamsinclair/open-anki-jlpt-decks</a> for more information"""
 model = genanki.Model(
