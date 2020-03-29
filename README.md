@@ -13,6 +13,14 @@ The notes are stored in csv files to allow easy editing and reviewing of changes
 
 Todo: Upload to ankiweb and share. Can we automate this?
 
+## Guiding Principles
+
+Use these principles to help guide changes to the project.
+
+1. Card [questions and answers are as atomic as possible](http://augmentingcognition.com/ltm.html). Expressing one idea.
+1. Card design is minimal and does not distract from the information
+1. Only content relevant for active recall is present on the card
+
 ## How to contribute to the project?
 
 Please see the [contributing document.](CONTRIBUTING.md)
