@@ -2,6 +2,7 @@
 import csv
 import genanki
 import os
+import sys
 
 
 def fileToStr(path):
@@ -14,7 +15,7 @@ qfmt = fileToStr("src/templates/question.html")
 afmt = fileToStr("src/templates/answer.html")
 css = fileToStr("src/templates/styles.css")
 
-decks = [
+deckInfos = [
     {"id": 1116267102, "name": "Open Anki JLPT N5 Deck", "csv": "src/n5.csv"},
     {"id": 2097673790, "name": "Open Anki JLPT N4 Deck", "csv": "src/n4.csv"},
     {"id": 1859281248, "name": "Open Anki JLPT N3 Deck", "csv": "src/n3.csv"},
@@ -48,15 +49,23 @@ def createDeckFromCsv(id, name, description, csvPath):
                 note = genanki.Note(model=model, fields=row[0:3], tags=row[3].split())
                 deck.add_note(note)
             lineCount += 1
-    genanki.Package(deck).write_to_file("decks/{}.apkg".format(toKebabCase(name)))
+    return genanki.Package(deck)
 
 
-def generateDecks():
+def generateDecks(tag=""):
     if not os.path.exists("decks"):
         os.makedirs("decks")
 
-    for deck in decks:
-        createDeckFromCsv(deck["id"], deck["name"], deckDescription, deck["csv"])
+    for deckInfo in deckInfos:
+        deck = createDeckFromCsv(
+            deckInfo["id"], deckInfo["name"], deckDescription, deckInfo["csv"]
+        )
+        fileName = toKebabCase(deckInfo["name"])
+        if tag:
+            fileName += "-" + tag
+        deck.write_to_file("decks/{}.apkg".format(fileName))
 
 
-generateDecks()
+if __name__ == "__main__":
+    tag = sys.argv[1] if len(sys.argv) > 1 else ""
+    generateDecks(tag)
