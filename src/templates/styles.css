@@ -17,7 +17,7 @@ body {
   text-align: center;
   color: #333333;
   background-color: white;
-  padding: 20px;
+  padding: 25px;
 }
 
 .divider {
@@ -26,6 +26,10 @@ body {
   border-bottom: 1px solid black;
 }
 
+.question {
+  font-size: 32px;
+}
+
 .expression {
-  font-size: 44px;
+  font-size: 40px;
 }
