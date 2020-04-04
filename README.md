@@ -7,7 +7,8 @@ The notes are stored in csv files to allow easy editing and reviewing of changes
 
 | Question Template | Answer Template |
 | :---: | :---: |
-| <img alt="Question Template" src="screenshots/question.png" width="320"> | <img alt="Answer Template" src="screenshots/answer.png" width="320"> |
+| <img alt="Question Template" src="screenshots/jp-question.png" width="320"> | <img alt="Answer Template" src="screenshots/jp-answer.png" width="320"> |
+| <img alt="Question Template" src="screenshots/en-question.png" width="320"> | <img alt="Answer Template" src="screenshots/en-answer.png" width="320"> |
 
 ## Installation (WIP)
 
