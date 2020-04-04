@@ -33,7 +33,7 @@ npm install
 
 ### Building
 
-To build Anki `apkg` files from the CSVs run the script `scripts/csv-to-anki.py`.
+To build Anki `apkg` files from the CSVs run the script `scripts/generate-decks.py`.
 
 To update screenshots of the templates run the command `npm run generate-screenshots`.
 
