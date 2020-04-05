@@ -14,7 +14,7 @@ The notes are stored in csv files to allow easy editing and reviewing of changes
 
 ### Ankiweb
 
-The shared decks can be found on [Ankiweb's shared decks.](https://ankiweb.net/shared/decks/)
+The shared decks can be found on [Ankiweb's shared decks.](https://ankiweb.net/shared/decks/Open%20Anki%20JLPT)
 
 Use the search term _"Open Anki JLPT"_ for best search result.
 
