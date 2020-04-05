@@ -11,8 +11,14 @@ def fileToStr(path):
     return data
 
 
-qfmt = fileToStr("src/templates/question.html")
-afmt = fileToStr("src/templates/answer.html")
+qfmt = {
+    "en": fileToStr("src/templates/en-question.html"),
+    "jp": fileToStr("src/templates/jp-question.html"),
+}
+afmt = {
+    "en": fileToStr("src/templates/en-answer.html"),
+    "jp": fileToStr("src/templates/jp-answer.html"),
+}
 css = fileToStr("src/templates/styles.css")
 
 deckInfos = [
@@ -30,7 +36,10 @@ model = genanki.Model(
     2000494194,
     "Open Anki JLPT Vocab",
     fields=[{"name": "expression"}, {"name": "reading"}, {"name": "meaning"}],
-    templates=[{"name": "JLPT Expressions", "qfmt": qfmt, "afmt": afmt},],
+    templates=[
+        {"name": "JLPT JP to EN", "qfmt": qfmt["jp"], "afmt": afmt["jp"]},
+        {"name": "JLPT EN to JP", "qfmt": qfmt["en"], "afmt": afmt["en"]},
+    ],
     css=css,
 )
 
