@@ -61,7 +61,7 @@ expression,reading,meaning,tags
 いつ,いつ,when,Genki Genki_Ln.3 JLPT JLPT_2 JLPT_5 JLPT_N5
 五日,いつか,five days; fifth day of the month,Genki Genki_Ln.13 JLPT JLPT_3 JLPT_5 JLPT_N5
 一緒,いっしょ,together,Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5
-五つ,(〜を) いつつ,five (~),Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
+五つ,いつつ,five things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
 いつも,いつも,"always, usually, every time, never (with neg. verb)",Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5
 犬,いぬ,dog,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
 今,いま,now,Genki Genki_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5
@@ -253,7 +253,7 @@ expression,reading,meaning,tags
 ここ,ここ,"here, this place",Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
 午後,ごご,"afternoon, P.M.",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
 九日,ここのか,nine days; ninth day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-九つ,(〜を) ここのつ,nine (~),Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
+九つ,ここのつ,nine things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
 午前,ごぜん,"morning, A.M.",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
 答える,こたえる,"to answer, to reply",JLPT JLPT_5 JLPT_N5
 こちら,こちら,this person (polite); this way (polite),Genki Genki_Ln.11 Genki_Ln.19 JLPT JLPT_5 JLPT_N5
@@ -485,7 +485,7 @@ expression,reading,meaning,tags
 夏,なつ,summer,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
 夏休み,なつやすみ,summer vacation,JLPT JLPT_5 JLPT_N5
 ～など,～など,et cetera,JLPT JLPT_3 JLPT_5 JLPT_N5
-七つ,(〜を) ななつ,seven (~),Genki Genki_Ln.9 JLPT JLPT_3 JLPT_5 JLPT_N5
+七つ,ななつ,seven things,Genki Genki_Ln.9 JLPT JLPT_3 JLPT_5 JLPT_N5
 何,なん; なに,what,Genki Genki_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5
 七日,なのか,seven days; seventh day (of the month),Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
 名前,なまえ,name,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
@@ -563,7 +563,7 @@ expression,reading,meaning,tags
 飛行機,ひこうき,airplane,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
 左,ひだり,left hand side,JLPT JLPT_5 JLPT_N5
 人,ひと,"man, person",Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-一つ,(〜を) ひとつ,one (~),Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
+一つ,ひとつ,one thing,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
 一月,ひとつき,one month,JLPT JLPT_5 JLPT_N5
 一人,ひとり,one person,Genki Genki_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5
 暇,ひま,"free time, leisure",JLPT JLPT_5 JLPT_N5
@@ -580,7 +580,7 @@ expression,reading,meaning,tags
 フォーク,フォーク,fork,JLPT JLPT_5 JLPT_N5
 吹く,ふく,"to blow (wind, etc.)",Genki Genki_Ln.22 JLPT JLPT_3 JLPT_5 JLPT_N5
 服,ふく,clothes,Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5
-二つ,(〜を) ふたつ,two (~),Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
+二つ,ふたつ,two things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
 豚肉,ぶたにく,pork,JLPT JLPT_5 JLPT_N5
 二人,ふたり,two people,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
 二日,ふつか,two days; second day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
@@ -641,7 +641,7 @@ expression,reading,meaning,tags
 見せる,みせる,"to show, to display",Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5
 道,みち,"road, street; way, directions",Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5
 三日,みっか,"three days, third day of the month",Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-三つ,(〜を) みっつ,(~) three,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
+三つ,みっつ,three things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
 緑,みどり,green,JLPT JLPT_5 JLPT_N5
 皆さん,みなさん,"all of you, everyone",Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
 南,みなみ,South,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
@@ -651,7 +651,7 @@ expression,reading,meaning,tags
 六日,むいか,six days; sixth day of month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
 向こう,むこう,"beyond, over there",JLPT JLPT_5 JLPT_N5
 難しい,むずかしい,difficult,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-六つ,(〜を) むっつ,six (~),Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
+六つ,むっつ,six things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
 村,むら,village,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
 目,め,eye(s),Genki Genki_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5
 メートル,メートル,meter,JLPT JLPT_5 JLPT_N5
@@ -671,7 +671,7 @@ expression,reading,meaning,tags
 安い,やすい,inexpensive; cheap (things),Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
 休み,やすみ,holiday; day off; absence,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
 休む,やすむ,"to rest, to have a break, to get time off",JLPT JLPT_5 JLPT_N5
-八つ,(〜を) やっつ,eight (~),Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
+八つ,やっつ,eight things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
 山,やま,mountain,Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5
 やる,やる,"to do; to give (to pets, parents, siblings, etc.)",Genki Genki_Ln.21 JLPT JLPT_4 JLPT_5 JLPT_N5
 夕方,ゆうがた,"late afternoon (typically just before dinner time), evening",Genki Genki_Ln.18 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
@@ -686,7 +686,7 @@ expression,reading,meaning,tags
 よく,よく,"frequently, often (much); well, skillfully",Genki Genki_Ln.14 Genki_Ln.3 JLPT JLPT_5 JLPT_N5
 横,よこ,beside; side; width,Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5
 四日,よっか,four days; fourth day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-四つ,(〜を) よっつ,four (~),Genki Genki_Ln.9 JLPT JLPT_2 JLPT_5 JLPT_N5
+四つ,よっつ,four things,Genki Genki_Ln.9 JLPT JLPT_2 JLPT_5 JLPT_N5
 呼ぶ,よぶ,to call (one's name); to invite,Genki Genki_Ln.19 JLPT JLPT_3 JLPT_5 JLPT_N5
 読む,よむ,to read,JLPT JLPT_5 JLPT_N5
 夜,よる,"evening, night",Genki Genki_Ln.6 JLPT JLPT_3 JLPT_5 JLPT_N5
