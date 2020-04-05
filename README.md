@@ -1,7 +1,12 @@
 # open-anki-jlpt-decks
 [![Build Status](https://www.travis-ci.com/jamsinclair/open-anki-jlpt-decks.svg?token=yUwj6sQDufx9XzvuNEjP&branch=master)](https://www.travis-ci.com/jamsinclair/open-anki-jlpt-decks)
 
-Open source and updatable JLPT Anki Decks. You can help improve and maintain the notes contained for everyone!
+Open source and updatable JLPT vocabulary Anki decks from N1 to N5.
+
+This project solves many problems with existing anki decks that grow stale. This deck gives **you** the **power** to help everyone.
+- Notice a mistake? Easy you can fix it 💪
+- Missing relevant JLPT vocab? Send us a reputable source and let's add it 🤓
+- Ideas for improving the design and look of cards? Help us design it 👩‍🎨
 
 The notes are stored in csv files to allow easy editing and reviewing of changes. Newer decks will be generated from any changes.
 
