@@ -1,14 +1,23 @@
 # open-anki-jlpt-decks
 [![Build Status](https://www.travis-ci.org/jamsinclair/open-anki-jlpt-decks.svg?branch=master)](https://www.travis-ci.org/jamsinclair/open-anki-jlpt-decks)
 
-Open source and updatable JLPT vocabulary Anki decks from N1 to N5.
+> Open source and updatable JLPT vocabulary Anki decks.
 
-This project solves many problems with existing anki decks that grow stale. This deck gives **you** the **power** to help everyone.
+This project contains the notes for vocabulary used in JLPT (Japanese-Language Proficiency Test) tests from N1 to N5. Flashcard decks, for the spaced repetition software [Anki](https://apps.ankiweb.net/), are generated from the notes.
+
+The notes are stored in csv files to allow easy editing and reviewing of changes. Newer decks will be generated from any changes.
+
+You can see the notes for each test level:
+- [**N1 Vocabulary List**](src/n1.csv)
+- [**N2 Vocabulary List**](src/n2.csv)
+- [**N3 Vocabulary List**](src/n3.csv)
+- [**N4 Vocabulary List**](src/n4.csv)
+- [**N5 Vocabulary List**](src/n5.csv)
+
+This project aims to solve many problems with existing anki decks that grow stale. This project gives **you** the **power** to help everyone.
 - Notice a mistake? Easy you can fix it 💪
 - Missing relevant JLPT vocab? Send us a reputable source and let's add it 🤓
 - Ideas for improving the design and look of cards? Help us design it 👩‍🎨
-
-The notes are stored in csv files to allow easy editing and reviewing of changes. Newer decks will be generated from any changes.
 
 | Question Template | Answer Template |
 | :---: | :---: |
