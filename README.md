@@ -10,9 +10,20 @@ The notes are stored in csv files to allow easy editing and reviewing of changes
 | <img alt="Question Template" src="screenshots/jp-question.png" width="320"> | <img alt="Answer Template" src="screenshots/jp-answer.png" width="320"> |
 | <img alt="Question Template" src="screenshots/en-question.png" width="320"> | <img alt="Answer Template" src="screenshots/en-answer.png" width="320"> |
 
-## Installation (WIP)
+## Installation
 
-Todo: Upload to ankiweb and share. Can we automate this?
+### Ankiweb
+
+The shared decks can be found on [Ankiweb's shared decks.](https://ankiweb.net/shared/decks/)
+
+Use the search term _"Open Anki JLPT"_ for best search result.
+
+The downloaded file can then be imported into your Anki app of choice (Anki Desktop, Ankidroid etc.).
+
+### Manual download
+
+The `apkg` files can be downloaded directly from the [latest release page](https://github.com/jamsinclair/open-anki-jlpt-decks/releases/latest) and imported into your Anki app of choice.
+
 
 ## Guiding Principles
 
