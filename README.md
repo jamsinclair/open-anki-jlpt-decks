@@ -1,5 +1,5 @@
 # open-anki-jlpt-decks
-[![Build Status](https://www.travis-ci.com/jamsinclair/open-anki-jlpt-decks.svg?token=yUwj6sQDufx9XzvuNEjP&branch=master)](https://www.travis-ci.com/jamsinclair/open-anki-jlpt-decks)
+[![Build Status](https://www.travis-ci.org/jamsinclair/open-anki-jlpt-decks.svg?branch=master)](https://www.travis-ci.org/jamsinclair/open-anki-jlpt-decks)
 
 Open source and updatable JLPT vocabulary Anki decks from N1 to N5.
 
