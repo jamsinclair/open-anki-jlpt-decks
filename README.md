@@ -1,5 +1,5 @@
 # open-anki-jlpt-decks
-[![Build Status](https://www.travis-ci.org/jamsinclair/open-anki-jlpt-decks.svg?branch=master)](https://www.travis-ci.org/jamsinclair/open-anki-jlpt-decks)
+[![CI workflow](https://github.com/jamsinclair/open-anki-jlpt-decks/actions/workflows/ci.yml/badge.svg)](https://github.com/jamsinclair/open-anki-jlpt-decks/actions/workflows/ci.yml)
 
 > Open source and updatable JLPT vocabulary Anki decks.
 
