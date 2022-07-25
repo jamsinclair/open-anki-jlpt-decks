@@ -12,8 +12,8 @@
     "lint": "prettier-standard  **/*.js --lint"
   },
   "devDependencies": {
-    "express": "^4.17.1",
-    "prettier-standard": "^16.2.1",
-    "puppeteer": "^2.1.1"
+    "express": "^4.18.1",
+    "prettier-standard": "^16.4.1",
+    "puppeteer": "^15.5.0"
   }
 }
