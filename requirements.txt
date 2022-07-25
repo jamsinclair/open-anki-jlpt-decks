@@ -1,2 +1,2 @@
-black==19.10b0
+black==22.6.0
 genanki==0.8.0
