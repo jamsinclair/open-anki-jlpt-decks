@@ -19,6 +19,8 @@ This project aims to solve many problems with existing anki decks that grow stal
 - Missing relevant JLPT vocab? Send us a reputable source and let's add it 🤓
 - Ideas for improving the design and look of cards? Help us design it 👩‍🎨
 
+For any improvements or suggestions please [create an issue](https://github.com/jamsinclair/open-anki-jlpt-decks/issues/new/choose).
+
 | Question Template | Answer Template |
 | :---: | :---: |
 | <img alt="Question Template" src="screenshots/jp-question.png" width="320"> | <img alt="Answer Template" src="screenshots/jp-answer.png" width="320"> |
@@ -49,7 +51,9 @@ Use these principles to help guide changes to the project.
 
 ## How to contribute to the project?
 
-Please see the [contributing document.](CONTRIBUTING.md)
+Feel free to [create an issue](https://github.com/jamsinclair/open-anki-jlpt-decks/issues/new/choose) to let us know of any mistakes, improvements or other suggestions.
+
+For those who feel comfortable changing CSV files or any code see the [contributing document.](CONTRIBUTING.md) for more information.
 
 ## Acknowledgements
 Original deck data was taken from https://github.com/chyyran/jlpt-anki-decks,
