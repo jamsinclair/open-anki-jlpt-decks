@@ -1,303 +1,283 @@
 expression,reading,meaning,tags,guid
-就任,しゅうにん,"inauguration, assumption of office",JLPT JLPT_2,HtcOE.Q|y4
-周辺,しゅうへん,"circumference, peripheral",JLPT JLPT_2,hN?qSe;l/I
-重役,じゅうやく,"director, high executive",JLPT JLPT_2,nHZ3{$.oV6
-終了,しゅうりょう,"end, close, termination",JLPT_1 JLPT JLPT_2,bv?qBa-JLm
-重量,じゅうりょう,heavyweight,JLPT JLPT_2,L@e.0E4LTG
-重力,じゅうりょく,gravity,JLPT JLPT_2,p;B+5;@b>T
-熟語,じゅくご,"idiom, kanji compound",JLPT JLPT_2,JfoRe)yOPp
-祝日,しゅくじつ,national holiday,JLPT JLPT_2,k6tGq~h4+p
-縮小,しゅくしょう,"reduction, curtailment",JLPT JLPT_2,A;W|R`P$FY
-受験,じゅけん,taking an examination,JLPT JLPT_2,h]:z)|nWsb
-主語,しゅご,(gram) subject,JLPT JLPT_2,E2f>S=Qsi$
-主人,しゅじん,(one's own) husband,JLPT JLPT_2 Intermediate_Japanese_Ln.9 Intermediate_Japanese,y0Vh0}pH&D
-出勤,しゅっきん,"going to work, at work",JLPT JLPT_2,j_B5AK}^J!
-述語,じゅつご,predicate,JLPT JLPT_2,"rBV;MM,_Ui"
-出張,しゅっちょう,"official tour, business trip",JLPT Intermediate_Japanese Genki_Ln.19 JLPT_2 Intermediate_Japanese_Ln.10 Genki,QbLl4<fBGE
-寿命,じゅみょう,life span,JLPT JLPT_2,ip@RR(6Q)w
-主役,しゅやく,leading part,JLPT JLPT_2,AAvA2F|qmF
-受話器,じゅわき,(telephone) receiver,JLPT JLPT_2,jRLR$b=wEf
-循環,じゅんかん,"circulation, rotation, cycle",JLPT JLPT_2,z/Jjqic)yW
-巡査,じゅんさ,policeman,JLPT JLPT_2,mWfGm:/O]=
-順々,じゅんじゅん,"in order, in turn",JLPT JLPT_2,lO7^4=~T>J
-順序,じゅんじょ,"order, sequence, procedure",JLPT JLPT_2,q=^2QGGaA
-純情,じゅんじょう,pure heart,JLPT JLPT_2,C6E@oxfT>)
-純粋,じゅんすい,"pure, genuine, unmixed",JLPT JLPT_2,x2gLnGo0Hy
-初～,しょ～,first ~,JLPT JLPT_2,Ni+{r7rs24
-諸～,しょ～,various ~,JLPT JLPT_2,Q5kl8(<^]h
+〜 (まる) ごと,〜 (まる) ごと,"whole ~, all of ~",JLPT JLPT_2,Ja%uZn!l8Y
+(かさを～) さす,(かさを～) さす,to open; hold (an umbrella),JLPT JLPT_2 MediaMissing,g~n;/-.8!D
+〜(日本) 式,～(にほん) しき,"custom,",JLPT JLPT_2 MediaMissing,no!e4=rwH(
+～位,～い,~th place,JLPT JLPT_2,G*#PQ&xZe;
+～いち (にほんいち),～いち (にほんいち),No. 1 ~ (in),JLPT JLPT_2,GmGAkPKtVr
+～園,～えん,~ garden (especially man made),JLPT JLPT_2,z)[Ulzmb?X
+～おしまい (おわり),～おしまい (おわり),end up ~,JLPT JLPT_2,B07i&;klYX
+～日,～か,counter for days,JLPT JLPT_2,rDuT4FxT)r
+～下,～か,under ~,JLPT JLPT_2,fbg-jA#f{K
+～化,～か,action of making something,JLPT JLPT_2,jA{o6okAW~
+～科,～か,"family, group, course",JLPT JLPT_2,G*u5fLwYB~
+～歌,～か,song of ~,JLPT JLPT_2,b!q>|EX?]V
+～画,～が,"picture, painting",JLPT_1 JLPT JLPT_2,A:x.SahEv8
+～外,～がい,out of ~,JLPT JLPT_2,v.D6N)Jn-M
+～難い,～がたい,hard (difficult) to do ~,JLPT_1 JLPT JLPT_2,q5_^x`K^C~
+～がち,～がち,tend to do ~,JLPT JLPT_2,"HC!2|,O=Uv"
+～刊,～かん,"~ issued (magazine, newspaper)",JLPT JLPT_2,J]XIoil*2L
+～間,～かん,"between, during",JLPT JLPT_2,Qm1qWlocEP
+～巻,～かん,volume,JLPT JLPT_2,K19uzsMb_o
+～館,～かん,"~ hall, ~ building",JLPT JLPT_2,c3uPE$j0G@
+～感,～かん,"feeling, sense, impression",JLPT JLPT_2,gv?{M:3Nl+
+～期,～き,"~age, ~period",JLPT JLPT_2,kCfW%K6Q|D
+～器,～き,"device, equipment",JLPT JLPT_2,u+~Y!_LNSC
+～機,～き,machine,JLPT JLPT_2,k3|o@N56?1
+～気味,～ぎみ,slightly ~,JLPT JLPT_2,H[Vo.[BxaR
+～教,～きょう,religion,JLPT JLPT_2,"vbb{{,/z36"
+～行,～ぎょう,"line, row",JLPT JLPT_2,E5TA@2@XRb
+～業,～ぎょう,type of business,JLPT JLPT_2,r#B%nh/j8;
+～きる,～きる,"nevertheless, to carry through",JLPT JLPT_2,lY)YcCGPox
+～切れ,～きれ,out of ~,JLPT JLPT_2,BI!R8>v)8r
+～口,～くち,"~ opening; ~ entrance, ~ exit",JLPT JLPT_2,pT(<V!lc5R
+～家,～け,"~'s family, the house of ~",JLPT JLPT_2,OVLMa7l[Gn
+～形,～けい,shape of ~,JLPT JLPT_2,M3p*&+Wj>%
+～系,～けい,"~ system, ~ lineage, ~ group",JLPT_1 JLPT JLPT_2,AgNe/GkjZM
+～圏,～けん,"bloc, sphere, area",JLPT_1 JLPT JLPT_2,Ddk.oC`&.J
+～校,～こう,counter for school,JLPT JLPT_2,m]41H0.3l-
+～港,～こう,~ port,JLPT JLPT_2,vQbZYeISYX
+～号,～ごう,counter for magazine; the name of ship,JLPT JLPT_2,qiAK;eRQt!
+～国,～こく,nation of ~,JLPT JLPT_2,m~(IN:3:#0
+～毎,～ごと,"every ~, each ~",JLPT JLPT_2,Bs7#M8Tn1H
+～山,～さん,the name of mountain,JLPT JLPT_2,vw^f*9f$12
+～産,～さん,made in ~,JLPT JLPT_2,tJtC7!P@]H
+～史,～し,history of ~,JLPT JLPT_2,y`(f6xau3#
+～紙,～し,"newspaper, type of paper",JLPT JLPT_2,y0d}(mMiCt
+～寺,～じ,the name of temple,JLPT JLPT_2,Nj@/ru^JH5
+～時間目,～じかんめ,"~th hour, ~th period",JLPT JLPT_2,LonTM0:Ie8
+～室,～しつ,counter for room,JLPT JLPT_2,eycwn`U+hZ
+～日,～じつ,day,JLPT JLPT_2,jkFuTgpXi`
+～車,～しゃ,~ car,JLPT JLPT_2,h)<Q^X85ag
+～者,～しゃ,person,JLPT JLPT_2,MTv(a]7l!6
+～社,～しゃ,counter for company,JLPT JLPT_2,sQmjhXA-Mr
+～手,～しゅ,"~ player, person who does ~",JLPT JLPT_2,IkixzX56yl
+～酒,～しゅ,kind of alcohol,JLPT JLPT_2,k?BC&(RjAH
+～集,～しゅう,collection of ~,JLPT JLPT_2,LdT;R@utl1
 ～所,～しょ,place,JLPT JLPT_2,qVV9fum9%7
 ～所,～じょ,place,JLPT JLPT_2,cE:Y(}3[Wc
-女～,じょ～,things done by women,JLPT JLPT_2,LhI(13lT>E
 ～女,～じょ,count for sisters,JLPT JLPT_2,D4j(w~c1gi
-省～,しょう～,economizing ~,JLPT JLPT_2,im>V5<%2Jx
 ～省,～しょう,kind of ministry,JLPT JLPT_2,v9~DY$oS}A
 ～商,～しょう,"merchant, business",JLPT JLPT_2,DK0!oyaXJR
 ～勝,～しょう,count for victory,JLPT JLPT_2,E_qw?Tzvk_
 ～条,～じょう,counter for article,JLPT_1 JLPT JLPT_2,q^S9+[e=*b
 ～場,～じょう,"kind of field, ground",JLPT JLPT_2,eh5O)[W8C@
 ～畳,～じょう,"count for tatami, mat",JLPT JLPT_2,gXTr~P6_;?
-消化,しょうか,digestion,JLPT JLPT_2,C#pz<pJ<eo
-小学生,しょうがくせい,elementary school pupil,JLPT JLPT_2,GKx{~(QY^<
-しょうがない,しょうがない,It is not worth ~,JLPT JLPT_2,H;w)!q6QIW
-将棋,しょうぎ,Japanese chess,JLPT JLPT_2,o>-[BTOgMu
-蒸気,じょうき,"steam, vapor",JLPT JLPT_2,yr+:#u3w]#
-定規,じょうぎ,(measuring) ruler,JLPT JLPT_2,y8|>I<):Fb
-上級,じょうきゅう,"advanced level, high grade, senior",JLPT JLPT_2,E]<)eitS5v
-商業,しょうぎょう,"commerce, trade, business",JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese,tBxA`{EGUT
-消極的,しょうきょくてき,passive,JLPT JLPT_2,D7|$-Q)w)~
-賞金,しょうきん,"prize, monetary award",JLPT JLPT_2,h7834at`:k
-上下,じょうげ,"high and low, up and down",JLPT JLPT_2,o_^4=W.VM#
-障子,しょうじ,paper sliding door,JLPT JLPT_2,M[TE$UVbid
-商社,しょうしゃ,trading company,JLPT JLPT_2,J/lSCUTs~[
-乗車,じょうしゃ,"taking a train, entraining",JLPT JLPT_2,Nw+J{<dSau
-上旬,じょうじゅん,first 10 days of month,JLPT JLPT_2,h))LgN=I.e
-生ずる,しょうずる,"to cause, to arise, to be generated",JLPT JLPT_2,"vg9e=r3Tl,"
-小数,しょうすう,"fraction (part of), decimal",JLPT JLPT_2,z:q}dc<I:s
-商店,しょうてん,"shop, business firm",JLPT JLPT_2,glT|Kxp]>$
-焦点,しょうてん,"focus, point",JLPT JLPT_2,wHjNiqCz}x
-消毒,しょうどく,disinfection,JLPT JLPT_2,xo2iz}Ug@`
-勝敗,しょうはい,"victory or defeat, issue (of battle)",JLPT JLPT_2,BU<_6fBUh}
-蒸発,じょうはつ,evaporation; unexplained disappearance,JLPT JLPT_2,lr6Aj]|}(-
-上品,じょうひん,"refined, elegant, well-mannered",JLPT JLPT_2,M|bWva`I=w
-勝負,しょうぶ,"victory or defeat, game",JLPT JLPT_2,gj|IO4h=q;
-小便,しょうべん,"(col) urine, piss",JLPT JLPT_2,"bK|,0ua1Dl"
-消防署,しょうぼうしょ,fire station,JLPT JLPT_2,FRL.hg2R`~
-正味,しょうみ,net (weight),JLPT JLPT_2,E)H$Zvk^B:
-正面,しょうめん,front,JLPT JLPT_2,gfh>dfSUZU
-消耗,しょうもう,"exhaustion, consumption",JLPT JLPT_2,k}G5Ve])50
-初級,しょきゅう,elementary level,JLPT JLPT_2,s5Nz5KFo?B
-助教授,じょきょうじゅ,assistant professor,JLPT JLPT_2,C@A-m!z]Kq
 ～色,～しょく,kind of color,JLPT JLPT_2,w$+z1REIYB
-食塩,しょくえん,table salt,JLPT JLPT_2,Hp0g>KLWj/
-職人,しょくにん,"artisan, craftsman",JLPT JLPT_2,"tJH,8Q27Qt"
-職場,しょくば,workplace,JLPT JLPT_2,P&{;#KVmG&
-初旬,しょじゅん,first 10 days of the month,JLPT JLPT_2,jZertmVDFe
-書籍,しょせき,"book, publication",JLPT JLPT_2,Bf)uYlO=AT
-食器,しょっき,tableware,JLPT JLPT_2,iPV[H=Yj`[
-ショップ,ショップ,a shop,JLPT JLPT_2,A=dH=_y-%Q
-書店,しょてん,bookshop,JLPT JLPT_2,s4qIEN6Bk}
-書道,しょどう,calligraphy,JLPT JLPT_2,f:%5][vkAc
-初歩,しょほ,"elements, rudiments",JLPT JLPT_2,wZ7G?ntb5}
-白髪,しらが,"white or grey hair, trendy hair bleaching",JLPT JLPT_2,uxCiljm@9n
-シリーズ,シリーズ,series,JLPT JLPT_2,DA5W7`%j#(
-私立,しりつ,private (establishment),JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese,brR|}=<!Bd
-資料,しりょう,"materials, data",JLPT JLPT_2,C&tPzTV2wQ
-汁,しる,"juice, soup",JLPT JLPT_2,y647aHlaUn
-素人,しろうと,"layman, amateur, novice",JLPT JLPT_2 Intermediate_Japanese_Ln.12 Intermediate_Japanese,dWPWBG[+:j
-しわ (かおの～),しわ (かおの～),"wrinkles, creases",JLPT JLPT_2,Jk5.8cDx8n
-芯,しん,"core, heart, wick",JLPT JLPT_2,B=cR}zPm:}
-新幹線,しんかんせん,"Shinkansen, ""Bullet Train""",JLPT Intermediate_Japanese JLPT_2 Genki_Ln.9 Intermediate_Japanese_Ln.10 Genki,pM-.4/Ue$w
-真空,しんくう,vacuum,JLPT JLPT_2,tIYBRvP|M5
-人事,じんじ,"human resources, personnel management",JLPT JLPT_2,J+x/%Fy483
-信ずる,しんずる,to believe,JLPT JLPT_2,BQ&<yiF@u2
-心身,しんしん,mind and body,JLPT JLPT_2,H#/ONp0lez
-申請,しんせい,"application, request, petition",JLPT JLPT_2,M*(J<<s/@8
-人造,じんぞう,"man-made, synthetic, artificial",JLPT JLPT_2,v2{nYsGU&z
-寝台,しんだい,bed,JLPT JLPT_2,qO9j3@Hghp
-診断,しんだん,diagnosis,JLPT JLPT_2,g+wZt;=B>k
-侵入,しんにゅう,"invasion, raid, trespass",JLPT JLPT_2,H1b.p!HN7#
-人文科学,じんぶんかがく,"social sciences, humanities",JLPT JLPT_2,g+ud_9CPby
-人命,じんめい,(human) life,JLPT JLPT_2,Q6U(4ZXO=G
-深夜,しんや,late at night,JLPT JLPT_2,"u,9r~:<(rE"
-森林,しんりん,"forest, woods",JLPT JLPT_2,BVfTI:K.BL
-親類,しんるい,relative(s) (same as 親戚 (しんせき)),JLPT Intermediate_Japanese JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese_Ln.9,lfd[d~BlbI
-針路,しんろ,"course, direction",JLPT JLPT_2,xt6+*3Xb17
-神話,しんわ,"myth, legend",JLPT JLPT_2,gbqw2%E-oa
-水産,すいさん,"marine products, fisheries",JLPT JLPT_2,c#54iPiGrb
-炊事,すいじ,cooking,JLPT JLPT_2,"xKch,yK?.P"
-水蒸気,すいじょうき,"water vapor, steam",JLPT JLPT_2,k8jAO*|}~5
-水素,すいそ,hydrogen,JLPT JLPT_2,i73L7}gO>6
-垂直,すいちょく,"vertical, perpendicular",JLPT JLPT_2,G8}j61|h6T
-推定,すいてい,"presumption, assumption, estimation",JLPT JLPT_2,jp6vOFS{a6
-水滴,すいてき,drop of water,JLPT JLPT_2,y}Hrc9&%7j
-水筒,すいとう,"canteen, flask, water bottle",JLPT JLPT_2,mJ90J(~1k%
-随筆,ずいひつ,"essays, miscellaneous writings",JLPT JLPT_2,h4p6ekF;42
-水分,すいぶん,moisture,JLPT JLPT_2,qq@<XjC)__
-水平,すいへい,"level, horizontal",JLPT JLPT_2,Kn`n)IG{Ta
-水平線,すいへいせん,horizon,JLPT JLPT_2,Ej.liCGYdk
-水面,すいめん,water's surface,JLPT JLPT_2,iZ{|=]VK5.
-図々しい,ずうずうしい,"impudent, shameless",JLPT JLPT_2,"w{41{qX1P,"
-ずうっと,ずうっと,"all the time, all the way",JLPT JLPT_2,xL3QlTnk>6
-末っ子,すえっこ,youngest child,JLPT JLPT_2,q2H?txJ(gz
-スカーフ,スカーフ,scarf,JLPT JLPT_2,QEu2m9Dj{V
-図鑑,ずかん,picture book,JLPT JLPT_2,"i,){||O+QG"
-隙,すき,"unguarded moment, chance",JLPT JLPT_2,FIQY`SsGB6
-杉,すぎ,Japanese cedar,JLPT JLPT_2,j[):R@cYZf
-好き嫌い,すききらい,"likes and dislikes, taste",JLPT JLPT_2,E7nO8cj@J.
-好き好き,すきずき,matter of taste,JLPT JLPT_2,LjV{PzjM5W
-透き通る,すきとおる,to be(come) transparent,JLPT JLPT_2,mdCfr_&Mjk
-隙間,すきま,"crack, gap, opening",JLPT JLPT_2,"hLO,M-m.c?"
 ～過ぎる,～すぎる,too much ~,JLPT JLPT_2,"P,ja3J!YLK"
-スクール,スクール,school,JLPT JLPT_2,cGFe.>Ak]k
-図形,ずけい,figure,JLPT JLPT_2,q~#`u[+ICl
-鈴,すず,bell,JLPT JLPT_2,sPf>sM2#u
-涼む,すずむ,"to cool oneself, to cool off",JLPT JLPT_2,z:IPAXSnoW
-スタート,スタート,start,JLPT JLPT_2,lWJWm$Sh_7
-スチュワーデス,スチュワーデス,stewardess,JLPT JLPT_2,z4fbmz3-}|
-すっきり,すっきり,"shapely, clear, neat",JLPT JLPT_2,u=7m1&|4_G
-ステージ,ステージ,stage; performance,JLPT JLPT_2,dC1~iTR.Y
-ストッキング,ストッキング,stockings,JLPT JLPT_2,B5:XuLvrca
-ストップ,ストップ,stop,JLPT JLPT_2,nVeh3~p35:
-素直,すなお,"obedient, meek, docile",JLPT JLPT_2,t*v$gPIE?7
-頭脳,ずのう,"head, brains, intellect",JLPT JLPT_2,u_@7V}[&9>
-スピーカー,スピーカー,speaker,JLPT JLPT_2,ts:JB-[YU5
-図表,ずひょう,"chart, diagram, graph",JLPT JLPT_2,i|<`t3f+@>
-スマート,スマート,"smart, stylish, slim",JLPT JLPT_2,"L^]Yw(t($,"
-住まい,すまい,"dwelling, house",JLPT JLPT_2,D9Irez.shi
-すまない,すまない,sorry (phrase),JLPT JLPT_2,jcLXE?s?-j
 ～済,～ずみ,finished,JLPT JLPT_2,ncGw.Yh;>r
-相撲,すもう,sumo wrestling,JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese,td=~dzQi/B
-スライド,スライド,slide,JLPT JLPT_2,Cslvy][TeB
-ずらす,ずらす,"to put off, to delay",JLPT JLPT_2,gJl7<m:4pb
-ずらり,ずらり,"in a line, in a row",JLPT JLPT_2,AgA!P|w]$E
-スリッパ,スリッパ,slippers,JLPT JLPT_2,JKtWp2C{b`
-狡い,ずるい,"sly, cunning",JLPT JLPT_2,Sm-F;a3H
-寸法,すんぽう,"measurement, size, dimension",JLPT JLPT_2,A^SC?nUAcd
-税関,ぜいかん,customs,JLPT JLPT_2,Hdo?H|g?N-
-製作,せいさく,"manufacture, production",JLPT JLPT_2,"Hd33,!(oye"
-制作,せいさく,"work (e.g., film, book)",JLPT JLPT_2,pSg&--.6FI
-清書,せいしょ,clean copy,JLPT JLPT_2,GSG&]QQ!7S
-青少年,せいしょうねん,"youth, young person",JLPT JLPT_2,oKbcQZhJf7
-整数,せいすう,integer,JLPT JLPT_2,BFz!&|OKKj
-清掃,せいそう,cleaning,JLPT JLPT_2,eetChqGb=_
-生存,せいぞん,"existence, being, survival",JLPT JLPT_2,tV]CHeber1
-政党,せいとう,(member of) political party,JLPT JLPT_2,P>9hhdscC!
-性能,せいのう,"ability, capability",JLPT JLPT_2,zR:(P@rWk;
-整備,せいび,"maintenance, overhaul",JLPT JLPT_2,dN1Ziz6*}J
-成分,せいぶん,"ingredient, component, composition",JLPT JLPT_2,w)S(-qI7pB
-性別,せいべつ,"sex, gender",JLPT JLPT_2,gR@>7DZ?XN
-正方形,せいほうけい,square,JLPT JLPT_2,y)<J<%Cv$W
-正門,せいもん,"main gate, main entrance",JLPT JLPT_2,u>U|#l*q{k
-成立,せいりつ,"formation, establishment, completion",JLPT JLPT_2,z!=6/+)ChY
-西暦,せいれき,"Christian Era, after (Christ’s) death (A.D.)",JLPT JLPT_2,x`#%RAey^1
-背負う,せおう,to be burdened with; to carry on (one's) back or shoulder(s),Intermediate_Japanese_Ln.14 JLPT_2 JLPT Intermediate_Japanese,o17[rZC/J[
 ～席,～せき,counter for seats,JLPT JLPT_2,sr9PdG~4;[
-赤道,せきどう,equator,JLPT JLPT_2,r2/#Bsz}<
-折角,せっかく,"with trouble, at great pains, long-awaited",JLPT JLPT_2,"dK?:fG/l-,"
-接近,せっきん,"getting closer, drawing nearer, approaching",JLPT JLPT_2,K^7JJPIGCs
-接する,せっする,to attend to (someone); to associate with,JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,P=&0U%h+V.
-せっせと,せっせと,"busily, away",JLPT JLPT_2,r%5r#-`-m]
-接続,せつぞく,"connection, union, join, link; changing trains",JLPT JLPT_2,z>djSMK(A7
-瀬戸物,せともの,"earthenware, crockery, china",JLPT JLPT_2,PMP|wB-k4/
-ぜひとも,ぜひとも,by all means (with sense of not taking 'no' for an answer),JLPT JLPT_2,A3Jbimizm0
-迫る,せまる,"to draw near, to press",JLPT JLPT_2,dn?%4*`.$=
-ゼミ,ゼミ,seminar,Intermediate_Japanese_Ln.5 JLPT JLPT_2 Intermediate_Japanese,lX$<5j-;VY
-せめて,せめて,at least,JLPT JLPT_2,"qY`,)^Uzza"
-セメント,セメント,cement,JLPT JLPT_2,gZo}Y#TRA.
-台詞,せりふ,"speech, words, one's lines, remarks",JLPT JLPT_2,p!R4:?$J5a
-栓,せん,"stopper, cork, stopcock",JLPT JLPT_2,GIQJL!C!u[
 ～船,～せん,counter for ships,JLPT JLPT_2,JSy<S}QGsV
 ～戦,～せん,"counter for games, matches",JLPT JLPT_2,M$gHOq[jYN
-前～,ぜん～,"former, late ~, past ~",JLPT JLPT_2,uziw.|&}u]
 ～前,～ぜん,before ~,JLPT JLPT_2,DTK5j`gi24
-前後,ぜんご,"front and back, before and after",JLPT JLPT_2,P60vZ%@rQX
-全集,ぜんしゅう,complete works,JLPT JLPT_2,B?uUGxee6}
-扇子,せんす,folding fan,JLPT JLPT_2 Genki_Ln.20 Genki,EF=fq2c-JO
-専制,せんせい,"despotism, autocracy",JLPT JLPT_2,OL%g_RLZ1k
-先々月,せんせんげつ,month before last,JLPT JLPT_2,"zJ$.J8%d%,"
-先々週,せんせんしゅう,2 weeks before,JLPT JLPT_2,mB4QnlMrv3
-先祖,せんぞ,ancestor,JLPT JLPT_2,F0U>k-OIq$
-先端,せんたん,"pointed end, tip",JLPT JLPT_2,Q`_+]v?+=0
-センチ,センチ,centimeter,JLPT JLPT_2,inl%VC*Led
-先頭,せんとう,"head, lead, vanguard",JLPT JLPT_2,h9$H7YGNw$
-全般,ぜんぱん,"(the) whole, general",JLPT JLPT_2,KNd2446a(;
-扇風機,せんぷうき,electric fan,JLPT JLPT_2,bRk!KDE*$7
-洗面,せんめん,"wash up (one's face), have a wash",JLPT JLPT_2,C?dX|!4c7/
-全力,ぜんりょく,"all one's power, whole energy",JLPT JLPT_2,j*AhcD}311
-線路,せんろ,"line, track, roadbed",JLPT JLPT_2,mq#-qSUuS*
 ～沿い,～そい,along,JLPT JLPT_2,"sbv*I,a%(h"
-総～,そう～,"gross, general, entire",JLPT JLPT_2,cSEd3l5jK<
 ～艘,～そう,counter for ships,JLPT JLPT_2,AT^w8|Z/Tg
-相違,そうい,"difference, discrepancy, variation",JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11,zqQS?TR@WS
-そういえば,そういえば,which reminds me ..,JLPT JLPT_2,eo>F02B%a]
-雑巾,ぞうきん,"house-cloth, dust cloth",JLPT JLPT_2,r*{8DR<J4`
-増減,ぞうげん,"increase and decrease, fluctuation",JLPT JLPT_2,l(r&I9gZ<B
-倉庫,そうこ,"storehouse, warehouse",JLPT JLPT_2,w}}hNBPyr)
-相互,そうご,"mutual, reciprocal",JLPT JLPT_2,nR3lCT=~I%
-創作,そうさく,"production, creation, work",JLPT JLPT_2,PNw/q-z>l3
-葬式,そうしき,funeral,JLPT JLPT_2,Gbn]K/&TX&
-造船,ぞうせん,shipbuilding,JLPT JLPT_2,LyK0zsx!O1
-騒々しい,そうぞうしい,"noisy, boisterous",JLPT JLPT_2,cTG!~COW$P
-増大,ぞうだい,"increase, growth",JLPT JLPT_2,K:CEKV:9VX
-そうっと,そうっと,"softly, cautiously, gently",JLPT JLPT_2,vd>M3|]yht
-送別,そうべつ,"farewell, send-off",JLPT JLPT_2,"y,Tk;$&@x}"
-草履,ぞうり,Japanese sandals (footwear),JLPT JLPT_2,xD#*1}`sY?
-総理大臣,そうりだいじん,Prime Minister,JLPT JLPT_2,wr`qCug{r4
-送料,そうりょう,"postage, carriage",JLPT JLPT_2,D?;^6Pv:]&
 ～足,～そく,counter for shoes,JLPT JLPT_2,q&YH/C!y&b
-属する,ぞくする,"to belong to, to come under",JLPT JLPT_2,i1]:]E>_bU
-続々,ぞくぞく,"successively, one after another",JLPT JLPT_2,hivME8/#WP
-速達,そくたつ,"express, special delivery",JLPT JLPT_2,v{{[}K0EMQ
-測定,そくてい,measurement,JLPT JLPT_2,Qp_^G4NnHY
-測量,そくりょう,"measurement, surveying",JLPT JLPT_2,N?XK_R(gNy
-速力,そくりょく,speed,JLPT JLPT_2,yC0f;tqC:X
-素質,そしつ,"talent, capability",JLPT JLPT_2,i~_:B9s_i]
-祖先,そせん,ancestor(s),JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese,uEOVA+$QA-
-そそっかしい,そそっかしい,"careless, thoughtless",JLPT JLPT_2,lH2m/7jTDk
-卒直,そっちょく,"frank, candid, honest",JLPT JLPT_2,gGu?|m4th^
-そのころ,そのころ,"in those days, at that time, then",JLPT JLPT_2,h3oBLD<m4a
-そのため,そのため,"hence, for that reason",JLPT JLPT_2,m^MU-Y@MNe
-その他,そのほか,besides,JLPT JLPT_2,IwQj+]fL.2
-剃る,そる,to shave,JLPT JLPT_2,nRAd^[5pD1
-それなのに,それなのに,"though, although",JLPT JLPT_2,k+B-<2c#Pu
-それなら,それなら,"If that's the case..., If so..., That being the case...",JLPT JLPT_2,tEgCn;#W+`
-それはいけませんね (かん),それはいけませんね (かん),that's not good,JLPT JLPT_2,t8:jf{Ldnz
-逸れる,それる,"to stray (turn) from subject, to go astray",JLPT JLPT_2,P^@I_Rocse
-算盤,そろばん,abacus,JLPT JLPT_2,jX~`V;cedM
-存じる,ぞんじる,(humble) to know,JLPT JLPT_2,Aym5:5*IUD
-存ずる,ぞんずる,(humble) to know,JLPT JLPT_2,MsmBGs6}hD
-損得,そんとく,"loss and gain, advantage and disadvantage",JLPT JLPT_2,x~apBZA1n:
-田ぼ,たんぼ,"paddy field, farm",JLPT JLPT_2,muOiSP8NL>
-第～,だい～,~th,JLPT JLPT_2,kbFu6B=v;g
-だいいち (とりわけ),だいいち (とりわけ),"first, foremost,&nbsp;&nbsp;#1",JLPT JLPT_2,sS|Rl>y(P~
-大学院,だいがくいん,graduate school,Genki_Ln.16 JLPT Intermediate_Japanese JLPT_2 Intermediate_Japanese_Ln.1 Genki,k|Ws#.@Z(?
-大工,だいく,carpenter,JLPT JLPT_2,HUM8bf&^L-
-体系,たいけい,"system, organization",JLPT JLPT_2,I*QRaBQl@l
-太鼓,たいこ,"drum, tambourine",JLPT JLPT_2,wz3E+65(~&
-対策,たいさく,"counter-plan, counter-measure",JLPT JLPT_2,GGGQEDkEUY
-大して,たいして,"(not so) much, (not) very",JLPT JLPT_2,"u,Waa>(/*g"
-大小,だいしょう,size,JLPT JLPT_2,nI5$isC-V|
-体制,たいせい,"order, system, structure",JLPT JLPT_2,Dn9.|Ri$s|
-体積,たいせき,"capacity, volume",JLPT JLPT_2,u*y*LZ`?*U
-大層,たいそう,"very much, greatly",JLPT JLPT_2,w>w}K&}qSs
-体操,たいそう,"gymnastics, physical exercises, calisthenics",JLPT JLPT_2,"Av($>5,YT@"
-大分,だいぶん,"considerably, greatly, a lot",JLPT JLPT_2,BIv*|D!}u.
-大木,たいぼく,large tree,JLPT JLPT_2,ChcUad;Yr=
-代名詞,だいめいし,pronoun,JLPT JLPT_2,"l##{!5f,2T"
-タイア,タイア,"tire, tyre",JLPT JLPT_2,42m3.zlHb
-ダイヤグラム,ダイヤグラム,diagram,JLPT JLPT_2,iaafymmrCe
-ダイヤモンド,ダイヤモンド,diamond,JLPT JLPT_2,i=C9?(aW#r
-ダイヤル,ダイヤル,dial,JLPT JLPT_2,utE>l/p-3-
-対立,たいりつ,"confrontation, opposition, antagonism",JLPT JLPT_2,"Ncc,Acum~c"
-田植え,たうえ,rice planting,JLPT JLPT_2,OgO</<`l`b
-絶えず,たえず,constantly,JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese,pW;2y7R<mV
-楕円,だえん,ellipse,JLPT JLPT_2,P}wFC7s?&j
-耕す,たがやす,"to till, to plow, to cultivate",JLPT JLPT_2,"xA,3MUb6~T"
-滝,たき,waterfall,JLPT JLPT_2,"ohAHw^26T,"
-蓄える,たくわえる,"to save, to store, to lay in stock",JLPT JLPT_2,m.Z{vIv259
-竹,たけ,bamboo,JLPT JLPT_2,w4_>96h/eO
-ただいま,ただいま,"Here I am, I'm home!",JLPT JLPT_2,p|S.`7CI}c
-但し,ただし,"but, however, provided that",JLPT JLPT_2,nIm>W;=6s~
-立ち止まる,たちどまる,"to stop, to halt, to stand still",JLPT JLPT_2,B95OXSZO5r
-たちまち,たちまち,"instantly, suddenly, all at once",JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese,"f|EvU~_,t!"
-発,はつ,"to depart (e.g., on a plane, train)",JLPT JLPT_2,d|z)aYBq<F
-脱線,だっせん,"derailment, digression",JLPT JLPT_2,HD(zBG2%H)
-妥当,だとう,"proper, appropriate",JLPT JLPT_2,JHO!PQp^-#
-例える,たとえる,"to compare, to liken",JLPT JLPT_2,b.^|xu(Lu=
-頼もしい,たのもしい,"reliable, promising",JLPT JLPT_2,d|t<2zx{AN
-ダブル,ダブル,double,JLPT_1 JLPT JLPT_2,n5sGaL[nrJ
-ダム,ダム,dam,JLPT JLPT_2,lwjw.sbO3t
-溜息,ためいき,a sigh,JLPT JLPT_2,M{mrZXe(xA
-ためらう,ためらう,to be hesitant,JLPT JLPT_2 Intermediate_Japanese_Ln.12 Intermediate_Japanese,G;FUJQ+<&I
 ～だらけ,～だらけ,"be full of ~, be filled with ~",JLPT JLPT_2,C*zDXpDGOo
-だらしない,だらしない,"slovenly, loose, a slut",JLPT JLPT_2,y)zumMnB[a
-足る,たる,"to be sufficient, to be enough",JLPT JLPT_2,f=F6.jTK0j
-短～,たん～,short ~,JLPT JLPT_2,zZ~;hL0?5C
 ～団,～だん,"group, corps, party",JLPT JLPT_2,"JAUz(u,OT1"
+～着,～ちゃく,counter for clothes; finishing place,JLPT JLPT_2,LNy/i0~?h*
+～庁,～ちょう,"office, agency",JLPT JLPT_2,Nh*HbZ~CkX
+～兆,～ちょう,trillion,JLPT JLPT_2,jHeL$YV:ox
+～長,～ちょう,"leader, head",JLPT JLPT_2,i0hy<f%]dq
+～帳,～ちょう,"~ book, notebook",JLPT JLPT_2,e.I(|go>z(
+～丁目,～ちょうめ,"~ district (of a town; city, block)",JLPT JLPT_2,z[Zeu>wor`
+～通,～つう,counter for letters,JLPT JLPT_2,gcs`gQZBri
+～遣い,～づかい,use of ~,JLPT JLPT_2,C?GOcbN8fi
+～付,～つき,with ~,JLPT JLPT_2,L%2+~L_:IY
+～続く,～つづく,"follow, continue, go on",JLPT JLPT_2,u%o(or2@%{
+～辛い,～づらい,hard to do ~,JLPT JLPT_2,u@W}x:nhL8
+～滴,～てき,drop,JLPT JLPT_2,J%ti108Zf0
+～点,～てん,counter for scores,JLPT JLPT_2,Q=wx{JnD0/
+～頭,～とう,counter for animals,JLPT JLPT_2,Q04jNq<%}1
+～等,～とう,"level, place",JLPT JLPT_2,t~N);db(/R
+～島,～とう,kind of islands,JLPT JLPT_2,xDO?MQ[t-7
+～道,～どう,"kind of path, road",JLPT JLPT_2,NK#jvaQLbz
+～通り,～とおり,"in accordance with ~; following ~; ~ street, ~ avenue",JLPT JLPT_2,i!k>vq-guB
+～ところ,～ところ,about to do ~,JLPT JLPT_2,B;8DjvC&9}
+～内,～ない,inside ~,JLPT JLPT_2,K?<zC9:h:N
+～年生,～ねんせい,counter for school year,JLPT JLPT_2,seB~`F&UPJ
+～泊,～はく,"counter for staying (e.g., 2 nights)",JLPT JLPT_2,PblG<4:M5~
+～発,～はつ,counter for bullets,JLPT JLPT_2,e#d]&/=XN}
+～番目,～ばんめ,~th,JLPT JLPT_2,i*esVeP_ak
+～費,～ひ,cost of ~,JLPT JLPT_2,u[jm+{6L3X
+～病,～びょう,kind of disease,JLPT JLPT_2,A*!}.Pwu5m
+～部,～ぶ,~ part,JLPT JLPT_2,fPDrnMwV)X
+～風,～ふう,~ style,JLPT JLPT_2,l^t;?>.nOp
+～振り,～ぶり,after an interval of ~,JLPT JLPT_2,;^fUn`g0d
+～遍,～へん,time,JLPT JLPT_2,K&5Px_U7gs
+～弁,～べん,"speech, dialect",JLPT JLPT_2,jOUF!M-NS3
+～歩,～ほ,"step, pace",JLPT JLPT_2,Bd!L5Wz^Su
+～ぽい,～ぽい,~ish,JLPT JLPT_2,f_=g;f`{~[
+～ほう (ひかく),～ほう (ひかく),(in comparison),JLPT JLPT_2,bVM<L+hK+`
+～みたい,～みたい,looks like ~,JLPT JLPT_2,N{CD^3;+~1
+～向け,～むけ,for ~,JLPT JLPT_2,"Gc8ij%t,3="
+～名,～めい,counter for people,JLPT JLPT_2,u?LD1<v]&U
+～もち,～もち,person who has ~,JLPT JLPT_2,kcFc6H|EaR
+～問,～もん,counter for questions,JLPT JLPT_2,r$GN8{}74-
+～夜,～や,counter for nights,JLPT JLPT_2,Cczj9?Yw&<
+～等,～ら,plural persons,JLPT JLPT_2,yo94:>GuX6
+～流,～りゅう,"fashion, manner, way",JLPT JLPT_2,zpH1qv^$%p
+～料,～りょう,"fare, charge",JLPT JLPT_2,IX116ZKh4C
+～領,～りょう,territory,JLPT JLPT_2,MXZX<Kqb>
+～力,～りょく,power of ~,JLPT JLPT_2,G<sBHiz^]!
+～論,～ろん,theory,JLPT JLPT_2,"ec<,e&v$V7"
+～羽,～わ,counter for rabbits; birds,JLPT JLPT_2,FQL)TF/a}O
+相変わらず,あいかわらず,"as usual, as always, as before, as ever, still",JLPT JLPT_2,B>ep8MopYw
+アイデア; アイディア,アイデア; アイディア,idea,JLPT JLPT_2,NkL-h!TKp$
+あいまい,あいまい,"vague, ambiguous",JLPT JLPT_2,"y8aZ,my]%p"
+扇ぐ,あおぐ,"to fan, to flap",JLPT JLPT_2,Gk2+[0&j}c
+青白い,あおじろい,pale,JLPT JLPT_2,B[(dutQ)|%
+呆れる,あきれる,"to be shocked, to be appalled",JLPT JLPT_2,o8s#rYeo4>
+アクセント,アクセント,accent,JLPT JLPT_2,"w=+|,GhTIn"
+あくび,あくび,yawn,JLPT JLPT_2,v|~6.5@[n^
+飽くまで,あくまで,"to the end, to the last, stubbornly",JLPT JLPT_2,"vD,5@+@_q]"
+明くる～,あくる～,"next, following",JLPT JLPT_2,c0UJ5Dk9?v
+明け方,あけがた,dawn,JLPT JLPT_2,pi=5b}Xk:R
+憧れる,あこがれる,"to long for, to yearn after",JLPT JLPT_2,c:=`W|}Gw`
+朝寝坊,あさねぼう,"oversleeping, late riser",JLPT JLPT_2,kR|>&(p6rG
+足跡,あしあと,footprint,JLPT JLPT_2,lj:ebvgd-q
+足元,あしもと,at one's feet,JLPT JLPT_2,Ha)Qe[babj
+味わう,あじわう,"to taste, to savor",JLPT JLPT_2,uxSo4jtf~d
+預かる,あずかる,"to keep in custody, to receive on deposit, to take charge of",JLPT JLPT_2,LJpv~D13xj
+温まる,あたたまる,to warm oneself,JLPT JLPT_2,B5XhWyF.q9
+当たり前,あたりまえ,"natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm",JLPT JLPT_2,b#?!|FvT)4
+あちらこちら,あちらこちら,here and there,JLPT JLPT_2,Q~Ip4wR{af
+厚かましい,あつかましい,"impudent, shameless,",JLPT JLPT_2,"wZ0,_rCNQo"
+圧縮,あっしゅく,"compression, condensation, pressure",JLPT JLPT_2,G:WAF/Dx1i
+宛名,あてな,"address, direction",JLPT JLPT_2,"Q!,(6>`cO,"
+当てはまる,あてはまる,"to be applicable, to come under (a category)",JLPT JLPT_2,gWVd1Z[tfA
+当てはめる,あてはめる,"to apply, to adapt",JLPT JLPT_2,OP(Hu}mMQq
+暴れる,あばれる,"to act violently, to rage",JLPT JLPT_2,L6trU>v^!
+脂,あぶら,"fat, tallow, lard",JLPT JLPT_2,t@*Ov{e4RP
+あぶる,あぶる,"to scorch, to roast",JLPT JLPT_2,Jz@lzbGk7x
+あふれる,あふれる,"to flood, to overflow",JLPT JLPT_2,be7:(ploED
+雨戸,あまど,sliding storm door,JLPT JLPT_2,v+crs*_nva
+甘やかす,あまやかす,"to pamper, to spoil",JLPT JLPT_2,f~Uvnb+KP=
+余る,あまる,"to be left over, to be in excess",JLPT JLPT_2,r`ob2WL<}I
+編み物,あみもの,knitting,JLPT JLPT_2,KBOilYWmo2
+あみもの,あみもの,"knitting, web",JLPT JLPT_2,"wR7~d.J/,$"
+編む,あむ,to knit,Genki Genki_Ln.13 JLPT JLPT_2,"Bcd5,b]]w5"
+危うい,あやうい,"dangerous, critical",JLPT JLPT_2,JYnP1Z3O1n
+怪しい,あやしい,"suspicious, dubious, doubtful",JLPT JLPT_2,r?rB[7EP>5
+荒い,あらい,"rough, rude, wild",JLPT JLPT_2,P5h|CxAaCE
+粗い,あらい,"coarse, rough",JLPT JLPT_2,t~Hs$2O?FD
+粗筋,あらすじ,"outline, synopsis",JLPT JLPT_2,GLP0^5#h&@
+争う,あらそう,"to compete, to contest, to contend to quarrel, to argue, to dispute, to be at variance, to oppose",JLPT JLPT_2,eC6vp6J:;c
+改めて,あらためて,"another time, again",JLPT JLPT_2,M$)j_R%uiN
+改める,あらためる,"to change, to reform, to revise",JLPT JLPT_2,k-ggJ#W2U)
+あらわす,あらわす,"to write, to publish",JLPT JLPT_2,jfH_)2c|9s
+有難い,ありがたい,"grateful, thankful, appreciated",JLPT JLPT_2,yLS%JRr`~I
+あれこれ,あれこれ,"one thing or another, this and that",JLPT JLPT_2,H3{e@Ms<u9
+荒れる,あれる,"to be stormy, to be rough, to be ruined",JLPT JLPT_2,opLT~#LruK
+慌ただしい,あわただしい,"busy, hurried",JLPT JLPT_2,"d*5}[C^,EG"
+慌てる,あわてる,"to become confused (disconcerted, disorganized), to be flustered, to panic, to hurry, to rush, to hasten",JLPT JLPT_2,RdWuu8/jDE
+安易,あんい,easy-going,JLPT JLPT_2,cpsk;f2&m/
+案外,あんがい,"unexpectedly, surprisingly",JLPT JLPT_2,"E-`?,aYenW"
+アンテナ,アンテナ,antenna,JLPT JLPT_2,u25h^5*Vx<
+言い出す,いいだす,"to start talking, to suggest",JLPT JLPT_2,ma-oStit-!
+言い付ける,いいつける,"to tell, to order",JLPT JLPT_2,K=!C~7x9Db
+意義,いぎ,"meaning, significance",JLPT JLPT_2,K*wt2r`%<B
+生き生き,いきいき,"vividly, lively",JLPT JLPT_2,Am|5$tSksY
+いきなり,いきなり,all of a sudden,Intermediate_Japanese Intermediate_Japanese_Ln.13 JLPT JLPT_2,J=<-XB_N-t
+幾～,いく～,several ~,JLPT JLPT_2,o<XZoP)ZFl
+育児,いくじ,"childcare, nursing",Intermediate_Japanese Intermediate_Japanese_Ln.14 JLPT JLPT_2,hwmLlQK_:7
+幾分,いくぶん,somewhat,JLPT JLPT_2,wUiE3U*>P6
+生け花,いけばな,flower arrangement,JLPT JLPT_2,o!9H~`j>Ob
+以後,いご,after this; from now on; hereafter,JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese,"OpKq9d,k&%"
+イコール,イコール,equal,JLPT JLPT_2,F:$jr>Gcvz
+以降,いこう,"on and after, hereafter",JLPT JLPT_2,"hI7gX,ojpA"
+勇ましい,いさましい,"brave, valiant",JLPT JLPT_2,jh9$B&!xLP
+衣食住,いしょくじゅう,"food, clothing and shelter",JLPT JLPT_2,yYjE5SKh.|
+いちいち,いちいち,"one by one, separately",JLPT JLPT_2,c`q7>|uO;;
+一応,いちおう,"tentatively, for the time being",JLPT JLPT_2,DUm[|ty]2z
+一段と,いちだんと,"by far, greater",JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,H2Se/ybI3t
+一流,いちりゅう,"first class, leading",JLPT JLPT_2,Q-z[xmuvA*
+一昨日,いっさくじつ,day before yesterday,JLPT JLPT_2,q)l_a#Mm^@
+一昨年,いっさくねん,year before last,JLPT JLPT_2,H3]XYSojiI
+一斉,いっせい,"simultaneous, all at once",JLPT JLPT_2,H3C62{9DP`
+一旦,いったん,"once, for a moment",JLPT JLPT_2,"Fv;m,:R#X("
+一定,いってい,"fixed, settled, regular",JLPT JLPT_2,Qx{lB{;UG~
+行っていらっしゃい,いっていらっしゃい,"have a nice day, see you",JLPT JLPT_2,Q~[>k~aD(O
+いってきます,いってきます,"(Lit.) I'll go and come back, 'I'm going, see you later'",JLPT JLPT_2,O;VZoV$S8W
+いってまいります,いってまいります,"(Lit.) I'll go and come back, 'I'm going, see you later'",JLPT JLPT_2,wg6qf;hcRZ
+行ってらっしゃい,いってらっしゃい,"have a nice day, see you",JLPT JLPT_2,eL-o)31hPE
+移転,いてん,"moving, transfer",JLPT JLPT_2,A[fI%[bpSh
+井戸,いど,water well,JLPT JLPT_2,"Fw}ob1+9,G"
+緯度,いど,latitude (navigation),JLPT JLPT_2,mKsQtDevFo
+威張る,いばる,"to be proud, to swagger",JLPT JLPT_2,kEp;c{E_R1
+嫌がる,いやがる,"reluctant, to dislike",JLPT JLPT_2,wwKIWtwwb&
+いよいよ,いよいよ,"more and more, increasingly, at last",JLPT JLPT_2,h5$?Ko/s)4
+煎る,いる,to roast,JLPT JLPT_2,"bLrppO],[q"
+炒る,いる,"to parch, to roast",JLPT JLPT_2,dcy>(4#yAy
+入れ物,いれもの,"container, case",JLPT JLPT_2,RbLFeu/vvY
+インキ,インキ,ink,JLPT JLPT_2,I{rR0;+{t|
+引力,いんりょく,gravity,JLPT JLPT_2,cP:.V7Ysb%
+ウーマン,ウーマン,woman,JLPT JLPT_2,"O5m,c!v(H5"
+ウール,ウール,wool,JLPT JLPT_2,bgePnfbn;n
+ウエートレス,ウエートレス,waitress,JLPT JLPT_2,C$[Z6H5/gO
+植木,うえき,"garden shrubs, trees, potted plant",JLPT JLPT_2,j}3Ny1eUVB
+飢える,うえる,to starve,JLPT JLPT_2,CQMZtp4T24
+浮ぶ,うかぶ,"to float, to rise to surface, to come to mind",JLPT JLPT_2,IN|gezRxCl
+浮かべる,うかべる,to float; to express,JLPT JLPT_2,Nj{^.3q>-V
+浮く,うく,to float,JLPT JLPT_2,JS6e6ewLTQ
+承る,うけたまわる,"(humble) to hear, to be told, to know",JLPT JLPT_2,IKhK:kjp?E
+受取,うけとり,receipt,JLPT JLPT_2,"k?,%G]kD{4"
+受け持つ,うけもつ,to take (be in) charge of,JLPT JLPT_2,b1cU__S&E=
+薄暗い,うすぐらい,"dim, gloomy",JLPT JLPT_2,m6<YpAEgo!
+薄める,うすめる,"to dilute, to water down",JLPT JLPT_2,F/33?d^ON{
+打合せ,うちあわせ,"business meeting, previous arrangement",JLPT JLPT_2,I>LU.f-`NP
+打ち消す,うちけす,"to deny, to negate",JLPT JLPT_2,HCI~2sil9S
+写る,うつる,"to be photographed, to be projected",JLPT JLPT_2,CI<Sr}lwt|
+うどん,うどん,udon noodles (Japanese traditional noodles),Intermediate_Japanese_Ln.6 JLPT_2 JLPT Intermediate_Japanese,zUsFPVRoV;
+うなずく,うなずく,to nod,JLPT JLPT_2,qP>fuv+29W
+有無,うむ,"existence or nonexistence, presence of absence consent or refusal, yes or no",JLPT JLPT_2,zVa=(IGgn=
+埋める,うめる,"to bury, to fill up, to fill (a seat, a vacant position)",JLPT JLPT_2,wtEE639hh4
+敬う,うやまう,"to show respect, to honor",JLPT JLPT_2,hRta^!r1WT
+裏返す,うらがえす,"to turn inside out, to turn (something) over",JLPT JLPT_2,cJR[<yA$vw
+裏口,うらぐち,"backdoor, rear entrance",JLPT JLPT_2,xTA1N/QL{`
+占う,うらなう,"to predict, to divine",JLPT JLPT_2,isAnLJU5w0
+恨み,うらみ,resentment,JLPT JLPT_2,"A+B,^3x]O="
+恨む,うらむ,"to curse, to feel bitter",JLPT JLPT_2,D@R<vxJ)<U
+羨む,うらやむ,to envy,JLPT JLPT_2,tthSa[}tg_
+売上,うりあげ,"amount sold, proceeds",JLPT JLPT_2,p9d{%uQSR:
+売り上げ,うりあげ,"amount sold, sales, proceeds, takings, turnover",JLPT JLPT_2,AV/DH?U*[&
+売り切れ,うりきれ,sold-out,JLPT JLPT_2,J#x&HGI1=J
+売り切れる,うりきれる,to be sold out,JLPT JLPT_2,Ls1JX0p>PP
+売行き,うれゆき,sales,JLPT JLPT_2,t0r)gygLV
+売れ行き,うれゆき,"sales, demand",JLPT JLPT_2,lFbE^~5.H1
+うろうろ,うろうろ,"loitering, aimless wandering",JLPT JLPT_2,h0R8Gh3Y^Q
+上～,うわ～,upper ~,JLPT JLPT_2,IiRGZY[b#L
+運河,うんが,"canal, waterway",JLPT JLPT_2,os15ZQMcmE
+うんと,うんと,"a great deal, very much",JLPT JLPT_2,K1|_U:?Zi2
+英文,えいぶん,sentence in English,JLPT JLPT_2,N6cGn)]tI&
+英和,えいわ,"English-Japanese (e.g., dictionary)",JLPT JLPT_2,iL]q/<ICwB
+ええと,ええと,"let me see, well, er...",JLPT JLPT_2,k9QoK3_%6*
+液体,えきたい,"liquid, fluid",JLPT JLPT_2,CdyMwPZr;-
+エチケット,エチケット,etiquette,JLPT JLPT_2,JD<(LA+lT8
+絵の具,えのぐ,"colors, paints",JLPT JLPT_2,il.hIkd5@*
+エプロン,エプロン,apron,JLPT JLPT_2,iE$K!WaP&V
+偉い,えらい,"great, celebrated, remarkable,",JLPT JLPT_2,va_:XsaQZY
+宴会,えんかい,"party, banquet",JLPT JLPT_2,i-sdwsFh$Z
+園芸,えんげい,"horticulture, gardening",JLPT JLPT_2,BqeOt&R7YG
+演劇,えんげき,play (theatrical),JLPT JLPT_2,"Otg5e*No,p"
+円周,えんしゅう,circumference,JLPT JLPT_2,Q#$a9V=}iv
+遠足,えんそく,"trip, hike, picnic",JLPT JLPT_2,K/i>jpon?&
+延長,えんちょう,"extension, prolongation",JLPT JLPT_2,kv5xP;(9Nh
+煙突,えんとつ,chimney,JLPT JLPT_2,vA~$8Qi$g7
 オーケストラ,オーケストラ,orchestra,JLPT JLPT_2,E(IY~:+.r]
+オートメーション,オートメーション,automation,JLPT JLPT_2,w$xtVM50Wd
+追いかける,おいかける,to chase or run after someone,JLPT JLPT_2,IwJw]GEFbC
+追い越す,おいこす,"to pass (e.g., car), to outdistance, to outstrip",JLPT JLPT_2,QFqJ-N@k`a
+オイル,オイル,oil,JLPT JLPT_2,lfd7.m*9JT
+応援,おうえん,"aid, assistance, help, support, reinforcement cheering, rooting (for), support",JLPT JLPT_2,"db6u7R<V*,"
+王女,おうじょ,princess,JLPT JLPT_2,mtg%KXTE/:
+応ずる,おうずる,"to respond, to comply with",JLPT JLPT_2,uaD~LH-B3=
+応接,おうせつ,reception,JLPT JLPT_2,bEx~ccePEK
+応対,おうたい,"receiving, dealing with",JLPT JLPT_2,"cy],C~WcL}"
+往復,おうふく,"(col) round trip, coming and going, return ticket",JLPT JLPT_2,n3GyO1oyI7
+欧米,おうべい,"Europe and America, the West",JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese,n1r<]dO&N/
+応用,おうよう,"application, put to practical use",JLPT JLPT_2,KS%06Cn^yw
 おおざっぱ,おおざっぱ,"rough (not precise), broad, sketchy",JLPT JLPT_2,OHMTu7)N;!
 大通り,おおどおり,main street,JLPT JLPT_2,e8NE2/)L:D
-オートメーション,オートメーション,automation,JLPT JLPT_2,w$xtVM50Wd
 大凡,おおよそ,"about, approximately",JLPT JLPT_2,"j>e8>g+K{,"
 お帰り,おかえり,"return, welcome",JLPT JLPT_2,J&)&R*:;&e
 おかけください,おかけください,please sit down,JLPT JLPT_2,LmStb*}|~b
@@ -312,6 +292,7 @@ expression,reading,meaning,tags,guid
 送り仮名,おくりがな,part of word written in kana,JLPT JLPT_2,L0[6p2c}y;
 お元気で,おげんきで,Take care',JLPT JLPT_2,P?(I*3(kaT
 怠る,おこたる,"to neglect, to fail",JLPT JLPT_2,hI%Hy&@P79
+押さえる,おさえる,"to pin down, to hold down, to press down, to hold in place, to hold steady to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part) to get a hold of, to obtain, to seize, to catch, to arrest",JLPT JLPT_2,"n1S,CEj^b^"
 お先に,おさきに,"before, after you",JLPT JLPT_2,O/_cfB(;1v
 伯父,おじ,(humble) uncle (older than one's parent),JLPT JLPT_2,b<;4u^|F5a
 叔父,おじ,uncle (younger than one's parent),JLPT JLPT_2,b5[<>DjhLo
@@ -343,26 +324,23 @@ expression,reading,meaning,tags,guid
 思い切り,おもいきり,"with all one's strength (heart), resignation, resolution",JLPT JLPT_2,u6znaLhPyo
 思い込む,おもいこむ,"to be under impression that, to be convinced that",JLPT JLPT_2,ggq%!UTv!w
 思いっ切り,おもいっきり,"very, much, fully",JLPT JLPT_2,"z,O=En=;Mc"
+思いっきり,おもいっきり,to the best of one's ability,JLPT JLPT_2,"B,fE|/^X*C"
 重たい,おもたい,"heavy, massive, serious",JLPT JLPT_2,kxf3li]&Z0
 お休み,おやすみ,"holiday, absence; (exp.) Good night",JLPT JLPT_2,g*1:u%%pd(
 おやつ,おやつ,"between meal snack, afternoon refreshment",JLPT JLPT_2,F0Bgt+CKGH
 親指,おやゆび,thumb,JLPT JLPT_2,Q]+3Y_+I|o
 オルガン,オルガン,organ,JLPT JLPT_2,r4P=wfH}tX
+御～,おん～,honorific ~,JLPT JLPT_2,oiyGIL2u!>
 恩恵,おんけい,"blessing, benefit",JLPT JLPT_2,t6?1>QfZ5F
 温室,おんしつ,greenhouse,JLPT JLPT_2,j@PV(c1<I%
 温泉,おんせん,"spa, hot spring",JLPT Intermediate_Japanese JLPT_2 Genki_Ln.9 Intermediate_Japanese_Ln.10 Genki,p7%rZNufe3
 温帯,おんたい,temperate zone,JLPT JLPT_2,it?~KTCCdv
 御中,おんちゅう,Messrs.,JLPT JLPT_2,i:g_|_*4fM
 女の人,おんなのひと,woman,Genki_Ln.7 JLPT JLPT_2 Genki,k`gpRcVkY^
-～日,～か,counter for days,JLPT JLPT_2,rDuT4FxT)r
-～下,～か,under ~,JLPT JLPT_2,fbg-jA#f{K
-～化,～か,action of making something,JLPT JLPT_2,jA{o6okAW~
-～科,～か,"family, group, course",JLPT JLPT_2,G*u5fLwYB~
-～歌,～か,song of ~,JLPT JLPT_2,b!q>|EX?]V
-～画,～が,"picture, painting",JLPT_1 JLPT JLPT_2,A:x.SahEv8
+蚊,か,mosquito,JLPT JLPT_2,j=4=()Uwi2
 カーブ,カーブ,curve; curve ball (baseball),JLPT JLPT_2,"H$,bx/Aa*A"
+貝,かい,"shell, shellfish",JLPT JLPT_2,HNd6/BU{>X
 外～,がい～,"foreign ~, outside ~",JLPT JLPT_2,hm9sVyWCE}
-～外,～がい,out of ~,JLPT JLPT_2,v.D6N)Jn-M
 開会,かいかい,opening of a meeting,JLPT JLPT_2,Lh4g/O2OJM
 会館,かいかん,"meeting hall, assembly hall",JLPT JLPT_2,liybJFP&?H
 改札,かいさつ,examination of tickets,JLPT JLPT_2,y:jbDc8VoT
@@ -399,13 +377,17 @@ expression,reading,meaning,tags,guid
 拡張,かくちょう,"expansion, extension",JLPT JLPT_2,"qk,U%yom=n"
 角度,かくど,angle,JLPT JLPT_2,xYUahGWaOD
 学年,がくねん,"year in school, grade in school",JLPT JLPT_2,snv|Q^7V&<
+学部,がくぶ,"department of a university undergraduate (course, program, etc.)",JLPT JLPT_2,M{Rt-~pV[8
 格別,かくべつ,exceptional,JLPT JLPT_2,ew:H.)$lIz
 確率,かくりつ,probability,JLPT JLPT_2,B^!PO()@Fj
 学力,がくりょく,"scholarship, knowledge",JLPT JLPT_2,fg#sj4f&H/
 掛け算,かけざん,multiplication,JLPT JLPT_2,NBNX=8%`mD
+かけざん,かけざん,multiplication,JLPT JLPT_2,J(J6;KG1P0
 可決,かけつ,"approval, adoption (e.g., motion, bill), passage",JLPT JLPT_2,?AdRO|`D3
 火口,かこう,crater (of a volcano),JLPT JLPT_2,I>{#77)U2L
 下降,かこう,"decline, descent, fall",JLPT JLPT_2,olO#.LVae]
+重ねる,かさねる,"to pile up, to heap up, to stack up, to put on top of another to repeat many times over, to go through repeatedly, to accumulate",JLPT JLPT_2,v-}D_SOws/
+飾り,かざり,"decoration, ornament, trimmings",JLPT JLPT_2,MTDy9F:WDT
 火山,かざん,volcano,JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese,nQ^q[SYzad
 かしこまりました,かしこまりました,Certainly,JLPT JLPT_2 Genki_Ln.20 Genki,K[_B[U0SFm
 貸し出し,かしだし,"lending, loaning",JLPT JLPT_2,jgwQltf^|5
@@ -414,29 +396,35 @@ expression,reading,meaning,tags,guid
 貸間,かしま,room to let,JLPT JLPT_2,f;Mu?;YNxY
 貸家,かしや,house for rent,JLPT JLPT_2,xG+iA}dT^k
 箇所,かしょ,"place, point, part",JLPT JLPT_2,"u73w,EFcqC"
+かしょ,かしょ,"passage, place",JLPT JLPT_2,QWm(5L}$9%
 過剰,かじょう,"excess, over-",JLPT JLPT_2,gyP>>^hD);
 かじる,かじる,"to chew, to bite (at)",JLPT JLPT_2,HPUE@sF)^#
 課税,かぜい,taxation,JLPT JLPT_2,v<>5#MB}<q
-下線,かせん,"underline, underscore",JLPT JLPT_2,pq&rc|>fY.
 カセット,カセット,cassette (tape),JLPT JLPT_2,O31|Fi(S7Q
+下線,かせん,"underline, underscore",JLPT JLPT_2,pq&rc|>fY.
 加速,かそく,acceleration,JLPT JLPT_2,MT@qI_:;KR
 加速度,かそくど,acceleration,JLPT JLPT_2,ic-:spL~M@
+かたかな,かたかな,katakana,JLPT JLPT_2,QPplVw&IAL
+かたづく,かたづく,"to put in order, to dispose of, to solve",JLPT JLPT_2,"z6jkVh5~d,"
 塊,かたまり,"lump, mass, cluster",JLPT JLPT_2,iJm<x_b^7C
 固まる,かたまる,"to harden, to solidify, to become firm",JLPT JLPT_2,iT33@SKQ0$
 片道,かたみち,one-way (trip),JLPT JLPT_2,tN}hoBEcWZ
 傾く,かたむく,"to incline toward, to slant, to lurch",JLPT JLPT_2,"eRHA+m,LAe"
 片寄る,かたよる,"to be one-sided, to incline, to be partial",JLPT JLPT_2,Q|RAcaS;Ac
-～がち,～がち,tend to do ~,JLPT JLPT_2,"HC!2|,O=Uv"
 学科,がっか,"study subject, course of study",JLPT JLPT_2,d/U/mP87B<
 学会,がっかい,academic conference,JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,rvd2E[%d:l
+楽器,がっき,musical instrument,JLPT JLPT_2,zj[&tINbu_
 学級,がっきゅう,class,JLPT JLPT_2,xHn7Zkw(je
 担ぐ,かつぐ,"to shoulder, to carry on shoulder",JLPT JLPT_2,uNP=4K#|_6
 括弧,かっこ,"parenthesis, brackets",JLPT JLPT_2,E4PO59(otM
 活字,かつじ,printing type,JLPT JLPT_2,lS9+ur8Rhy
 勝手に,かってに,"arbitrarily,",JLPT JLPT_2,c;rdge_lIB
+活躍,かつやく,"activity (esp. energetic or successful), great efforts, active participation",JLPT JLPT_2,t6eKeTVxu1
 活力,かつりょく,"vitality, energy",JLPT JLPT_2,P=dyC+Atno
+課程,かてい,"course, curriculum",JLPT JLPT_2,"g,{yU7}}eo"
 仮名,かな,kana,JLPT JLPT_2,r+|=nvx{%}
 仮名遣い,かなづかい,"kana orthography, syllabary spelling",JLPT JLPT_2,q:v%>e2~9#
+鐘,かね,"bell (often a large hanging bell), chime",JLPT JLPT_2,MiZAx.nm4S
 加熱,かねつ,heating,JLPT JLPT_2,D58GJ/(V81
 兼ねる,かねる,to simultaneously serve two or more functions,JLPT JLPT_2,s0EuumM^s>
 カバー,カバー,"cover (e.g., book)",JLPT JLPT_2,h7<4il+kD=
@@ -450,6 +438,8 @@ expression,reading,meaning,tags,guid
 剃刀,かみそり,razor,JLPT JLPT_2,EUVj(OJ|`3
 ガム,ガム,chewing gum,JLPT JLPT_2,IjCKN~>gDp
 貨物,かもつ,"cargo, freight",JLPT JLPT_2,Ee3iA.}E1T
+歌謡,かよう,"song, ballad",JLPT JLPT_2,B8j5MHOl3a
+殻,から,"shell, husk, hull, pod, chaff",JLPT JLPT_2,E[9cW:WqUf
 カラー,カラー,"collar, color",JLPT JLPT_2,hoWS%R]$xc
 からかう,からかう,"to ridicule, to make fun of",JLPT JLPT_2,f1|Z(DjQl3
 空っぽ,からっぽ,"empty, vacant, hollow",JLPT JLPT_2,ymKUE(fK%o
@@ -457,13 +447,10 @@ expression,reading,meaning,tags,guid
 枯れる,かれる,"to wither, to die (plant), to be blasted (plant)",JLPT JLPT_2,w%ev2Rq1&r
 カロリー,カロリー,calorie,JLPT JLPT_2,"diZF6u*,sD"
 可愛がる,かわいがる,"to love, to be affectionate",JLPT JLPT_2,zX92vgkXT;
+乾かす,かわかす,"to dry (clothes, etc.), to desiccate",JLPT JLPT_2,pnSoE/i9wh
 為替,かわせ,"money order, exchange",JLPT JLPT_2,JjeKsySAG^
 瓦,かわら,roof tile,JLPT JLPT_2,Bf6o<dScJ^
-～刊,～かん,"~ issued (magazine, newspaper)",JLPT JLPT_2,J]XIoil*2L
-～間,～かん,"between, during",JLPT JLPT_2,Qm1qWlocEP
-～巻,～かん,volume,JLPT JLPT_2,K19uzsMb_o
-～館,～かん,"~ hall, ~ building",JLPT JLPT_2,c3uPE$j0G@
-～感,～かん,"feeling, sense, impression",JLPT JLPT_2,gv?{M:3Nl+
+間隔,かんかく,"space, interval space character, whitespace",JLPT JLPT_2,f(q^~|ToF|
 換気,かんき,ventilation,JLPT JLPT_2,to8!Q9kk&}
 感激,かんげき,"deep emotion, impression, inspiration",JLPT JLPT_2,yU>I7PD.[:
 関西,かんさい,"south-western half of Japan, including Osaka",JLPT JLPT_2,"mfDDR,OXu:"
@@ -471,10 +458,12 @@ expression,reading,meaning,tags,guid
 鑑賞,かんしょう,appreciation,JLPT JLPT_2,E642S>/DUA
 感ずる,かんずる,"to feel, to sense",JLPT JLPT_2,Nfi9|FOf@O
 間接,かんせつ,"indirect, indirectness",JLPT JLPT_2,dxp6!l6@:y
+乾燥,かんそう,"dry, arid, insipid, dehydrated",JLPT JLPT_2,td4Zh9`xWT
+感想,かんそう,"impressions, thoughts, feelings, reactions",JLPT JLPT_2,Dl}@=q4$z6
 観測,かんそく,observation,JLPT JLPT_2,DpaRQHledo
 寒帯,かんたい,frigid zone,JLPT JLPT_2,kuZZ@R:&?
-官庁,かんちょう,"government office, authorities",JLPT JLPT_2,e-}veyn2>L
 勘違い,かんちがい,"misunderstanding, wrong guess",JLPT JLPT_2,Hn~gIt2Uw4
+官庁,かんちょう,"government office, authorities",JLPT JLPT_2,e-}veyn2>L
 缶詰,かんづめ,"canning, canned goods,",JLPT JLPT_2,dGjAI6[GGs
 乾電池,かんでんち,"dry cell, battery",JLPT JLPT_2,kSO!})gG5D
 関東,かんとう,"eastern half of Japan, including Tokyo",JLPT JLPT_2,q$Rzr7k!?N
@@ -484,15 +473,13 @@ expression,reading,meaning,tags,guid
 看病,かんびょう,nursing (a patient),JLPT JLPT_2,d4(@OW=wzg
 冠,かんむり,"crown, wreath",JLPT JLPT_2,"u>]rwp,Fs["
 漢和,かんわ,"Chinese Character-Japanese (e.g., dictionary)",JLPT JLPT_2,"mNHDxx[&,N"
-～期,～き,"~age, ~period",JLPT JLPT_2,kCfW%K6Q|D
-～器,～き,"device, equipment",JLPT JLPT_2,u+~Y!_LNSC
-～機,～き,machine,JLPT JLPT_2,k3|o@N56?1
 気圧,きあつ,atmospheric pressure,JLPT JLPT_2,w71unwo/e>
 着替え,きがえ,"changing clothes, change of clothes",JLPT JLPT_2,vi{&DRUjwE
 着替える,きがえる,to change (one's) clothes,JLPT Intermediate_Japanese JLPT_2 Genki Intermediate_Japanese_Ln.10 Genki_Ln.21,"Az6,#K9!yB"
 機関車,きかんしゃ,"locomotive, engine",JLPT JLPT_2,dyq%>=g>@K
 飢饉,ききん,famine,JLPT JLPT_2,of0kMjM40p
 器具,きぐ,instrument,JLPT JLPT_2,f04oZ+_FOX
+期限,きげん,"term, period, time frame time limit, deadline, cutoff (date)",JLPT JLPT_2,"hwqzFcU1,$"
 記号,きごう,"symbol, code",JLPT JLPT_2,"NF?>3T^,JP"
 刻む,きざむ,"to mince, to carve, to engrave",JLPT JLPT_2,"LlS,o9O&r1"
 儀式,ぎしき,"ceremony, rite, ritual",JLPT JLPT_2,KIl/;heLfD
@@ -503,21 +490,19 @@ expression,reading,meaning,tags,guid
 基礎,きそ,"foundation, basis",JLPT JLPT_2,IMHZY>OvkD
 基地,きち,base,JLPT JLPT_2,I7{+B~;-Cv
 きっかけ,きっかけ,"prompt, trigger, cue",JLPT JLPT_2,e9iq#7`z5g
+切っ掛け,きっかけ,"chance, start, cue, excuse, motive, impetus, occassion",JLPT JLPT_2,sY5&<lP/:_
 ぎっしり,ぎっしり,"tightly, fully",JLPT JLPT_2,roF`vi5#iH
 基盤,きばん,"foundation, basis",JLPT JLPT_2,Q#hD0![*dh
-～気味,～ぎみ,slightly ~,JLPT JLPT_2,H[Vo.[BxaR
 客席,きゃくせき,guest seating,JLPT JLPT_2,oKF%:%YXd4
 客間,きゃくま,"parlor, guest room",JLPT JLPT_2,PWjQKkx$-q
 ギャング,ギャング,gang,JLPT JLPT_2,rmu8iNTz;H
 キャンパス,キャンパス,campus,JLPT JLPT_2,me;5WQ2vTb
 休業,きゅうぎょう,"closure, shutdown, holiday",JLPT JLPT_2,oX~(4uE=OX
 休講,きゅうこう,lecture canceled,JLPT JLPT_2,IblG6P2b4^
+休息,きゅうそく,"rest, relief, relaxation",JLPT JLPT_2,mFQb-ci%=n
 給与,きゅうよ,salary,JLPT JLPT_2,PCn?h_u$qZ
 休養,きゅうよう,"rest, break, recreation",JLPT JLPT_2,RcKyI3I]Oc
 清い,きよい,"clear, pure, noble",JLPT JLPT_2,Gl5ERuBRxp
-～教,～きょう,religion,JLPT JLPT_2,"vbb{{,/z36"
-～行,～ぎょう,"line, row",JLPT JLPT_2,E5TA@2@XRb
-～業,～ぎょう,type of business,JLPT JLPT_2,r#B%nh/j8;
 強化,きょうか,"strengthen, intensify, reinforce",JLPT JLPT_2,uXIPpdZC1R
 境界,きょうかい,boundary,JLPT JLPT_2,j7=Rl[TZ[~
 共産～,きょうさん～,communist ~,JLPT JLPT_2,j8+=)[q7=i
@@ -529,16 +514,15 @@ expression,reading,meaning,tags,guid
 曲線,きょくせん,curve,JLPT JLPT_2,iDUc0okp@!
 規律,きりつ,"order, rules, law",JLPT JLPT_2,qH%%&6n|uU
 斬る,きる,"to behead, to murder",JLPT JLPT_2,npLP+:S/ui
-～きる,～きる,"nevertheless, to carry through",JLPT JLPT_2,lY)YcCGPox
-～切れ,～きれ,out of ~,JLPT JLPT_2,BI!R8>v)8r
 気を付ける,きをつける,"to be careful, to pay attention, to take care",JLPT JLPT_2,KJo;WsH_ui
+琴,きん,13-string Japanese zither,JLPT JLPT_2,ze/Aoh1sN#
 金魚,きんぎょ,goldfish,JLPT JLPT_2,f4r;e>P:iY
+クーラー,クーラー,air conditioner,JLPT JLPT_2,m[g>=z]wN/
 区域,くいき,"zone, district, area",JLPT JLPT_2,fYQq7`cNuc
 空～,くう～,empty ~,JLPT JLPT_2,A&!JE@t/D3
 偶数,ぐうすう,even number,JLPT JLPT_2,"iw7<JlzmC,"
 空想,くうそう,"daydream, fantasy",JLPT JLPT_2,H5ov7CW8[y
 空中,くうちゅう,"sky, air",JLPT JLPT_2,A;^pVv^)~a
-クーラー,クーラー,air conditioner,JLPT JLPT_2,m[g>=z]wN/
 釘,くぎ,nail,JLPT JLPT_2,Gb>Lz*bq3+
 区切る,くぎる,"to punctuate, to cut off, to mark off",JLPT JLPT_2,s|j=prYd&B
 櫛,くし,comb,JLPT JLPT_2,dzg}!o26=)
@@ -553,7 +537,7 @@ expression,reading,meaning,tags,guid
 砕ける,くだける,"to break, to be broken",JLPT JLPT_2,I_dH|P3phU
 くたびれる,くたびれる,"to get tired, to wear out",JLPT JLPT_2,G(IR)z:5pO
 くだらない,くだらない,"good-for-nothing, stupid, worthless",JLPT JLPT_2,"A~U,=Hx4eT"
-～口,～くち,"~ opening; ~ entrance, ~ exit",JLPT JLPT_2,pT(<V!lc5R
+下る,くだる,"to descend, to go down, to come down",JLPT JLPT_2,x;r#pjjP.D
 唇,くちびる,lip,JLPT JLPT_2,Ojx~b|>9H|
 口紅,くちべに,lipstick,JLPT JLPT_2,tS@_TWWY!2
 くっつく,くっつく,"to adhere to, to keep close to",JLPT JLPT_2,oS}[QfJCGM
@@ -569,9 +553,7 @@ expression,reading,meaning,tags,guid
 クリーニング,クリーニング,"cleaning, dry cleaning, laundry service",JLPT JLPT_2,i[]|N=O%MV
 くるむ,くるむ,"to be enveloped by, to wrap up",JLPT JLPT_2,"BR}5xbe,nI"
 くれぐれも,くれぐれも,"repeatedly, sincerely, earnestly",JLPT JLPT_2,Fa/6^Kk;|O
-～家,～け,"~'s family, the house of ~",JLPT JLPT_2,OVLMa7l[Gn
-～形,～けい,shape of ~,JLPT JLPT_2,M3p*&+Wj>%
-～系,～けい,"~ system, ~ lineage, ~ group",JLPT_1 JLPT JLPT_2,AgNe/GkjZM
+郡,ぐん,"district, county",JLPT JLPT_2,bbr::y1BwQ
 稽古,けいこ,"practice, training, study",JLPT JLPT_2,j8X.KY|=u:
 敬語,けいご,"honorific language (lit., respect language)",JLPT Intermediate_Japanese Genki_Ln.19 JLPT_2 Intermediate_Japanese_Ln.13 Genki,yjE)OYPe3Q
 蛍光灯,けいこうとう,fluorescent lamp,JLPT JLPT_2,"QTW-;W~W,r"
@@ -600,9 +582,9 @@ expression,reading,meaning,tags,guid
 月末,げつまつ,end of the month,JLPT JLPT_2,yG[@;%)^%!
 気配,けはい,"indication, sign, hint",JLPT JLPT_2,vEl!:!Y]<7
 下品,げひん,"vulgar, indecent, coarse",JLPT JLPT_2,Mu42*K8+!p
+下品(な),げひん(な),vulgar,JLPT JLPT_2,OV!SBP%Y;}
 煙い,けむい,smoky,JLPT JLPT_2,jZ9K)#wLUe
 険しい,けわしい,"steep, rugged; severe",JLPT JLPT_2,sL2hQ27Y;>
-～圏,～けん,"bloc, sphere, area",JLPT_1 JLPT JLPT_2,Ddk.oC`&.J
 現～,げん～,"present, incumbent",JLPT JLPT_2,j5m@yw%F5s
 見学,けんがく,"tour, study by observation",JLPT JLPT_2,AGWPud)jCW
 謙虚,けんきょ,"modesty, humble",JLPT JLPT_2,dX|trSe.K0
@@ -619,12 +601,12 @@ expression,reading,meaning,tags,guid
 懸命,けんめい,"eagerness, strenuous",JLPT JLPT_2,q]z=kgzWuF
 原理,げんり,"principle, theory, fundamental truth",JLPT JLPT_2,k&wukQ5nce
 原料,げんりょう,raw materials,JLPT JLPT_2,c@Y5nO/W2_
+碁,ご,go (board game),JLPT JLPT_2,rtF@zQN<F]
 小～,こ～,small ~,JLPT JLPT_2,nc*Pi>[z&(
+コース,コース,course,JLPT JLPT_2,oysa|(e$-M
+コーラス,コーラス,chorus,JLPT JLPT_2,Humxyi-3mI
 恋しい,こいしい,"dear, beloved; to miss",JLPT JLPT_2,B6>l>%o=|:
 高～,こう～,high (level) ~,JLPT JLPT_2,D00VmIU)t|
-～校,～こう,counter for school,JLPT JLPT_2,m]41H0.3l-
-～港,～こう,~ port,JLPT JLPT_2,vQbZYeISYX
-～号,～ごう,counter for magazine; the name of ship,JLPT JLPT_2,qiAK;eRQt!
 工員,こういん,factory worker,JLPT JLPT_2,vkV[De+:pH
 強引,ごういん,"forcible, assertive, pushy",JLPT JLPT_2,sKp0o2A:hc
 公害,こうがい,"public nuisance, pollution",JLPT JLPT_2,QpY.UtLIJ[
@@ -638,13 +620,16 @@ expression,reading,meaning,tags,guid
 公式,こうしき,"formula, formality, official",JLPT JLPT_2,"nVcCuyV_X,"
 口実,こうじつ,excuse,JLPT JLPT_2,f`zk^AisY[
 こうして,こうして,"like this, with this",JLPT JLPT_2,ur#5.<4sqd
+校舎,こうしゃ,"school building, schoolhouse",JLPT JLPT_2,bX%cC*?a1%
 公衆,こうしゅう,the public,JLPT JLPT_2,bE}u4]$3>(
 香水,こうすい,perfume,JLPT JLPT_2,o.:4b?]N+f
+公正,こうせい,"justice, fairness, impartiality",JLPT JLPT_2,N@!)sH2_75
 功績,こうせき,"achievements, merit",JLPT JLPT_2,OI:=[B.(~f
 光線,こうせん,"beam, light ray",JLPT JLPT_2,ter3YDX-e<
 高層,こうそう,"tall, high rise",JLPT JLPT_2,AyG~sZay?6
 構造,こうぞう,"structure, construction",JLPT JLPT_2,hQ&6u.oz?k
 交替,こうたい,"change, relief, alteration",JLPT JLPT_2,MK%iQJeoa*
+交代,こうたい,"alternation, change, relief, relay, shift, substitution (sports, etc.), taking turns",JLPT JLPT_2,f~GJ18sE+w
 耕地,こうち,arable land,JLPT JLPT_2,k*|BtPi.!l
 交通機関,こうつうきかん,transportation facilities,JLPT JLPT_2,uNV6#=3}0=
 校庭,こうてい,school yard,JLPT JLPT_2,w[Wu+:]Zss
@@ -658,15 +643,14 @@ expression,reading,meaning,tags,guid
 公務,こうむ,"official business, public business",JLPT JLPT_2,ph__$$f`>`
 項目,こうもく,item,JLPT JLPT_2,IR)]Uw=>ew
 紅葉,こうよう,fall colors (of leaves),Intermediate_Japanese_Ln.4 JLPT JLPT_2 Intermediate_Japanese,QVPJ]RT}3i
+こうよう もみじ,こうよう もみじ,(Japanese) maple,JLPT JLPT_2,jyNUL2Cq@*
 合理,ごうり,rational,JLPT JLPT_2,i7M&H:#flC
 交流,こうりゅう,exchange; alternating current,JLPT JLPT_2,QGlx1yaY72
 合流,ごうりゅう,"confluence, merge, join",JLPT JLPT_2,FQa#d;SBEZ
 効力,こうりょく,"effect, efficacy",JLPT JLPT_2,m[c_>TpG7t
-コース,コース,course,JLPT JLPT_2,oysa|(e$-M
-コーラス,コーラス,chorus,JLPT JLPT_2,Humxyi-3mI
 焦がす,こがす,"to burn, to scorch",JLPT JLPT_2,DR^K9TVHMB
-～国,～こく,nation of ~,JLPT JLPT_2,m~(IN:3:#0
 国王,こくおう,king,JLPT JLPT_2,CA0:(YU5WC
+こくせき,こくせき,nationality,JLPT JLPT_2,Ew(}`1|Q5L
 国立,こくりつ,national,JLPT JLPT_2,n0&v0]`V#?
 ご苦労様,ごくろうさま,Thank you for your hard work,JLPT JLPT_2,t%p^_:OJ|i
 焦げる,こげる,"to burn, to be burned",JLPT JLPT_2,inwlPXnA$z
@@ -674,6 +658,7 @@ expression,reading,meaning,tags,guid
 心当たり,こころあたり,"having some knowledge of, happening to know",JLPT JLPT_2,d$_UA7~;A}
 心得る,こころえる,"to understand, to have thorough knowledge",JLPT JLPT_2,nby@b2~VRE
 腰掛け,こしかけ,"seat, bench",JLPT JLPT_2,B.?hce;|M.
+腰掛,こしかけ,"seat, bench",JLPT JLPT_2,E&fvprgdQl
 腰掛ける,こしかける,to sit (down),JLPT JLPT_2,C/%Q;o7b11
 五十音,ごじゅうおん,the Japanese syllabary,JLPT JLPT_2,jxVh59#|-M
 こしらえる,こしらえる,"to make, to manufacture",JLPT JLPT_2,i-3W|?L%O1
@@ -685,8 +670,6 @@ expression,reading,meaning,tags,guid
 コック,コック,"cook; tap, cock",JLPT JLPT_2,IM?]qPl^[d
 こっそり,こっそり,"stealthily, secretly",JLPT JLPT_2,o.yZt_~llY
 古典,こてん,"classics, classic",JLPT JLPT_2,"o,g/8g3=5w"
-～毎,～ごと,"every ~, each ~",JLPT JLPT_2,Bs7#M8Tn1H
-〜 (まる) ごと,〜 (まる) ごと,"whole ~, all of ~",JLPT JLPT_2,Ja%uZn!l8Y
 言付ける,ことづける,to leave a message,JLPT JLPT_2,kGvj%:f4#<
 言葉遣い,ことばづかい,"speech, expression, wording",JLPT JLPT_2,I8U([];a3j
 こないだ,こないだ,"the other day, lately, recently",JLPT JLPT_2,JgsjMc&2iB
@@ -735,12 +718,13 @@ expression,reading,meaning,tags,guid
 作製,さくせい,"manufacture, production",JLPT JLPT_2,Dc+`_1Q;zM
 探る,さぐる,"to search, to look for, investigate",JLPT JLPT_2,ez.n0eIW>4
 囁く,ささやく,"to whisper, to murmur",JLPT JLPT_2,k[yB!L/Yv(
+刺さる,ささる,"to stick, to be stuck",JLPT JLPT_2,di2BW%43-n
 匙,さじ,spoon,JLPT JLPT_2,ggmZY%(nJ!
 座敷,ざしき,tatami room,JLPT JLPT_2,gHE$Jut%a_
 差し支え,さしつかえ,"hindrance, impediment",JLPT JLPT_2,qX^cb43pTg
 差し引き,さしひき,"deduction, balance",JLPT_1 JLPT JLPT_2,"n;eVw.,_?J"
 刺身,さしみ,sliced raw fish,JLPT JLPT_2,o-]lrw>z:B
-(かさを～) さす,(かさを～) さす,to open; hold (an umbrella),JLPT JLPT_2 MediaMissing,g~n;/-.8!D
+刺す,さす,"to pierce, to stab, to prick, to thrust",JLPT JLPT_2,A0r!%n.b)E
 流石,さすが,"indeed, truly, as one would expect",JLPT JLPT_2,gcnvOm#<j9
 撮影,さつえい,photographing,JLPT JLPT_2,G!OhK*g%$p
 雑音,ざつおん,"noise (jarring, grating)",JLPT JLPT_2,o!*<keFQ(
@@ -754,30 +738,27 @@ expression,reading,meaning,tags,guid
 サラリーマン,サラリーマン,salaryman; company employee,Genki_Ln.17 JLPT JLPT_2 Genki,u[I9*22.YA
 騒がしい,さわがしい,noisy,JLPT JLPT_2,&bX;1oe0.
 さわやか,さわやか,"fresh, refreshing",JLPT JLPT_2,b-&ZHIB(b]
-～山,～さん,the name of mountain,JLPT JLPT_2,vw^f*9f$12
-～産,～さん,made in ~,JLPT JLPT_2,tJtC7!P@]H
 三角,さんかく,"triangle, triangular",JLPT JLPT_2,g[NvO}S(1/
 算数,さんすう,arithmetic,JLPT JLPT_2,Lv{*x9Ct]q
+酸性,さんせい,acidity acidic,JLPT JLPT_2,=WeA@3?3F
 産地,さんち,producing area,JLPT JLPT_2,kpOhDuN0^l
 サンプル,サンプル,sample,JLPT JLPT_2,qFsr;i5_z<
 山林,さんりん,mountain forest,JLPT JLPT_2,LBW4R6~{r}
-～史,～し,history of ~,JLPT JLPT_2,y`(f6xau3#
-～紙,～し,"newspaper, type of paper",JLPT JLPT_2,y0d}(mMiCt
-～寺,～じ,the name of temple,JLPT JLPT_2,Nj@/ru^JH5
-仕上がる,しあがる,to be finished,JLPT JLPT_2,L*U(LWwN%j
-明明後日,しあさって,two days after tomorrow,JLPT JLPT_2,p^=QyTJ7@c
 シーズン,シーズン,season (sporting),JLPT JLPT_2,IARwo(E^_$
 シーツ,シーツ,sheet,JLPT JLPT_2,tb>Ty8@c:P
+仕上がる,しあがる,to be finished,JLPT JLPT_2,L*U(LWwN%j
+明明後日,しあさって,two days after tomorrow,JLPT JLPT_2,p^=QyTJ7@c
 寺院,じいん,temple,JLPT JLPT_2,w+~OO%V(dB
 しいんと (する),しいんと (する),"silent (as the grave), (deathly) quiet",JLPT JLPT_2,GmX&j]f:`Y
 自衛,じえい,self-defense,JLPT JLPT_2,Fd@~(E2C4&
+塩辛,しおから,salty (taste),JLPT JLPT_2,r[SoJ]i|V1
 塩辛い,しおからい,salty (taste),JLPT JLPT_2,KK5?3S-Og)
 司会,しかい,"host, chairperson",JLPT JLPT_2,"gh[FPAuk7,"
+しかく しかくい,しかく しかくい,square,JLPT JLPT_2,cVBHdh5c]d
 四角い,しかくい,square,JLPT JLPT_2,liXo^C-VTz
 仕方がない,しかたがない,"it can't be helped, it's inevitable",JLPT JLPT_2,cRtc^s*^ci
-～時間目,～じかんめ,"~th hour, ~th period",JLPT JLPT_2,LonTM0:Ie8
 時間割,じかんわり,"timetable, schedule",JLPT JLPT_2,mSn8*?kmA+
-〜(日本) 式,～(にほん) しき,"custom,",JLPT JLPT_2 MediaMissing,no!e4=rwH(
+四季,しき,four seasons,JLPT JLPT_2,j=w0weSQi)
 敷地,しきち,site,JLPT JLPT_2,t=sgg6orFn
 敷く,しく,"to spread out, to lay out",JLPT JLPT_2,hY&B~>la@q
 茂る,しげる,to grow thick,JLPT JLPT_2,y~9GLud1<c
@@ -797,39 +778,40 @@ expression,reading,meaning,tags,guid
 下町,したまち,old parts of town,JLPT JLPT_2,tyOH?ReUJ?
 自治,じち,"self-government, autonomy",JLPT JLPT_2,oaY@jv0[<m
 室～,しつ～,room,JLPT JLPT_2,D1_T8l(@L#
-～室,～しつ,counter for room,JLPT JLPT_2,eycwn`U+hZ
-～日,～じつ,day,JLPT JLPT_2,jkFuTgpXi`
 実感,じっかん,"feelings, realization",JLPT JLPT_2,wrZR3pRs]d
 湿気,しっき,"moisture, humidity, dampness",JLPT JLPT_2,"E,5F1zc&nb"
 しつこい,しつこい,"insistent, obstinate",JLPT JLPT_2,cl$L-`(2=_
 実習,じっしゅう,"practice, training",JLPT JLPT_2,Q?<8X`Y6`0
 実績,じっせき,"achievements, actual results",JLPT JLPT_2,PTJ&0rneJs
+湿度,しつど,level of humidity,JLPT JLPT_2,i$wXV&h<e~
 執筆,しっぴつ,writing,JLPT JLPT_2,d&KI~[gCB*
 実物,じつぶつ,an actual thing,Intermediate_Japanese_Ln.6 JLPT_2 JLPT Intermediate_Japanese,fJhH*-i=?2
 しっぽ,しっぽ,tail (animal),JLPT JLPT_2,p%JPLRsrQ5
 実用,じつよう,"practical use, utility",JLPT JLPT_2,P$.|MnAuqw
-しつれいしました (かん),しつれいしました (かん),"Excuse me., I'm sorry.",JLPT JLPT_2,x&i%T@U%I?
+実力,じつりょく,"(real) ability, true strength, merit, efficiency, competency",JLPT JLPT_2,N8N^f(x7A}
 実例,じつれい,"example, instance",JLPT JLPT_2,ewdd$MkDp/
+しつれいしました (かん),しつれいしました (かん),"Excuse me., I'm sorry.",JLPT JLPT_2,x&i%T@U%I?
 失恋,しつれん,"broken heart, unrequited love",JLPT JLPT_2,HeXichFW(h
 指定,してい,"designation, specification, assignment",JLPT JLPT_2,LeO/O}WHQF
 私鉄,してつ,private railway,JLPT JLPT_2,c~zLGStXx;
+児童,じどう,"children, juvenile",JLPT JLPT_2,"e,|tEbv]Zq"
 縛る,しばる,"to tie, to bind",JLPT JLPT_2,u<vp]tuxC:
 地盤,じばん,(the) ground,JLPT JLPT_2,"w,S*6c4+}g"
 しびれる,しびれる,to become numb,JLPT JLPT_2,fFBvw=J;Al
 紙幣,しへい,"paper money, notes, bills",JLPT JLPT_2,"OV<,Z6HPYF"
 しぼむ,しぼむ,"to wither, to shrivel",JLPT JLPT_2,rQV|ihDTH/
+萎む,しぼむ,"to wither (of flowers, dreams, etc.), to wilt",JLPT JLPT_2,nNiS0>eZP6
 絞る,しぼる,"to press, to wring, to squeeze",JLPT JLPT_2,H^H!^blNEc
 縞,しま,stripe,JLPT JLPT_2,O7bnFhR1.s
-～おしまい (おわり),～おしまい (おわり),end up ~,JLPT JLPT_2,B07i&;klYX
+地味,じみ,"plain, simple, subdued, sober",JLPT JLPT_2,LT>0so`a$T
 しみじみ,しみじみ,"keenly, deeply, heartily",JLPT JLPT_2,e8*+SqN?3E
 氏名,しめい,full name,JLPT JLPT_2,i423XMuGh3
 締切,しめきり,deadline,JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.3,L=ve:1mZw7
+締め切り,しめきり,"deadline, closing, cut-off, end",JLPT JLPT_2,Md1`kIU$)u
 締め切る,しめきる,"to close, cancel",JLPT JLPT_2,G!n|7FGUeD
 しめた (かん),しめた (かん),"I've got it, all right, fine",JLPT JLPT_2,"zl!oUL,zds"
+しめる,しめる,"to be wet, to become wet, to be damp",JLPT JLPT_2,B-RIGx{n6t
 地面,じめん,"ground, earth's surface",JLPT JLPT_2,sKB=F~Okr&
-～車,～しゃ,~ car,JLPT JLPT_2,h)<Q^X85ag
-～者,～しゃ,person,JLPT JLPT_2,MTv(a]7l!6
-～社,～しゃ,counter for company,JLPT JLPT_2,sQmjhXA-Mr
 ジャーナリスト,ジャーナリスト,journalist,JLPT JLPT_2,"J*kn.#JF,]"
 社会科学,しゃかいかがく,social science,JLPT JLPT_2,k09..p/K:$
 しゃがむ,しゃがむ,to squat,JLPT JLPT_2,oIYnDS)YJi
@@ -845,215 +827,461 @@ expression,reading,meaning,tags,guid
 車輪,しゃりん,(car) wheel,JLPT JLPT_2,w^RM.{Q-65
 洒落,しゃれ,"joke, pun, witticism",JLPT JLPT_2,FiN|9?=c;o
 じゃんけん,じゃんけん,rock-scissors-paper game,JLPT JLPT_2,"r[@>bl*,N."
-～手,～しゅ,"~ player, person who does ~",JLPT JLPT_2,IkixzX56yl
-～酒,～しゅ,kind of alcohol,JLPT JLPT_2,k?BC&(RjAH
-～集,～しゅう,collection of ~,JLPT JLPT_2,LdT;R@utl1
 重～,じゅう～,heavy ~,JLPT JLPT_2,"j{}Q,b8AUe"
 集会,しゅうかい,"meeting, assembly",JLPT JLPT_2,FB%)C]f(i:
+住居,じゅうきょ,"dwelling, house, residence, address",JLPT JLPT_2,dv!To}OFLp
 集金,しゅうきん,money collection,JLPT JLPT_2,vqI&vRYrZz
 集合,しゅうごう,"gathering, assembly",JLPT JLPT_2,QQkx-.?$px
 習字,しゅうじ,penmanship,JLPT JLPT_2,DHN{BIzy9J
 修繕,しゅうぜん,"repair, mending",JLPT JLPT_2,8Hn$K(/y&
+重体,じゅうたい,"serious condition, critical condition",JLPT JLPT_2,eGoKd/:^C0
 じゅうたん (カーペット),じゅうたん (カーペット),carpet,JLPT JLPT_2,wuSQ.Es4!<
 終点,しゅうてん,"terminus, last stop (e.g train)",JLPT JLPT_2,yoA+}ku9{T
 重点,じゅうてん,"important point, lay stress on, emphasis",JLPT JLPT_2,m03VNo)9t$
-リズム,リズム,rhythm,JLPT JLPT_2,sEJgqt=slc
-リットル,リットル,liter,JLPT JLPT_2,J=WKC<9({c
-リボン,リボン,ribbon,JLPT JLPT_2,d<&zzlZBY`
-略す,りゃくす,to abbreviate,JLPT JLPT_2,tS9.Rzrjw(
-～流,～りゅう,"fashion, manner, way",JLPT JLPT_2,zpH1qv^$%p
-流域,りゅういき,(river) basin,JLPT JLPT_2,fHWZ-KtDHt
-両～,りょう～,both ~,JLPT JLPT_2,i/MiSZ3!G4
-～料,～りょう,"fare, charge",JLPT JLPT_2,IX116ZKh4C
-～領,～りょう,territory,JLPT JLPT_2,MXZX<Kqb>
-両側,りょうがわ,both sides,JLPT JLPT_2,I4rwSM+9WF
-漁師,りょうし,fisherman,JLPT JLPT_2,lKSSx-0&_N
-領事,りょうじ,consul,JLPT JLPT_2,Pu=nQI2MaF
-領収,りょうしゅう,"receipt, voucher",JLPT JLPT_2,g0BH(u/;@f
-～力,～りょく,power of ~,JLPT JLPT_2,G<sBHiz^]!
-臨時,りんじ,"temporary, special, extraordinary",JLPT JLPT_2,"IQ{y{$,U6]"
-留守番,るすばん,"care-taking, caretaker, house-watching",JLPT JLPT_2 Genki_Ln.23 Genki,MW#7DF[RQ)
-零点,れいてん,"zero, no marks",JLPT JLPT_2,Hh<_pAYn4<
-冷凍,れいとう,"freezing, cold storage, refrigeration",JLPT JLPT_2,iIL[pf<7Zb
-レインコート,レインコート,raincoat,JLPT JLPT_2,h{`Micb;bg
-レクリェーション,レクリェーション,recreation,JLPT JLPT_2,MmD@s.(0])
-レジャー,レジャー,leisure,JLPT JLPT_2,o0|E{X}Nj}
-列島,れっとう,chain of islands,JLPT JLPT_2,Ev?wG8aB}r
-リポート,リポート,"report, paper",JLPT JLPT_2,"C>!.T,TyRb"
-煉瓦,れんが,brick,JLPT JLPT_2,cY@sqBwW67
-連合,れんごう,"union, alliance",JLPT JLPT_2,F3-L+C:h6>
-レンズ,レンズ,lens,JLPT JLPT_2,w1(O7Kos8|
-ろうそく,ろうそく,candle,JLPT_2 JLPT Genki_Ln.18 Genki,w_)UKdrs_:
-ローマ字,ローマじ,"romanization, Roman letters (alphabet)",JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,"n,*Nb4*]$5"
-録音,ろくおん,(audio) recording,JLPT JLPT_2,E#iNpJw]tp
-ロッカー,ロッカー,locker,JLPT JLPT_2,m*zHe7hzP9
-ロビー,ロビー,lobby,JLPT JLPT_2,i8ig9mjNdK
-～論,～ろん,theory,JLPT JLPT_2,"ec<,e&v$V7"
-論ずる,ろんずる,"to argue, to discuss",JLPT JLPT_2,y/^Bn9Z9<_
-和～,わ～,Japanese style,JLPT JLPT_2,JBvdN:J16X
-～羽,～わ,counter for rabbits; birds,JLPT JLPT_2,FQL)TF/a}O
-和英,わえい,Japanese-English,JLPT JLPT_2,"B*@cU.E9,A"
-我～,わが～,our ~,JLPT JLPT_2,L0:Cs<lBa|
-若々しい,わかわかしい,"youthful, young",JLPT JLPT_2,EC2u(({!rQ
-詫びる,わびる,to apologize,JLPT JLPT_2,x!9QsM6~r{
-和服,わふく,Japanese clothes,JLPT JLPT_2,v@K#0^dxIj
-割合に,わりあいに,"relatively, comparatively",JLPT JLPT_2,A0do>r1!)l
-割算,わりざん,division (math),JLPT JLPT_2,eZw4N!$Eu-
-割と,わりと,"relatively, comparatively",JLPT JLPT_2,"I-,z(jixJ,"
-割引,わりびき,discount,JLPT JLPT_2,oLo@nz.I(q
-ワンピース,ワンピース,one-piece dress,JLPT JLPT_2,l({SDlo@!^
-アイデア; アイディア,アイデア; アイディア,idea,JLPT JLPT_2,NkL-h!TKp$
-あいまい,あいまい,"vague, ambiguous",JLPT JLPT_2,"y8aZ,my]%p"
-扇ぐ,あおぐ,"to fan, to flap",JLPT JLPT_2,Gk2+[0&j}c
-青白い,あおじろい,pale,JLPT JLPT_2,B[(dutQ)|%
-呆れる,あきれる,"to be shocked, to be appalled",JLPT JLPT_2,o8s#rYeo4>
-アクセント,アクセント,accent,JLPT JLPT_2,"w=+|,GhTIn"
-あくび,あくび,yawn,JLPT JLPT_2,v|~6.5@[n^
-飽くまで,あくまで,"to the end, to the last, stubbornly",JLPT JLPT_2,"vD,5@+@_q]"
-明くる～,あくる～,"next, following",JLPT JLPT_2,c0UJ5Dk9?v
-明け方,あけがた,dawn,JLPT JLPT_2,pi=5b}Xk:R
-憧れる,あこがれる,"to long for, to yearn after",JLPT JLPT_2,c:=`W|}Gw`
-朝寝坊,あさねぼう,"oversleeping, late riser",JLPT JLPT_2,kR|>&(p6rG
-足跡,あしあと,footprint,JLPT JLPT_2,lj:ebvgd-q
-足元,あしもと,at one's feet,JLPT JLPT_2,Ha)Qe[babj
-味わう,あじわう,"to taste, to savor",JLPT JLPT_2,uxSo4jtf~d
-あちらこちら,あちらこちら,here and there,JLPT JLPT_2,Q~Ip4wR{af
-厚かましい,あつかましい,"impudent, shameless,",JLPT JLPT_2,"wZ0,_rCNQo"
-圧縮,あっしゅく,"compression, condensation, pressure",JLPT JLPT_2,G:WAF/Dx1i
-宛名,あてな,"address, direction",JLPT JLPT_2,"Q!,(6>`cO,"
-当てはまる,あてはまる,"to be applicable, to come under (a category)",JLPT JLPT_2,gWVd1Z[tfA
-当てはめる,あてはめる,"to apply, to adapt",JLPT JLPT_2,OP(Hu}mMQq
-暴れる,あばれる,"to act violently, to rage",JLPT JLPT_2,L6trU>v^!
-あぶる,あぶる,"to scorch, to roast",JLPT JLPT_2,Jz@lzbGk7x
-あふれる,あふれる,"to flood, to overflow",JLPT JLPT_2,be7:(ploED
-雨戸,あまど,sliding storm door,JLPT JLPT_2,v+crs*_nva
-甘やかす,あまやかす,"to pamper, to spoil",JLPT JLPT_2,f~Uvnb+KP=
-余る,あまる,"to be left over, to be in excess",JLPT JLPT_2,r`ob2WL<}I
-編み物,あみもの,knitting,JLPT JLPT_2,KBOilYWmo2
-編む,あむ,to knit,Genki Genki_Ln.13 JLPT JLPT_2,"Bcd5,b]]w5"
-危うい,あやうい,"dangerous, critical",JLPT JLPT_2,JYnP1Z3O1n
-怪しい,あやしい,"suspicious, dubious, doubtful",JLPT JLPT_2,r?rB[7EP>5
-荒い,あらい,"rough, rude, wild",JLPT JLPT_2,P5h|CxAaCE
-粗い,あらい,"coarse, rough",JLPT JLPT_2,t~Hs$2O?FD
-粗筋,あらすじ,"outline, synopsis",JLPT JLPT_2,GLP0^5#h&@
-改めて,あらためて,"another time, again",JLPT JLPT_2,M$)j_R%uiN
-改める,あらためる,"to change, to reform, to revise",JLPT JLPT_2,k-ggJ#W2U)
-有難い,ありがたい,"grateful, thankful, appreciated",JLPT JLPT_2,yLS%JRr`~I
-あれこれ,あれこれ,"one thing or another, this and that",JLPT JLPT_2,H3{e@Ms<u9
-荒れる,あれる,"to be stormy, to be rough, to be ruined",JLPT JLPT_2,opLT~#LruK
-慌ただしい,あわただしい,"busy, hurried",JLPT JLPT_2,"d*5}[C^,EG"
-安易,あんい,easy-going,JLPT JLPT_2,cpsk;f2&m/
-アンテナ,アンテナ,antenna,JLPT JLPT_2,u25h^5*Vx<
-～位,～い,~th place,JLPT JLPT_2,G*#PQ&xZe;
-言い出す,いいだす,"to start talking, to suggest",JLPT JLPT_2,ma-oStit-!
-言い付ける,いいつける,"to tell, to order",JLPT JLPT_2,K=!C~7x9Db
-意義,いぎ,"meaning, significance",JLPT JLPT_2,K*wt2r`%<B
-生き生き,いきいき,"vividly, lively",JLPT JLPT_2,Am|5$tSksY
-いきなり,いきなり,all of a sudden,Intermediate_Japanese Intermediate_Japanese_Ln.13 JLPT JLPT_2,J=<-XB_N-t
-幾～,いく～,several ~,JLPT JLPT_2,o<XZoP)ZFl
-育児,いくじ,"childcare, nursing",Intermediate_Japanese Intermediate_Japanese_Ln.14 JLPT JLPT_2,hwmLlQK_:7
-幾分,いくぶん,somewhat,JLPT JLPT_2,wUiE3U*>P6
-生け花,いけばな,flower arrangement,JLPT JLPT_2,o!9H~`j>Ob
-以後,いご,after this; from now on; hereafter,JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese,"OpKq9d,k&%"
-以降,いこう,"on and after, hereafter",JLPT JLPT_2,"hI7gX,ojpA"
-イコール,イコール,equal,JLPT JLPT_2,F:$jr>Gcvz
-勇ましい,いさましい,"brave, valiant",JLPT JLPT_2,jh9$B&!xLP
-衣食住,いしょくじゅう,"food, clothing and shelter",JLPT JLPT_2,yYjE5SKh.|
-～いち (にほんいち),～いち (にほんいち),No. 1 ~ (in),JLPT JLPT_2,GmGAkPKtVr
-いちいち,いちいち,"one by one, separately",JLPT JLPT_2,c`q7>|uO;;
-一応,いちおう,"tentatively, for the time being",JLPT JLPT_2,DUm[|ty]2z
-一段と,いちだんと,"by far, greater",JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,H2Se/ybI3t
-一流,いちりゅう,"first class, leading",JLPT JLPT_2,Q-z[xmuvA*
-一昨日,いっさくじつ,day before yesterday,JLPT JLPT_2,q)l_a#Mm^@
-一昨年,いっさくねん,year before last,JLPT JLPT_2,H3]XYSojiI
-一斉,いっせい,"simultaneous, all at once",JLPT JLPT_2,H3C62{9DP`
-一旦,いったん,"once, for a moment",JLPT JLPT_2,"Fv;m,:R#X("
-一定,いってい,"fixed, settled, regular",JLPT JLPT_2,Qx{lB{;UG~
-行っていらっしゃい,いっていらっしゃい,"have a nice day, see you",JLPT JLPT_2,Q~[>k~aD(O
-行ってらっしゃい,いってらっしゃい,"have a nice day, see you",JLPT JLPT_2,eL-o)31hPE
-いってまいります,いってまいります,"(Lit.) I'll go and come back, 'I'm going, see you later'",JLPT JLPT_2,wg6qf;hcRZ
-いってきます,いってきます,"(Lit.) I'll go and come back, 'I'm going, see you later'",JLPT JLPT_2,O;VZoV$S8W
-移転,いてん,"moving, transfer",JLPT JLPT_2,A[fI%[bpSh
-井戸,いど,water well,JLPT JLPT_2,"Fw}ob1+9,G"
-緯度,いど,latitude (navigation),JLPT JLPT_2,mKsQtDevFo
-威張る,いばる,"to be proud, to swagger",JLPT JLPT_2,kEp;c{E_R1
-嫌がる,いやがる,"reluctant, to dislike",JLPT JLPT_2,wwKIWtwwb&
-いよいよ,いよいよ,"more and more, increasingly, at last",JLPT JLPT_2,h5$?Ko/s)4
-煎る,いる,to roast,JLPT JLPT_2,"bLrppO],[q"
-炒る,いる,"to parch, to roast",JLPT JLPT_2,dcy>(4#yAy
-入れ物,いれもの,"container, case",JLPT JLPT_2,RbLFeu/vvY
-インキ,インキ,ink,JLPT JLPT_2,I{rR0;+{t|
-引力,いんりょく,gravity,JLPT JLPT_2,cP:.V7Ysb%
-ウーマン,ウーマン,woman,JLPT JLPT_2,"O5m,c!v(H5"
-ウール,ウール,wool,JLPT JLPT_2,bgePnfbn;n
-ウエートレス,ウエートレス,waitress,JLPT JLPT_2,C$[Z6H5/gO
-植木,うえき,"garden shrubs, trees, potted plant",JLPT JLPT_2,j}3Ny1eUVB
-飢える,うえる,to starve,JLPT JLPT_2,CQMZtp4T24
-浮ぶ,うかぶ,"to float, to rise to surface, to come to mind",JLPT JLPT_2,IN|gezRxCl
-浮かべる,うかべる,to float; to express,JLPT JLPT_2,Nj{^.3q>-V
-浮く,うく,to float,JLPT JLPT_2,JS6e6ewLTQ
-承る,うけたまわる,"(humble) to hear, to be told, to know",JLPT JLPT_2,IKhK:kjp?E
-受取,うけとり,receipt,JLPT JLPT_2,"k?,%G]kD{4"
-受け持つ,うけもつ,to take (be in) charge of,JLPT JLPT_2,b1cU__S&E=
-薄暗い,うすぐらい,"dim, gloomy",JLPT JLPT_2,m6<YpAEgo!
-薄める,うすめる,"to dilute, to water down",JLPT JLPT_2,F/33?d^ON{
-打合せ,うちあわせ,"business meeting, previous arrangement",JLPT JLPT_2,I>LU.f-`NP
-打ち消す,うちけす,"to deny, to negate",JLPT JLPT_2,HCI~2sil9S
-うどん,うどん,udon noodles (Japanese traditional noodles),Intermediate_Japanese_Ln.6 JLPT_2 JLPT Intermediate_Japanese,zUsFPVRoV;
-うなずく,うなずく,to nod,JLPT JLPT_2,qP>fuv+29W
-敬う,うやまう,"to show respect, to honor",JLPT JLPT_2,hRta^!r1WT
-裏返す,うらがえす,"to turn inside out, to turn (something) over",JLPT JLPT_2,cJR[<yA$vw
-裏口,うらぐち,"backdoor, rear entrance",JLPT JLPT_2,xTA1N/QL{`
-占う,うらなう,"to predict, to divine",JLPT JLPT_2,isAnLJU5w0
-恨み,うらみ,resentment,JLPT JLPT_2,"A+B,^3x]O="
-恨む,うらむ,"to curse, to feel bitter",JLPT JLPT_2,D@R<vxJ)<U
-羨む,うらやむ,to envy,JLPT JLPT_2,tthSa[}tg_
-売上,うりあげ,"amount sold, proceeds",JLPT JLPT_2,p9d{%uQSR:
-売り切れ,うりきれ,sold-out,JLPT JLPT_2,J#x&HGI1=J
-売り切れる,うりきれる,to be sold out,JLPT JLPT_2,Ls1JX0p>PP
-売行き,うれゆき,sales,JLPT JLPT_2,t0r)gygLV
-うろうろ,うろうろ,"loitering, aimless wandering",JLPT JLPT_2,h0R8Gh3Y^Q
-上～,うわ～,upper ~,JLPT JLPT_2,IiRGZY[b#L
-運河,うんが,"canal, waterway",JLPT JLPT_2,os15ZQMcmE
-うんと,うんと,"a great deal, very much",JLPT JLPT_2,K1|_U:?Zi2
-英文,えいぶん,sentence in English,JLPT JLPT_2,N6cGn)]tI&
-英和,えいわ,"English-Japanese (e.g., dictionary)",JLPT JLPT_2,iL]q/<ICwB
-ええと,ええと,"let me see, well, er...",JLPT JLPT_2,k9QoK3_%6*
-液体,えきたい,"liquid, fluid",JLPT JLPT_2,CdyMwPZr;-
-エチケット,エチケット,etiquette,JLPT JLPT_2,JD<(LA+lT8
-絵の具,えのぐ,"colors, paints",JLPT JLPT_2,il.hIkd5@*
-エプロン,エプロン,apron,JLPT JLPT_2,iE$K!WaP&V
-偉い,えらい,"great, celebrated, remarkable,",JLPT JLPT_2,va_:XsaQZY
-～園,～えん,~ garden (especially man made),JLPT JLPT_2,z)[Ulzmb?X
-宴会,えんかい,"party, banquet",JLPT JLPT_2,i-sdwsFh$Z
-園芸,えんげい,"horticulture, gardening",JLPT JLPT_2,BqeOt&R7YG
-演劇,えんげき,play (theatrical),JLPT JLPT_2,"Otg5e*No,p"
-円周,えんしゅう,circumference,JLPT JLPT_2,Q#$a9V=}iv
-遠足,えんそく,"trip, hike, picnic",JLPT JLPT_2,K/i>jpon?&
-延長,えんちょう,"extension, prolongation",JLPT JLPT_2,kv5xP;(9Nh
-煙突,えんとつ,chimney,JLPT JLPT_2,vA~$8Qi$g7
-御～,おん～,honorific ~,JLPT JLPT_2,oiyGIL2u!>
-追いかける,おいかける,to chase or run after someone,JLPT JLPT_2,IwJw]GEFbC
-追い越す,おいこす,"to pass (e.g., car), to outdistance, to outstrip",JLPT JLPT_2,QFqJ-N@k`a
-オイル,オイル,oil,JLPT JLPT_2,lfd7.m*9JT
-王女,おうじょ,princess,JLPT JLPT_2,mtg%KXTE/:
-応ずる,おうずる,"to respond, to comply with",JLPT JLPT_2,uaD~LH-B3=
-応接,おうせつ,reception,JLPT JLPT_2,bEx~ccePEK
-応対,おうたい,"receiving, dealing with",JLPT JLPT_2,"cy],C~WcL}"
-往復,おうふく,"(col) round trip, coming and going, return ticket",JLPT JLPT_2,n3GyO1oyI7
-欧米,おうべい,"Europe and America, the West",JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese,n1r<]dO&N/
-応用,おうよう,"application, put to practical use",JLPT JLPT_2,KS%06Cn^yw
+就任,しゅうにん,"inauguration, assumption of office",JLPT JLPT_2,HtcOE.Q|y4
+周辺,しゅうへん,"circumference, peripheral",JLPT JLPT_2,hN?qSe;l/I
+重役,じゅうやく,"director, high executive",JLPT JLPT_2,nHZ3{$.oV6
+終了,しゅうりょう,"end, close, termination",JLPT_1 JLPT JLPT_2,bv?qBa-JLm
+重量,じゅうりょう,heavyweight,JLPT JLPT_2,L@e.0E4LTG
+重力,じゅうりょく,gravity,JLPT JLPT_2,p;B+5;@b>T
+熟語,じゅくご,"idiom, kanji compound",JLPT JLPT_2,JfoRe)yOPp
+祝日,しゅくじつ,national holiday,JLPT JLPT_2,k6tGq~h4+p
+縮小,しゅくしょう,"reduction, curtailment",JLPT JLPT_2,A;W|R`P$FY
+受験,じゅけん,taking an examination,JLPT JLPT_2,h]:z)|nWsb
+主語,しゅご,(gram) subject,JLPT JLPT_2,E2f>S=Qsi$
+主人,しゅじん,(one's own) husband,JLPT JLPT_2 Intermediate_Japanese_Ln.9 Intermediate_Japanese,y0Vh0}pH&D
+出勤,しゅっきん,"going to work, at work",JLPT JLPT_2,j_B5AK}^J!
+述語,じゅつご,predicate,JLPT JLPT_2,"rBV;MM,_Ui"
+出張,しゅっちょう,"official tour, business trip",JLPT Intermediate_Japanese Genki_Ln.19 JLPT_2 Intermediate_Japanese_Ln.10 Genki,QbLl4<fBGE
+寿命,じゅみょう,life span,JLPT JLPT_2,ip@RR(6Q)w
+主役,しゅやく,leading part,JLPT JLPT_2,AAvA2F|qmF
+受話器,じゅわき,(telephone) receiver,JLPT JLPT_2,jRLR$b=wEf
+循環,じゅんかん,"circulation, rotation, cycle",JLPT JLPT_2,z/Jjqic)yW
+巡査,じゅんさ,policeman,JLPT JLPT_2,mWfGm:/O]=
+順々,じゅんじゅん,"in order, in turn",JLPT JLPT_2,lO7^4=~T>J
+順序,じゅんじょ,"order, sequence, procedure",JLPT JLPT_2,q=^2QGGaA
+純情,じゅんじょう,pure heart,JLPT JLPT_2,C6E@oxfT>)
+純粋,じゅんすい,"pure, genuine, unmixed",JLPT JLPT_2,x2gLnGo0Hy
+初～,しょ～,first ~,JLPT JLPT_2,Ni+{r7rs24
+諸～,しょ～,various ~,JLPT JLPT_2,Q5kl8(<^]h
+女～,じょ～,things done by women,JLPT JLPT_2,LhI(13lT>E
+省～,しょう～,economizing ~,JLPT JLPT_2,im>V5<%2Jx
+消化,しょうか,digestion,JLPT JLPT_2,C#pz<pJ<eo
+小学生,しょうがくせい,elementary school pupil,JLPT JLPT_2,GKx{~(QY^<
+しょうがない,しょうがない,It is not worth ~,JLPT JLPT_2,H;w)!q6QIW
+将棋,しょうぎ,Japanese chess,JLPT JLPT_2,o>-[BTOgMu
+蒸気,じょうき,"steam, vapor",JLPT JLPT_2,yr+:#u3w]#
+定規,じょうぎ,(measuring) ruler,JLPT JLPT_2,y8|>I<):Fb
+上級,じょうきゅう,"advanced level, high grade, senior",JLPT JLPT_2,E]<)eitS5v
+商業,しょうぎょう,"commerce, trade, business",JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese,tBxA`{EGUT
+消極的,しょうきょくてき,passive,JLPT JLPT_2,D7|$-Q)w)~
+賞金,しょうきん,"prize, monetary award",JLPT JLPT_2,h7834at`:k
+上下,じょうげ,"high and low, up and down",JLPT JLPT_2,o_^4=W.VM#
+障子,しょうじ,paper sliding door,JLPT JLPT_2,M[TE$UVbid
+商社,しょうしゃ,trading company,JLPT JLPT_2,J/lSCUTs~[
+乗車,じょうしゃ,"taking a train, entraining",JLPT JLPT_2,Nw+J{<dSau
+上旬,じょうじゅん,first 10 days of month,JLPT JLPT_2,h))LgN=I.e
+小数,しょうすう,"fraction (part of), decimal",JLPT JLPT_2,z:q}dc<I:s
+生ずる,しょうずる,"to cause, to arise, to be generated",JLPT JLPT_2,"vg9e=r3Tl,"
+商店,しょうてん,"shop, business firm",JLPT JLPT_2,glT|Kxp]>$
+焦点,しょうてん,"focus, point",JLPT JLPT_2,wHjNiqCz}x
+消毒,しょうどく,disinfection,JLPT JLPT_2,xo2iz}Ug@`
+勝敗,しょうはい,"victory or defeat, issue (of battle)",JLPT JLPT_2,BU<_6fBUh}
+蒸発,じょうはつ,evaporation; unexplained disappearance,JLPT JLPT_2,lr6Aj]|}(-
+賞品,しょうひん,"prize, trophy",JLPT JLPT_2,M}I~*8Gv<&
+上品,じょうひん,"refined, elegant, well-mannered",JLPT JLPT_2,M|bWva`I=w
+勝負,しょうぶ,"victory or defeat, game",JLPT JLPT_2,gj|IO4h=q;
+小便,しょうべん,"(col) urine, piss",JLPT JLPT_2,"bK|,0ua1Dl"
+消防署,しょうぼうしょ,fire station,JLPT JLPT_2,FRL.hg2R`~
+正味,しょうみ,net (weight),JLPT JLPT_2,E)H$Zvk^B:
+正面,しょうめん,front,JLPT JLPT_2,gfh>dfSUZU
+消耗,しょうもう,"exhaustion, consumption",JLPT JLPT_2,k}G5Ve])50
+省略,しょうりゃく,"omission, abbreviation, abridgment",JLPT JLPT_2,jp1y&-#kyn
+初級,しょきゅう,elementary level,JLPT JLPT_2,s5Nz5KFo?B
+助教授,じょきょうじゅ,assistant professor,JLPT JLPT_2,C@A-m!z]Kq
+食塩,しょくえん,table salt,JLPT JLPT_2,Hp0g>KLWj/
+職人,しょくにん,"artisan, craftsman",JLPT JLPT_2,"tJH,8Q27Qt"
+職場,しょくば,workplace,JLPT JLPT_2,P&{;#KVmG&
+初旬,しょじゅん,first 10 days of the month,JLPT JLPT_2,jZertmVDFe
+書籍,しょせき,"book, publication",JLPT JLPT_2,Bf)uYlO=AT
+食器,しょっき,tableware,JLPT JLPT_2,iPV[H=Yj`[
+ショップ,ショップ,a shop,JLPT JLPT_2,A=dH=_y-%Q
+書店,しょてん,bookshop,JLPT JLPT_2,s4qIEN6Bk}
+書道,しょどう,calligraphy,JLPT JLPT_2,f:%5][vkAc
+初歩,しょほ,"elements, rudiments",JLPT JLPT_2,wZ7G?ntb5}
+白髪,しらが,"white or grey hair, trendy hair bleaching",JLPT JLPT_2,uxCiljm@9n
+シリーズ,シリーズ,series,JLPT JLPT_2,DA5W7`%j#(
+知り合い,しりあい,acquaintance,JLPT JLPT_2,eY^k(4N>1-
+私立,しりつ,private (establishment),JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese,brR|}=<!Bd
+資料,しりょう,"materials, data",JLPT JLPT_2,C&tPzTV2wQ
+汁,しる,"juice, soup",JLPT JLPT_2,y647aHlaUn
+素人,しろうと,"layman, amateur, novice",JLPT JLPT_2 Intermediate_Japanese_Ln.12 Intermediate_Japanese,dWPWBG[+:j
+しわ (かおの～),しわ (かおの～),"wrinkles, creases",JLPT JLPT_2,Jk5.8cDx8n
+芯,しん,"core, heart, wick",JLPT JLPT_2,B=cR}zPm:}
+新幹線,しんかんせん,"Shinkansen, ""Bullet Train""",JLPT Intermediate_Japanese JLPT_2 Genki_Ln.9 Intermediate_Japanese_Ln.10 Genki,pM-.4/Ue$w
+真空,しんくう,vacuum,JLPT JLPT_2,tIYBRvP|M5
+人事,じんじ,"human resources, personnel management",JLPT JLPT_2,J+x/%Fy483
+心身,しんしん,mind and body,JLPT JLPT_2,H#/ONp0lez
+信ずる,しんずる,to believe,JLPT JLPT_2,BQ&<yiF@u2
+申請,しんせい,"application, request, petition",JLPT JLPT_2,M*(J<<s/@8
+人造,じんぞう,"man-made, synthetic, artificial",JLPT JLPT_2,v2{nYsGU&z
+寝台,しんだい,bed,JLPT JLPT_2,qO9j3@Hghp
+診断,しんだん,diagnosis,JLPT JLPT_2,g+wZt;=B>k
+侵入,しんにゅう,"invasion, raid, trespass",JLPT JLPT_2,H1b.p!HN7#
+人文科学,じんぶんかがく,"social sciences, humanities",JLPT JLPT_2,g+ud_9CPby
+人命,じんめい,(human) life,JLPT JLPT_2,Q6U(4ZXO=G
+深夜,しんや,late at night,JLPT JLPT_2,"u,9r~:<(rE"
+森林,しんりん,"forest, woods",JLPT JLPT_2,BVfTI:K.BL
+親類,しんるい,relative(s) (same as 親戚 (しんせき)),JLPT Intermediate_Japanese JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese_Ln.9,lfd[d~BlbI
+針路,しんろ,"course, direction",JLPT JLPT_2,xt6+*3Xb17
+神話,しんわ,"myth, legend",JLPT JLPT_2,gbqw2%E-oa
+酢,す,vinegar,JLPT JLPT_2,S|>MWw8{x
+水産,すいさん,"marine products, fisheries",JLPT JLPT_2,c#54iPiGrb
+炊事,すいじ,cooking,JLPT JLPT_2,"xKch,yK?.P"
+水蒸気,すいじょうき,"water vapor, steam",JLPT JLPT_2,k8jAO*|}~5
+水素,すいそ,hydrogen,JLPT JLPT_2,i73L7}gO>6
+垂直,すいちょく,"vertical, perpendicular",JLPT JLPT_2,G8}j61|h6T
+推定,すいてい,"presumption, assumption, estimation",JLPT JLPT_2,jp6vOFS{a6
+水滴,すいてき,drop of water,JLPT JLPT_2,y}Hrc9&%7j
+水筒,すいとう,"canteen, flask, water bottle",JLPT JLPT_2,mJ90J(~1k%
+随筆,ずいひつ,"essays, miscellaneous writings",JLPT JLPT_2,h4p6ekF;42
+水分,すいぶん,moisture,JLPT JLPT_2,qq@<XjC)__
+水平,すいへい,"level, horizontal",JLPT JLPT_2,Kn`n)IG{Ta
+水平線,すいへいせん,horizon,JLPT JLPT_2,Ej.liCGYdk
+水面,すいめん,water's surface,JLPT JLPT_2,iZ{|=]VK5.
+水曜,すいよう,Wednesday,JLPT JLPT_2,qI=LNhp+4=
+図々しい,ずうずうしい,"impudent, shameless",JLPT JLPT_2,"w{41{qX1P,"
+ずうっと,ずうっと,"all the time, all the way",JLPT JLPT_2,xL3QlTnk>6
+末っ子,すえっこ,youngest child,JLPT JLPT_2,q2H?txJ(gz
+スカーフ,スカーフ,scarf,JLPT JLPT_2,QEu2m9Dj{V
+図鑑,ずかん,picture book,JLPT JLPT_2,"i,){||O+QG"
+隙,すき,"unguarded moment, chance",JLPT JLPT_2,FIQY`SsGB6
+杉,すぎ,Japanese cedar,JLPT JLPT_2,j[):R@cYZf
+好き嫌い,すききらい,"likes and dislikes, taste",JLPT JLPT_2,E7nO8cj@J.
+好き好き,すきずき,matter of taste,JLPT JLPT_2,LjV{PzjM5W
+透き通る,すきとおる,to be(come) transparent,JLPT JLPT_2,mdCfr_&Mjk
+隙間,すきま,"crack, gap, opening",JLPT JLPT_2,"hLO,M-m.c?"
+スクール,スクール,school,JLPT JLPT_2,cGFe.>Ak]k
+少なくとも,すくなくとも,at least,JLPT JLPT_2,I6Xp`pMQBV
+図形,ずけい,figure,JLPT JLPT_2,q~#`u[+ICl
+鈴,すず,bell,JLPT JLPT_2,sPf>sM2#u
+涼む,すずむ,"to cool oneself, to cool off",JLPT JLPT_2,z:IPAXSnoW
+スタート,スタート,start,JLPT JLPT_2,lWJWm$Sh_7
+スチュワーデス,スチュワーデス,stewardess,JLPT JLPT_2,z4fbmz3-}|
+すっきり,すっきり,"shapely, clear, neat",JLPT JLPT_2,u=7m1&|4_G
+ステージ,ステージ,stage; performance,JLPT JLPT_2,dC1~iTR.Y
+ストッキング,ストッキング,stockings,JLPT JLPT_2,B5:XuLvrca
+ストップ,ストップ,stop,JLPT JLPT_2,nVeh3~p35:
+素直,すなお,"obedient, meek, docile",JLPT JLPT_2,t*v$gPIE?7
+頭脳,ずのう,"head, brains, intellect",JLPT JLPT_2,u_@7V}[&9>
+スピーカー,スピーカー,speaker,JLPT JLPT_2,ts:JB-[YU5
+図表,ずひょう,"chart, diagram, graph",JLPT JLPT_2,i|<`t3f+@>
+スマート,スマート,"smart, stylish, slim",JLPT JLPT_2,"L^]Yw(t($,"
+住まい,すまい,"dwelling, house",JLPT JLPT_2,D9Irez.shi
+すまない,すまない,sorry (phrase),JLPT JLPT_2,jcLXE?s?-j
+相撲,すもう,sumo wrestling,JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese,td=~dzQi/B
+スライド,スライド,slide,JLPT JLPT_2,Cslvy][TeB
+ずらす,ずらす,"to put off, to delay",JLPT JLPT_2,gJl7<m:4pb
+ずらり,ずらり,"in a line, in a row",JLPT JLPT_2,AgA!P|w]$E
+スリッパ,スリッパ,slippers,JLPT JLPT_2,JKtWp2C{b`
+する,する,to print,JLPT JLPT_2,b`9v+PM9Iw
+狡い,ずるい,"sly, cunning",JLPT JLPT_2,Sm-F;a3H
+寸法,すんぽう,"measurement, size, dimension",JLPT JLPT_2,A^SC?nUAcd
+姓,せい,"surname, family name",JLPT JLPT_2,"sO,Mg|Q.hG"
+税関,ぜいかん,customs,JLPT JLPT_2,Hdo?H|g?N-
+製作,せいさく,"manufacture, production",JLPT JLPT_2,"Hd33,!(oye"
+制作,せいさく,"work (e.g., film, book)",JLPT JLPT_2,pSg&--.6FI
+性質,せいしつ,"nature, property, disposition",JLPT JLPT_2,E(70}4c-m*
+清書,せいしょ,clean copy,JLPT JLPT_2,GSG&]QQ!7S
+青少年,せいしょうねん,"youth, young person",JLPT JLPT_2,oKbcQZhJf7
+整数,せいすう,integer,JLPT JLPT_2,BFz!&|OKKj
+清掃,せいそう,cleaning,JLPT JLPT_2,eetChqGb=_
+生存,せいぞん,"existence, being, survival",JLPT JLPT_2,tV]CHeber1
+生長,せいちょう,growth (of a plant),JLPT JLPT_2,s0(03oa~>J
+政党,せいとう,(member of) political party,JLPT JLPT_2,P>9hhdscC!
+生年月日,せいねんがっぴ,date of birth,JLPT JLPT_2,l/2yLDI$!q
+性能,せいのう,"ability, capability",JLPT JLPT_2,zR:(P@rWk;
+整備,せいび,"maintenance, overhaul",JLPT JLPT_2,dN1Ziz6*}J
+成分,せいぶん,"ingredient, component, composition",JLPT JLPT_2,w)S(-qI7pB
+性別,せいべつ,"sex, gender",JLPT JLPT_2,gR@>7DZ?XN
+正方形,せいほうけい,square,JLPT JLPT_2,y)<J<%Cv$W
+正門,せいもん,"main gate, main entrance",JLPT JLPT_2,u>U|#l*q{k
+成立,せいりつ,"formation, establishment, completion",JLPT JLPT_2,z!=6/+)ChY
+西暦,せいれき,"Christian Era, after (Christ’s) death (A.D.)",JLPT JLPT_2,x`#%RAey^1
+背負う,せおう,to be burdened with; to carry on (one's) back or shoulder(s),Intermediate_Japanese_Ln.14 JLPT_2 JLPT Intermediate_Japanese,o17[rZC/J[
+赤道,せきどう,equator,JLPT JLPT_2,r2/#Bsz}<
+折角,せっかく,"with trouble, at great pains, long-awaited",JLPT JLPT_2,"dK?:fG/l-,"
+接近,せっきん,"getting closer, drawing nearer, approaching",JLPT JLPT_2,K^7JJPIGCs
+接する,せっする,to attend to (someone); to associate with,JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,P=&0U%h+V.
+せっせと,せっせと,"busily, away",JLPT JLPT_2,r%5r#-`-m]
+接続,せつぞく,"connection, union, join, link; changing trains",JLPT JLPT_2,z>djSMK(A7
+瀬戸物,せともの,"earthenware, crockery, china",JLPT JLPT_2,PMP|wB-k4/
+ぜひとも,ぜひとも,by all means (with sense of not taking 'no' for an answer),JLPT JLPT_2,A3Jbimizm0
+迫る,せまる,"to draw near, to press",JLPT JLPT_2,dn?%4*`.$=
+ゼミ,ゼミ,seminar,Intermediate_Japanese_Ln.5 JLPT JLPT_2 Intermediate_Japanese,lX$<5j-;VY
+せめて,せめて,at least,JLPT JLPT_2,"qY`,)^Uzza"
+攻める,せめる,"to attack, to assault, to assail",JLPT JLPT_2,j:1<3/Aj|u
+セメント,セメント,cement,JLPT JLPT_2,gZo}Y#TRA.
+台詞,せりふ,"speech, words, one's lines, remarks",JLPT JLPT_2,p!R4:?$J5a
+栓,せん,"stopper, cork, stopcock",JLPT JLPT_2,GIQJL!C!u[
+前～,ぜん～,"former, late ~, past ~",JLPT JLPT_2,uziw.|&}u]
+前後,ぜんご,"front and back, before and after",JLPT JLPT_2,P60vZ%@rQX
+洗剤,せんざい,"detergent, cleanser, cleaning agent, washing material",JLPT JLPT_2,xPk5/(8H&C
+全集,ぜんしゅう,complete works,JLPT JLPT_2,B?uUGxee6}
+全身,ぜんしん,"whole (body), full-length (e.g., portrait) systemic",JLPT JLPT_2,edKjYQQik|
+扇子,せんす,folding fan,JLPT JLPT_2 Genki_Ln.20 Genki,EF=fq2c-JO
+専制,せんせい,"despotism, autocracy",JLPT JLPT_2,OL%g_RLZ1k
+先々月,せんせんげつ,month before last,JLPT JLPT_2,"zJ$.J8%d%,"
+先々週,せんせんしゅう,2 weeks before,JLPT JLPT_2,mB4QnlMrv3
+先祖,せんぞ,ancestor,JLPT JLPT_2,F0U>k-OIq$
+先端,せんたん,"pointed end, tip",JLPT JLPT_2,Q`_+]v?+=0
+センチ,センチ,centimeter,JLPT JLPT_2,inl%VC*Led
+宣伝,せんでん,"publicity, advertisement, advertising, propaganda",JLPT JLPT_2,G}7n;$pW3b
+先頭,せんとう,"head, lead, vanguard",JLPT JLPT_2,h9$H7YGNw$
+全般,ぜんぱん,"(the) whole, general",JLPT JLPT_2,KNd2446a(;
+扇風機,せんぷうき,electric fan,JLPT JLPT_2,bRk!KDE*$7
+洗面,せんめん,"wash up (one's face), have a wash",JLPT JLPT_2,C?dX|!4c7/
+全力,ぜんりょく,"all one's power, whole energy",JLPT JLPT_2,j*AhcD}311
+線路,せんろ,"line, track, roadbed",JLPT JLPT_2,mq#-qSUuS*
+総～,そう～,"gross, general, entire",JLPT JLPT_2,cSEd3l5jK<
+相違,そうい,"difference, discrepancy, variation",JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11,zqQS?TR@WS
+そういえば,そういえば,which reminds me ..,JLPT JLPT_2,eo>F02B%a]
+雑巾,ぞうきん,"house-cloth, dust cloth",JLPT JLPT_2,r*{8DR<J4`
+増減,ぞうげん,"increase and decrease, fluctuation",JLPT JLPT_2,l(r&I9gZ<B
+倉庫,そうこ,"storehouse, warehouse",JLPT JLPT_2,w}}hNBPyr)
+相互,そうご,"mutual, reciprocal",JLPT JLPT_2,nR3lCT=~I%
+創作,そうさく,"production, creation, work",JLPT JLPT_2,PNw/q-z>l3
+葬式,そうしき,funeral,JLPT JLPT_2,Gbn]K/&TX&
+造船,ぞうせん,shipbuilding,JLPT JLPT_2,LyK0zsx!O1
+騒々しい,そうぞうしい,"noisy, boisterous",JLPT JLPT_2,cTG!~COW$P
+増大,ぞうだい,"increase, growth",JLPT JLPT_2,K:CEKV:9VX
+そうっと,そうっと,"softly, cautiously, gently",JLPT JLPT_2,vd>M3|]yht
+送別,そうべつ,"farewell, send-off",JLPT JLPT_2,"y,Tk;$&@x}"
+草履,ぞうり,Japanese sandals (footwear),JLPT JLPT_2,xD#*1}`sY?
+総理大臣,そうりだいじん,Prime Minister,JLPT JLPT_2,wr`qCug{r4
+送料,そうりょう,"postage, carriage",JLPT JLPT_2,D?;^6Pv:]&
+属する,ぞくする,"to belong to, to come under",JLPT JLPT_2,i1]:]E>_bU
+続々,ぞくぞく,"successively, one after another",JLPT JLPT_2,hivME8/#WP
+速達,そくたつ,"express, special delivery",JLPT JLPT_2,v{{[}K0EMQ
+測定,そくてい,measurement,JLPT JLPT_2,Qp_^G4NnHY
+測量,そくりょう,"measurement, surveying",JLPT JLPT_2,N?XK_R(gNy
+速力,そくりょく,speed,JLPT JLPT_2,yC0f;tqC:X
+素質,そしつ,"talent, capability",JLPT JLPT_2,i~_:B9s_i]
+祖先,そせん,ancestor(s),JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese,uEOVA+$QA-
+そそっかしい,そそっかしい,"careless, thoughtless",JLPT JLPT_2,lH2m/7jTDk
+卒直,そっちょく,"frank, candid, honest",JLPT JLPT_2,gGu?|m4th^
+率直,そっちょく,"frank, candid, straightforward, openhearted, direct, outspoken",JLPT JLPT_2,zP0+k&2Oo$
+そのころ,そのころ,"in those days, at that time, then",JLPT JLPT_2,h3oBLD<m4a
+そのため,そのため,"hence, for that reason",JLPT JLPT_2,m^MU-Y@MNe
+その他,そのほか,besides,JLPT JLPT_2,IwQj+]fL.2
+そば,そば,soba (buckwheat noodles),JLPT JLPT_2,ww?mb~cU}r
+剃る,そる,to shave,JLPT JLPT_2,nRAd^[5pD1
+それなのに,それなのに,"though, although",JLPT JLPT_2,k+B-<2c#Pu
+それなら,それなら,"If that's the case..., If so..., That being the case...",JLPT JLPT_2,tEgCn;#W+`
+それはいけませんね (かん),それはいけませんね (かん),that's not good,JLPT JLPT_2,t8:jf{Ldnz
+逸れる,それる,"to stray (turn) from subject, to go astray",JLPT JLPT_2,P^@I_Rocse
+揃える,そろえる,"to collect, to gather, to get together, to complete (a collection) to arrange, to put in order, to prepare, to get ready to make uniform, to make even, to match",JLPT JLPT_2,"eIvmG2@,}C"
+算盤,そろばん,abacus,JLPT JLPT_2,jX~`V;cedM
+存じる,ぞんじる,(humble) to know,JLPT JLPT_2,Aym5:5*IUD
+存ずる,ぞんずる,(humble) to know,JLPT JLPT_2,MsmBGs6}hD
+損得,そんとく,"loss and gain, advantage and disadvantage",JLPT JLPT_2,x~apBZA1n:
+第～,だい～,~th,JLPT JLPT_2,kbFu6B=v;g
+タイア,タイア,"tire, tyre",JLPT JLPT_2,42m3.zlHb
+だいいち (とりわけ),だいいち (とりわけ),"first, foremost,&nbsp;&nbsp;#1",JLPT JLPT_2,sS|Rl>y(P~
+大学院,だいがくいん,graduate school,Genki_Ln.16 JLPT Intermediate_Japanese JLPT_2 Intermediate_Japanese_Ln.1 Genki,k|Ws#.@Z(?
+大工,だいく,carpenter,JLPT JLPT_2,HUM8bf&^L-
+体系,たいけい,"system, organization",JLPT JLPT_2,I*QRaBQl@l
+太鼓,たいこ,"drum, tambourine",JLPT JLPT_2,wz3E+65(~&
+対策,たいさく,"counter-plan, counter-measure",JLPT JLPT_2,GGGQEDkEUY
+大して,たいして,"(not so) much, (not) very",JLPT JLPT_2,"u,Waa>(/*g"
+対照,たいしょう,"contrast, antithesis, comparison",JLPT JLPT_2,n>fKKV=_7/
+大小,だいしょう,size,JLPT JLPT_2,nI5$isC-V|
+体制,たいせい,"order, system, structure",JLPT JLPT_2,Dn9.|Ri$s|
+体積,たいせき,"capacity, volume",JLPT JLPT_2,u*y*LZ`?*U
+大層,たいそう,"very much, greatly",JLPT JLPT_2,w>w}K&}qSs
+体操,たいそう,"gymnastics, physical exercises, calisthenics",JLPT JLPT_2,"Av($>5,YT@"
+大分,だいぶん,"considerably, greatly, a lot",JLPT JLPT_2,BIv*|D!}u.
+大木,たいぼく,large tree,JLPT JLPT_2,ChcUad;Yr=
+題名,だいめい,"title, caption, heading",JLPT JLPT_2,piMdjCN@h}
+代名詞,だいめいし,pronoun,JLPT JLPT_2,"l##{!5f,2T"
+ダイヤグラム,ダイヤグラム,diagram,JLPT JLPT_2,iaafymmrCe
+ダイヤモンド,ダイヤモンド,diamond,JLPT JLPT_2,i=C9?(aW#r
+ダイヤル,ダイヤル,dial,JLPT JLPT_2,utE>l/p-3-
+対立,たいりつ,"confrontation, opposition, antagonism",JLPT JLPT_2,"Ncc,Acum~c"
+田植え,たうえ,rice planting,JLPT JLPT_2,OgO</<`l`b
+絶えず,たえず,constantly,JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese,pW;2y7R<mV
+楕円,だえん,ellipse,JLPT JLPT_2,P}wFC7s?&j
+高める,たかめる,"to raise, to lift, to boost, to enhance",JLPT JLPT_2,hpSUACwJv[
+耕す,たがやす,"to till, to plow, to cultivate",JLPT JLPT_2,"xA,3MUb6~T"
+滝,たき,waterfall,JLPT JLPT_2,"ohAHw^26T,"
+蓄える,たくわえる,"to save, to store, to lay in stock",JLPT JLPT_2,m.Z{vIv259
+竹,たけ,bamboo,JLPT JLPT_2,w4_>96h/eO
+ただいま,ただいま,"Here I am, I'm home!",JLPT JLPT_2,p|S.`7CI}c
+但し,ただし,"but, however, provided that",JLPT JLPT_2,nIm>W;=6s~
+畳む,たたむ,"to fold (e.g., clothes, umbrella)",JLPT JLPT_2,OvXN(wM:bA
+立ち止まる,たちどまる,"to stop, to halt, to stand still",JLPT JLPT_2,B95OXSZO5r
+たちまち,たちまち,"instantly, suddenly, all at once",JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese,"f|EvU~_,t!"
+建つ,たつ,"to be erected, to be built",JLPT JLPT_2,"M!q;te,)Kq"
+脱線,だっせん,"derailment, digression",JLPT JLPT_2,HD(zBG2%H)
+妥当,だとう,"proper, appropriate",JLPT JLPT_2,JHO!PQp^-#
+例える,たとえる,"to compare, to liken",JLPT JLPT_2,b.^|xu(Lu=
+頼もしい,たのもしい,"reliable, promising",JLPT JLPT_2,d|t<2zx{AN
+足袋,たび,"tabi, Japanese socks (with split toe)",JLPT JLPT_2,i9JA;qWI*S
+ダブル,ダブル,double,JLPT_1 JLPT JLPT_2,n5sGaL[nrJ
+ダム,ダム,dam,JLPT JLPT_2,lwjw.sbO3t
+溜息,ためいき,a sigh,JLPT JLPT_2,M{mrZXe(xA
+ためらう,ためらう,to be hesitant,JLPT JLPT_2 Intermediate_Japanese_Ln.12 Intermediate_Japanese,G;FUJQ+<&I
+だらしない,だらしない,"slovenly, loose, a slut",JLPT JLPT_2,y)zumMnB[a
+足る,たる,"to be sufficient, to be enough",JLPT JLPT_2,f=F6.jTK0j
+短～,たん～,short ~,JLPT JLPT_2,zZ~;hL0?5C
+段階,だんかい,"gradation, grade, stage",JLPT JLPT_2,jG]K@ghVXd
+短期,たんき,short term,JLPT JLPT_2,q<4V7>Q;K[
+炭鉱,たんこう,"coal mine, coal pit",JLPT JLPT_2,k;/>)mhS{3
+短所,たんしょ,"defect, weak point; disadvantage",JLPT JLPT_2,H{`G1#jtpf
+たんす,たんす,chest of drawers,JLPT JLPT_2,m~G#CLkml)
+淡水,たんすい,fresh water,JLPT JLPT_2,qe4&W^T?1T
+断水,だんすい,water outage,JLPT JLPT_2,i;K5<cgucK
+単数,たんすう,singular (number),JLPT JLPT_2,l])jQ./Ree
+団地,だんち,housing complex,JLPT JLPT_2,gOlbcdBj<$
+断定,だんてい,"conclusion, decision",JLPT JLPT_2,A$|V(|!0O8
+短編,たんぺん,"short (e.g., story, film)",JLPT JLPT_2,bU~DAA@V)_
+田ぼ,たんぼ,"paddy field, farm",JLPT JLPT_2,muOiSP8NL>
+誓う,ちかう,"to swear, to vow",JLPT JLPT_2,MT!|3=)2Nd
+地下水,ちかすい,underground water,JLPT JLPT_2,p4eK+EuKD%
+近々,ちかぢか,"soon, before long",JLPT JLPT_2,z!thddh444
+近付ける,ちかづける,"to bring near, to put close, to let come near",JLPT JLPT_2,"tY,9|Y-dCA"
+近寄る,ちかよる,"to approach, to draw near",JLPT JLPT_2,PADniz;h7y
+力強い,ちからづよい,"powerful, strong, vigorous",JLPT JLPT_2,esKt]N.[nn
+ちぎる,ちぎる,"to cut up fine, to pick (fruit)",JLPT JLPT_2,n1$55xxJH)
+地質,ちしつ,geological features,JLPT JLPT_2,OY*f%Q>2A{
+知人,ちじん,"friend, acquaintance",JLPT JLPT_2 Intermediate_Japanese_Ln.1 Intermediate_Japanese,yhSeK?G|5o
+地帯,ちたい,"area, zone",JLPT JLPT_2,Cixjw@G7=!
+縮む,ちぢむ,"to shrink, to be contracted",JLPT JLPT_2,s+NV#|Vzsj
+縮める,ちぢめる,"to shorten, to reduce, to shrink",JLPT JLPT_2,K2!izn(Ec%
+縮れる,ちぢれる,"to be wavy, to be curled",JLPT JLPT_2,hDb2M|vgvf
+チップ,チップ,"gratuity, tip; chip",Intermediate_Japanese_Ln.6 JLPT_2 JLPT Intermediate_Japanese,I{J?rk;mEF
+地点,ちてん,"site, point on a map",JLPT JLPT_2,O67?;Qy2t6
+地名,ちめい,place name,JLPT JLPT_2,H}VgzK^n++
+茶色い,ちゃいろい,brown,JLPT JLPT_2,cPhF;RkRM7
+着々,ちゃくちゃく,steadily,JLPT JLPT_2,o8gOx2+4-w
+中間,ちゅうかん,"middle, midway, interim",JLPT JLPT_2,db[p1gjS8r
+中旬,ちゅうじゅん,second third of a month,JLPT JLPT_2,w>eUJ_!p-%
+抽象,ちゅうしょう,abstract,JLPT JLPT_2,i(@XmP*tzX
+中世,ちゅうせい,"Middle Ages, medieval times",JLPT JLPT_2,"Lq!,3&y/Oc"
+中性,ちゅうせい,"neuter gender, neutral",JLPT JLPT_2,dr8B_U~r:p
+中途,ちゅうと,"in the middle, half-way",JLPT JLPT_2,qq^xMh<42g
+中年,ちゅうねん,middle-aged,JLPT JLPT_2 Intermediate_Japanese_Ln.1 Intermediate_Japanese,hO*P@Du`th
+チョーク,チョーク,chalk,JLPT JLPT_2,bDt1557lyK
+長～,ちょう～,long ~,JLPT JLPT_2,neC33gMb3=
+超過,ちょうか,"excess, being more than",JLPT JLPT_2,H)x}P>JSY6
+彫刻,ちょうこく,"carving, engraving, sculpture",JLPT JLPT_2,Mb[Y;T*X##
+長所,ちょうしょ,"strong point, merit; advantage",JLPT JLPT_2,r2Td3|X~d{
+長女,ちょうじょ,eldest daughter,JLPT JLPT_2,"t>?7,8swc^"
+調整,ちょうせい,"regulation, adjustment, tuning",JLPT JLPT_2,QE[mY6z/-y
+調節,ちょうせつ,"regulation, adjustment, control",JLPT JLPT_2,P0aU16*RZa
+長短,ちょうたん,"length, long and short, +-",JLPT JLPT_2,qq$=?zj3/o
+頂点,ちょうてん,"top, summit",JLPT JLPT_2,O=qNj-<h$g
+長男,ちょうなん,eldest son,JLPT JLPT_2,q&!C!n<?M%
+長方形,ちょうほうけい,"rectangle, oblong",JLPT JLPT_2,O?/Z!eS6c(
+調味料,ちょうみりょう,"condiment, seasoning",JLPT JLPT_2,K^{6&5|*9!
+直後,ちょくご,immediately following,JLPT JLPT_2,CruP!C)gep
+直線,ちょくせん,straight line,JLPT JLPT_2,i)fGfpmLw~
+直前,ちょくぜん,just before,JLPT JLPT_2,"D>@!/){#.,"
+直通,ちょくつう,direct connection,JLPT JLPT_2,A~{UUj]Qek
+直流,ちょくりゅう,direct current,JLPT JLPT_2,d)k}co{r3d
+貯蔵,ちょぞう,"storage, preservation",JLPT JLPT_2,EL+(Z/@n_h
+直角,ちょっかく,right angle,JLPT JLPT_2,v`=zo2c&R/
+直径,ちょっけい,diameter,JLPT JLPT_2,"z!K&J,E<-?"
+散らかす,ちらかす,"to scatter around, to leave untidy",JLPT JLPT_2,GEl!43e%n;
+散らかる,ちらかる,to be in disorder,JLPT JLPT_2,K|3bz=nC90
+塵紙,ちりがみ,"tissue paper, toilet paper",JLPT JLPT_2,lS2l<%5|;:
+追加,ついか,"addition, supplement, appendix",JLPT JLPT_2,"tj?z]po,j$"
+ついで,ついで,"opportunity, occasion",JLPT JLPT_2,JV}]H[sMyJ
+つうか,つうか,currency,JLPT JLPT_2,oE[eO]8G9J
+通勤,つうきん,commuting to work,JLPT JLPT_2,e/9Ql]v_wl
+通ずる,つうずる,"to lead, to run, to open",JLPT JLPT_2,q$j6&`f[H8
+通知,つうち,"notice, notification",JLPT JLPT_2,cJFk/B/(}}
+通帳,つうちょう,bankbook,JLPT JLPT_2,A$T{G:y63&
+通訳,つうやく,"interpretation (i.e., oral translation) interpreter",JLPT JLPT_2,"C1Sq0$,;*i"
+通用,つうよう,"popular use, circulation",JLPT JLPT_2,s?U_N>(p<4
+通路,つうろ,"passage, pathway",JLPT JLPT_2,tLtZ>BdE3q
+突き当たり,つきあたり,"end (e.g., of street)",JLPT JLPT_2,"E.b]g.X8,Q"
+突き当たる,つきあたる,"to run into, to collide with",JLPT JLPT_2,H/BcfsD4m>
+月日,つきひ,"time, years, days",JLPT JLPT_2,syFp2{x6+`
+次ぐ,つぐ,"to follow, to come after, to come next (to)",JLPT JLPT_2,KsUS[vX;(*
+伝わる,つたわる,"to spread (of a rumor, news, etc.), to travel, to circulate, to go around, to be passed around, to become known",JLPT JLPT_2,xB#-{Oy+Zn
+突っ込む,つっこむ,"to plunge into, to stick into",JLPT JLPT_2,mSeMf>i-8N
+務める,つとめる,"to serve, to act",JLPT JLPT_2,L>!8An;z|w
+努める,つとめる,"to try, to aim",JLPT JLPT_2,Hiy-GVpUzU
+綱,つな,rope,JLPT JLPT_2,Gw:F2@;*cm
+繋がり,つながり,"connection, link, relationship",JLPT JLPT_2,i]34S7eeuh
+繋がる,つながる,"to be tied together, to be connected to, to be linked to",JLPT JLPT_2,AHrdgC)O9:
+粒,つぶ,grain,JLPT JLPT_2,cj>Qx50pst
+潰す,つぶす,"to smash, to waste",JLPT JLPT_2,fw$wS&e^q
+潰れる,つぶれる,"to be smashed, to go bankrupt",JLPT JLPT_2,KtRH@.KstT
+つまずく,つまずく,"to stumble, to trip",JLPT JLPT_2,HV>q|x:QCp
+躓く,つまずく,"to trip (over), to stumble",JLPT JLPT_2,c>Y]uM]FZ+
+詰まる,つまる,"to be blocked, to be packed",JLPT JLPT_2,i9f3IyL;o8
+積む,つむ,"to pile up, to stack",JLPT JLPT_2,"j$?]*}X8^,"
+爪,つめ,fingernail or toenail,JLPT JLPT_2,s#1=yTp.2S
+艶,つや,"gloss, glaze",JLPT JLPT_2,Q)oxH2VDV_
+強気,つよき,"firm, strong",JLPT JLPT_2,"P1FRp-!AG,"
+釣り合う,つりあう,"to balance, to be in harmony, to suit",JLPT JLPT_2,z[{YFjYjFo
+吊る,つる,to hang,JLPT JLPT_2,eBriDa`?h[
+吊す,つるす,to hang,JLPT JLPT_2,ux}URvOg@g
+テーマ,テーマ,"theme, project, topic (GER: Thema)",JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,"gk7:?,j`-7"
+手洗い,てあらい,"restroom, lavatory",JLPT JLPT_2,shNH8<_-bh
+低～,てい～,low ~,JLPT JLPT_2,qQ>QRC-XBo
+定員,ていいん,"fixed number of regular personnel, capacity (e.g., of boat)",JLPT JLPT_2,hHnudL9f]D
+定価,ていか,established price,JLPT JLPT_2,GWM}Nec!lL
+低下,ていか,"fall, decline",JLPT JLPT_2,uCyhw5D=m+
+定期券,ていきけん,"commuter pass, season ticket",JLPT JLPT_2,kM5$./::LV
+定休日,ていきゅうび,regular holiday,JLPT JLPT_2,GIBTjs]--C
+停止,ていし,"suspension, interruption, stoppage",JLPT JLPT_2,L@Y;}f5pt/
+停車,ていしゃ,"stopping (e.g., train)",JLPT JLPT_2,J9C>1^3Nnd
+停電,ていでん,"power outage, electricity outage, blackout",JLPT JLPT_2,d8`tBKM9z5
+出入り,でいり,"in and out, coming and going",JLPT JLPT_2,yl0fL{Q0pI
+出入口,でいりぐち,exit and entrance,JLPT JLPT_2,Eq1|~+1Qg4
+出入り口,でいりぐち,exit and entrance,JLPT JLPT_2,"w,8Y4;[3/l"
+手入れ,ていれ,"repairs, maintenance",JLPT JLPT_2,rnU2HoMJ`m
+出来上がり,できあがり,"be finished, ready",JLPT JLPT_2,"H,mU.Hzu4W"
+出来上がる,できあがる,"to be finished, to be ready",JLPT JLPT_2,d/)Gw/?OUZ
+的確,てきかく,"precise, accurate",JLPT JLPT_2,QsPEZIzu?w
+適確,てきかく,"precise, accurate",JLPT JLPT_2,f.CM.L/$:o
+手首,てくび,wrist,JLPT JLPT_2,Jk-$`y`Ik4
+凸凹,でこぼこ,"unevenness, roughness, ruggedness",JLPT JLPT_2,NK{S%hniXJ
+手頃,てごろ,"moderate, handy",JLPT JLPT_2,fokm:d$4ID
+手ごろ,てごろ,"handy, convenient suitable, reasoanble, moderate",JLPT JLPT_2,hDgPRveK4>
+弟子,でし,"pupil, disciple, apprentice",JLPT JLPT_2,xgs_S`YrNI
+でたらめ,でたらめ,"irresponsible utterance, nonsense; random",JLPT JLPT_2,o=WTZV3mV~
+手帳,てちょう,notebook,JLPT JLPT_2,sa)S+5Yc~m
+鉄橋,てっきょう,iron bridge,JLPT JLPT_2,ptqUB=+GwY
+手続き,てつづき,"procedure, (legal) process, formalities",JLPT JLPT_2,.%i6[1[$q
+鉄砲,てっぽう,gun,JLPT JLPT_2,jPGmB|kdN@
+テニスコート,テニスコート,tennis court,JLPT JLPT_2,I<8~`/$9/~
+手拭い,てぬぐい,(hand) towel,JLPT JLPT_2,qoag-^~LpA
+手前,てまえ,"before, this side",JLPT JLPT_2,"sUtM,w6Uoy"
+出迎え,でむかえ,"meeting, reception",JLPT JLPT_2,ty8z)H=LPz
+出迎える,でむかえる,"to meet, to greet",JLPT JLPT_2,tO[4D*FC$y
+照らす,てらす,"to shine on, to illuminate",JLPT JLPT_2,NH<(nLZ8$8
+照る,てる,to shine,JLPT JLPT_2,3op!&nH<3
+展開,てんかい,"develop, expansion (opposite of compression)",JLPT JLPT_2,civd_]-_la
+伝記,でんき,"biography, life story",JLPT JLPT_2,gEdK7vzpv5
+電球,でんきゅう,light bulb,JLPT JLPT_2,igr+WFj[j?
+点数,てんすう,"marks, points, score",JLPT JLPT_2,vc+IbB&=W`
+伝染,でんせん,contagion,JLPT JLPT_2,i$>Ffzmrg<
+電池,でんち,battery,Genki_Ln.15 JLPT_2 JLPT Genki,rtMf<[nw2h
+電柱,でんちゅう,"telephone pole, telegraph pole, light pole",JLPT JLPT_2,"gp>z=,YkpX"
+点々,てんてん,"here and there, little by little",JLPT JLPT_2,vIj65EZ[j(
+転々,てんてん,from one to another,JLPT JLPT_2,z<l%&cmA@h
+天皇,てんのう,Emperor of Japan,JLPT JLPT_2,BCTKLS7Bsq
 電波,でんぱ,electro-magnetic wave,JLPT JLPT_2,cg0Ez+Y@GU
 テンポ,テンポ,tempo,JLPT JLPT_2,Hi]gxBaRU^
 電流,でんりゅう,electric current,JLPT JLPT_2,w3QM-(pmFO
 電力,でんりょく,electric power,JLPT JLPT_2,BkP9bGxxa`
 問い合わせ,といあわせ,inquiry,JLPT JLPT_2,h}t;%K/E(N
-～頭,～とう,counter for animals,JLPT JLPT_2,Q04jNq<%}1
-～等,～とう,"level, place",JLPT JLPT_2,t~N);db(/R
-～島,～とう,kind of islands,JLPT JLPT_2,xDO?MQ[t-7
 銅,どう,copper,JLPT JLPT_2,t]G?*GHI@U
 同～,どう～,same ~,JLPT JLPT_2,"n,@c1nuA~O"
-～道,～どう,"kind of path, road",JLPT JLPT_2,NK#jvaQLbz
 どういたしまして (かん),どういたしまして (かん),"you are welcome, don't mention it",JLPT JLPT_2,qsFKJD&|L2
 統一,とういつ,"unity, consolidation, uniformity",JLPT JLPT_2,Qgn:y`-!#|
 同格,どうかく,"the same rank, equality, apposition",JLPT JLPT_2,MiJmwE9)Tk
@@ -1071,8 +1299,8 @@ expression,reading,meaning,tags,guid
 等分,とうぶん,division into equal parts,JLPT JLPT_2,gvTvgz{bLa
 透明,とうめい,"transparency, cleanness",JLPT JLPT_2,P(@#|>UOt0
 灯油,とうゆ,"lamp oil, kerosene",JLPT JLPT_2,vZ4oHV;=:a
+東洋,とうよう,"the East, the Orient",JLPT JLPT_2,NL2U4L5P.}
 童話,どうわ,fairy tale,JLPT JLPT_2,D&Yh:&s%jk
-～通り,～とおり,"in accordance with ~; following ~; ~ street, ~ avenue",JLPT JLPT_2,i!k>vq-guB
 通り掛かる,とおりかかる,to happen to pass by,JLPT JLPT_2,"luDHt,5Sk,"
 溶かす,とかす,"to melt, to dissolve",JLPT JLPT_2,l;^zOZ_oE|
 尖る,とがる,"to taper to a point, to become sharp",JLPT JLPT_2,"e{Pl+,CC6G"
@@ -1082,9 +1310,9 @@ expression,reading,meaning,tags,guid
 特定,とくてい,"specific, special, particular",JLPT JLPT_2,t|TfJJg|sz
 特売,とくばい,special sale,JLPT JLPT_2,p@T8CIs-/#
 溶け込む,とけこむ,to melt into; to become a part of,JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11,x]~8B=uZCs
+溶ける,とける,"(intransitive) to melt, to thaw, to fuse, to dissolve",JLPT JLPT_2,IB`$@F~Yl%
 退ける,どける,"to dislodge, to put something out of the way",JLPT JLPT_2,"l,uqdq*vL$"
 床の間,とこのま,alcove,JLPT JLPT_2,DWuzigwd1O
-～ところ,～ところ,about to do ~,JLPT JLPT_2,B;8DjvC&9}
 所々,ところどころ,"here and there, some parts (of something)",JLPT JLPT_2,JBl+zKfWO=
 都心,としん,heart (of city),JLPT JLPT_2,q@;X-KR+6x
 戸棚,とだな,"cupboard, cabinet",JLPT JLPT_2,fA;1NRcg;.
@@ -1096,6 +1324,7 @@ expression,reading,meaning,tags,guid
 殿,どの,Mister (mostly in addressing someone on an envelope),JLPT JLPT_2,G)i@|4rCFu
 飛び込む,とびこむ,"to jump in, to leap in, to plunge into",JLPT JLPT_2,m)8^_h=xfZ
 留まる,とまる,"to be fixed; to abide, to stay (in the one place)",JLPT JLPT_2,lR~zbQY;%4
+泊める,とめる,"to give shelter to, to lodge",JLPT JLPT_2,md-bthpDki
 ともかく,ともかく,"anyhow, at any rate, anyway",JLPT JLPT_2,CwP{EP}I?z
 捕える,とらえる,"to seize, to capture, to arrest",JLPT JLPT_2,"j}2L,caH~b"
 取り入れる,とりいれる,"to harvest, to take in, to adopt",JLPT JLPT_2,w2_26oic>]
@@ -1104,16 +1333,17 @@ expression,reading,meaning,tags,guid
 採る,とる,"to adopt (measure, proposal); to pick (fruit)",JLPT JLPT_2,Kwcy6Nu#VV
 捕る,とる,"to take, to catch (fish)",JLPT JLPT_2,h-foFU)J+%
 丼,どんぶり,"porcelain bowl, bowl of rice with food on top",JLPT JLPT_2,K/7)Qgev~b
-～内,～ない,inside ~,JLPT JLPT_2,K?<zC9:h:N
 内科,ないか,"internist clinic, internal medicine",JLPT JLPT_2,cL3Q<QI{Xi
 内線,ないせん,phone extension,JLPT JLPT_2,vWixbAJ8L3
 ナイロン,ナイロン,nylon,JLPT JLPT_2,"J#^zz>A,)}"
 長～,なが～,long ~,JLPT JLPT_2,"!(,ztix|0"
 仲直り,なかなおり,"reconciliation, make peace with",JLPT JLPT_2,lg&xbaku[H
 長引く,ながびく,"to be prolonged, to drag on",JLPT JLPT_2,KFJ:-OqPv)
+中身,なかみ,"contents, interior, filling substance, content",JLPT JLPT_2,hK@B?T%H[@
 中指,なかゆび,middle finger,JLPT JLPT_2,OVu}*4o9[-
 仲良し,なかよし,"intimate friend, bosom buddy",JLPT JLPT_2,bY}?0:RFF`
 慰める,なぐさめる,"to comfort, to console",JLPT JLPT_2,OOn!)Q5mF^
+殴る,なぐる,"to strike, to hit, to beat, to punch",JLPT JLPT_2,IuJ-aZ~ucE
 為す,なす,"to accomplish, to do",JLPT JLPT_2,sRagOZ&+9+
 謎謎,なぞなぞ,riddle,JLPT JLPT_2,kh;qXYZm$x
 傾らか,なだらか,"gradual, gentle",JLPT JLPT_2,N*gYt%kA/%
@@ -1121,21 +1351,24 @@ expression,reading,meaning,tags,guid
 撫でる,なでる,"to brush gently, to stroke",JLPT JLPT_2,x?eU}#7q`n
 斜め,ななめ,"diagonal, oblique",JLPT JLPT_2,e/[lM~+tA8
 なにしろ,なにしろ,"at any rate, in any case",JLPT JLPT_2,p8WN.jfeNo
+何しろ,なにしろ,"in any case, at any rate, anyhow, anyway, as you know, for you see, particularly",JLPT JLPT_2,uSbI~/yfu<
 何々,なになに,"such and such, What?",JLPT JLPT_2,v!2OpO8|[
 何分,なにぶん,"by all means, please",JLPT JLPT_2,t3>sbe_K8<
 生意気,なまいき,"impertinent, impudent",JLPT JLPT_2,mw&FA%y!wL
+生意気な,なまいきな,"impertinent, saucy, cheeky, impudent, audacious, cocky, pert, brash",JLPT JLPT_2,bvjMS7agaS
 並木,なみき,"roadside tree, row of trees",JLPT JLPT_2,B&w5g2.BdM
 倣う,ならう,"to imitate, to follow, to emulate",JLPT JLPT_2,bk+_vg]*X*
+生る,なる,to bear fruit,JLPT JLPT_2,L4foi?c6%U
 南極,なんきょく,"south pole, Antarctic",JLPT JLPT_2,i(}x3JhEWk
 なんとなく,なんとなく,"somehow or other, for some reason or another",JLPT JLPT_2,NHiEMH@?%b
 なんとも,なんとも,"nothing (with neg. verb), quite, not a bit",JLPT JLPT_2,d60cvEnM@g
+何とも,なんとも,"really, very, extremely, terribly, awfully (not) anything, (not) at all, (not) a bit",JLPT JLPT_2,mA+s2zFs]r
 ナンバー,ナンバー,number,JLPT JLPT_2,w%6-K{mlSu
 南米,なんべい,South America,JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,IS$N[3lqN_
 南北,なんぼく,south and north,JLPT JLPT_2,v&@^W~@3Lc
 匂う,におう,"to be fragrant, to smell",JLPT JLPT_2,HNXw9CMq7V
 逃がす,にがす,"to let loose, to set free, to let escape",JLPT JLPT_2,ze5+}#f{P4
 憎い,にくい,"hateful, abominable, detestable",JLPT JLPT_2,Qq0d(|J(G%
-～難い,～がたい,hard (difficult) to do ~,JLPT_1 JLPT JLPT_2,q5_^x`K^C~
 憎む,にくむ,"to hate, to detest",JLPT JLPT_2,vu`fYICMu{
 憎らしい,にくらしい,"odious, hateful",JLPT JLPT_2,f/_kC?^S&d
 にこにこ,にこにこ,"smile sweetly, smiley",JLPT JLPT_2,"n^be_-@ly,"
@@ -1149,6 +1382,7 @@ expression,reading,meaning,tags,guid
 入社,にゅうしゃ,entry to a company,JLPT JLPT_2,w-`JY=1e/D
 女房,にょうぼう,wife,JLPT JLPT_2,sU~=iRlvo]
 睨む,にらむ,"to glare at, to stare; to keep an eye on",JLPT JLPT_2,fHjyY#znW:
+煮る,にる,"to boil, to simmer, to stew, seethe",JLPT JLPT_2,qMv(PS]:%I
 俄,にわか,"sudden, abrupt, unexpected",JLPT JLPT_2,t[:`;rL-va
 縫う,ぬう,to sew,JLPT JLPT_2,"Ng&<M,@BtR"
 ねじ,ねじ,(a) screw,JLPT JLPT_2,Re-*YljhSS
@@ -1159,7 +1393,6 @@ expression,reading,meaning,tags,guid
 寝巻,ねまき,"sleep-wear, pajamas",JLPT JLPT_2,bI$hc3f6^A
 狙い,ねらい,aim,JLPT JLPT_2,+@]APxhP:
 狙う,ねらう,to aim at,JLPT JLPT_2,"u_Zq{@}_,2"
-～年生,～ねんせい,counter for school year,JLPT JLPT_2,seB~`F&UPJ
 年度,ねんど,"year, fiscal year",JLPT JLPT_2,zOnWMA:uDf
 農産物,のうさんぶつ,agricultural produce,JLPT JLPT_2,"NI`BmF+,nH"
 農村,のうそん,agricultural community,JLPT JLPT_2,x4+Tr<A;s]
@@ -1171,6 +1404,7 @@ expression,reading,meaning,tags,guid
 上り,のぼり,"up-train (going to Tokyo), ascent",JLPT JLPT_2,x3At`fIc#9
 糊,のり,"glue, paste, starch",JLPT JLPT_2,xb.2gr28hJ
 乗換,のりかえ,"a transfer (e.g., trains, buses)",JLPT JLPT_2,mEuM{0XEgL
+乗り換え,のりかえ,"(n) transfer (trains, buses, etc.)",JLPT JLPT_2,"C,/t73;.mS"
 乗り越し,のりこし,riding past (one's station),JLPT JLPT_2,msQgthowMg
 鈍い,のろい,"dull (e.g., a knife), slow (opposite of fast), stupid",JLPT JLPT_2,"x,FV2}Y%-X"
 のろのろ,のろのろ,"slowly, sluggishly",JLPT JLPT_2,KUA4SG[)M:
@@ -1183,11 +1417,12 @@ expression,reading,meaning,tags,guid
 売買,ばいばい,"trade, buying and selling",JLPT JLPT_2,w9ww[Mi8PB
 這う,はう,"to creep, to crawl",JLPT JLPT_2,J$@-ykytmX
 剥す,はがす,"to tear off, to peel off, to rip off",JLPT JLPT_2,w1IgSLSCS%
+剥がす,はがす,"to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect",JLPT JLPT_2,twr([xW-`[
 ばからしい,ばからしい,absurd,JLPT JLPT_2,"Ac.j@?6<t,"
 秤,はかり,"scales, weighing machine",JLPT JLPT_2,K:$(:hKZp/
 吐き気,はきけ,"nausea, sickness in the stomach",JLPT JLPT_2,kx+nKGh/`U
 はきはき,はきはき,clearly,JLPT JLPT_2,JVjc#=Q+e1
-～泊,～はく,"counter for staying (e.g., 2 nights)",JLPT JLPT_2,PblG<4:M5~
+掃く,はく,"to sweep, to brush, to gather up",JLPT JLPT_2,vSCJIFU380
 歯車,はぐるま,"gear, cog-wheel",JLPT JLPT_2,j7]b4f$098
 バケツ,バケツ,"bucket, pail",JLPT JLPT_2,s9Y+YEtVRT
 挟まる,はさまる,"to get between, to be caught in",JLPT JLPT_2,e1(3K^._OQ
@@ -1197,18 +1432,22 @@ expression,reading,meaning,tags,guid
 初めに,はじめに,"to begin with, first of all",JLPT JLPT_2,d;;?&/B6za
 はじめまして,はじめまして,"How do you do, I am glad to meet you",JLPT JLPT_2,"M]0`I,lN9&"
 斜,はす,diagonal,JLPT JLPT_2,yZ/JT}.{x%
+外れる,はずれる,"to be disconnected, to get out of place, to be off, to be out (e.g., of gear)",JLPT JLPT_2,c*@~/j#){L
 パターン,パターン,pattern,JLPT JLPT_2,yMee~-[vv4
 肌着,はだぎ,underwear,JLPT JLPT_2,tm(~La~OiQ
 果して,はたして,"as was expected, really",JLPT JLPT_2,vU#n=PULcb
+果たして,はたして,"as was expected, just as one thought, sure enough",JLPT JLPT_2,OPG]u@2UJd
 鉢,はち,"a bowl, a pot",JLPT JLPT_2,s9xu=`E7V:
-～発,～はつ,counter for bullets,JLPT JLPT_2,e#d]&/=XN}
+発,はつ,"to depart (e.g., on a plane, train)",JLPT JLPT_2,d|z)aYBq<F
 ×,ばつ,cross,JLPT JLPT_2,v(;vsH!5b/
 発揮,はっき,"exhibition, demonstration, display",JLPT JLPT_2,QaKs[tB)A-
 バック,バック,back,JLPT JLPT_2,qbsm~Jf<LF
 発想,はっそう,idea; way of thinking (same as 考え方 (かんがえかた)),JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,I2:s]~J?s+
 発電,はつでん,"generation (e.g., power)",JLPT JLPT_2,Q0`dq+3A0&
 発売,はつばい,sale,JLPT JLPT_2,I[uv@sX4sM
+派手,はで,"showy, loud, flashy, gaudy",JLPT JLPT_2,GR6l(BMZ<s
 話合い,はなしあい,"discussion, talk",JLPT JLPT_2,j6IK#HXQe7
+話し合い,はなしあい,"discussion, talk, conference",JLPT JLPT_2,z&(3kffI&H
 話し掛ける,はなしかける,"to accost a person, to talk (to someone)",JLPT JLPT_2,E42/+JfB`_
 話中,はなしちゅう,"while talking, the line is busy",JLPT JLPT_2,jx-7nhaG2(
 甚だしい,はなはだしい,"extreme, excessive, terrible",JLPT JLPT_2,omWb^)11J$
@@ -1230,14 +1469,13 @@ expression,reading,meaning,tags,guid
 判子,はんこ,seal (used for signature),JLPT JLPT_2,u_*2c15[TP
 万歳,ばんざい,"banzai, Long live ~!",JLPT JLPT_2,u0&SMmf&^/
 判事,はんじ,"judge, justice",JLPT JLPT_2,j^b+T-<*N1
+反省,はんせい,"reflection, reconsideration",JLPT JLPT_2,NqUE%mYbhY
 番地,ばんち,"house number, address",JLPT JLPT_2,f=_&Y!K(GI
 パンツ,パンツ,underpants,JLPT_2 JLPT Genki_Ln.10 Genki,f1!Jgm1h.|
 バンド,バンド,band,JLPT JLPT_2,hx3pu3yzgf
 半島,はんとう,peninsula,JLPT JLPT_2,"O1,CCe9Bk!"
 ハンドル,ハンドル,"handle, steering wheel",JLPT JLPT_2,r$a6UvR({y
-～番目,～ばんめ,~th,JLPT JLPT_2,i*esVeP_ak
 非～,ひ～,"anti~, counter~, an~, non~",JLPT_1 JLPT JLPT_2,BUWz9(5^B)
-～費,～ひ,cost of ~,JLPT JLPT_2,u[jm+{6L3X
 日当たり,ひあたり,"exposure to the sun, sunny place",JLPT JLPT_2,lKSG[Co_dv
 日帰り,ひがえり,day trip,JLPT JLPT_2,Jh-TX_`>w~
 比較的,ひかくてき,comparatively; relatively,Intermediate_Japanese_Ln.5 JLPT JLPT_2 Intermediate_Japanese,yRf$aJ+cvj
@@ -1250,7 +1488,9 @@ expression,reading,meaning,tags,guid
 引き止める,ひきとめる,"to keep back, to prevent, to hold back",JLPT JLPT_2,A3*mBL.p{k
 卑怯,ひきょう,"cowardice, meanness, unfairness",JLPT JLPT_2,"Q(9,y^6;ZC"
 引分け,ひきわけ,"a draw (in competition), tie game",JLPT JLPT_2,h}[lK:0XS$
+引き分け,ひきわけ,"draw (in competition), tie game",JLPT JLPT_2,JQc@iJs3z#
 陽射,ひざし,"sunlight, rays of the sun",JLPT JLPT_2,Ftb3RG(bbe
+日差し,ひざし,sunlight,JLPT JLPT_2,C*wD(*i+[Q
 肘,ひじ,elbow,JLPT JLPT_2,C6rg9Pm`+%
 ピストル,ピストル,pistol,JLPT JLPT_2,JEp~p=`2Vn
 ビタミン,ビタミン,vitamin,JLPT JLPT_2,qt<L6><O-N
@@ -1259,6 +1499,7 @@ expression,reading,meaning,tags,guid
 筆記,ひっき,"note taking, writing",JLPT JLPT_2,E:WY<l^}a6
 引っ繰り返す,ひっくりかえす,"to turn over, to overturn, to knock over",JLPT JLPT_2,Aa#A!KWab;
 引っ繰り返る,ひっくりかえる,"to be overturned, to be upset, to topple over, to be reversed",JLPT JLPT_2,y#X%-CW-M~
+引っ越し,ひっこし,"moving (dwelling, office, etc.), changing residence",JLPT JLPT_2,F[^C#=Zqkz
 引っ込む,ひっこむ,"to draw back, to sink, to cave in",JLPT JLPT_2,ozz?OwjfOs
 筆者,ひっしゃ,"writer, author",JLPT JLPT_2,BHGOtbE2VB
 必需品,ひつじゅひん,"necessities, essential",JLPT JLPT_2,cTMH.0S#__
@@ -1274,15 +1515,17 @@ expression,reading,meaning,tags,guid
 ビニール,ビニール,vinyl,JLPT JLPT_2,"B]r_&,m?0_"
 皮肉,ひにく,"cynicism, sarcasm",JLPT JLPT_2,pu+RSzayXS
 日日,ひにち,date,JLPT JLPT_2,EDa-Ss*/(C
+日にち,ひにち,"date (of a planned event, act, etc.), day",JLPT JLPT_2,CWiz%ru-_b
 捻る,ひねる,"to twist, to turn",JLPT JLPT_2,Lsxjk5@=vY
 日の入り,ひのいり,sunset,JLPT JLPT_2,rz|&d2Q(rd
 日の出,ひので,sunrise,JLPT JLPT_2,"G!/]^,ZBLq"
 響き,ひびき,"echo, sound",JLPT JLPT_2,l&)NHT{BaW
 響く,ひびく,to resound; to affect,JLPT JLPT_2,rOD*#KgIYp
 皮膚,ひふ,skin,JLPT JLPT_2,cVU`)a>m;T
+冷やす,ひやす,"to cool (from room temperature), to chill, to refrigerate",JLPT JLPT_2,r#^XW.Gb>Y
 ひゃっかじてん,ひゃっかじてん,encyclopedia,JLPT JLPT_2,wQ6w2}QAv=
+百科事典,ひゃっかじてん,encyclopedia,JLPT JLPT_2,cvA%H8}VUp
 美容,びよう,beauty of figure or form,JLPT JLPT_2,D(GaCqwm&U
-～病,～びょう,kind of disease,JLPT JLPT_2,A*!}.Pwu5m
 表紙,ひょうし,"front cover, binding",JLPT JLPT_2,exq#1;SO@*
 標識,ひょうしき,"sign, mark",JLPT JLPT_2,kDX[w^RE%^
 標準,ひょうじゅん,"standard, level",JLPT JLPT_2,r$bk_|d--C
@@ -1290,17 +1533,17 @@ expression,reading,meaning,tags,guid
 評論,ひょうろん,"criticism, critique",JLPT JLPT_2,s}Ej!kw1~9
 ビルディング,ビルディング,building,JLPT JLPT_2,J8!M@z<nsR
 昼寝,ひるね,"nap (at home), siesta",JLPT JLPT_2,"x,{aI?hy6D"
+広げる,ひろげる,"to spread, to extend, to expand, to enlarge, to widen, to broaden",JLPT JLPT_2,nBlnE;%M(-
 広さ,ひろさ,extent,JLPT JLPT_2,lG>A7gDV9/
 広場,ひろば,plaza,JLPT JLPT_2,t3z@d(WD;9
 広々,ひろびろ,"extensive, spacious",JLPT JLPT_2,Eye9Pf.VGV
 ピンク,ピンク,pink,JLPT JLPT_2,}M:Z#WBUl
 便箋,びんせん,"writing paper, stationery",JLPT JLPT_2,DAZ9H$OhvM
 瓶詰,びんづめ,"bottling, bottled",JLPT JLPT_2,N_#i?7cB#[
-～部,～ぶ,~ part,JLPT JLPT_2,fPDrnMwV)X
 ファスナー,ファスナー,"fastener, zipper",JLPT JLPT_2,n!rH#}$IH?
-～風,～ふう,~ style,JLPT JLPT_2,l^t;?>.nOp
 風船,ふうせん,balloon,JLPT JLPT_2,oE(8x]l~K[
 不運,ふうん,"unlucky, misfortune, bad luck",JLPT JLPT_2,Ek=uOv}jTZ
+深まる,ふかまる,"to deepen, to heighten, to intensify",JLPT JLPT_2,AoEcO;]AH#
 不規則,ふきそく,"irregularity, unsteadiness",JLPT JLPT_2,dufg6SP37F
 普及,ふきゅう,"diffusion, spread",JLPT JLPT_2,sprE2d}(>:
 付近,ふきん,"neighborhood, vicinity",JLPT JLPT_2,cz$T?0Oc1>
@@ -1308,6 +1551,7 @@ expression,reading,meaning,tags,guid
 副詞,ふくし,adverb,JLPT JLPT_2,A2D&p<Rh*?
 複写,ふくしゃ,"copy, duplicate",JLPT JLPT_2,"f.(+H@$,m~"
 複数,ふくすう,"plural, multiple",JLPT JLPT_2,"df,MeSNnZ^"
+ふくめる,ふくめる,"to include, to instruct, to make one understand",JLPT JLPT_2,E_4V!wVhjP
 膨らます,ふくらます,"to swell, to expand, to inflate",JLPT JLPT_2,eZJ~QnaPP^
 膨らむ,ふくらむ,"to expand, to swell (out), to become inflated",JLPT JLPT_2,gX9*eZWr#^
 不潔,ふけつ,"unclean, dirty",JLPT JLPT_2,OlF9IGIpI)
@@ -1320,9 +1564,12 @@ expression,reading,meaning,tags,guid
 無沙汰,ぶさた,neglecting to stay in contact,JLPT JLPT_2,mXdlHZOuK>
 武士,ぶし,"warrior, samurai",JLPT JLPT_2,kh|VM6~+N]
 部首,ぶしゅ,radical (of a kanji character),JLPT JLPT_2,rB[8HW{H3]
+蒸す,ふす,"to steam (food, towel, etc.) to be hot and humid, to be sultry",JLPT JLPT_2,r!c{A-BiN=
 襖,ふすま,sliding screen,JLPT JLPT_2,Gfj{ovvCbc
 附属,ふぞく,"attached, belonging, affiliated",JLPT JLPT_2,b5{>br)8^T
+付属,ふぞく,"being attached (to), being affiliated (to), belonging (to), going with",JLPT JLPT_2,"nR=,~i1i~~"
 蓋,ふた,"cover, lid, cap",JLPT JLPT_2,tB(]=dUF]{
+不通,ふつう,"suspension, interruption, stoppage, tie-up, cessation",JLPT JLPT_2,f3J`JKn<YY
 物騒,ぶっそう,"dangerous, disturbed, insecure",JLPT JLPT_2,y)>wu(aHUg
 ぶつぶつ,ぶつぶつ,"grumbling, complaining in a small voice",JLPT JLPT_2,qMxSqk8|QN
 船便,ふなびん,surface mail (ship),JLPT JLPT_2,iRS_8@xn)m
@@ -1336,7 +1583,6 @@ expression,reading,meaning,tags,guid
 ぶらさげる,ぶらさげる,"to hang, to suspend, to swing",JLPT JLPT_2,zsGS&1j7k4
 ブラシ,ブラシ,brush,JLPT JLPT_2,GK-sv9zX*O
 プラットホーム,プラットホーム,platform,JLPT JLPT_2,bkr1lkRi*.
-～振り,～ぶり,after an interval of ~,JLPT JLPT_2,;^fUn`g0d
 フリー,フリー,free,JLPT JLPT_2,LgNW8Pd}P5
 振り仮名,ふりがな,pronunciation key,JLPT JLPT_2,tp7b;~);$&
 振り向く,ふりむく,"to turn one's face, to turn around",JLPT JLPT_2,M!}tc99p$L
@@ -1375,14 +1621,10 @@ expression,reading,meaning,tags,guid
 別々,べつべつ,"separately, individually",JLPT JLPT_2,jZHX%HAw.@
 ベテラン,ベテラン,veteran,JLPT JLPT_2,N$f]d}-cKp
 ヘリコプター,ヘリコプター,helicopter,JLPT JLPT_2,q)Q=o$Y_hX
-～遍,～へん,time,JLPT JLPT_2,K&5Px_U7gs
-～弁,～べん,"speech, dialect",JLPT JLPT_2,jOUF!M-NS3
 編集,へんしゅう,"editing, compilation, editorial (e.g., committee)",JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese,CMY4=Qx!?>
 便所,べんじょ,"toilet, lavatory",JLPT JLPT_2,vS8<$f00~!
 ペンチ,ペンチ,pliers (lit: pinchers),JLPT JLPT_2,ypii1BOJF+
-～歩,～ほ,"step, pace",JLPT JLPT_2,Bd!L5Wz^Su
-～ぽい,～ぽい,~ish,JLPT JLPT_2,f_=g;f`{~[
-～ほう (ひかく),～ほう (ひかく),(in comparison),JLPT JLPT_2,bVM<L+hK+`
+ボーナス,ボーナス,bonus,JLPT JLPT_2 Genki_Ln.23 Genki,HVcj_;{/5t
 防～,ぼう～,~ prevention,JLPT JLPT_2,b83:v}U.rY
 望遠鏡,ぼうえんきょう,telescope,JLPT JLPT_2,"eUp{Pt}o,e"
 方角,ほうがく,"direction, way",JLPT JLPT_2,By.)=t/^Rp
@@ -1391,6 +1633,7 @@ expression,reading,meaning,tags,guid
 坊さん,ぼうさん,"Buddhist priest, monk",JLPT JLPT_2,"Qc,c}WSH)C"
 防止,ぼうし,"prevention, check",JLPT JLPT_2,Nh.L=|T~RY
 方針,ほうしん,"objective, plan, policy",JLPT JLPT_2,stt^|Hkbmf
+包装,ほうそう,"packing, wrapping",JLPT JLPT_2,Otsl}ZzWXb
 法則,ほうそく,"law, rule",JLPT JLPT_2,iMzqR&2E$7
 包帯,ほうたい,bandage,JLPT JLPT_2,jdeHukm4CR
 膨大,ぼうだい,"enormous, extensive",JLPT JLPT_2,hDhfR$-iz
@@ -1400,8 +1643,8 @@ expression,reading,meaning,tags,guid
 方面,ほうめん,direction; area,JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese,pYi7d6I9bd
 坊や,ぼうや,boy,JLPT JLPT_2,G_?oo:%KzF
 放る,ほうる,to let go,JLPT JLPT_2,"C{B(cB/!,S"
-ボーナス,ボーナス,bonus,JLPT JLPT_2 Genki_Ln.23 Genki,HVcj_;{/5t
 朗らか,ほがらか,"bright, cheerful, melodious",JLPT JLPT_2,"biS@,:!mm:"
+朗らか(な),ほがらか(な),"cheerful, merry bright (sky, day, etc.), fine, clear",JLPT JLPT_2,B5Ml)a4{iI
 牧場,ぼくじょう,farm (livestock); pasture land,JLPT JLPT_2,"D[,+7?JI;Q"
 牧畜,ぼくちく,stock-farming,JLPT JLPT_2,oCu$DV_SOs
 保健,ほけん,"health preservation, hygiene, sanitation",JLPT JLPT_2,"tY,tXP&1EW"
@@ -1423,12 +1666,17 @@ expression,reading,meaning,tags,guid
 毎～,まい～,every ~,JLPT JLPT_2,A((3F0kA(~
 枚数,まいすう,the number of flat things,JLPT JLPT_2,txIx.*SQ<<
 毎度,まいど,"each time, common service-sector greeting",JLPT JLPT_2,tNEeyhC?CO
+まく,まく,"to wind, to coil, to roll",JLPT JLPT_2,HX*jvL+{?S
 枕,まくら,pillow,JLPT JLPT_2,r:aSt_cmjW
 曲げる,まげる,"to bend, to crook, to lean",JLPT JLPT_2,c^Y!O@AS0!
 まごまご,まごまご,"confused, be at a loss",JLPT JLPT_2,fsndtXo3d3
 摩擦,まさつ,friction; rubbing; chafe,JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,s]MF/PuI>5
+まざる,まざる,"to be mixed, to be blended with, to associate with",JLPT JLPT_2,jl4iD/OMQ)
+まじる,まじる,"to be mixed, to be blended with, to associate with",JLPT JLPT_2,tA}W)>X]v|
 マスク,マスク,mask,JLPT JLPT_2,C!G`yaEZpC
+まぜる,まぜる,"to mix, to stir",JLPT JLPT_2,N2_f#cqR]>
 またぐ,またぐ,to straddle,JLPT JLPT_2,MVE!gLhDn<
+跨ぐ,またぐ,"to step over/across, to stride over/across, to cross to stretch over, to span, to bridge, to saddle, to straddle",JLPT JLPT_2,G1zbrDd=1y
 待合室,まちあいしつ,waiting room,JLPT JLPT_2,K=0IrWVZf4
 待ち合わせる,まちあわせる,"to rendezvous, to meet at a prearranged place and time",JLPT JLPT_2,ba8vXTF^0z
 街角,まちかど,street corner,JLPT JLPT_2,Qdd<k6I!B.
@@ -1443,6 +1691,7 @@ expression,reading,meaning,tags,guid
 まぶた,まぶた,eyelids,JLPT JLPT_2,G%BvRagvhI
 マフラー,マフラー,a winter scarf,JLPT_2 JLPT Genki_Ln.14 Genki,Q87-B${@Jc
 間も無く,まもなく,"soon, in a short time",JLPT JLPT_2,vaV9T=MxPD
+間もなく,まもなく,"soon, shortly, before long, in a short time, in a little while",JLPT JLPT_2,yu:b9)h!u&
 マラソン,マラソン,marathon,JLPT JLPT_2,x1bZ*0{Jmx
 稀,まれ,"rare, seldom",JLPT JLPT_2,fI}bUBDb~F
 回り道,まわりみち,detour,JLPT JLPT_2,EmJ?soVNP8
@@ -1457,11 +1706,11 @@ expression,reading,meaning,tags,guid
 三日月,みかづき,crescent moon,JLPT JLPT_2,"oy@Fx($<,|"
 岬,みさき,cape (on coast),JLPT JLPT_2,mse@aZCB{~
 みじめ,みじめ,"sad, pitiful, wretched",JLPT JLPT_2,yJ1{6!ct=e
+惨めな,みじめな,"miserable, wretched, unhappy, sad, pitiable",JLPT JLPT_2,N0/%L2iZ-/
 ミシン,ミシン,sewing machine,JLPT JLPT_2,d1j}k[P`go
 自ら,みずから,"for one's self, personally",JLPT JLPT_2,Jm|Fujfl1c
 水着,みずぎ,bathing suit (woman's),JLPT JLPT_2,o%MGb.}$^_
 店屋,みせや,"store, shop",JLPT JLPT_2,vv#zIkIc#p
-～みたい,～みたい,looks like ~,JLPT JLPT_2,N{CD^3;+~1
 見出し,みだし,"heading, index",JLPT JLPT_2,H76Ot%CaXm
 道順,みちじゅん,"itinerary, route",JLPT JLPT_2,e.TVg<fHh^
 みっともない,みっともない,"shameful, indecent",JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11,NM_z!JuhP7
@@ -1476,23 +1725,25 @@ expression,reading,meaning,tags,guid
 未満,みまん,"less than, insufficient",JLPT JLPT_2,nt1s0!NVdz
 名字,みょうじ,"surname, family name",JLPT JLPT_2,"Ew6=${R8,S"
 ミリ (メートル),ミリ (メートル),milli-,JLPT JLPT_2,kM;@-}8}0R
+診る,みる,to examine (medically),JLPT JLPT_2,"q@#,?h7tBf"
 民間,みんかん,"private, civilian",JLPT JLPT_2,vv3cePKnIT
 民主～,みんしゅ～,democratic,JLPT JLPT_2,K3~5HUQIAM
 民謡,みんよう,"folk song, popular song",JLPT JLPT_2,pP&9kI-fbS
-～向け,～むけ,for ~,JLPT JLPT_2,"Gc8ij%t,3="
 無限,むげん,infinite,JLPT JLPT_2,gDON}p~:3b
 無地,むじ,plain,JLPT JLPT_2,o<F6#GtsCJ
+蒸し暑い,むしあつい,"humid, sultry",JLPT JLPT_2,b:SYmm(y*W
 矛盾,むじゅん,"contradiction, inconsistency",JLPT JLPT_2,o%DtBbl{ew
 無数,むすう,"countless number, infinite number",JLPT JLPT_2,CTm.Li6V%.
 紫,むらさき,"purple color, violet",JLPT JLPT_2,L>.R5hInn&
 群れ,むれ,"crowd, flock, herd",JLPT JLPT_2,B_zh7-tRm8
 姪,めい,niece,JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese,kEuo{su[^Q
 名～,めい～,famous ~,JLPT JLPT_2,Ojv<[]|SWz
-～名,～めい,counter for people,JLPT JLPT_2,u?LD1<v]&U
 名作,めいさく,masterpiece,JLPT JLPT_2,h/LK6GJnNJ
+名詞,めいし,noun,JLPT JLPT_2,iPorDGRE(|
+名刺,めいし,business card,JLPT JLPT_2,z;/559u$MG
 名所,めいしょ,famous place,JLPT JLPT_2,n}/wr4@6m|
-命ずる,めいずる,"to command, to appoint",JLPT JLPT_2,Qc}ueJ@_WT
 迷信,めいしん,superstition,JLPT JLPT_2,"p|p0h,n7H0"
+命ずる,めいずる,"to command, to appoint",JLPT JLPT_2,Qc}ueJ@_WT
 名物,めいぶつ,"famous product, special product, speciality",JLPT JLPT_2,q76$d]Uuar
 銘々,めいめい,"each, individual",JLPT JLPT_2,N3.+yn]5jC
 恵まれる,めぐまれる,"to be blessed with, to be rich in",JLPT JLPT_2,"s!Z[_1,-&j"
@@ -1510,19 +1761,20 @@ expression,reading,meaning,tags,guid
 目安,めやす,"criterion, aim",JLPT JLPT_2,"BF>,#hrn[;"
 免税,めんぜい,tax exemption,JLPT JLPT_2,ED4QKkxoOi
 面積,めんせき,area,JLPT JLPT_2,nvFYwK_.$V
+面接,めんせつ,interview,JLPT JLPT_2,"G{,..f)t;T"
 面倒臭い,めんどうくさい,"bother to do, tiresome",JLPT JLPT_2,v_H;=Sw:>n
+モーター,モーター,motor,JLPT JLPT_2,"wBaq,e|KHL"
 儲かる,もうかる,"to be profitable, to yield a profit",JLPT JLPT_2,"x^)#,>iTuV"
 儲ける,もうける,"to earn, to have (bear, beget) a child",JLPT JLPT_2,knorMFQjZa
 申し訳ない,もうしわけない,"inexcusable, I am sorry",JLPT JLPT_2,hK_t:TVUx-
-モーター,モーター,motor,JLPT JLPT_2,"wBaq,e|KHL"
 木材,もくざい,"lumber, timber, wood",JLPT JLPT_2,p])fTiJgeI
 目次,もくじ,table of contents,JLPT JLPT_2,M+OIm~SY-.
 潜る,もぐる,"to dive, to pass through; to evade, to hide",JLPT JLPT_2,qj|MaKX?5J
 もしかしたら,もしかしたら,"perhaps, maybe, by some chance",JLPT JLPT_2,j:FmHM43yb
 もたれる,もたれる,"to lean against, to lean on",JLPT JLPT_2,Qh6t6//2Z$
+凭れる,もたれる,"to lean against, to lean on, to recline on",JLPT JLPT_2,fLRY=%%+A3
 モダン,モダン,modern,JLPT JLPT_2,N5!.;_=H-k
 餅,もち,sticky rice cake,JLPT JLPT_2,OEgIoQ4(`q
-～もち,～もち,person who has ~,JLPT JLPT_2,kcFc6H|EaR
 モデル,モデル,a fashion model,JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese,hjD+7m/[]w
 元々,もともと,"originally, by nature, from the start",JLPT JLPT_2,u[5ChLTTM_
 物置,ものおき,storage room,JLPT JLPT_2,JX]1h3C@-y
@@ -1532,13 +1784,14 @@ expression,reading,meaning,tags,guid
 モノレール,モノレール,monorail,JLPT JLPT_2,l0q)O[^}S)
 紅葉,もみじ,(Japanese) maple,JLPT JLPT_2,hx<2A]~{T*
 揉む,もむ,"to rub, to crumple (up), to wrinkle",JLPT JLPT_2,0PUyW_0#W
+もやす,もやす,to burn,JLPT JLPT_2,r6}Dz{1iu]
 催し,もよおし,"event, festivities, function",JLPT JLPT_2,"EIU(L,`^Eh"
 盛る,もる,to serve (food); to fill up; to prescribe,JLPT JLPT_2,N]CqJA)#E%
-～問,～もん,counter for questions,JLPT JLPT_2,r$GN8{}74-
 問答,もんどう,"questions and answers, dialogue",JLPT JLPT_2,A@X}Rt9?ZV
-～夜,～や,counter for nights,JLPT JLPT_2,Cczj9?Yw&<
 やかましい,やかましい,"to be fussy, to be overly critical",JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11,K^1j<(hE_K
+喧しい,やかましい,"noisy, loud, clamorous, boisterous",JLPT JLPT_2,Pemm{hE0w}
 夜間,やかん,"at night, nighttime",JLPT JLPT_2,l-mqt6Hx:l
+やかん,やかん,kettle,JLPT JLPT_2,"tkW,zBf(b9"
 やかん,やかん,kettle,JLPT JLPT_2,"tkW,zBf(b9"
 役者,やくしゃ,actor,JLPT JLPT_2,v7(WAy>oTx
 役所,やくしょ,"government office, public office",JLPT JLPT_2,tYh<Y-yS(<
@@ -1551,13 +1804,14 @@ expression,reading,meaning,tags,guid
 やたらに,やたらに,"randomly, recklessly, blindly",JLPT JLPT_2,D]ow_1`[wN
 薬局,やっきょく,"pharmacy, drugstore",JLPT JLPT_2,N194=aZ:d#
 やっつける,やっつける,"to attack (an enemy), to beat, to finish off",JLPT JLPT_2,l@9):k=!@X
-家主,やぬし,landlord,JLPT JLPT_2,DUdGHLB_/_
 やっぱり,やっぱり,"after all, anyway",Genki_Ln.17 JLPT JLPT_2 Genki,"wZ<[J,i02f"
+家主,やぬし,landlord,JLPT JLPT_2,DUdGHLB_/_
 破く,やぶく,to tear,JLPT JLPT_2,sH>!N}Nah~
 やむをえない,やむをえない,"cannot be helped, unavoidable",JLPT JLPT_2,h@Tq3wqB9&
 軟らかい,やわらかい,"soft, tender, limp",JLPT JLPT_2,I1/=F(E;;H
 遊園地,ゆうえんち,amusement park,JLPT JLPT_2,dC>55R1XHE
 夕刊,ゆうかん,evening paper,JLPT JLPT_2,G?pT?]klj{
+友好,ゆうこう,friendship,JLPT JLPT_2,qSk@+t:._p
 郵送,ゆうそう,mailing,JLPT JLPT_2,"pak,%]0,3<"
 夕立,ゆうだち,(sudden) evening shower (rain),JLPT JLPT_2,FOO]a;xGYZ
 夕日,ゆうひ,"(in) the evening sun, setting sun",JLPT JLPT_2,BF*@*C-(FW
@@ -1570,8 +1824,10 @@ expression,reading,meaning,tags,guid
 輸送,ゆそう,"transport, transportation",JLPT JLPT_2,nl?PiUS:Q5
 油断,ゆだん,"negligence, unpreparedness",JLPT JLPT_2,"L&`<@,Zftu"
 湯飲み,ゆのみ,teacup,JLPT JLPT_2,s*/X<SI&g1
+湯飲,ゆのみ,teacup,JLPT JLPT_2,pwNMm0bu8j
 緩い,ゆるい,"loose, lenient, slow",JLPT JLPT_2,f-=j^I>k%>
 溶岩,ようがん,lava,JLPT JLPT_2,"z`5eZ>DM,!"
+容器,ようき,"container, receptacle, vessel, packaging",JLPT JLPT_2,f536=$=S=m
 用語,ようご,"term, terminology",JLPT JLPT_2 Intermediate_Japanese_Ln.2 Intermediate_Japanese,q6%7}a8txx
 要旨,ようし,"gist, essentials, summary",JLPT JLPT_2,"v/s,Hals&5"
 幼児,ようじ,"infant, baby, child",JLPT JLPT_2,Fb~|WLt[gi
@@ -1588,6 +1844,8 @@ expression,reading,meaning,tags,guid
 欲張り,よくばり,greedy,JLPT JLPT_2,b3gWN3k9:4
 余計,よけい,"too much, unnecessary, abundance, surplus, excess, superfluity",JLPT JLPT_2,FkpUW)M;0p
 よこす,よこす,"to send, to forward; to hand over (e.g., money)",JLPT JLPT_2,GJ|S}*`g9u
+よごす,よごす,"(1) to disgrace, to dishonour, (2) to pollute, to contaminate, to soil, to make dirty, to stain",JLPT JLPT_2,"kPI0fi{,b:"
+寄せる,よせる,"to come near, to let someone approach to bring near, to bring together, to collect, to gather to deliver (opinion, news, etc.), to send (e.g. a letter), to contribute, to donate to let someone drop by",JLPT JLPT_2,td?jGlx.7h
 余所,よそ,"another place, somewhere else, strange parts",JLPT JLPT_2,GE|2R=rvQy
 四つ角,よつかど,"four corners, crossroads",JLPT JLPT_2,EBB^]8mrLm
 酔っ払い,よっぱらい,drunkard,JLPT JLPT_2,m$-1zT#)h6
@@ -1596,7 +1854,6 @@ expression,reading,meaning,tags,guid
 呼び出す,よびだす,"to summon, to call (e.g., phone)",JLPT JLPT_2,B]HE<fu.Gh
 蘇る,よみがえる,"to be resurrected, to be revived",JLPT JLPT_2,bFWlW*}Y0x
 慶ぶ,よろこぶ,"to be delighted, to be glad",JLPT JLPT_2,bYQ/7BX1[E
-～等,～ら,plural persons,JLPT JLPT_2,yo94:>GuX6
 来日,らいにち,"coming to Japan, visit to Japan",JLPT JLPT_2,F=tQ&:UgOr
 落第,らくだい,"failure, dropping out of a class",JLPT JLPT_2,Q(J~:!^_h.
 ラッシュアワー,ラッシュアワー,rush hour,JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese,qG.v6=72Ou
@@ -1606,302 +1863,45 @@ expression,reading,meaning,tags,guid
 乱暴,らんぼう,"rude, violent, rough",JLPT JLPT_2,s8$*-j{s@r
 理科,りか,science,JLPT JLPT_2,f#/2Fo6[T)
 利害,りがい,"advantages and disadvantages, interest",JLPT JLPT_2,BYu5o+Pi5&
-段階,だんかい,"gradation, grade, stage",JLPT JLPT_2,jG]K@ghVXd
-短期,たんき,short term,JLPT JLPT_2,q<4V7>Q;K[
-炭鉱,たんこう,"coal mine, coal pit",JLPT JLPT_2,k;/>)mhS{3
-短所,たんしょ,"defect, weak point; disadvantage",JLPT JLPT_2,H{`G1#jtpf
-たんす,たんす,chest of drawers,JLPT JLPT_2,m~G#CLkml)
-淡水,たんすい,fresh water,JLPT JLPT_2,qe4&W^T?1T
-断水,だんすい,water outage,JLPT JLPT_2,i;K5<cgucK
-単数,たんすう,singular (number),JLPT JLPT_2,l])jQ./Ree
-団地,だんち,housing complex,JLPT JLPT_2,gOlbcdBj<$
-断定,だんてい,"conclusion, decision",JLPT JLPT_2,A$|V(|!0O8
-短編,たんぺん,"short (e.g., story, film)",JLPT JLPT_2,bU~DAA@V)_
-誓う,ちかう,"to swear, to vow",JLPT JLPT_2,MT!|3=)2Nd
-地下水,ちかすい,underground water,JLPT JLPT_2,p4eK+EuKD%
-近々,ちかぢか,"soon, before long",JLPT JLPT_2,z!thddh444
-近付ける,ちかづける,"to bring near, to put close, to let come near",JLPT JLPT_2,"tY,9|Y-dCA"
-近寄る,ちかよる,"to approach, to draw near",JLPT JLPT_2,PADniz;h7y
-力強い,ちからづよい,"powerful, strong, vigorous",JLPT JLPT_2,esKt]N.[nn
-ちぎる,ちぎる,"to cut up fine, to pick (fruit)",JLPT JLPT_2,n1$55xxJH)
-地質,ちしつ,geological features,JLPT JLPT_2,OY*f%Q>2A{
-知人,ちじん,"friend, acquaintance",JLPT JLPT_2 Intermediate_Japanese_Ln.1 Intermediate_Japanese,yhSeK?G|5o
-地帯,ちたい,"area, zone",JLPT JLPT_2,Cixjw@G7=!
-縮む,ちぢむ,"to shrink, to be contracted",JLPT JLPT_2,s+NV#|Vzsj
-縮める,ちぢめる,"to shorten, to reduce, to shrink",JLPT JLPT_2,K2!izn(Ec%
-縮れる,ちぢれる,"to be wavy, to be curled",JLPT JLPT_2,hDb2M|vgvf
-チップ,チップ,"gratuity, tip; chip",Intermediate_Japanese_Ln.6 JLPT_2 JLPT Intermediate_Japanese,I{J?rk;mEF
-地点,ちてん,"site, point on a map",JLPT JLPT_2,O67?;Qy2t6
-地名,ちめい,place name,JLPT JLPT_2,H}VgzK^n++
-茶色い,ちゃいろい,brown,JLPT JLPT_2,cPhF;RkRM7
-～着,～ちゃく,counter for clothes; finishing place,JLPT JLPT_2,LNy/i0~?h*
-着々,ちゃくちゃく,steadily,JLPT JLPT_2,o8gOx2+4-w
-中間,ちゅうかん,"middle, midway, interim",JLPT JLPT_2,db[p1gjS8r
-中旬,ちゅうじゅん,second third of a month,JLPT JLPT_2,w>eUJ_!p-%
-抽象,ちゅうしょう,abstract,JLPT JLPT_2,i(@XmP*tzX
-中世,ちゅうせい,"Middle Ages, medieval times",JLPT JLPT_2,"Lq!,3&y/Oc"
-中性,ちゅうせい,"neuter gender, neutral",JLPT JLPT_2,dr8B_U~r:p
-中途,ちゅうと,"in the middle, half-way",JLPT JLPT_2,qq^xMh<42g
-中年,ちゅうねん,middle-aged,JLPT JLPT_2 Intermediate_Japanese_Ln.1 Intermediate_Japanese,hO*P@Du`th
-長～,ちょう～,long ~,JLPT JLPT_2,neC33gMb3=
-～庁,～ちょう,"office, agency",JLPT JLPT_2,Nh*HbZ~CkX
-～兆,～ちょう,trillion,JLPT JLPT_2,jHeL$YV:ox
-～長,～ちょう,"leader, head",JLPT JLPT_2,i0hy<f%]dq
-～帳,～ちょう,"~ book, notebook",JLPT JLPT_2,e.I(|go>z(
-超過,ちょうか,"excess, being more than",JLPT JLPT_2,H)x}P>JSY6
-彫刻,ちょうこく,"carving, engraving, sculpture",JLPT JLPT_2,Mb[Y;T*X##
-長所,ちょうしょ,"strong point, merit; advantage",JLPT JLPT_2,r2Td3|X~d{
-長女,ちょうじょ,eldest daughter,JLPT JLPT_2,"t>?7,8swc^"
-調整,ちょうせい,"regulation, adjustment, tuning",JLPT JLPT_2,QE[mY6z/-y
-調節,ちょうせつ,"regulation, adjustment, control",JLPT JLPT_2,P0aU16*RZa
-長短,ちょうたん,"length, long and short, +-",JLPT JLPT_2,qq$=?zj3/o
-頂点,ちょうてん,"top, summit",JLPT JLPT_2,O=qNj-<h$g
-長男,ちょうなん,eldest son,JLPT JLPT_2,q&!C!n<?M%
-長方形,ちょうほうけい,"rectangle, oblong",JLPT JLPT_2,O?/Z!eS6c(
-調味料,ちょうみりょう,"condiment, seasoning",JLPT JLPT_2,K^{6&5|*9!
-～丁目,～ちょうめ,"~ district (of a town; city, block)",JLPT JLPT_2,z[Zeu>wor`
-チョーク,チョーク,chalk,JLPT JLPT_2,bDt1557lyK
-直後,ちょくご,immediately following,JLPT JLPT_2,CruP!C)gep
-直線,ちょくせん,straight line,JLPT JLPT_2,i)fGfpmLw~
-直前,ちょくぜん,just before,JLPT JLPT_2,"D>@!/){#.,"
-直通,ちょくつう,direct connection,JLPT JLPT_2,A~{UUj]Qek
-直流,ちょくりゅう,direct current,JLPT JLPT_2,d)k}co{r3d
-貯蔵,ちょぞう,"storage, preservation",JLPT JLPT_2,EL+(Z/@n_h
-直角,ちょっかく,right angle,JLPT JLPT_2,v`=zo2c&R/
-直径,ちょっけい,diameter,JLPT JLPT_2,"z!K&J,E<-?"
-散らかす,ちらかす,"to scatter around, to leave untidy",JLPT JLPT_2,GEl!43e%n;
-散らかる,ちらかる,to be in disorder,JLPT JLPT_2,K|3bz=nC90
-塵紙,ちりがみ,"tissue paper, toilet paper",JLPT JLPT_2,lS2l<%5|;:
-追加,ついか,"addition, supplement, appendix",JLPT JLPT_2,"tj?z]po,j$"
-ついで,ついで,"opportunity, occasion",JLPT JLPT_2,JV}]H[sMyJ
-～通,～つう,counter for letters,JLPT JLPT_2,gcs`gQZBri
-通ずる,つうずる,"to lead, to run, to open",JLPT JLPT_2,q$j6&`f[H8
-通知,つうち,"notice, notification",JLPT JLPT_2,cJFk/B/(}}
-通帳,つうちょう,bankbook,JLPT JLPT_2,A$T{G:y63&
-通用,つうよう,"popular use, circulation",JLPT JLPT_2,s?U_N>(p<4
-通路,つうろ,"passage, pathway",JLPT JLPT_2,tLtZ>BdE3q
-～遣い,～づかい,use of ~,JLPT JLPT_2,C?GOcbN8fi
-～付,～つき,with ~,JLPT JLPT_2,L%2+~L_:IY
-突き当たり,つきあたり,"end (e.g., of street)",JLPT JLPT_2,"E.b]g.X8,Q"
-突き当たる,つきあたる,"to run into, to collide with",JLPT JLPT_2,H/BcfsD4m>
-月日,つきひ,"time, years, days",JLPT JLPT_2,syFp2{x6+`
-～続く,～つづく,"follow, continue, go on",JLPT JLPT_2,u%o(or2@%{
-突っ込む,つっこむ,"to plunge into, to stick into",JLPT JLPT_2,mSeMf>i-8N
-務める,つとめる,"to serve, to act",JLPT JLPT_2,L>!8An;z|w
-努める,つとめる,"to try, to aim",JLPT JLPT_2,Hiy-GVpUzU
-綱,つな,rope,JLPT JLPT_2,Gw:F2@;*cm
-繋がり,つながり,"connection, link, relationship",JLPT JLPT_2,i]34S7eeuh
-粒,つぶ,grain,JLPT JLPT_2,cj>Qx50pst
-潰す,つぶす,"to smash, to waste",JLPT JLPT_2,fw$wS&e^q
-潰れる,つぶれる,"to be smashed, to go bankrupt",JLPT JLPT_2,KtRH@.KstT
-つまずく,つまずく,"to stumble, to trip",JLPT JLPT_2,HV>q|x:QCp
-詰まる,つまる,"to be blocked, to be packed",JLPT JLPT_2,i9f3IyL;o8
-爪,つめ,fingernail or toenail,JLPT JLPT_2,s#1=yTp.2S
-艶,つや,"gloss, glaze",JLPT JLPT_2,Q)oxH2VDV_
-強気,つよき,"firm, strong",JLPT JLPT_2,"P1FRp-!AG,"
-～辛い,～づらい,hard to do ~,JLPT JLPT_2,u@W}x:nhL8
-釣り合う,つりあう,"to balance, to be in harmony, to suit",JLPT JLPT_2,z[{YFjYjFo
-吊る,つる,to hang,JLPT JLPT_2,eBriDa`?h[
-吊す,つるす,to hang,JLPT JLPT_2,ux}URvOg@g
-手洗い,てあらい,"restroom, lavatory",JLPT JLPT_2,shNH8<_-bh
-低～,てい～,low ~,JLPT JLPT_2,qQ>QRC-XBo
-定員,ていいん,"fixed number of regular personnel, capacity (e.g., of boat)",JLPT JLPT_2,hHnudL9f]D
-定価,ていか,established price,JLPT JLPT_2,GWM}Nec!lL
-低下,ていか,"fall, decline",JLPT JLPT_2,uCyhw5D=m+
-定期券,ていきけん,"commuter pass, season ticket",JLPT JLPT_2,kM5$./::LV
-定休日,ていきゅうび,regular holiday,JLPT JLPT_2,GIBTjs]--C
-停止,ていし,"suspension, interruption, stoppage",JLPT JLPT_2,L@Y;}f5pt/
-停車,ていしゃ,"stopping (e.g., train)",JLPT JLPT_2,J9C>1^3Nnd
-出入り,でいり,"in and out, coming and going",JLPT JLPT_2,yl0fL{Q0pI
-出入口,でいりぐち,exit and entrance,JLPT JLPT_2,Eq1|~+1Qg4
-手入れ,ていれ,"repairs, maintenance",JLPT JLPT_2,rnU2HoMJ`m
-テーマ,テーマ,"theme, project, topic (GER: Thema)",JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,"gk7:?,j`-7"
-～滴,～てき,drop,JLPT JLPT_2,J%ti108Zf0
-出来上がり,できあがり,"be finished, ready",JLPT JLPT_2,"H,mU.Hzu4W"
-出来上がる,できあがる,"to be finished, to be ready",JLPT JLPT_2,d/)Gw/?OUZ
-的確,てきかく,"precise, accurate",JLPT JLPT_2,QsPEZIzu?w
-適確,てきかく,"precise, accurate",JLPT JLPT_2,f.CM.L/$:o
-手首,てくび,wrist,JLPT JLPT_2,Jk-$`y`Ik4
-凸凹,でこぼこ,"unevenness, roughness, ruggedness",JLPT JLPT_2,NK{S%hniXJ
-手頃,てごろ,"moderate, handy",JLPT JLPT_2,fokm:d$4ID
-弟子,でし,"pupil, disciple, apprentice",JLPT JLPT_2,xgs_S`YrNI
-でたらめ,でたらめ,"irresponsible utterance, nonsense; random",JLPT JLPT_2,o=WTZV3mV~
-手帳,てちょう,notebook,JLPT JLPT_2,sa)S+5Yc~m
-鉄橋,てっきょう,iron bridge,JLPT JLPT_2,ptqUB=+GwY
-手続き,てつづき,"procedure, (legal) process, formalities",JLPT JLPT_2,.%i6[1[$q
-鉄砲,てっぽう,gun,JLPT JLPT_2,jPGmB|kdN@
-テニスコート,テニスコート,tennis court,JLPT JLPT_2,I<8~`/$9/~
-手拭い,てぬぐい,(hand) towel,JLPT JLPT_2,qoag-^~LpA
-手前,てまえ,"before, this side",JLPT JLPT_2,"sUtM,w6Uoy"
-出迎え,でむかえ,"meeting, reception",JLPT JLPT_2,ty8z)H=LPz
-照らす,てらす,"to shine on, to illuminate",JLPT JLPT_2,NH<(nLZ8$8
-照る,てる,to shine,JLPT JLPT_2,3op!&nH<3
-～点,～てん,counter for scores,JLPT JLPT_2,Q=wx{JnD0/
-展開,てんかい,"develop, expansion (opposite of compression)",JLPT JLPT_2,civd_]-_la
-伝記,でんき,"biography, life story",JLPT JLPT_2,gEdK7vzpv5
-電球,でんきゅう,light bulb,JLPT JLPT_2,igr+WFj[j?
-点数,てんすう,"marks, points, score",JLPT JLPT_2,vc+IbB&=W`
-伝染,でんせん,contagion,JLPT JLPT_2,i$>Ffzmrg<
-電池,でんち,battery,Genki_Ln.15 JLPT_2 JLPT Genki,rtMf<[nw2h
-点々,てんてん,"here and there, little by little",JLPT JLPT_2,vIj65EZ[j(
-転々,てんてん,from one to another,JLPT JLPT_2,z<l%&cmA@h
-電柱,でんちゅう,"telephone pole, telegraph pole, light pole",JLPT JLPT_2,"gp>z=,YkpX"
-天皇,てんのう,Emperor of Japan,JLPT JLPT_2,BCTKLS7Bsq
-埋める,うめる,"to bury, to fill up, to fill (a seat, a vacant position)",JLPT JLPT_2,wtEE639hh4
-泊める,とめる,"to give shelter to, to lodge",JLPT JLPT_2,md-bthpDki
-掃く,はく,"to sweep, to brush, to gather up",JLPT JLPT_2,vSCJIFU380
-湯飲,ゆのみ,teacup,JLPT JLPT_2,pwNMm0bu8j
-乾かす,かわかす,"to dry (clothes, etc.), to desiccate",JLPT JLPT_2,pnSoE/i9wh
-乾燥,かんそう,"dry, arid, insipid, dehydrated",JLPT JLPT_2,td4Zh9`xWT
-脂,あぶら,"fat, tallow, lard",JLPT JLPT_2,t@*Ov{e4RP
-名詞,めいし,noun,JLPT JLPT_2,iPorDGRE(|
-賞品,しょうひん,"prize, trophy",JLPT JLPT_2,M}I~*8Gv<&
-省略,しょうりゃく,"omission, abbreviation, abridgment",JLPT JLPT_2,jp1y&-#kyn
-足袋,たび,"tabi, Japanese socks (with split toe)",JLPT JLPT_2,i9JA;qWI*S
-塩辛,しおから,salty (taste),JLPT JLPT_2,r[SoJ]i|V1
-腰掛,こしかけ,"seat, bench",JLPT JLPT_2,E&fvprgdQl
-預かる,あずかる,"to keep in custody, to receive on deposit, to take charge of",JLPT JLPT_2,LJpv~D13xj
-溶ける,とける,"(intransitive) to melt, to thaw, to fuse, to dissolve",JLPT JLPT_2,IB`$@F~Yl%
-蒸し暑い,むしあつい,"humid, sultry",JLPT JLPT_2,b:SYmm(y*W
-蒸す,ふす,"to steam (food, towel, etc.) to be hot and humid, to be sultry",JLPT JLPT_2,r!c{A-BiN=
-姓,せい,"surname, family name",JLPT JLPT_2,"sO,Mg|Q.hG"
-畳む,たたむ,"to fold (e.g., clothes, umbrella)",JLPT JLPT_2,OvXN(wM:bA
-あらわす,あらわす,"to write, to publish",JLPT JLPT_2,jfH_)2c|9s
-湿度,しつど,level of humidity,JLPT JLPT_2,i$wXV&h<e~
-しめる,しめる,"to be wet, to become wet, to be damp",JLPT JLPT_2,B-RIGx{n6t
-あみもの,あみもの,"knitting, web",JLPT JLPT_2,"wR7~d.J/,$"
-包装,ほうそう,"packing, wrapping",JLPT JLPT_2,Otsl}ZzWXb
-まざる,まざる,"to be mixed, to be blended with, to associate with",JLPT JLPT_2,jl4iD/OMQ)
-まじる,まじる,"to be mixed, to be blended with, to associate with",JLPT JLPT_2,tA}W)>X]v|
-まぜる,まぜる,"to mix, to stir",JLPT JLPT_2,N2_f#cqR]>
-刺さる,ささる,"to stick, to be stuck",JLPT JLPT_2,di2BW%43-n
-刺す,さす,"to pierce, to stab, to prick, to thrust",JLPT JLPT_2,A0r!%n.b)E
-名刺,めいし,business card,JLPT JLPT_2,z;/559u$MG
-する,する,to print,JLPT JLPT_2,b`9v+PM9Iw
-こくせき,こくせき,nationality,JLPT JLPT_2,Ew(}`1|Q5L
-児童,じどう,"children, juvenile",JLPT JLPT_2,"e,|tEbv]Zq"
-そば,そば,soba (buckwheat noodles),JLPT JLPT_2,ww?mb~cU}r
-かたかな,かたかな,katakana,JLPT JLPT_2,QPplVw&IAL
-かたづく,かたづく,"to put in order, to dispose of, to solve",JLPT JLPT_2,"z6jkVh5~d,"
-貝,かい,"shell, shellfish",JLPT JLPT_2,HNd6/BU{>X
-対照,たいしょう,"contrast, antithesis, comparison",JLPT JLPT_2,n>fKKV=_7/
-やかん,やかん,kettle,JLPT JLPT_2,"tkW,zBf(b9"
-しかく しかくい,しかく しかくい,square,JLPT JLPT_2,cVBHdh5c]d
-面接,めんせつ,interview,JLPT JLPT_2,"G{,..f)t;T"
-停電,ていでん,"power outage, electricity outage, blackout",JLPT JLPT_2,d8`tBKM9z5
-四季,しき,four seasons,JLPT JLPT_2,j=w0weSQi)
-反省,はんせい,"reflection, reconsideration",JLPT JLPT_2,NqUE%mYbhY
-こうよう もみじ,こうよう もみじ,(Japanese) maple,JLPT JLPT_2,jyNUL2Cq@*
-もやす,もやす,to burn,JLPT JLPT_2,r6}Dz{1iu]
-つうか,つうか,currency,JLPT JLPT_2,oE[eO]8G9J
-まく,まく,"to wind, to coil, to roll",JLPT JLPT_2,HX*jvL+{?S
-よごす,よごす,"(1) to disgrace, to dishonour, (2) to pollute, to contaminate, to soil, to make dirty, to stain",JLPT JLPT_2,"kPI0fi{,b:"
-かけざん,かけざん,multiplication,JLPT JLPT_2,J(J6;KG1P0
-課程,かてい,"course, curriculum",JLPT JLPT_2,"g,{yU7}}eo"
-乗り換え,のりかえ,"(n) transfer (trains, buses, etc.)",JLPT JLPT_2,"C,/t73;.mS"
-ふくめる,ふくめる,"to include, to instruct, to make one understand",JLPT JLPT_2,E_4V!wVhjP
-かしょ,かしょ,"passage, place",JLPT JLPT_2,QWm(5L}$9%
-学部,がくぶ,"department of a university undergraduate (course, program, etc.)",JLPT JLPT_2,M{Rt-~pV[8
-実力,じつりょく,"(real) ability, true strength, merit, efficiency, competency",JLPT JLPT_2,N8N^f(x7A}
-少なくとも,すくなくとも,at least,JLPT JLPT_2,I6Xp`pMQBV
-応援,おうえん,"aid, assistance, help, support, reinforcement cheering, rooting (for), support",JLPT JLPT_2,"db6u7R<V*,"
-期限,きげん,"term, period, time frame time limit, deadline, cutoff (date)",JLPT JLPT_2,"hwqzFcU1,$"
-友好,ゆうこう,friendship,JLPT JLPT_2,qSk@+t:._p
-売り上げ,うりあげ,"amount sold, sales, proceeds, takings, turnover",JLPT JLPT_2,AV/DH?U*[&
-交代,こうたい,"alternation, change, relief, relay, shift, substitution (sports, etc.), taking turns",JLPT JLPT_2,f~GJ18sE+w
-話し合い,はなしあい,"discussion, talk, conference",JLPT JLPT_2,z&(3kffI&H
-切っ掛け,きっかけ,"chance, start, cue, excuse, motive, impetus, occassion",JLPT JLPT_2,sY5&<lP/:_
-活躍,かつやく,"activity (esp. energetic or successful), great efforts, active participation",JLPT JLPT_2,t6eKeTVxu1
-感想,かんそう,"impressions, thoughts, feelings, reactions",JLPT JLPT_2,Dl}@=q4$z6
-東洋,とうよう,"the East, the Orient",JLPT JLPT_2,NL2U4L5P.}
-中身,なかみ,"contents, interior, filling substance, content",JLPT JLPT_2,hK@B?T%H[@
-琴,きん,13-string Japanese zither,JLPT JLPT_2,ze/Aoh1sN#
-宣伝,せんでん,"publicity, advertisement, advertising, propaganda",JLPT JLPT_2,G}7n;$pW3b
-例外,れいがい,exception,JLPT JLPT_2,tw6[F{cyVX
-率直,そっちょく,"frank, candid, straightforward, openhearted, direct, outspoken",JLPT JLPT_2,zP0+k&2Oo$
-付属,ふぞく,"being attached (to), being affiliated (to), belonging (to), going with",JLPT JLPT_2,"nR=,~i1i~~"
-間もなく,まもなく,"soon, shortly, before long, in a short time, in a little while",JLPT JLPT_2,yu:b9)h!u&
-全身,ぜんしん,"whole (body), full-length (e.g., portrait) systemic",JLPT JLPT_2,edKjYQQik|
-通勤,つうきん,commuting to work,JLPT JLPT_2,e/9Ql]v_wl
-当たり前,あたりまえ,"natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm",JLPT JLPT_2,b#?!|FvT)4
-締め切り,しめきり,"deadline, closing, cut-off, end",JLPT JLPT_2,Md1`kIU$)u
-果たして,はたして,"as was expected, just as one thought, sure enough",JLPT JLPT_2,OPG]u@2UJd
-売れ行き,うれゆき,"sales, demand",JLPT JLPT_2,lFbE^~5.H1
-楽器,がっき,musical instrument,JLPT JLPT_2,zj[&tINbu_
-公正,こうせい,"justice, fairness, impartiality",JLPT JLPT_2,N@!)sH2_75
-相変わらず,あいかわらず,"as usual, as always, as before, as ever, still",JLPT JLPT_2,B>ep8MopYw
-通訳,つうやく,"interpretation (i.e., oral translation) interpreter",JLPT JLPT_2,"C1Sq0$,;*i"
-有無,うむ,"existence or nonexistence, presence of absence consent or refusal, yes or no",JLPT JLPT_2,zVa=(IGgn=
-容器,ようき,"container, receptacle, vessel, packaging",JLPT JLPT_2,f536=$=S=m
+リズム,リズム,rhythm,JLPT JLPT_2,sEJgqt=slc
+リットル,リットル,liter,JLPT JLPT_2,J=WKC<9({c
+リポート,リポート,"report, paper",JLPT JLPT_2,"C>!.T,TyRb"
+リボン,リボン,ribbon,JLPT JLPT_2,d<&zzlZBY`
+略す,りゃくす,to abbreviate,JLPT JLPT_2,tS9.Rzrjw(
+流域,りゅういき,(river) basin,JLPT JLPT_2,fHWZ-KtDHt
 寮,りょう,"hostel, dormitory",JLPT JLPT_2,v~j5~V9)9G
-広げる,ひろげる,"to spread, to extend, to expand, to enlarge, to widen, to broaden",JLPT JLPT_2,nBlnE;%M(-
-生る,なる,to bear fruit,JLPT JLPT_2,L4foi?c6%U
-校舎,こうしゃ,"school building, schoolhouse",JLPT JLPT_2,bX%cC*?a1%
-酸性,さんせい,acidity acidic,JLPT JLPT_2,=WeA@3?3F
-派手,はで,"showy, loud, flashy, gaudy",JLPT JLPT_2,GR6l(BMZ<s
-押さえる,おさえる,"to pin down, to hold down, to press down, to hold in place, to hold steady to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part) to get a hold of, to obtain, to seize, to catch, to arrest",JLPT JLPT_2,"n1S,CEj^b^"
-住居,じゅうきょ,"dwelling, house, residence, address",JLPT JLPT_2,dv!To}OFLp
-寄せる,よせる,"to come near, to let someone approach to bring near, to bring together, to collect, to gather to deliver (opinion, news, etc.), to send (e.g. a letter), to contribute, to donate to let someone drop by",JLPT JLPT_2,td?jGlx.7h
-攻める,せめる,"to attack, to assault, to assail",JLPT JLPT_2,j:1<3/Aj|u
-重ねる,かさねる,"to pile up, to heap up, to stack up, to put on top of another to repeat many times over, to go through repeatedly, to accumulate",JLPT JLPT_2,v-}D_SOws/
-地味,じみ,"plain, simple, subdued, sober",JLPT JLPT_2,LT>0so`a$T
-知り合い,しりあい,acquaintance,JLPT JLPT_2,eY^k(4N>1-
-何とも,なんとも,"really, very, extremely, terribly, awfully (not) anything, (not) at all, (not) a bit",JLPT JLPT_2,mA+s2zFs]r
-高める,たかめる,"to raise, to lift, to boost, to enhance",JLPT JLPT_2,hpSUACwJv[
-水曜,すいよう,Wednesday,JLPT JLPT_2,qI=LNhp+4=
-性質,せいしつ,"nature, property, disposition",JLPT JLPT_2,E(70}4c-m*
+両～,りょう～,both ~,JLPT JLPT_2,i/MiSZ3!G4
+両側,りょうがわ,both sides,JLPT JLPT_2,I4rwSM+9WF
+漁師,りょうし,fisherman,JLPT JLPT_2,lKSSx-0&_N
+領事,りょうじ,consul,JLPT JLPT_2,Pu=nQI2MaF
+領収,りょうしゅう,"receipt, voucher",JLPT JLPT_2,g0BH(u/;@f
+臨時,りんじ,"temporary, special, extraordinary",JLPT JLPT_2,"IQ{y{$,U6]"
+留守番,るすばん,"care-taking, caretaker, house-watching",JLPT JLPT_2 Genki_Ln.23 Genki,MW#7DF[RQ)
+例外,れいがい,exception,JLPT JLPT_2,tw6[F{cyVX
+零点,れいてん,"zero, no marks",JLPT JLPT_2,Hh<_pAYn4<
+冷凍,れいとう,"freezing, cold storage, refrigeration",JLPT JLPT_2,iIL[pf<7Zb
+レインコート,レインコート,raincoat,JLPT JLPT_2,h{`Micb;bg
+レクリェーション,レクリェーション,recreation,JLPT JLPT_2,MmD@s.(0])
+レジャー,レジャー,leisure,JLPT JLPT_2,o0|E{X}Nj}
+列島,れっとう,chain of islands,JLPT JLPT_2,Ev?wG8aB}r
+煉瓦,れんが,brick,JLPT JLPT_2,cY@sqBwW67
+連合,れんごう,"union, alliance",JLPT JLPT_2,F3-L+C:h6>
+レンズ,レンズ,lens,JLPT JLPT_2,w1(O7Kos8|
+ローマ字,ローマじ,"romanization, Roman letters (alphabet)",JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese,"n,*Nb4*]$5"
+ろうそく,ろうそく,candle,JLPT_2 JLPT Genki_Ln.18 Genki,w_)UKdrs_:
+録音,ろくおん,(audio) recording,JLPT JLPT_2,E#iNpJw]tp
+ロッカー,ロッカー,locker,JLPT JLPT_2,m*zHe7hzP9
+ロビー,ロビー,lobby,JLPT JLPT_2,i8ig9mjNdK
+論ずる,ろんずる,"to argue, to discuss",JLPT JLPT_2,y/^Bn9Z9<_
+和～,わ～,Japanese style,JLPT JLPT_2,JBvdN:J16X
+和英,わえい,Japanese-English,JLPT JLPT_2,"B*@cU.E9,A"
+我～,わが～,our ~,JLPT JLPT_2,L0:Cs<lBa|
 分かれる,わかれる,"to branch, to fork, to diverge to separate, to split, to divide to disperse, to scatter",JLPT JLPT_2,b{~nvNu2:{
-殴る,なぐる,"to strike, to hit, to beat, to punch",JLPT JLPT_2,IuJ-aZ~ucE
-間隔,かんかく,"space, interval space character, whitespace",JLPT JLPT_2,f(q^~|ToF|
-碁,ご,go (board game),JLPT JLPT_2,rtF@zQN<F]
-飾り,かざり,"decoration, ornament, trimmings",JLPT JLPT_2,MTDy9F:WDT
-洗剤,せんざい,"detergent, cleanser, cleaning agent, washing material",JLPT JLPT_2,xPk5/(8H&C
-争う,あらそう,"to compete, to contest, to contend to quarrel, to argue, to dispute, to be at variance, to oppose",JLPT JLPT_2,eC6vp6J:;c
-引き分け,ひきわけ,"draw (in competition), tie game",JLPT JLPT_2,JQc@iJs3z#
-鐘,かね,"bell (often a large hanging bell), chime",JLPT JLPT_2,MiZAx.nm4S
-重体,じゅうたい,"serious condition, critical condition",JLPT JLPT_2,eGoKd/:^C0
-引っ越し,ひっこし,"moving (dwelling, office, etc.), changing residence",JLPT JLPT_2,F[^C#=Zqkz
-殻,から,"shell, husk, hull, pod, chaff",JLPT JLPT_2,E[9cW:WqUf
-題名,だいめい,"title, caption, heading",JLPT JLPT_2,piMdjCN@h}
-酢,す,vinegar,JLPT JLPT_2,S|>MWw8{x
-日差し,ひざし,sunlight,JLPT JLPT_2,C*wD(*i+[Q
-案外,あんがい,"unexpectedly, surprisingly",JLPT JLPT_2,"E-`?,aYenW"
-慌てる,あわてる,"to become confused (disconcerted, disorganized), to be flustered, to panic, to hurry, to rush, to hasten",JLPT JLPT_2,RdWuu8/jDE
-煮る,にる,"to boil, to simmer, to stew, seethe",JLPT JLPT_2,qMv(PS]:%I
-歌謡,かよう,"song, ballad",JLPT JLPT_2,B8j5MHOl3a
-次ぐ,つぐ,"to follow, to come after, to come next (to)",JLPT JLPT_2,KsUS[vX;(*
-深まる,ふかまる,"to deepen, to heighten, to intensify",JLPT JLPT_2,AoEcO;]AH#
-積む,つむ,"to pile up, to stack",JLPT JLPT_2,"j$?]*}X8^,"
-出迎える,でむかえる,"to meet, to greet",JLPT JLPT_2,tO[4D*FC$y
-下る,くだる,"to descend, to go down, to come down",JLPT JLPT_2,x;r#pjjP.D
-凭れる,もたれる,"to lean against, to lean on, to recline on",JLPT JLPT_2,fLRY=%%+A3
-剥がす,はがす,"to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect",JLPT JLPT_2,twr([xW-`[
-写る,うつる,"to be photographed, to be projected",JLPT JLPT_2,CI<Sr}lwt|
-建つ,たつ,"to be erected, to be built",JLPT JLPT_2,"M!q;te,)Kq"
-生長,せいちょう,growth (of a plant),JLPT JLPT_2,s0(03oa~>J
-出入り口,でいりぐち,exit and entrance,JLPT JLPT_2,"w,8Y4;[3/l"
-手ごろ,てごろ,"handy, convenient suitable, reasoanble, moderate",JLPT JLPT_2,hDgPRveK4>
-郡,ぐん,"district, county",JLPT JLPT_2,bbr::y1BwQ
-不通,ふつう,"suspension, interruption, stoppage, tie-up, cessation",JLPT JLPT_2,f3J`JKn<YY
-伝わる,つたわる,"to spread (of a rumor, news, etc.), to travel, to circulate, to go around, to be passed around, to become known",JLPT JLPT_2,xB#-{Oy+Zn
-蚊,か,mosquito,JLPT JLPT_2,j=4=()Uwi2
-生年月日,せいねんがっぴ,date of birth,JLPT JLPT_2,l/2yLDI$!q
-百科事典,ひゃっかじてん,encyclopedia,JLPT JLPT_2,cvA%H8}VUp
-休息,きゅうそく,"rest, relief, relaxation",JLPT JLPT_2,mFQb-ci%=n
-診る,みる,to examine (medically),JLPT JLPT_2,"q@#,?h7tBf"
-日にち,ひにち,"date (of a planned event, act, etc.), day",JLPT JLPT_2,CWiz%ru-_b
-何しろ,なにしろ,"in any case, at any rate, anyhow, anyway, as you know, for you see, particularly",JLPT JLPT_2,uSbI~/yfu<
-外れる,はずれる,"to be disconnected, to get out of place, to be off, to be out (e.g., of gear)",JLPT JLPT_2,c*@~/j#){L
-冷やす,ひやす,"to cool (from room temperature), to chill, to refrigerate",JLPT JLPT_2,r#^XW.Gb>Y
-温まる,あたたまる,to warm oneself,JLPT JLPT_2,B5XhWyF.q9
-繋がる,つながる,"to be tied together, to be connected to, to be linked to",JLPT JLPT_2,AHrdgC)O9:
-惨めな,みじめな,"miserable, wretched, unhappy, sad, pitiable",JLPT JLPT_2,N0/%L2iZ-/
-生意気な,なまいきな,"impertinent, saucy, cheeky, impudent, audacious, cocky, pert, brash",JLPT JLPT_2,bvjMS7agaS
-揃える,そろえる,"to collect, to gather, to get together, to complete (a collection) to arrange, to put in order, to prepare, to get ready to make uniform, to make even, to match",JLPT JLPT_2,"eIvmG2@,}C"
-朗らか(な),ほがらか(な),"cheerful, merry bright (sky, day, etc.), fine, clear",JLPT JLPT_2,B5Ml)a4{iI
-喧しい,やかましい,"noisy, loud, clamorous, boisterous",JLPT JLPT_2,Pemm{hE0w}
-跨ぐ,またぐ,"to step over/across, to stride over/across, to cross to stretch over, to span, to bridge, to saddle, to straddle",JLPT JLPT_2,G1zbrDd=1y
-躓く,つまずく,"to trip (over), to stumble",JLPT JLPT_2,c>Y]uM]FZ+
-下品(な),げひん(な),vulgar,JLPT JLPT_2,OV!SBP%Y;}
-思いっきり,おもいっきり,to the best of one's ability,JLPT JLPT_2,"B,fE|/^X*C"
-萎む,しぼむ,"to wither (of flowers, dreams, etc.), to wilt",JLPT JLPT_2,nNiS0>eZP6
+若々しい,わかわかしい,"youthful, young",JLPT JLPT_2,EC2u(({!rQ
+詫びる,わびる,to apologize,JLPT JLPT_2,x!9QsM6~r{
+和服,わふく,Japanese clothes,JLPT JLPT_2,v@K#0^dxIj
+割合に,わりあいに,"relatively, comparatively",JLPT JLPT_2,A0do>r1!)l
+割算,わりざん,division (math),JLPT JLPT_2,eZw4N!$Eu-
+割と,わりと,"relatively, comparatively",JLPT JLPT_2,"I-,z(jixJ,"
+割引,わりびき,discount,JLPT JLPT_2,oLo@nz.I(q
+ワンピース,ワンピース,one-piece dress,JLPT JLPT_2,l({SDlo@!^
