@@ -1,719 +1,719 @@
-expression,reading,meaning,tags
-ああ,ああ,"Ah!, Oh!",JLPT JLPT_4 JLPT_5 JLPT_N5
-会う,あう,"to meet, to see",JLPT JLPT_3 JLPT_5 JLPT_N5
-青,あお,blue,JLPT JLPT_5 JLPT_N5
-青い,あおい,blue,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-赤,あか,red,JLPT JLPT_5 JLPT_N5
-赤い,あかい,red,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5
-明るい,あかるい,bright (in reference to personality or weather); cheerful,Genki Genki_Ln.18 Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5
-秋,あき,fall (season),Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
-開く,あく,"to open, to become open",JLPT JLPT_3 JLPT_5 JLPT_N5
-開ける,あける,to open (v.t.),Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5
-上げる,あげる,"to raise, to lift",JLPT JLPT_3 JLPT_5 JLPT_N5
-朝,あさ,morning,Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-朝御飯,あさごはん,breakfast,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-明後日,あさって,day after tomorrow,JLPT JLPT_5 JLPT_N5
-足; 脚,あし,foot; leg,JLPT JLPT_5 JLPT_N5
-明日,あした,tomorrow,Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5
-あそこ,あそこ,"there, over there, that place",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-遊ぶ,あそぶ,to play; to spend time pleasantly; to hang out,Genki Genki_Ln.6 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-暖かい,あたたかい,warm,JLPT_N5
-頭,あたま,head,Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-新しい,あたらしい,new,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-あちら,あちら,this way (polite),Genki Genki_Ln.20 JLPT JLPT_5 JLPT_N5
-暑い,あつい,"hot (in reference to weather), warm",Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-熱い,あつい,hot (objects),Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-厚い,あつい,"kind, warm(hearted), thick, deep",JLPT JLPT_5 JLPT_N5
-あっち,あっち,over there,JLPT JLPT_5 JLPT_N5
-後,あと,afterwards (later); in the future; the rest; since then,Genki Genki_Ln.18 JLPT JLPT_2 JLPT_3 JLPT_5 JLPT_N5
-あなた,あなた,you,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-兄,あに,(my) older brother (humble),Genki Genki_Ln.14 JLPT JLPT_5 JLPT_N5
-姉,あね,(my) older sister (humble),Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-アパート,アパート,apartment (abbr.),Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-あの,あの,"that over there; like that, that way; um...",JLPT JLPT_4 JLPT_5 JLPT_N5
-浴びる,あびる,"to bathe, to shower",JLPT JLPT_3 JLPT_5 JLPT_N5
-危ない,あぶない,"dangerous, critical",Intermediate_Japanese Intermediate_Japanese_Ln.15 JLPT JLPT_5 JLPT_N5
-甘い,あまい,"generous, sweet",Genki Genki_Ln.12 JLPT JLPT_5 JLPT_N5
-余り,あまり,not very; surplus,JLPT JLPT_3 JLPT_5 JLPT_N5
-雨,あめ,rain,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5
-飴,あめ,(hard) candy,JLPT JLPT_5 JLPT_N5
-洗う,あらう,to wash,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-在る,ある,"to be, to have",JLPT JLPT_3 JLPT_5 JLPT_N5
-有る,ある,"to be, to have",JLPT JLPT_3 JLPT_5 JLPT_N5
-歩く,あるく,to walk,Genki Genki_Ln.20 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-あれ,あれ,that one (over there),Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-いい; よい,いい; よい,good,JLPT JLPT_5 JLPT_N5
-いいえ,いいえ,"no, not at all",JLPT JLPT_5 JLPT_N5
-言う,いう,to say,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5
-家,いえ,"house, home",Genki Genki_Ln.3 JLPT JLPT_2 JLPT_3 JLPT_5 JLPT_N5
-いかが,いかが,"how, in what way",JLPT JLPT_5 JLPT_N5
-行く,いく; ゆく,to go,JLPT JLPT_5 JLPT_N5
-いくつ,いくつ,"how many, how old",JLPT JLPT_3 JLPT_5 JLPT_N5
-いくら,いくら,"how much, how many",Genki Genki_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5
-池,いけ,pond,JLPT JLPT_5 JLPT_N5
-医者,いしゃ,doctor; physician,Genki Genki_Ln.1 Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5
-椅子,いす,chair,JLPT JLPT_3 JLPT_5 JLPT_N5
-忙しい,いそがしい,"busy (people, days)",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-痛い,いたい,hurt; painful; sore,Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_5 JLPT_N5
-一,いち,one,JLPT JLPT_3 JLPT_5 JLPT_N5
-一日,いちにち,one day (duration),Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-一番,いちばん,"best (most), first, number one",Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5
-いつ,いつ,when,Genki Genki_Ln.3 JLPT JLPT_2 JLPT_5 JLPT_N5
-五日,いつか,five days; fifth day of the month,Genki Genki_Ln.13 JLPT JLPT_3 JLPT_5 JLPT_N5
-一緒,いっしょ,together,Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5
-五つ,いつつ,five things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-いつも,いつも,"always, usually, every time, never (with neg. verb)",Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5
-犬,いぬ,dog,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-今,いま,now,Genki Genki_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5
-意味,いみ,"meaning, significance",Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-妹,いもうと,younger sister (humble),Genki Genki_Ln.1 Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-嫌,いや,"disagreeable, detestable, unpleasant",JLPT JLPT_3 JLPT_5 JLPT_N5
-入口,いりぐち,entrance,JLPT JLPT_5 JLPT_N5
-居る,いる,"(humble) to be (animate), to exist",JLPT JLPT_5 JLPT_N5
-要る,いる,to need,JLPT JLPT_5 JLPT_N5
-入れる,いれる,to put in,JLPT JLPT_5 JLPT_N5
-色,いろ,color,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5
-色々,いろいろ,various,JLPT JLPT_5 JLPT_N5
-上,うえ,"above (up, top, etc.), over, on top of",JLPT JLPT_2 JLPT_5 JLPT_N5
-後ろ,うしろ,"back, behind, rear",JLPT JLPT_3 JLPT_5 JLPT_N5
-薄い,うすい,"thin, weak",JLPT JLPT_3 JLPT_5 JLPT_N5
-歌,うた,a song,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-歌う,うたう,to sing,Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5
-うち,うち,home; house; my place,Genki Genki_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5
-生まれる,うまれる,to be born,JLPT JLPT_3 JLPT_5 JLPT_N5
-海,うみ,"sea, beach",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-売る,うる,to sell (v.t.),Genki Genki_Ln.15 Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_3 JLPT_5 JLPT_N5
-うるさい,うるさい,noisy; annoying,Genki Genki_Ln.22 JLPT JLPT_3 JLPT_5 JLPT_N5
-上着,うわぎ,"coat, jacket",JLPT JLPT_5 JLPT_N5
-絵,え,a painting; a picture; a drawing,Genki Genki_Ln.15 JLPT JLPT_3 JLPT_5 JLPT_N5
-映画,えいが,"movie, film",Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5
-映画館,えいがかん,"movie theater, cinema",Genki Genki_Ln.15 JLPT JLPT_5 JLPT_N5
-英語,えいご,English (language),Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-ええ,ええ,yes,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-駅,えき,station,Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5
-エレベーター,エレベーター,elevator,JLPT JLPT_2 JLPT_5 JLPT_N5
-～円,～えん,Yen,JLPT JLPT_5 JLPT_N5
-鉛筆,えんぴつ,pencil,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-お～,お～,honorable ~ (honorific),JLPT JLPT_5 JLPT_N5
-美味しい,おいしい,"delicious, tasty",JLPT JLPT_5 JLPT_N5
-多い,おおい,many; there are a lot,Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-大きい,おおきい,"big, large",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-大きな,おおきな,big,JLPT JLPT_5 JLPT_N5
-大勢,おおぜい,great number of people,JLPT JLPT_5 JLPT_N5
-お母さん,おかあさん,mother (formal),Genki Genki_Ln.1 Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-お菓子,おかし,"confections, sweets, snack",Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5
-お金,おかね,money,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-起きる,おきる,"to get up (e.g., from sleeping); to happen",Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5
-置く,おく,to put; to lay; to place,Genki Genki_Ln.21 JLPT JLPT_3 JLPT_5 JLPT_N5
-奥さん,おくさん,(someone else's) wife (hon.),Genki Genki_Ln.14 Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5
-お酒,おさけ,sake; alcohol,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-お皿,おさら,"plate, dish",JLPT JLPT_5 JLPT_N5
-伯父; 叔父さん,おじさん,"uncle, middle-aged man",JLPT JLPT_5 JLPT_N5
-おじいさん,おじいさん,"grandfather, male senior citizen",Genki Genki_Ln.13 JLPT JLPT_3 JLPT_5 JLPT_N5
-教える,おしえる,"to teach, to inform, to instruct",Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-押す,おす,"to push, to press, to stamp (e.g., a passport)",Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5
-遅い,おそい,slow; (to be) late,Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5
-お茶,おちゃ,(green) tea,Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5
-お手洗い,おてあらい,"toilet, restroom, bathroom (lit., a place to wash one's hands)",Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.13 JLPT JLPT_5 JLPT_N5
-お父さん,おとうさん,father (formal),Genki Genki_Ln.1 Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-弟,おとうと,younger brother,Genki Genki_Ln.1 Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-男,おとこ,"man, male",Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5
-男の子,おとこのこ,boy,Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5
-一昨日,おととい,the day before yesterday,Genki Genki_Ln.19 JLPT JLPT_5 JLPT_N5
-おととし,おととし,year before last,JLPT JLPT_5 JLPT_N5
-大人,おとな,adult,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-お腹,おなか,stomach,JLPT JLPT_3 JLPT_5 JLPT_N5
-同じ,おなじ,"same, identical",Genki Genki_Ln.14 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-お兄さん,おにいさん,(someone else's) older brother (formal),Genki Genki_Ln.1 Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-お姉さん,おねえさん,older sister (formal),Genki Genki_Ln.1 Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-伯母さん; 叔母さん,おばさん,aunt,JLPT JLPT_5 JLPT_N5
-おばあさん,おばあさん,"grandmother, female senior-citizen",Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-お風呂,おふろ,a bath,JLPT_N5
-お弁当,おべんとう,a boxed lunch,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-覚える,おぼえる,"to learn, to commit to memory, to remember, to memorize",Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-おまわりさん,おまわりさん,policeman (friendly term),JLPT JLPT_5 JLPT_N5
-重い,おもい,heavy; serious,Genki Genki_Ln.20 JLPT JLPT_3 JLPT_5 JLPT_N5
-面白い,おもしろい,"interesting, amusing",Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-泳ぐ,およぐ,to swim,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-降りる,おりる,to get off,JLPT JLPT_3 JLPT_5 JLPT_N5
-終る,おわる,"to finish, to close",JLPT JLPT_5 JLPT_N5
-音楽,おんがく,Music,Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
-女,おんな,"woman, female",Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5
-女の子,おんなのこ,girl,Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5
-～回,～かい,counter for occurrences (~ times),JLPT JLPT_1 JLPT_5 JLPT_N5
-～階,～かい,counter for stories (floors) of a building,JLPT JLPT_4 JLPT_5 JLPT_N5
-外国,がいこく,foreign country; abroad,Genki Genki_Ln.11 Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5
-外国人,がいこくじん,foreigner,Genki Genki_Ln.15 JLPT JLPT_5 JLPT_N5
-会社,かいしゃ,"company, corporation",Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-階段,かいだん,stairs,JLPT JLPT_5 JLPT_N5
-買い物,かいもの,shopping,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-買う,かう,to buy,JLPT JLPT_3 JLPT_5 JLPT_N5
-返す,かえす,to return something,JLPT JLPT_3 JLPT_5 JLPT_N5
-帰る,かえる,"to go back, to go home, to return",Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5
-顔,かお,face (body part),Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5
-かかる,かかる,"it takes (amount of time, money) (v.i.)",Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5
-鍵,かぎ,a lock; a key,Genki Genki_Ln.17 JLPT JLPT_3 JLPT_5 JLPT_N5
-書く,かく,to write,JLPT JLPT_3 JLPT_5 JLPT_N5
-学生,がくせい,student,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-～か月,～かげつ,(number of) months,JLPT JLPT_5 JLPT_N5
-掛ける,かける,"to put on (e.g., glasses); to hang (e.g., on a wall)",JLPT JLPT_3 JLPT_4 JLPT_5 JLPT_N5
-かける,かける,"to dial/call (e.g., phone); to sit down",Genki Genki_Ln.19 JLPT JLPT_3 JLPT_4 JLPT_5 JLPT_N5
-傘,かさ,"umbrella, parasol",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-貸す,かす,to lend,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
-風,かぜ,"wind, breeze",Genki Genki_Ln.22 JLPT JLPT_5 JLPT_N5
-風邪,かぜ,"cold, flu",Genki Genki_Ln.12 JLPT JLPT_5 JLPT_N5
-方,かた,-- honorific form for 人 (ひと) --; way of doing,Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_3 JLPT_4 JLPT_5 JLPT_N5
-家族,かぞく,"family, members of a family",Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-片仮名,かたかな,katakana,JLPT JLPT_5 JLPT_N5
-～月,～がつ,month of year,JLPT JLPT_5 JLPT_N5
-学校,がっこう,a school,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-カップ,カップ,cup,JLPT JLPT_1 JLPT_5 JLPT_N5
-家庭,かてい,home; family,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5
-角,かど,"corner (e.g., desk, pavement)",Genki Genki_Ln.20 JLPT JLPT_5 JLPT_N5
-かばん,かばん,"bag, basket",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-花瓶,かびん,(flower) vase,JLPT JLPT_5 JLPT_N5
-かぶる,かぶる,"to wear, to put on (e.g., a hat on the head)",Genki Genki_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5
-紙,かみ,paper,Genki Genki_Ln.17 JLPT JLPT_3 JLPT_5 JLPT_N5
-カメラ,カメラ,camera,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5
-火曜日,かようび,Tuesday,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-辛い,からい,hot and spicy; salty,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-体,からだ,body; health,Genki Genki_Ln.23 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-借りる,かりる,"to borrow, to owe",JLPT JLPT_5 JLPT_N5
-～がる,～がる,feel,JLPT JLPT_5 JLPT_N5
-軽い,かるい,"light, non-serious, minor",JLPT JLPT_5 JLPT_N5
-カレー,カレー,curry (abbr. for curry and rice),Genki Genki_Ln.13 JLPT JLPT_1 JLPT_5 JLPT_N5
-カレンダー,カレンダー,calendar,JLPT JLPT_5 JLPT_N5
-川; 河,かわ,river,JLPT JLPT_3 JLPT_5 JLPT_N5
-～側,～がわ,~ side,JLPT_N5
-可愛い,かわいい,"cute, adorable",JLPT JLPT_5 JLPT_N5
-漢字,かんじ,kanji; Chinese character,Genki Genki_Ln.6 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
-木,き,"tree, wood, timber",Genki Genki_Ln.22 JLPT JLPT_5 JLPT_N5
-黄色,きいろ,yellow,JLPT JLPT_5 JLPT_N5
-黄色い,きいろい,yellow,JLPT JLPT_5 JLPT_N5
-消える,きえる,"to vanish, to disappear",Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5
-聞く,きく,"to hear, to listen, to ask",JLPT JLPT_3 JLPT_5 JLPT_N5
-北,きた,north,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-ギター,ギター,guitar,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-汚い,きたない,"dirty, unclean, filthy",Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5
-喫茶店,きっさてん,café,Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5
-切手,きって,postal (postage) stamps,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
-切符,きっぷ,a ticket,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-昨日,きのう,yesterday,Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
-九,きゅう,nine,JLPT JLPT_3 JLPT_5 JLPT_N5
-牛肉,ぎゅうにく,beef,JLPT JLPT_5 JLPT_N5
-牛乳,ぎゅうにゅう,milk,Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5
-今日,きょう,"today, this day",Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-教室,きょうしつ,classroom,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
-兄弟,きょうだい,"siblings (humble), brothers and sisters",Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-去年,きょねん,last year,Genki Genki_Ln.14 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-嫌い,きらい,dislike,JLPT JLPT_5 JLPT_N5
-切る,きる,to cut; to hang up (a phone),Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5
-着る,きる,to put on (clothes above your waist); to wear,Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5
-綺麗,きれい,"pretty, clean, tidy",JLPT JLPT_5 JLPT_N5
-キロ; キログラム,キロ; キログラム,(abbr.) kilo (kilogram),JLPT JLPT_3 JLPT_5 JLPT_N5
-キロ; キロメートル,キロ; キロメートル,(abbr.) kilo (kilometer),JLPT JLPT_3 JLPT_5 JLPT_N5
-銀行,ぎんこう,bank,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-金曜日,きんようび,Friday,Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
-九,く,nine,JLPT JLPT_3 JLPT_5 JLPT_N5
-薬,くすり,medicine,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5
-下さい,ください,(with te-form verb) please do for me,JLPT JLPT_5 JLPT_N5
-果物,くだもの,fruit,Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5
-口,くち,job opening; mouth,Intermediate_Japanese Intermediate_Japanese_Ln.11 Intermediate_Japanese_Ln.8 JLPT JLPT_5 JLPT_N5
-靴,くつ,"shoes, footwear",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-靴下,くつした,socks,Genki Genki_Ln.23 JLPT JLPT_5 JLPT_N5
-国,くに,country; place of origin,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-曇り,くもり,"cloudiness, cloudy weather",Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5
-曇る,くもる,"to become cloudy, to become dim",JLPT JLPT_5 JLPT_N5
-暗い,くらい,"dark, gloomy",JLPT JLPT_3 JLPT_5 JLPT_N5
-～くらい; ぐらい,～くらい; ぐらい,approximate (quantity),JLPT JLPT_5 JLPT_N5
-クラス,クラス,a class,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-グラム,グラム,gram,JLPT JLPT_5 JLPT_N5
-来る,くる,to come,JLPT JLPT_5 JLPT_N5
-車,くるま,"car, vehicle",Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-黒,くろ,black,JLPT JLPT_5 JLPT_N5
-黒い,くろい,black; dark,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-警官,けいかん,police officer,JLPT JLPT_5 JLPT_N5
-今朝,けさ,this morning,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-消す,けす,"to erase, to delete, to turn off power",JLPT JLPT_5 JLPT_N5
-結構,けっこう,"splendid; enough, tolerably",JLPT JLPT_3 JLPT_5 JLPT_N5
-結婚,けっこん (する),marriage (get married),JLPT JLPT_5 JLPT_N5
-月曜日,げつようび,Monday,Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
-玄関,げんかん,entrance (to a house or a building),Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_4 JLPT_5 JLPT_N5
-元気,げんき,"health(y), energetic",JLPT JLPT_5 JLPT_N5
-～個,～こ,"counter for small items (e.g., fruits, cups)",JLPT JLPT_2 JLPT_5 JLPT_N5
-五,ご,five,JLPT JLPT_3 JLPT_5 JLPT_N5
-～語,～ご,"word, language",JLPT JLPT_5 JLPT_N5
-公園,こうえん,a park,Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
-交差点,こうさてん,intersection,JLPT JLPT_5 JLPT_N5
-紅茶,こうちゃ,black tea,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-交番,こうばん,police box,JLPT JLPT_5 JLPT_N5
-声,こえ,voice,Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-コート,コート,"coat; court (e.g., tennis)",JLPT JLPT_5 JLPT_N5
-コーヒー,コーヒー,coffee,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-ここ,ここ,"here, this place",Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
-午後,ごご,"afternoon, P.M.",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-九日,ここのか,nine days; ninth day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-九つ,ここのつ,nine things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-午前,ごぜん,"morning, A.M.",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-答える,こたえる,"to answer, to reply",JLPT JLPT_5 JLPT_N5
-こちら,こちら,this person (polite); this way (polite),Genki Genki_Ln.11 Genki_Ln.19 JLPT JLPT_5 JLPT_N5
-こっち,こっち,this person; this direction; this side,JLPT JLPT_4 JLPT_5 JLPT_N5
-コップ,コップ,a tumbler; a glass,Genki Genki_Ln.14 JLPT JLPT_5 JLPT_N5
-今年,ことし,this year,Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5
-言葉,ことば,language; word(s); expression(s),Genki Genki_Ln.13 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-子供,こども,child(ren),Genki Genki_Ln.4 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-この,この,this,JLPT JLPT_3 JLPT_5 JLPT_N5
-御飯,ごはん,rice (cooked); meal,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-コピーする,コピーする,to copy,JLPT JLPT_3 JLPT_5 JLPT_N5
-困る,こまる,"to be bothered, to have difficulty",Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5
-これ,これ,this one,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-～ころ; ～ごろ,～ころ; ～ごろ,"about, toward, approximately (time)",JLPT JLPT_5 JLPT_N5
-今月,こんげつ,this month,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5
-今週,こんしゅう,this week,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-こんな,こんな,"such, like this",JLPT JLPT_5 JLPT_N5
-今晩,こんばん,"tonight, this evening",Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-さあ,さあ,"come now, well",JLPT JLPT_5 JLPT_N5
-～歳,～さい,~ years old,JLPT JLPT_2 JLPT_5 JLPT_N5
-財布,さいふ,wallet,Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-魚,さかな,fish,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-先,さき,"future; recent, previous",JLPT JLPT_5 JLPT_N5
-咲く,さく,to bloom,Genki Genki_Ln.18 JLPT JLPT_3 JLPT_5 JLPT_N5
-作文,さくぶん,essay; composition,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-差す,さす,"to raise (stretch out) hands, to raise (e.g., umbrella)",JLPT JLPT_3 JLPT_5 JLPT_N5
-～冊,～さつ,counter for books,JLPT JLPT_5 JLPT_N5
-雑誌,ざっし,"magazine, journal",Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.8 JLPT JLPT_5 JLPT_N5
-砂糖,さとう,sugar,Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5
-寒い,さむい,cold (in reference to weather),Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-さ来年,さらいねん,year after next,JLPT JLPT_5 JLPT_N5
-～さん,～さん,"Mr. ~, Ms. ~",JLPT JLPT_2 JLPT_5 JLPT_N5
-三,さん,three,JLPT JLPT_5 JLPT_N5
-散歩,さんぽ (する),"walk, stroll",JLPT JLPT_3 JLPT_5 JLPT_N5
-四,し,four,JLPT JLPT_3 JLPT_5 JLPT_N5
-～時,～じ,~ o'clock (time),JLPT JLPT_1 JLPT_5 JLPT_N5
-塩,しお,salt,JLPT JLPT_5 JLPT_N5
-しかし,しかし,however; but,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
-時間,じかん,time,Genki Genki_Ln.14 JLPT JLPT_2 JLPT_5 JLPT_N5
-～時間,～じかん,~ hours,JLPT JLPT_5 JLPT_N5
-仕事,しごと,"work, job, occupation, employment",Genki Genki_Ln.1 Genki_Ln.8 JLPT JLPT_5 JLPT_N5
-辞書,じしょ,dictionary,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-静か,しずか,"quiet, calm",JLPT JLPT_5 JLPT_N5
-下,した,"under, below, beneath",JLPT JLPT_3 JLPT_5 JLPT_N5
-七,しち,seven,JLPT JLPT_3 JLPT_5 JLPT_N5
-質問,しつもん,"question, inquiry",Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-自転車,じてんしゃ,bicycle,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-自動車,じどうしゃ,automobile,JLPT JLPT_5 JLPT_N5
-死ぬ,しぬ,to die,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-字引,じびき,dictionary,JLPT JLPT_5 JLPT_N5
-自分,じぶん,"myself, oneself",Genki Genki_Ln.17 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-閉まる,しまる,"to close, to be closed",JLPT JLPT_5 JLPT_N5
-閉める,しめる,"to close, to shut",JLPT JLPT_3 JLPT_5 JLPT_N5
-締める,しめる,"to tie, to fasten, to tighten",JLPT JLPT_3 JLPT_5 JLPT_N5
-じゃ; じゃあ,じゃ; じゃあ,"well, well then",JLPT JLPT_3 JLPT_5 JLPT_N5
-写真,しゃしん,a picture; a photograph,Genki Genki_Ln.4 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-シャツ,シャツ,shirt,Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5
-シャワー,シャワー,shower,JLPT JLPT_5 JLPT_N5
-十,じゅう,ten,JLPT JLPT_3 JLPT_5 JLPT_N5
-～中,～じゅう,"during, while",JLPT JLPT_2 JLPT_5 JLPT_N5
-～週間,～しゅうかん,~ weeks,JLPT JLPT_5 JLPT_N5
-授業,じゅぎょう,a class (of school),Genki Genki_Ln.11 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_2 JLPT_5 JLPT_N5
-宿題,しゅくだい,homework,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-上手,じょうず,"be good at, skillful",JLPT JLPT_5 JLPT_N5
-丈夫,じょうぶ,"strong, solid, durable",JLPT JLPT_5 JLPT_N5
-醤油,しょうゆ,soy sauce,Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5
-食堂,しょくどう,"cafeteria, dining hall",Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-知る,しる,"to know, to understand",Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-白,しろ,white,JLPT JLPT_3 JLPT_5 JLPT_N5
-白い,しろい,white,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-～人,～じん,counter for people,JLPT JLPT_5 JLPT_N5
-新聞,しんぶん,newspaper,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-水曜日,すいようび,Wednesday,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-吸う,すう,"to breathe in, to suck",JLPT JLPT_3 JLPT_5 JLPT_N5
-スカート,スカート,skirt,Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5
-好き,すき,"liking, fondness, love",JLPT JLPT_5 JLPT_N5
-～すぎ,～すぎ,"past; to exceed, ~ too much",JLPT JLPT_5 JLPT_N5
-少ない,すくない,a little; a few,Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5
-すぐに,すぐに,"immediately, soon",JLPT JLPT_5 JLPT_N5
-少し,すこし,"little, few",Genki Genki_Ln.21 JLPT JLPT_5 JLPT_N5
-涼しい,すずしい,"cool, refreshing (in reference to weather)",Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5
-～ずつ,～ずつ,at a time,JLPT JLPT_5 JLPT_N5
-ストーブ,ストーブ,heater (lit: stove),Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5
-スプーン,スプーン,spoon,JLPT JLPT_5 JLPT_N5
-スポーツ,スポーツ,sport(s),Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-ズボン,ズボン,trousers,JLPT JLPT_5 JLPT_N5
-住む,すむ,"to reside, to live in",JLPT JLPT_3 JLPT_5 JLPT_N5
-する,する,"to do, to try; to wear small items (e.g., necktie, watch, etc.)",Genki Genki_Ln.17 JLPT JLPT_3 JLPT_5 JLPT_N5
-座る,すわる,to sit,JLPT JLPT_5 JLPT_N5
-背,せい,"(one's) height, stature",Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
-生徒,せいと,student; pupil,Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_5 JLPT_N5
-セーター,セーター,sweater,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-石鹸,せっけん,soap,JLPT JLPT_5 JLPT_N5
-背広,せびろ,men's suit,Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5
-狭い,せまい,narrow; not spacious,Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.15 JLPT JLPT_5 JLPT_N5
-ゼロ,ゼロ,zero,JLPT JLPT_5 JLPT_N5
-千,せん,thousand,JLPT JLPT_5 JLPT_N5
-先月,せんげつ,last month,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-先週,せんしゅう,last week,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-先生,せんせい,"teacher, professor; master; doctor",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-洗濯,せんたく,"washing, laundry",Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_3 JLPT_5 JLPT_N5
-全部,ぜんぶ,"all, entire, whole",Genki Genki_Ln.13 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
-そう; そうです,そう; そうです,"yes; appears, to be the case",JLPT JLPT_5 JLPT_N5
-掃除,そうじ (する),"cleaning, sweeping",JLPT JLPT_3 JLPT_5 JLPT_N5
-そうして; そして,そうして; そして,"and, like that",JLPT JLPT_5 JLPT_N5
-そこ,そこ,"that place, there; bottom, sole",Genki Genki_Ln.4 JLPT JLPT_2 JLPT_3 JLPT_5 JLPT_N5
-そちら,そちら,over there,JLPT JLPT_5 JLPT_N5
-そっち,そっち,over there,JLPT JLPT_5 JLPT_N5
-外,そと,"outside, exterior",Genki Genki_Ln.18 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-その,その,that,JLPT JLPT_3 JLPT_5 JLPT_N5
-そば,そば,"near, close, beside; Japanese traditional buckwheat noodle",Genki Genki_Ln.15 JLPT JLPT_3 JLPT_5 JLPT_N5
-空,そら,sky,JLPT JLPT_5 JLPT_N5
-それ,それ,that one,Genki Genki_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5
-それから,それから,"and then, after that",Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-それでは,それでは,"in that situation, well then...",JLPT JLPT_5 JLPT_N5
-～台,～だい,counter for vehicles; machines,JLPT JLPT_5 JLPT_N5
-大学,だいがく,college; university,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-大使館,たいしかん,embassy,JLPT JLPT_5 JLPT_N5
-大丈夫,だいじょうぶ,It's ok (all right); No need to worry; Everything is under control,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
-大好き,だいすき,"very like-able, like very much",JLPT JLPT_5 JLPT_N5
-大切,たいせつ,important,JLPT JLPT_5 JLPT_N5
-台所,だいどころ,kitchen,JLPT JLPT_5 JLPT_N5
-大変,たいへん,"very; difficult, hard",JLPT JLPT_3 JLPT_5 JLPT_N5
-高い,たかい,"tall, high; expensive",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-～だけ,～だけ,"only ~, just ~, as ~",JLPT JLPT_1 JLPT_5 JLPT_N5
-沢山,たくさん,"many, much",JLPT JLPT_5 JLPT_N5
-タクシー,タクシー,taxi,JLPT JLPT_5 JLPT_N5
-出す,だす,to take (something) out; to hand in (something),Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5
-～たち,～たち,plural suffix,JLPT JLPT_5 JLPT_N5
-立つ,たつ,to stand up,Genki Genki_Ln.6 JLPT JLPT_3 JLPT_5 JLPT_N5
-たて,たて,"length, height",JLPT JLPT_3 JLPT_5 JLPT_N5
-建物,たてもの,building,Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_5 JLPT_N5
-楽しい,たのしい,"enjoyable, fun",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-頼む,たのむ,"to request, to ask (a favor)",Genki Genki_Ln.18 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
-たばこ,たばこ,"tobacco, cigarettes",JLPT JLPT_5 JLPT_N5
-多分,たぶん,"perhaps, probably, maybe",Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5
-食べ物,たべもの,food,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-食べる,たべる,to eat,JLPT JLPT_5 JLPT_N5
-卵,たまご,egg,Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5
-誰,だれ,who,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-誰か,だれか,someone,JLPT JLPT_3 JLPT_5 JLPT_N5
-誕生日,たんじょうび,birthday,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-段々,だんだん,"gradually, by degrees",JLPT JLPT_5 JLPT_N5
-小さい,ちいさい,"small, little",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-小さな,ちいさな,"small, little",JLPT JLPT_5 JLPT_N5
-近い,ちかい,"near, close by, short",Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-違う,ちがう,to be different; to differ; wrong,Genki Genki_Ln.23 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-近く,ちかく,nearby; in the neighborhood,Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-地下鉄,ちかてつ,"underground train, subway",Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5
-地図,ちず,a map,Genki Genki_Ln.15 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5
-父,ちち,(my) father,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-茶色,ちゃいろ,brown,JLPT JLPT_5 JLPT_N5
-茶碗,ちゃわん,rice bowl,JLPT JLPT_5 JLPT_N5
-～中,～ちゅう,"during, while ~ing",JLPT JLPT_5 JLPT_N5
-丁度,ちょうど,"just, right, exactly",JLPT JLPT_5 JLPT_N5
-ちょっと,ちょっと,"a little, somewhat; just a little, somewhat",Genki Genki_Ln.3 JLPT JLPT_2 JLPT_5 JLPT_N5
-一日,ついたち,one day; first day of the month,JLPT JLPT_5 JLPT_N5
-使う,つかう,to use,JLPT JLPT_5 JLPT_N5
-疲れる,つかれる,to get (become) tired; to become fatigued,Genki Genki_Ln.11 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-次,つぎ,next,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-着く,つく,"to arrive at, to reach",JLPT JLPT_3 JLPT_5 JLPT_N5
-机,つくえ,desk,Genki Genki_Ln.4 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-作る,つくる,"to make, to create",Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5
-つける,つける,"to turn on (e.g., a light); to take",JLPT JLPT_3 JLPT_4 JLPT_5 JLPT_N5
-勤める,つとめる,to work (for),JLPT JLPT_5 JLPT_N5
-つまらない,つまらない,"boring, dull; insignificant",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-冷たい,つめたい,"cold (things, people)",Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5
-強い,つよい,"strong, powerful",Genki Genki_Ln.17 Intermediate_Japanese Intermediate_Japanese_Ln.13 JLPT JLPT_5 JLPT_N5
-手,て,hand,JLPT JLPT_5 JLPT_N5
-テープ,テープ,tape,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-テープレコーダー,テープレコーダー,tape recorder,JLPT JLPT_5 JLPT_N5
-テーブル,テーブル,table,JLPT JLPT_5 JLPT_N5
-出かける,でかける,to go out; to depart,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-手紙,てがみ,letter,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-できる,できる,to be able to (to accomplish),JLPT JLPT_3 JLPT_4 JLPT_5 JLPT_N5
-出口,でぐち,an exit,Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5
-テスト,テスト,test,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-では,では,"then, well, so",JLPT JLPT_3 JLPT_5 JLPT_N5
-デパート,デパート,(abbr.) department store,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-でも,でも,"but, however",JLPT JLPT_3 JLPT_5 JLPT_N5
-出る,でる,"to appear, to leave",JLPT JLPT_5 JLPT_N5
-テレビ,テレビ,"television, TV",Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-天気,てんき,weather,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-電気,でんき,"electricity, (electric) light",Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-電車,でんしゃ,electric train,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-電話,でんわ,a telephone,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-戸,と,door (Japanese style),JLPT JLPT_5 JLPT_N5
-～度,～ど,counter for occurrences; ~ degree; ~ point,JLPT JLPT_1 JLPT_5 JLPT_N5
-ドア,ドア,door (Western style),JLPT JLPT_5 JLPT_N5
-トイレ,トイレ,bathroom; toilet,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-どう,どう,"how, in what way",JLPT JLPT_5 JLPT_N5
-どうして,どうして,"why, for what reason",Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-どうぞ,どうぞ,"please, kindly, by all means",JLPT JLPT_5 JLPT_N5
-動物,どうぶつ,animal,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-どうも,どうも,Thank you; somehow; no matter how hard one may try,Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-十,(〜を) とお,ten (~),Genki Genki_Ln.9 JLPT JLPT_3 JLPT_5 JLPT_N5
-遠い,とおい,"far (away), distant",Genki Genki_Ln.21 JLPT JLPT_5 JLPT_N5
-十日,とおか,ten days; tenth day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-～時,～とき,at the time of ~,JLPT JLPT_3 JLPT_5 JLPT_N5
-時々,ときどき,sometimes,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-時計,とけい,a watch; a clock,Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-どこ,どこ,"where, what place",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-所,ところ,place,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-年,とし,"year, age",JLPT JLPT_3 JLPT_5 JLPT_N5
-図書館,としょかん,library,Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_5 JLPT_N5
-どちら,どちら,which (one) (way); where (polite),Genki Genki_Ln.10 Genki_Ln.19 JLPT JLPT_5 JLPT_N5
-どっち,どっち,"which one, which way",Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5
-とても,とても,"very (much), greatly, exceedingly",Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5
-どなた,どなた,who,JLPT JLPT_5 JLPT_N5
-隣,となり,"next to, next door to",Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-どの,どの,which,JLPT JLPT_5 JLPT_N5
-飛ぶ,とぶ,"to fly, to hop",JLPT JLPT_5 JLPT_N5
-止まる,とまる,to come to a halt,JLPT JLPT_5 JLPT_N5
-友達,ともだち,friend,Genki Genki_Ln.1 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-土曜日,どようび,Saturday,Genki Genki_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5
-鳥,とり,"chicken (lit., bird)",Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5
-鶏肉,とりにく,chicken meat,JLPT JLPT_5 JLPT_N5
-取る,とる,to take (a class); to get (a grade),Genki Genki_Ln.11 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-撮る,とる,"to take (a photo), to make (a film)",JLPT JLPT_5 JLPT_N5
-どれ,どれ,which one,Genki Genki_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5
-どんな,どんな,"what, what kind of",JLPT JLPT_3 JLPT_5 JLPT_N5
-ない,ない,"there isn't, doesn't have",JLPT JLPT_5 JLPT_N5
-ナイフ,ナイフ,knife,JLPT JLPT_5 JLPT_N5
-中,なか,"inside, middle, among",JLPT JLPT_3 JLPT_5 JLPT_N5
-長い,ながい,"long, lengthy",Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_2 JLPT_5 JLPT_N5
-鳴く,なく,to make sound (animal),JLPT JLPT_5 JLPT_N5
-無くす,なくす,to lose something,JLPT JLPT_3 JLPT_5 JLPT_N5
-なぜ,なぜ,why (same as どうして),Genki Genki_Ln.19 JLPT JLPT_5 JLPT_N5
-夏,なつ,summer,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-夏休み,なつやすみ,summer vacation,JLPT JLPT_5 JLPT_N5
-～など,～など,et cetera,JLPT JLPT_3 JLPT_5 JLPT_N5
-七つ,ななつ,seven things,Genki Genki_Ln.9 JLPT JLPT_3 JLPT_5 JLPT_N5
-何,なん; なに,what,Genki Genki_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5
-七日,なのか,seven days; seventh day (of the month),Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-名前,なまえ,name,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-習う,ならう,to learn,Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5
-並ぶ,ならぶ,"to line up, to stand in a line (v.i.)",Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5
-並べる,ならべる,to put (things) side by side; to line up,Intermediate_Japanese Intermediate_Japanese_Ln.15 JLPT JLPT_5 JLPT_N5
-なる,なる,to become,Genki Genki_Ln.10 JLPT JLPT_3 JLPT_5 JLPT_N5
-何～,なん～,what sort of ~,JLPT JLPT_5 JLPT_N5
-二,に,two,JLPT JLPT_5 JLPT_N5
-にぎやか,にぎやか,"bustling, busy",JLPT JLPT_5 JLPT_N5
-肉,にく,meat,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-西,にし,west,JLPT JLPT_5 JLPT_N5
-～日,～にち,"~ day of the month, for ~ days",JLPT JLPT_5 JLPT_N5
-日曜日,にちようび,Sunday,Genki Genki_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5
-荷物,にもつ,luggage; baggage,Genki Genki_Ln.6 Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5
-ニュース,ニュース,news,Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5
-庭,にわ,garden,Genki Genki_Ln.15 JLPT JLPT_5 JLPT_N5
-～人,～にん,counter for people,JLPT JLPT_5 JLPT_N5
-脱ぐ,ぬぐ,to take off (clothes),Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5
-温い,ぬるい,lukewarm,JLPT JLPT_3 JLPT_5 JLPT_N5
-ネクタイ,ネクタイ,"tie, necktie",Genki Genki_Ln.14 JLPT JLPT_5 JLPT_N5
-猫,ねこ,cat,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-寝る,ねる,to sleep; to go to sleep; to go to bed,Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-～年,～ねん,~ years,JLPT JLPT_5 JLPT_N5
-ノート,ノート,notebook,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-登る,のぼる,to climb,JLPT JLPT_3 JLPT_5 JLPT_N5
-飲み物,のみもの,"drink, beverage",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-飲む,のむ,to drink,JLPT JLPT_5 JLPT_N5
-乗る,のる,"to get on, to ride in, to board",JLPT JLPT_3 JLPT_5 JLPT_N5
-歯,は,tooth,Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5
-パーティー,パーティー,a party,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5
-はい,はい,yes,Genki Genki_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5
-～杯,～はい,counter for cupfuls,JLPT JLPT_5 JLPT_N5
-灰皿,はいざら,ashtray,JLPT JLPT_5 JLPT_N5
-入る,はいる,"to enter, to contain, to hold",JLPT JLPT_5 JLPT_N5
-葉書,はがき,postcard,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-はく,はく,to put on (items below your waist),Genki Genki_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5
-箱,はこ,box,JLPT JLPT_5 JLPT_N5
-橋,はし,bridge,JLPT JLPT_3 JLPT_5 JLPT_N5
-箸,はし,chopsticks,Genki Genki_Ln.8 JLPT JLPT_3 JLPT_5 JLPT_N5
-始まる,はじまる,(something) begins,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-初め; 始め,はじめ,"beginning, start",JLPT JLPT_3 JLPT_5 JLPT_N5
-初めて,はじめて,for the first time,Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-走る,はしる,to run,Genki Genki_Ln.22 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-バス,バス,bus; bath; bass,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_1 JLPT_5 JLPT_N5
-バター,バター,butter,JLPT JLPT_5 JLPT_N5
-二十歳,はたち,20 years old,JLPT JLPT_3 JLPT_5 JLPT_N5
-働く,はたらく,to work,Genki Genki_Ln.11 Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5
-八,はち,eight,JLPT JLPT_5 JLPT_N5
-二十日,はつか,"twenty days, twentieth (day of the month)",JLPT JLPT_5 JLPT_N5
-花,はな,flower,JLPT JLPT_5 JLPT_N5
-鼻,はな,nose,JLPT JLPT_5 JLPT_N5
-話,はなし,"talk (chat), story",Genki Genki_Ln.19 JLPT JLPT_5 JLPT_N5
-話す,はなす,to speak,JLPT JLPT_3 JLPT_5 JLPT_N5
-母,はは,(my) mother,Genki Genki_Ln.14 JLPT JLPT_5 JLPT_N5
-早い,はやい,early,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-速い,はやい,"fast, quick",Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-春,はる,spring,Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
-貼る,はる,to post; to paste; to attach,Genki Genki_Ln.21 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5
-晴れ,はれ,clear (sunny) weather,Genki Genki_Ln.12 JLPT JLPT_5 JLPT_N5
-晴れる,はれる,to be sunny,Genki Genki_Ln.19 JLPT JLPT_5 JLPT_N5
-半,はん,"half (e.g., にじはん | half-past two)",Genki Genki_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5
-晩,ばん,evening,JLPT JLPT_3 JLPT_5 JLPT_N5
-～番,～ばん,~st; ~th best,JLPT JLPT_5 JLPT_N5
-パン,パン,bread,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-ハンカチ,ハンカチ,handkerchief,JLPT JLPT_5 JLPT_N5
-番号,ばんごう,"number, series of digits",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-晩御飯,ばんごはん,"dinner, evening meal",Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-半分,はんぶん,half,JLPT JLPT_5 JLPT_N5
-東,ひがし,east,JLPT JLPT_5 JLPT_N5
-～匹,～ひき,counter for small animals,JLPT JLPT_5 JLPT_N5
-引く,ひく,"to pull, to draw; subtract",JLPT JLPT_2 JLPT_3 JLPT_5 JLPT_N5
-弾く,ひく,to play (a string instrument or piano),Genki Genki_Ln.9 JLPT JLPT_3 JLPT_5 JLPT_N5
-低い,ひくい,"short, low",JLPT JLPT_5 JLPT_N5
-飛行機,ひこうき,airplane,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-左,ひだり,left hand side,JLPT JLPT_5 JLPT_N5
-人,ひと,"man, person",Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-一つ,ひとつ,one thing,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-一月,ひとつき,one month,JLPT JLPT_5 JLPT_N5
-一人,ひとり,one person,Genki Genki_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5
-暇,ひま,"free time, leisure",JLPT JLPT_5 JLPT_N5
-百,ひゃく,hundred,JLPT JLPT_5 JLPT_N5
-病院,びょういん,hospital,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-病気,びょうき,illness; sickness,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-平仮名,ひらがな,hiragana,JLPT JLPT_5 JLPT_N5
-昼,ひる,"noon, daytime",JLPT JLPT_5 JLPT_N5
-昼御飯,ひるごはん,"lunch, midday meal",Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-広い,ひろい,spacious; wide; broad,Genki Genki_Ln.15 Intermediate_Japanese Intermediate_Japanese_Ln.15 JLPT JLPT_5 JLPT_N5
-フィルム,フィルム,film (roll of),JLPT JLPT_5 JLPT_N5
-封筒,ふうとう,envelope,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
-プール,プール,swimming pool,Genki Genki_Ln.15 JLPT JLPT_5 JLPT_N5
-フォーク,フォーク,fork,JLPT JLPT_5 JLPT_N5
-吹く,ふく,"to blow (wind, etc.)",Genki Genki_Ln.22 JLPT JLPT_3 JLPT_5 JLPT_N5
-服,ふく,clothes,Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5
-二つ,ふたつ,two things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-豚肉,ぶたにく,pork,JLPT JLPT_5 JLPT_N5
-二人,ふたり,two people,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-二日,ふつか,two days; second day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-太い,ふとい,"fat, thick",JLPT JLPT_5 JLPT_N5
-冬,ふゆ,winter,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-降る,ふる,"to precipitate, to fall (e.g., rain, snow, etc.)",Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5
-古い,ふるい,"old (in reference to objects, not people), aged, ancient",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-～分,～ふん,~ minutes,JLPT JLPT_5 JLPT_N5
-文章,ぶんしょう,"sentence, text",JLPT JLPT_5 JLPT_N5
-ページ,ページ,a page,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-下手,へた,"unskillful, poor",JLPT JLPT_5 JLPT_N5
-ベッド,ベッド,bed,JLPT JLPT_5 JLPT_N5
-ペット,ペット,pet,Genki Genki_Ln.15 JLPT JLPT_3 JLPT_5 JLPT_N5
-部屋,へや,a room,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-辺,へん,"area, vicinity",JLPT JLPT_5 JLPT_N5
-ペン,ペン,pen,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-勉強,べんきょう (する),study,JLPT JLPT_3 JLPT_5 JLPT_N5
-便利,べんり,"convenient, handy",JLPT JLPT_5 JLPT_N5
-帽子,ぼうし,hat; cap,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-ボールペン,ボールペン,ball-point pen,JLPT JLPT_5 JLPT_N5
-外,ほか,"other, the rest",JLPT JLPT_3 JLPT_5 JLPT_N5
-ポケット,ポケット,pocket,JLPT JLPT_5 JLPT_N5
-欲しい,ほしい,"to want, in need of",JLPT JLPT_5 JLPT_N5
-ポスト,ポスト,"mailbox; post, position",JLPT JLPT_5 JLPT_N5
-細い,ほそい,"thin, slender, fine",JLPT JLPT_5 JLPT_N5
-ボタン,ボタン,button,JLPT JLPT_5 JLPT_N5
-ホテル,ホテル,hotel,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-本,ほん,book,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-～本,～ほん,counter for long cylindrical things,JLPT JLPT_2 JLPT_5 JLPT_N5
-本棚,ほんだな,bookshelf,JLPT JLPT_5 JLPT_N5
-本当,ほんとう,"real, true",JLPT JLPT_3 JLPT_5 JLPT_N5
-～枚,～まい,counter for flat things,JLPT JLPT_5 JLPT_N5
-毎朝,まいあさ,every morning,Genki Genki_Ln.19 JLPT JLPT_5 JLPT_N5
-毎月,まいげつ; まいつき,"every month, monthly",JLPT JLPT_5 JLPT_N5
-毎週,まいしゅう,every week,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5
-毎日,まいにち,every day,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-毎年,まいねん; まいとし,"every year, yearly, annually",JLPT JLPT_5 JLPT_N5
-毎晩,まいばん,every night,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-前,まえ,"before, in front",Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5
-～前,～まえ,in front of ~,JLPT JLPT_5 JLPT_N5
-曲る,まがる,"to turn, to bend",JLPT JLPT_3 JLPT_5 JLPT_N5
-まずい,まずい,"terrible (in reference to food), unappetizing, unpleasant (taste)",Genki Genki_Ln.23 JLPT JLPT_5 JLPT_N5
-また,また,and; furthermore,Genki Genki_Ln.20 Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_3 JLPT_5 JLPT_N5
-まだ,まだ,"yet, still, besides",Genki Genki_Ln.19 JLPT JLPT_3 JLPT_5 JLPT_N5
-町,まち,town; city,Genki Genki_Ln.4 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5
-待つ,まつ,to wait,JLPT JLPT_3 JLPT_5 JLPT_N5
-まっすぐ,まっすぐ,"straight (ahead), direct",JLPT JLPT_3 JLPT_5 JLPT_N5
-マッチ,マッチ,match,JLPT JLPT_5 JLPT_N5
-窓,まど,window,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-丸い; 円い,まるい,"round, circular",JLPT JLPT_3 JLPT_5 JLPT_N5
-万,まん,ten thousand,JLPT JLPT_5 JLPT_N5
-万年筆,まんねんひつ,fountain pen,JLPT JLPT_5 JLPT_N5
-磨く,みがく,to brush (teeth); to polish,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-右,みぎ,right hand side,JLPT JLPT_5 JLPT_N5
-短い,みじかい,short (length),Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5
-水,みず,water,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-店,みせ,"store, shop",Genki Genki_Ln.13 Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5
-見せる,みせる,"to show, to display",Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5
-道,みち,"road, street; way, directions",Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5
-三日,みっか,"three days, third day of the month",Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-三つ,みっつ,three things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-緑,みどり,green,JLPT JLPT_5 JLPT_N5
-皆さん,みなさん,"all of you, everyone",Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-南,みなみ,South,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-耳,みみ,ear,Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_5 JLPT_N5
-見る,みる,"to see, to look",JLPT JLPT_3 JLPT_5 JLPT_N5
-みんな,みんな,"all, everyone, everybody",Genki Genki_Ln.9 JLPT JLPT_3 JLPT_5 JLPT_N5
-六日,むいか,six days; sixth day of month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-向こう,むこう,"beyond, over there",JLPT JLPT_5 JLPT_N5
-難しい,むずかしい,difficult,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5
-六つ,むっつ,six things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-村,むら,village,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-目,め,eye(s),Genki Genki_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5
-メートル,メートル,meter,JLPT JLPT_5 JLPT_N5
-眼鏡,めがね,eye glasses,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5
-もう,もう,already; again; more,Genki Genki_Ln.9 JLPT JLPT_2 JLPT_5 JLPT_N5
-木曜日,もくようび,Thursday,Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5
-もしもし,もしもし,Hello? (used on the phone),Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-持つ,もつ,"to hold, to carry; to possess",JLPT JLPT_5 JLPT_N5
-もっと,もっと,more,Genki Genki_Ln.11 JLPT JLPT_3 JLPT_5 JLPT_N5
-物,もの,thing (concrete object),Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5
-門,もん,gate,JLPT JLPT_5 JLPT_N5
-問題,もんだい,a problem,Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5
-～屋,～や,~ shop,JLPT_N5
-八百屋,やおや,greengrocer,JLPT JLPT_5 JLPT_N5
-野菜,やさい,vegetable,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-易しい,やさしい,"easy, plain, simple",JLPT JLPT_5 JLPT_N5
-安い,やすい,inexpensive; cheap (things),Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-休み,やすみ,holiday; day off; absence,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-休む,やすむ,"to rest, to have a break, to get time off",JLPT JLPT_5 JLPT_N5
-八つ,やっつ,eight things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5
-山,やま,mountain,Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5
-やる,やる,"to do; to give (to pets, parents, siblings, etc.)",Genki Genki_Ln.21 JLPT JLPT_4 JLPT_5 JLPT_N5
-夕方,ゆうがた,"late afternoon (typically just before dinner time), evening",Genki Genki_Ln.18 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5
-夕飯,ゆうはん,"dinner, supper, evening meal",JLPT JLPT_4 JLPT_5 JLPT_N5
-郵便局,ゆうびんきょく,post office,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5
-昨夜,ゆうべ,last night,JLPT JLPT_3 JLPT_5 JLPT_N5
-有名,ゆうめい,famous,JLPT JLPT_5 JLPT_N5
-雪,ゆき,snow,Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5
-ゆっくりと,ゆっくりと,"slowly, at ease",JLPT JLPT_5 JLPT_N5
-八日,ようか,eight days; eighth day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-洋服,ようふく,Western-style clothes,JLPT JLPT_5 JLPT_N5
-よく,よく,"frequently, often (much); well, skillfully",Genki Genki_Ln.14 Genki_Ln.3 JLPT JLPT_5 JLPT_N5
-横,よこ,beside; side; width,Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5
-四日,よっか,four days; fourth day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5
-四つ,よっつ,four things,Genki Genki_Ln.9 JLPT JLPT_2 JLPT_5 JLPT_N5
-呼ぶ,よぶ,to call (one's name); to invite,Genki Genki_Ln.19 JLPT JLPT_3 JLPT_5 JLPT_N5
-読む,よむ,to read,JLPT JLPT_5 JLPT_N5
-夜,よる,"evening, night",Genki Genki_Ln.6 JLPT JLPT_3 JLPT_5 JLPT_N5
-弱い,よわい,weak,JLPT JLPT_5 JLPT_N5
-来月,らいげつ,next month,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5
-来週,らいしゅう,next week,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-来年,らいねん,next year,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5
-ラジオ,ラジオ,radio,Genki Genki_Ln.14 JLPT JLPT_5 JLPT_N5
-ラジオカセ,ラジオカセ,radio cassette player,JLPT JLPT_5 JLPT_N5
-りっぱ,りっぱ,"splendid, fine",JLPT JLPT_3 JLPT_5 JLPT_N5
-留学生,りゅうがくせい,international student,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-両親,りょうしん,"parents (lit., both parents)",Genki Genki_Ln.14 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-料理,りょうり,cooking; cuisine,Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5
-旅行,りょこう,"travel, trip",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5
-零,れい,"zero, nought",JLPT JLPT_3 JLPT_5 JLPT_N5
-冷蔵庫,れいぞうこ,refrigerator,Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5
-レコード,レコード,record,JLPT JLPT_5 JLPT_N5
-レストラン,レストラン,restaurant,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5
-練習,れんしゅう (する),(to) practice,JLPT JLPT_5 JLPT_N5
-廊下,ろうか,corridor,JLPT JLPT_5 JLPT_N5
-六,ろく,six,JLPT JLPT_5 JLPT_N5
-ワイシャツ,ワイシャツ,"shirt (lit: white shirt), business shirt",JLPT JLPT_5 JLPT_N5
-若い,わかい,young,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5
-分かる,わかる,to understand,JLPT JLPT_5 JLPT_N5
-忘れる,わすれる,to forget,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
-私,わたし,"I, myself",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5
-私,わたくし,"I (formal), myself, private affairs",Genki Genki_Ln.13 JLPT JLPT_2 JLPT_5 JLPT_N5
-渡す,わたす,to hand (something) over (v.t.); to get across,Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5
-渡る,わたる,"to cross over, to go across",JLPT JLPT_5 JLPT_N5
-悪い,わるい,"bad, sinful; inferior",Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5
+expression,reading,meaning,tags,guid
+ああ,ああ,"Ah!, Oh!",JLPT JLPT_4 JLPT_5 JLPT_N5,HI-.Ij?HS~
+会う,あう,"to meet, to see",JLPT JLPT_3 JLPT_5 JLPT_N5,kupB!kWE}<
+青,あお,blue,JLPT JLPT_5 JLPT_N5,HB)I{+$j.i
+青い,あおい,blue,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,q(A)lc.Kr8
+赤,あか,red,JLPT JLPT_5 JLPT_N5,y!Fn9IOz@J
+赤い,あかい,red,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5,D`aKGX2j!#
+明るい,あかるい,bright (in reference to personality or weather); cheerful,Genki Genki_Ln.18 Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5,m>)z8|k.>J
+秋,あき,fall (season),Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5,H~$iS3{X?*
+開く,あく,"to open, to become open",JLPT JLPT_3 JLPT_5 JLPT_N5,m[4![DH*c~
+開ける,あける,to open (v.t.),Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5,y.#AVx@-k>
+上げる,あげる,"to raise, to lift",JLPT JLPT_3 JLPT_5 JLPT_N5,Hp0]9?Ae.w
+朝,あさ,morning,Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,g|Q>VbnCii
+朝御飯,あさごはん,breakfast,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,wWUR=G6*(U
+明後日,あさって,day after tomorrow,JLPT JLPT_5 JLPT_N5,mF[0Aq7|V7
+足; 脚,あし,foot; leg,JLPT JLPT_5 JLPT_N5,m.INsC.wC2
+明日,あした,tomorrow,Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5,xZI7N3AauN
+あそこ,あそこ,"there, over there, that place",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,P>AI.lx+Jq
+遊ぶ,あそぶ,to play; to spend time pleasantly; to hang out,Genki Genki_Ln.6 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,e<h|f2`;&
+暖かい,あたたかい,warm,JLPT_N5,tk[pUMy0{i
+頭,あたま,head,Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,DaKiPvzaex
+新しい,あたらしい,new,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,h)6JB@Q5Rj
+あちら,あちら,this way (polite),Genki Genki_Ln.20 JLPT JLPT_5 JLPT_N5,h{rLO32/d4
+暑い,あつい,"hot (in reference to weather), warm",Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,"gSl8i,<}^I"
+熱い,あつい,hot (objects),Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,Gy7fB=0YXx
+厚い,あつい,"kind, warm(hearted), thick, deep",JLPT JLPT_5 JLPT_N5,v[2GvOysf?
+あっち,あっち,over there,JLPT JLPT_5 JLPT_N5,Pv=fA$Z6K5
+後,あと,afterwards (later); in the future; the rest; since then,Genki Genki_Ln.18 JLPT JLPT_2 JLPT_3 JLPT_5 JLPT_N5,"r-[yF55!,-"
+あなた,あなた,you,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,"dwd.i?n%,!"
+兄,あに,(my) older brother (humble),Genki Genki_Ln.14 JLPT JLPT_5 JLPT_N5,L}%Kue=51s
+姉,あね,(my) older sister (humble),Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,IX6p9}CO.e
+アパート,アパート,apartment (abbr.),Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,wZ/2ki)d+f
+あの,あの,"that over there; like that, that way; um...",JLPT JLPT_4 JLPT_5 JLPT_N5,B2LX%goFyX
+浴びる,あびる,"to bathe, to shower",JLPT JLPT_3 JLPT_5 JLPT_N5,b2.2F3UI=#
+危ない,あぶない,"dangerous, critical",Intermediate_Japanese Intermediate_Japanese_Ln.15 JLPT JLPT_5 JLPT_N5,kjgRC;INvI
+甘い,あまい,"generous, sweet",Genki Genki_Ln.12 JLPT JLPT_5 JLPT_N5,jcM!HlCL`<
+余り,あまり,not very; surplus,JLPT JLPT_3 JLPT_5 JLPT_N5,"l$B(J(k,y1"
+雨,あめ,rain,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5,PaXlv})<8_
+飴,あめ,(hard) candy,JLPT JLPT_5 JLPT_N5,v}dp1l^X:W
+洗う,あらう,to wash,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,H=[cc$xhzR
+在る,ある,"to be, to have",JLPT JLPT_3 JLPT_5 JLPT_N5,w$Yz{uB@-`
+有る,ある,"to be, to have",JLPT JLPT_3 JLPT_5 JLPT_N5,v`6i&kQMJj
+歩く,あるく,to walk,Genki Genki_Ln.20 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,"Kkagn,fSTU"
+あれ,あれ,that one (over there),Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,Co(PaI(^/_
+いい; よい,いい; よい,good,JLPT JLPT_5 JLPT_N5,O(#?WJE%7H
+いいえ,いいえ,"no, not at all",JLPT JLPT_5 JLPT_N5,"iO`r],Af`o"
+言う,いう,to say,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5,iurNhMLEpv
+家,いえ,"house, home",Genki Genki_Ln.3 JLPT JLPT_2 JLPT_3 JLPT_5 JLPT_N5,QGc`#y1e97
+いかが,いかが,"how, in what way",JLPT JLPT_5 JLPT_N5,r5L~xW!JP9
+行く,いく; ゆく,to go,JLPT JLPT_5 JLPT_N5,kJnXhXxW0)
+いくつ,いくつ,"how many, how old",JLPT JLPT_3 JLPT_5 JLPT_N5,mxf9)ZwbLi
+いくら,いくら,"how much, how many",Genki Genki_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5,G7]VF2LkZL
+池,いけ,pond,JLPT JLPT_5 JLPT_N5,"u8]?l[G,7&"
+医者,いしゃ,doctor; physician,Genki Genki_Ln.1 Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5,"f&|8.,xzY9"
+椅子,いす,chair,JLPT JLPT_3 JLPT_5 JLPT_N5,Nxw^e{dZp(
+忙しい,いそがしい,"busy (people, days)",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,pTORshR]m|
+痛い,いたい,hurt; painful; sore,Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_5 JLPT_N5,O@@jk^&oQ8
+一,いち,one,JLPT JLPT_3 JLPT_5 JLPT_N5,C57gy_Lcmo
+一日,いちにち,one day (duration),Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,Q/Fb^F]yhk
+一番,いちばん,"best (most), first, number one",Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5,y&ds7j((mb
+いつ,いつ,when,Genki Genki_Ln.3 JLPT JLPT_2 JLPT_5 JLPT_N5,oGX1~x%YQo
+五日,いつか,five days; fifth day of the month,Genki Genki_Ln.13 JLPT JLPT_3 JLPT_5 JLPT_N5,iii]i;bYjg
+一緒,いっしょ,together,Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5,D>uK5dFJy^
+五つ,いつつ,five things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,Q!*H:Q_rHO
+いつも,いつも,"always, usually, every time, never (with neg. verb)",Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5,BM|Xrf53.p
+犬,いぬ,dog,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,"ktH(<>,fX+"
+今,いま,now,Genki Genki_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5,N{Ld-iFO]H
+意味,いみ,"meaning, significance",Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,xQ(-U#d9Tp
+妹,いもうと,younger sister (humble),Genki Genki_Ln.1 Genki_Ln.7 JLPT JLPT_5 JLPT_N5,BL_XI^txw+
+嫌,いや,"disagreeable, detestable, unpleasant",JLPT JLPT_3 JLPT_5 JLPT_N5,pj6@51cCNZ
+入口,いりぐち,entrance,JLPT JLPT_5 JLPT_N5,"E5~,8$6,oj"
+居る,いる,"(humble) to be (animate), to exist",JLPT JLPT_5 JLPT_N5,wfzvV]4NOO
+要る,いる,to need,JLPT JLPT_5 JLPT_N5,j|TF$iBC;9
+入れる,いれる,to put in,JLPT JLPT_5 JLPT_N5,swmy/(v]Eb
+色,いろ,color,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5,"Epa;v6=%P,"
+色々,いろいろ,various,JLPT JLPT_5 JLPT_N5,jV7cB[WgxE
+上,うえ,"above (up, top, etc.), over, on top of",JLPT JLPT_2 JLPT_5 JLPT_N5,"j3j@,T!uH>"
+後ろ,うしろ,"back, behind, rear",JLPT JLPT_3 JLPT_5 JLPT_N5,s:DnwS1iNM
+薄い,うすい,"thin, weak",JLPT JLPT_3 JLPT_5 JLPT_N5,pRrb<$bzH|
+歌,うた,a song,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,JJN9**Hn8A
+歌う,うたう,to sing,Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5,AN4yH;7MHR
+うち,うち,home; house; my place,Genki Genki_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5,u5l2?%hKEd
+生まれる,うまれる,to be born,JLPT JLPT_3 JLPT_5 JLPT_N5,i{d6CiQ#iK
+海,うみ,"sea, beach",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,Cla&e~|Y6P
+売る,うる,to sell (v.t.),Genki Genki_Ln.15 Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_3 JLPT_5 JLPT_N5,nqk=gYOr|$
+うるさい,うるさい,noisy; annoying,Genki Genki_Ln.22 JLPT JLPT_3 JLPT_5 JLPT_N5,fsH/V)BWD4
+上着,うわぎ,"coat, jacket",JLPT JLPT_5 JLPT_N5,nv?u]<OhhN
+絵,え,a painting; a picture; a drawing,Genki Genki_Ln.15 JLPT JLPT_3 JLPT_5 JLPT_N5,E6H3mWmPF1
+映画,えいが,"movie, film",Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5,Q842_8x`<%
+映画館,えいがかん,"movie theater, cinema",Genki Genki_Ln.15 JLPT JLPT_5 JLPT_N5,tKa%gU>tYk
+英語,えいご,English (language),Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,l~kTfp|Na~
+ええ,ええ,yes,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,K4f;DsCIdC
+駅,えき,station,Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5,EP[wTa2Y![
+エレベーター,エレベーター,elevator,JLPT JLPT_2 JLPT_5 JLPT_N5,GomZ-xrho6
+～円,～えん,Yen,JLPT JLPT_5 JLPT_N5,"rY,[_6)@&p"
+鉛筆,えんぴつ,pencil,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,ArKUTnLoi2
+お～,お～,honorable ~ (honorific),JLPT JLPT_5 JLPT_N5,Q1z/@I6[X=
+美味しい,おいしい,"delicious, tasty",JLPT JLPT_5 JLPT_N5,f%Oz)hC{aH
+多い,おおい,many; there are a lot,Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,CS_ZJ+i5[)
+大きい,おおきい,"big, large",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,N*s[nF-<Om
+大きな,おおきな,big,JLPT JLPT_5 JLPT_N5,"C@,$F5(H&S"
+大勢,おおぜい,great number of people,JLPT JLPT_5 JLPT_N5,d_f[=H{F{<
+お母さん,おかあさん,mother (formal),Genki Genki_Ln.1 Genki_Ln.2 JLPT JLPT_5 JLPT_N5,JmU7?0Aw7)
+お菓子,おかし,"confections, sweets, snack",Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5,iY2$$8!fW<
+お金,おかね,money,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,uh%`nh}D?M
+起きる,おきる,"to get up (e.g., from sleeping); to happen",Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5,i~#f<a525w
+置く,おく,to put; to lay; to place,Genki Genki_Ln.21 JLPT JLPT_3 JLPT_5 JLPT_N5,"KTJ,/<Sfw7"
+奥さん,おくさん,(someone else's) wife (hon.),Genki Genki_Ln.14 Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5,raj<Z6u7R]
+お酒,おさけ,sake; alcohol,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,BPnYG]G`g3
+お皿,おさら,"plate, dish",JLPT JLPT_5 JLPT_N5,"lNBs!SV,D!"
+伯父; 叔父さん,おじさん,"uncle, middle-aged man",JLPT JLPT_5 JLPT_N5,s$4&3o9W|{
+おじいさん,おじいさん,"grandfather, male senior citizen",Genki Genki_Ln.13 JLPT JLPT_3 JLPT_5 JLPT_N5,OnBGSorIYO
+教える,おしえる,"to teach, to inform, to instruct",Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,&(rx8HabP
+押す,おす,"to push, to press, to stamp (e.g., a passport)",Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5,O7S.k1^4+9
+遅い,おそい,slow; (to be) late,Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5,e`TVG4aTiS
+お茶,おちゃ,(green) tea,Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5,"o|6tDcd,cL"
+お手洗い,おてあらい,"toilet, restroom, bathroom (lit., a place to wash one's hands)",Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.13 JLPT JLPT_5 JLPT_N5,jX+//z~!X8
+お父さん,おとうさん,father (formal),Genki Genki_Ln.1 Genki_Ln.2 JLPT JLPT_5 JLPT_N5,Kh?V(6)C|2
+弟,おとうと,younger brother,Genki Genki_Ln.1 Genki_Ln.7 JLPT JLPT_5 JLPT_N5,"ht,o]F,GkV"
+男,おとこ,"man, male",Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5,QC9-<k]D|G
+男の子,おとこのこ,boy,Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5,mDCUq=3c&Y
+一昨日,おととい,the day before yesterday,Genki Genki_Ln.19 JLPT JLPT_5 JLPT_N5,n^WNNS^t5D
+おととし,おととし,year before last,JLPT JLPT_5 JLPT_N5,"i$lVvl^Y,~"
+大人,おとな,adult,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,F~j9Wag0^x
+お腹,おなか,stomach,JLPT JLPT_3 JLPT_5 JLPT_N5,GVf+XC=Lx4
+同じ,おなじ,"same, identical",Genki Genki_Ln.14 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,FT1U+`d~$u
+お兄さん,おにいさん,(someone else's) older brother (formal),Genki Genki_Ln.1 Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,c-e]c9shpL
+お姉さん,おねえさん,older sister (formal),Genki Genki_Ln.1 Genki_Ln.7 JLPT JLPT_5 JLPT_N5,"Q,2s6~F,9F"
+伯母さん; 叔母さん,おばさん,aunt,JLPT JLPT_5 JLPT_N5,fk]_fvvw.h
+おばあさん,おばあさん,"grandmother, female senior-citizen",Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,K7L64Zdx7D
+お風呂,おふろ,a bath,JLPT_N5,btJ^oH!>Ob
+お弁当,おべんとう,a boxed lunch,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,ou=Mxez95b
+覚える,おぼえる,"to learn, to commit to memory, to remember, to memorize",Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,k*NiP6Je8n
+おまわりさん,おまわりさん,policeman (friendly term),JLPT JLPT_5 JLPT_N5,kI/erxg?st
+重い,おもい,heavy; serious,Genki Genki_Ln.20 JLPT JLPT_3 JLPT_5 JLPT_N5,n(}tZ@Uv29
+面白い,おもしろい,"interesting, amusing",Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,"J&$%9x,#?>"
+泳ぐ,およぐ,to swim,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,bxmTHH/R3s
+降りる,おりる,to get off,JLPT JLPT_3 JLPT_5 JLPT_N5,hM4FhZWg_/
+終る,おわる,"to finish, to close",JLPT JLPT_5 JLPT_N5,D_J6!H@vf*
+音楽,おんがく,Music,Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,fcOO[?V993
+女,おんな,"woman, female",Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5,d3!7^Z7+&i
+女の子,おんなのこ,girl,Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5,n^ma[3kYmi
+～回,～かい,counter for occurrences (~ times),JLPT JLPT_1 JLPT_5 JLPT_N5,dwW`SX||PF
+～階,～かい,counter for stories (floors) of a building,JLPT JLPT_4 JLPT_5 JLPT_N5,x]4mRhDP?0
+外国,がいこく,foreign country; abroad,Genki Genki_Ln.11 Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5,K:<1s^}$O$
+外国人,がいこくじん,foreigner,Genki Genki_Ln.15 JLPT JLPT_5 JLPT_N5,mxObbkK7.-
+会社,かいしゃ,"company, corporation",Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,owc{ezB4?4
+階段,かいだん,stairs,JLPT JLPT_5 JLPT_N5,"ui<=#{,<U^"
+買い物,かいもの,shopping,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,uV:`-T%Eq~
+買う,かう,to buy,JLPT JLPT_3 JLPT_5 JLPT_N5,Q.3jlQZyvW
+返す,かえす,to return something,JLPT JLPT_3 JLPT_5 JLPT_N5,b+[+YOY+dv
+帰る,かえる,"to go back, to go home, to return",Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5,HBCAN.he?j
+顔,かお,face (body part),Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5,MGLL{4`mK@
+かかる,かかる,"it takes (amount of time, money) (v.i.)",Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5,yajlZ<1W@=
+鍵,かぎ,a lock; a key,Genki Genki_Ln.17 JLPT JLPT_3 JLPT_5 JLPT_N5,CBifo1C?=d
+書く,かく,to write,JLPT JLPT_3 JLPT_5 JLPT_N5,ytOa}oy+zO
+学生,がくせい,student,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,"JC,(K4dD=="
+～か月,～かげつ,(number of) months,JLPT JLPT_5 JLPT_N5,p^^qFJHF)[
+掛ける,かける,"to put on (e.g., glasses); to hang (e.g., on a wall)",JLPT JLPT_3 JLPT_4 JLPT_5 JLPT_N5,J@I.fZoEvE
+かける,かける,"to dial/call (e.g., phone); to sit down",Genki Genki_Ln.19 JLPT JLPT_3 JLPT_4 JLPT_5 JLPT_N5,j[@hZ&;%2u
+傘,かさ,"umbrella, parasol",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,p_LV=Cf?pc
+貸す,かす,to lend,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,yag&XA]F86
+風,かぜ,"wind, breeze",Genki Genki_Ln.22 JLPT JLPT_5 JLPT_N5,wPz(SGuAqF
+風邪,かぜ,"cold, flu",Genki Genki_Ln.12 JLPT JLPT_5 JLPT_N5,"G#zadB[Bd,"
+方,かた,-- honorific form for 人 (ひと) --; way of doing,Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_3 JLPT_4 JLPT_5 JLPT_N5,GtdTiap.Os
+家族,かぞく,"family, members of a family",Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,jwBW:Yf?[N
+片仮名,かたかな,katakana,JLPT JLPT_5 JLPT_N5,y%B]18.T{|
+～月,～がつ,month of year,JLPT JLPT_5 JLPT_N5,x[qBqm:mer
+学校,がっこう,a school,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,jMUlk]n4bL
+カップ,カップ,cup,JLPT JLPT_1 JLPT_5 JLPT_N5,N>J.3DDIIf
+家庭,かてい,home; family,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5,K=/LkA^bE5
+角,かど,"corner (e.g., desk, pavement)",Genki Genki_Ln.20 JLPT JLPT_5 JLPT_N5,NblB:vgsi`
+かばん,かばん,"bag, basket",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,M4T~@ehWYB
+花瓶,かびん,(flower) vase,JLPT JLPT_5 JLPT_N5,m<:4xC~U|%
+かぶる,かぶる,"to wear, to put on (e.g., a hat on the head)",Genki Genki_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5,"v~,/++9.ks"
+紙,かみ,paper,Genki Genki_Ln.17 JLPT JLPT_3 JLPT_5 JLPT_N5,BZj5w]P?W@
+カメラ,カメラ,camera,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5,m@gkXGnk1!
+火曜日,かようび,Tuesday,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,rx9;D%FE+1
+辛い,からい,hot and spicy; salty,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,EjaGe<]5<&
+体,からだ,body; health,Genki Genki_Ln.23 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,x=d[R_7msH
+借りる,かりる,"to borrow, to owe",JLPT JLPT_5 JLPT_N5,EV_.CiOUqY
+～がる,～がる,feel,JLPT JLPT_5 JLPT_N5,e--3P:#0au
+軽い,かるい,"light, non-serious, minor",JLPT JLPT_5 JLPT_N5,"Q?,F=N/]i*"
+カレー,カレー,curry (abbr. for curry and rice),Genki Genki_Ln.13 JLPT JLPT_1 JLPT_5 JLPT_N5,l)iLA}_6t!
+カレンダー,カレンダー,calendar,JLPT JLPT_5 JLPT_N5,"H,vNs@Ml~$"
+川; 河,かわ,river,JLPT JLPT_3 JLPT_5 JLPT_N5,QzV_(D2VAO
+～側,～がわ,~ side,JLPT_N5,ks2wGx4U0-
+可愛い,かわいい,"cute, adorable",JLPT JLPT_5 JLPT_N5,"cM$xbG,Do&"
+漢字,かんじ,kanji; Chinese character,Genki Genki_Ln.6 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5,"yx;[,(ZC<M"
+木,き,"tree, wood, timber",Genki Genki_Ln.22 JLPT JLPT_5 JLPT_N5,"Pt,~h2%O9J"
+黄色,きいろ,yellow,JLPT JLPT_5 JLPT_N5,c$:@4*e3c*
+黄色い,きいろい,yellow,JLPT JLPT_5 JLPT_N5,yw~rIwG)7I
+消える,きえる,"to vanish, to disappear",Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5,Hl(tY84I}b
+聞く,きく,"to hear, to listen, to ask",JLPT JLPT_3 JLPT_5 JLPT_N5,CbCe+?lSS(
+北,きた,north,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,c_4*(T~qY|
+ギター,ギター,guitar,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,gl.RMMgxvn
+汚い,きたない,"dirty, unclean, filthy",Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5,gA&c1.)X%=
+喫茶店,きっさてん,café,Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5,b3?(}lhy[4
+切手,きって,postal (postage) stamps,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,GZ2eU+7^)f
+切符,きっぷ,a ticket,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,i@ntG+Gt0l
+昨日,きのう,yesterday,Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5,"mMKJxv#,<s"
+九,きゅう,nine,JLPT JLPT_3 JLPT_5 JLPT_N5,PCz+i!/c^t
+牛肉,ぎゅうにく,beef,JLPT JLPT_5 JLPT_N5,"HN>QIS,sa)"
+牛乳,ぎゅうにゅう,milk,Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5,fkn+n(t~hl
+今日,きょう,"today, this day",Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,bCP{!%CS>.
+教室,きょうしつ,classroom,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,jd>*%:rgPV
+兄弟,きょうだい,"siblings (humble), brothers and sisters",Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,tg~Kr0A/Mn
+去年,きょねん,last year,Genki Genki_Ln.14 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,zrXmT>AI2s
+嫌い,きらい,dislike,JLPT JLPT_5 JLPT_N5,"qw1}y,Um4C"
+切る,きる,to cut; to hang up (a phone),Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5,A;e]B2v]77
+着る,きる,to put on (clothes above your waist); to wear,Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5,g$-Eqb.V#N
+綺麗,きれい,"pretty, clean, tidy",JLPT JLPT_5 JLPT_N5,y:f/R>36c4
+キロ; キログラム,キロ; キログラム,(abbr.) kilo (kilogram),JLPT JLPT_3 JLPT_5 JLPT_N5,"v,MI,fa=Pd"
+キロ; キロメートル,キロ; キロメートル,(abbr.) kilo (kilometer),JLPT JLPT_3 JLPT_5 JLPT_N5,I+%u|o<M9)
+銀行,ぎんこう,bank,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,dJzM6E^Crr
+金曜日,きんようび,Friday,Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5,H)-<3>G;wq
+九,く,nine,JLPT JLPT_3 JLPT_5 JLPT_N5,J.@??p5!Es
+薬,くすり,medicine,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5,e<qA>@afcN
+下さい,ください,(with te-form verb) please do for me,JLPT JLPT_5 JLPT_N5,wZXS53y~A
+果物,くだもの,fruit,Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5,"ff8}}%,}l0"
+口,くち,job opening; mouth,Intermediate_Japanese Intermediate_Japanese_Ln.11 Intermediate_Japanese_Ln.8 JLPT JLPT_5 JLPT_N5,ODcS@5Ag5;
+靴,くつ,"shoes, footwear",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,n}XPqtAFrb
+靴下,くつした,socks,Genki Genki_Ln.23 JLPT JLPT_5 JLPT_N5,"m{wv6,~qH4"
+国,くに,country; place of origin,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,qu43})1T{b
+曇り,くもり,"cloudiness, cloudy weather",Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5,"J%t?_,0ZZ)"
+曇る,くもる,"to become cloudy, to become dim",JLPT JLPT_5 JLPT_N5,h68<#-5u4*
+暗い,くらい,"dark, gloomy",JLPT JLPT_3 JLPT_5 JLPT_N5,l[W6inIL/c
+～くらい; ぐらい,～くらい; ぐらい,approximate (quantity),JLPT JLPT_5 JLPT_N5,i|aE4l1U6h
+クラス,クラス,a class,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,I|[#&/BoM*
+グラム,グラム,gram,JLPT JLPT_5 JLPT_N5,wf@~Kdx9Mo
+来る,くる,to come,JLPT JLPT_5 JLPT_N5,t8%I(!NKuq
+車,くるま,"car, vehicle",Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,Dp50G3U@L=
+黒,くろ,black,JLPT JLPT_5 JLPT_N5,eM3bqzySWE
+黒い,くろい,black; dark,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,y`TB7E}KvC
+警官,けいかん,police officer,JLPT JLPT_5 JLPT_N5,r|k<lg[-^X
+今朝,けさ,this morning,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,Ojh!YT%>_O
+消す,けす,"to erase, to delete, to turn off power",JLPT JLPT_5 JLPT_N5,kyBQ8>]kOz
+結構,けっこう,"splendid; enough, tolerably",JLPT JLPT_3 JLPT_5 JLPT_N5,OhYc[d+;sX
+結婚,けっこん (する),marriage (get married),JLPT JLPT_5 JLPT_N5,yoFb9mQ>xx
+月曜日,げつようび,Monday,Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5,py]#+qmS;#
+玄関,げんかん,entrance (to a house or a building),Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_4 JLPT_5 JLPT_N5,nzna3U1d%4
+元気,げんき,"health(y), energetic",JLPT JLPT_5 JLPT_N5,C6oDoveAM%
+～個,～こ,"counter for small items (e.g., fruits, cups)",JLPT JLPT_2 JLPT_5 JLPT_N5,"L)v,!KJ|+1"
+五,ご,five,JLPT JLPT_3 JLPT_5 JLPT_N5,CPX]&C<[AA
+～語,～ご,"word, language",JLPT JLPT_5 JLPT_N5,OS-NJNma:q
+公園,こうえん,a park,Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5,"I!nU=ub,Sv"
+交差点,こうさてん,intersection,JLPT JLPT_5 JLPT_N5,fB2Ek#M/vd
+紅茶,こうちゃ,black tea,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,k->[;qN`>7
+交番,こうばん,police box,JLPT JLPT_5 JLPT_N5,Opg/[%q+N8
+声,こえ,voice,Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,In/Jo>[]?<
+コート,コート,"coat; court (e.g., tennis)",JLPT JLPT_5 JLPT_N5,"e4scbA,t~J"
+コーヒー,コーヒー,coffee,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,d<P1^SSa-:
+ここ,ここ,"here, this place",Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5,Lq)wtpkam*
+午後,ごご,"afternoon, P.M.",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,C_ZC&#?>G!
+九日,ここのか,nine days; ninth day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,l7hYJ[~^44
+九つ,ここのつ,nine things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,DvF}1X8pH=
+午前,ごぜん,"morning, A.M.",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,ue~BwANA9n
+答える,こたえる,"to answer, to reply",JLPT JLPT_5 JLPT_N5,x<$h-)|1km
+こちら,こちら,this person (polite); this way (polite),Genki Genki_Ln.11 Genki_Ln.19 JLPT JLPT_5 JLPT_N5,A^:pzWeFGD
+こっち,こっち,this person; this direction; this side,JLPT JLPT_4 JLPT_5 JLPT_N5,KZ(~KRGBCG
+コップ,コップ,a tumbler; a glass,Genki Genki_Ln.14 JLPT JLPT_5 JLPT_N5,fS_r5k@$Y6
+今年,ことし,this year,Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5,F4V9w7@Age
+言葉,ことば,language; word(s); expression(s),Genki Genki_Ln.13 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,EWtR7eO/R4
+子供,こども,child(ren),Genki Genki_Ln.4 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,CU[{wZ(D{$
+この,この,this,JLPT JLPT_3 JLPT_5 JLPT_N5,pPsd:zD9O?
+御飯,ごはん,rice (cooked); meal,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,biiyLkNokP
+コピーする,コピーする,to copy,JLPT JLPT_3 JLPT_5 JLPT_N5,pIfdJ-gQ=x
+困る,こまる,"to be bothered, to have difficulty",Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5,QJ1l#P3oS5
+これ,これ,this one,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,CY7%/#&PC;
+～ころ; ～ごろ,～ころ; ～ごろ,"about, toward, approximately (time)",JLPT JLPT_5 JLPT_N5,ygFZGug3gm
+今月,こんげつ,this month,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5,m1R02~~j[
+今週,こんしゅう,this week,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,DK9g?(!36`
+こんな,こんな,"such, like this",JLPT JLPT_5 JLPT_N5,DuEU98EMih
+今晩,こんばん,"tonight, this evening",Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,F3};?W>+5Y
+さあ,さあ,"come now, well",JLPT JLPT_5 JLPT_N5,Ag`@=t><OI
+～歳,～さい,~ years old,JLPT JLPT_2 JLPT_5 JLPT_N5,yIt4LQzbb!
+財布,さいふ,wallet,Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,xwbRMO4c<;
+魚,さかな,fish,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,zzI@?Uq@Z[
+先,さき,"future; recent, previous",JLPT JLPT_5 JLPT_N5,tGm0X7=@hF
+咲く,さく,to bloom,Genki Genki_Ln.18 JLPT JLPT_3 JLPT_5 JLPT_N5,F>Pt~gStbR
+作文,さくぶん,essay; composition,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,fOn$od$Eoc
+差す,さす,"to raise (stretch out) hands, to raise (e.g., umbrella)",JLPT JLPT_3 JLPT_5 JLPT_N5,b|c|&{UKxH
+～冊,～さつ,counter for books,JLPT JLPT_5 JLPT_N5,DJ:3n{-XN%
+雑誌,ざっし,"magazine, journal",Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.8 JLPT JLPT_5 JLPT_N5,gVzfIhXfBF
+砂糖,さとう,sugar,Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5,M]8mQGX#}E
+寒い,さむい,cold (in reference to weather),Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,x@[mMxA?Z}
+さ来年,さらいねん,year after next,JLPT JLPT_5 JLPT_N5,C4/Z2oi:V>
+～さん,～さん,"Mr. ~, Ms. ~",JLPT JLPT_2 JLPT_5 JLPT_N5,i|L#.MVmNG
+三,さん,three,JLPT JLPT_5 JLPT_N5,jB}%X}YQ)P
+散歩,さんぽ (する),"walk, stroll",JLPT JLPT_3 JLPT_5 JLPT_N5,C7E%FY>8|T
+四,し,four,JLPT JLPT_3 JLPT_5 JLPT_N5,q%G#*K^0R+
+～時,～じ,~ o'clock (time),JLPT JLPT_1 JLPT_5 JLPT_N5,m]7PVW-h[^
+塩,しお,salt,JLPT JLPT_5 JLPT_N5,mQXb>=tTk}
+しかし,しかし,however; but,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,g2(en9wt=#
+時間,じかん,time,Genki Genki_Ln.14 JLPT JLPT_2 JLPT_5 JLPT_N5,rl<d#jP#zf
+～時間,～じかん,~ hours,JLPT JLPT_5 JLPT_N5,PfD-$$uDhD
+仕事,しごと,"work, job, occupation, employment",Genki Genki_Ln.1 Genki_Ln.8 JLPT JLPT_5 JLPT_N5,BpR$XStq*~
+辞書,じしょ,dictionary,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,Ls?+XP<x!7
+静か,しずか,"quiet, calm",JLPT JLPT_5 JLPT_N5,P>BDZl[pK4
+下,した,"under, below, beneath",JLPT JLPT_3 JLPT_5 JLPT_N5,j8V7%&V*V9
+七,しち,seven,JLPT JLPT_3 JLPT_5 JLPT_N5,d9Ei.i(]l3
+質問,しつもん,"question, inquiry",Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,hbG&tzjk([
+自転車,じてんしゃ,bicycle,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,cQ/jE!IBMW
+自動車,じどうしゃ,automobile,JLPT JLPT_5 JLPT_N5,s>B81r@vvP
+死ぬ,しぬ,to die,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,DTv8zMSE:A
+字引,じびき,dictionary,JLPT JLPT_5 JLPT_N5,"q(KV,tLbs@"
+自分,じぶん,"myself, oneself",Genki Genki_Ln.17 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,PVgO:!yY%&
+閉まる,しまる,"to close, to be closed",JLPT JLPT_5 JLPT_N5,gcQz%z-FEM
+閉める,しめる,"to close, to shut",JLPT JLPT_3 JLPT_5 JLPT_N5,gf.^6?5[K1
+締める,しめる,"to tie, to fasten, to tighten",JLPT JLPT_3 JLPT_5 JLPT_N5,zslBUbe/:)
+じゃ; じゃあ,じゃ; じゃあ,"well, well then",JLPT JLPT_3 JLPT_5 JLPT_N5,I*;H$6{i?j
+写真,しゃしん,a picture; a photograph,Genki Genki_Ln.4 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,uE&XA7mYm9
+シャツ,シャツ,shirt,Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5,ubVcrQ$8%@
+シャワー,シャワー,shower,JLPT JLPT_5 JLPT_N5,op46S^HFU7
+十,じゅう,ten,JLPT JLPT_3 JLPT_5 JLPT_N5,t#RE}A*?;i
+～中,～じゅう,"during, while",JLPT JLPT_2 JLPT_5 JLPT_N5,GjJjAMMc<N
+～週間,～しゅうかん,~ weeks,JLPT JLPT_5 JLPT_N5,B5/n=cEC&j
+授業,じゅぎょう,a class (of school),Genki Genki_Ln.11 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_2 JLPT_5 JLPT_N5,In^9^.q{~0
+宿題,しゅくだい,homework,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,PE;OT+iIoY
+上手,じょうず,"be good at, skillful",JLPT JLPT_5 JLPT_N5,zE7uPe$TPk
+丈夫,じょうぶ,"strong, solid, durable",JLPT JLPT_5 JLPT_N5,"rzxPYrs,=L"
+醤油,しょうゆ,soy sauce,Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5,Cx=6Q3yGAf
+食堂,しょくどう,"cafeteria, dining hall",Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,q/e+PknS.X
+知る,しる,"to know, to understand",Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,jmoS>4h`&Q
+白,しろ,white,JLPT JLPT_3 JLPT_5 JLPT_N5,?4vV_taj)
+白い,しろい,white,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,yL-#%FMe~@
+～人,～じん,counter for people,JLPT JLPT_5 JLPT_N5,cRB`piJTT=
+新聞,しんぶん,newspaper,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,u)<uacY_Qa
+水曜日,すいようび,Wednesday,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,kl%)(*`5]a
+吸う,すう,"to breathe in, to suck",JLPT JLPT_3 JLPT_5 JLPT_N5,wwi3CXCv2|
+スカート,スカート,skirt,Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5,NE$eFg+K&Y
+好き,すき,"liking, fondness, love",JLPT JLPT_5 JLPT_N5,B}kz{&9>=0
+～すぎ,～すぎ,"past; to exceed, ~ too much",JLPT JLPT_5 JLPT_N5,D/A*oT1;-^
+少ない,すくない,a little; a few,Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5,O}E#|bt5>=
+すぐに,すぐに,"immediately, soon",JLPT JLPT_5 JLPT_N5,c+_z#9>We^
+少し,すこし,"little, few",Genki Genki_Ln.21 JLPT JLPT_5 JLPT_N5,LEWblI/l<)
+涼しい,すずしい,"cool, refreshing (in reference to weather)",Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5,y%0&)B2:*;
+～ずつ,～ずつ,at a time,JLPT JLPT_5 JLPT_N5,e7*dq)(1^5
+ストーブ,ストーブ,heater (lit: stove),Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5,xw_f78(-:7
+スプーン,スプーン,spoon,JLPT JLPT_5 JLPT_N5,FjQLk(n?P#
+スポーツ,スポーツ,sport(s),Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,F^wO!?E%?^
+ズボン,ズボン,trousers,JLPT JLPT_5 JLPT_N5,"FU-<z{1,6("
+住む,すむ,"to reside, to live in",JLPT JLPT_3 JLPT_5 JLPT_N5,ym>?}%jeF+
+する,する,"to do, to try; to wear small items (e.g., necktie, watch, etc.)",Genki Genki_Ln.17 JLPT JLPT_3 JLPT_5 JLPT_N5,"LT|A_z,G+T"
+座る,すわる,to sit,JLPT JLPT_5 JLPT_N5,dn)bcr6wXa
+背,せい,"(one's) height, stature",Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5,xQDy{9R)S2
+生徒,せいと,student; pupil,Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_5 JLPT_N5,c2wTXo?)*o
+セーター,セーター,sweater,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,NSeOhKH2D6
+石鹸,せっけん,soap,JLPT JLPT_5 JLPT_N5,tY/1~r6Mz5
+背広,せびろ,men's suit,Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5,w`:i7/YHYU
+狭い,せまい,narrow; not spacious,Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.15 JLPT JLPT_5 JLPT_N5,yDZurM]5mn
+ゼロ,ゼロ,zero,JLPT JLPT_5 JLPT_N5,G~4~zg|xJJ
+千,せん,thousand,JLPT JLPT_5 JLPT_N5,IvU;IZmo9!
+先月,せんげつ,last month,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,RcD!zS6[>I
+先週,せんしゅう,last week,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,EbyugR;^Rz
+先生,せんせい,"teacher, professor; master; doctor",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,A`19t`6J6t
+洗濯,せんたく,"washing, laundry",Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_3 JLPT_5 JLPT_N5,vQ&mbAJqN7
+全部,ぜんぶ,"all, entire, whole",Genki Genki_Ln.13 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,MgJu@!Fk&_
+そう; そうです,そう; そうです,"yes; appears, to be the case",JLPT JLPT_5 JLPT_N5,kkfDg[|_Yb
+掃除,そうじ (する),"cleaning, sweeping",JLPT JLPT_3 JLPT_5 JLPT_N5,LKKhbs9g8/
+そうして; そして,そうして; そして,"and, like that",JLPT JLPT_5 JLPT_N5,C/Lx0#`!+J
+そこ,そこ,"that place, there; bottom, sole",Genki Genki_Ln.4 JLPT JLPT_2 JLPT_3 JLPT_5 JLPT_N5,v56KFY.>v@
+そちら,そちら,over there,JLPT JLPT_5 JLPT_N5,xbjis~A;+*
+そっち,そっち,over there,JLPT JLPT_5 JLPT_N5,#PXdxM^5L
+外,そと,"outside, exterior",Genki Genki_Ln.18 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,AFB3>g85F]
+その,その,that,JLPT JLPT_3 JLPT_5 JLPT_N5,C2OIF=[)E_
+そば,そば,"near, close, beside; Japanese traditional buckwheat noodle",Genki Genki_Ln.15 JLPT JLPT_3 JLPT_5 JLPT_N5,M)]t*`<F@c
+空,そら,sky,JLPT JLPT_5 JLPT_N5,D.6b;1{88^
+それ,それ,that one,Genki Genki_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5,t%n)3@@XX+
+それから,それから,"and then, after that",Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,sV(hn]KLzr
+それでは,それでは,"in that situation, well then...",JLPT JLPT_5 JLPT_N5,"v[]T|jw&,["
+～台,～だい,counter for vehicles; machines,JLPT JLPT_5 JLPT_N5,ztM0ejgNN~
+大学,だいがく,college; university,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,kHyc<WfmUQ
+大使館,たいしかん,embassy,JLPT JLPT_5 JLPT_N5,"n?Lz{tQ,#T"
+大丈夫,だいじょうぶ,It's ok (all right); No need to worry; Everything is under control,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,nEIlSJfx#r
+大好き,だいすき,"very like-able, like very much",JLPT JLPT_5 JLPT_N5,"AZ,CM~A,0E"
+大切,たいせつ,important,JLPT JLPT_5 JLPT_N5,tu70?MYeL5
+台所,だいどころ,kitchen,JLPT JLPT_5 JLPT_N5,bbB25MOf:$
+大変,たいへん,"very; difficult, hard",JLPT JLPT_3 JLPT_5 JLPT_N5,NIbD<|-[1y
+高い,たかい,"tall, high; expensive",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,veG&GbRNS(
+～だけ,～だけ,"only ~, just ~, as ~",JLPT JLPT_1 JLPT_5 JLPT_N5,Lcbr*3r3b5
+沢山,たくさん,"many, much",JLPT JLPT_5 JLPT_N5,v7m[:9zL*Y
+タクシー,タクシー,taxi,JLPT JLPT_5 JLPT_N5,k8!n/<-@<9
+出す,だす,to take (something) out; to hand in (something),Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5,bt0(EU(<V_
+～たち,～たち,plural suffix,JLPT JLPT_5 JLPT_N5,Opbd!87m@p
+立つ,たつ,to stand up,Genki Genki_Ln.6 JLPT JLPT_3 JLPT_5 JLPT_N5,z+IsiLqO4K
+たて,たて,"length, height",JLPT JLPT_3 JLPT_5 JLPT_N5,L8wVt#MfRS
+建物,たてもの,building,Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_5 JLPT_N5,mty2M&KETp
+楽しい,たのしい,"enjoyable, fun",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,eD~FeZpJXC
+頼む,たのむ,"to request, to ask (a favor)",Genki Genki_Ln.18 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,zjk+2%xAp%
+たばこ,たばこ,"tobacco, cigarettes",JLPT JLPT_5 JLPT_N5,y<?W4xcfCN
+多分,たぶん,"perhaps, probably, maybe",Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5,pNDK+)ARo
+食べ物,たべもの,food,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,ODKLC3jdI>
+食べる,たべる,to eat,JLPT JLPT_5 JLPT_N5,c.+pIV(7xY
+卵,たまご,egg,Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5,c|(S)f_).K
+誰,だれ,who,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,gDqm6J+#/O
+誰か,だれか,someone,JLPT JLPT_3 JLPT_5 JLPT_N5,K{JPl*mB/&
+誕生日,たんじょうび,birthday,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,HV8#h@HniT
+段々,だんだん,"gradually, by degrees",JLPT JLPT_5 JLPT_N5,O8dRR}CL>
+小さい,ちいさい,"small, little",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,LNu9:vy!G1
+小さな,ちいさな,"small, little",JLPT JLPT_5 JLPT_N5,lc*~Cd~D@4
+近い,ちかい,"near, close by, short",Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,"ttC.1]n,0|"
+違う,ちがう,to be different; to differ; wrong,Genki Genki_Ln.23 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,N2Hj9)qK/l
+近く,ちかく,nearby; in the neighborhood,Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,y)Y*_^+)&<
+地下鉄,ちかてつ,"underground train, subway",Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5,MEsyrZ*cPc
+地図,ちず,a map,Genki Genki_Ln.15 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5,dhY*~Tx!fs
+父,ちち,(my) father,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,QKI#T(oT`t
+茶色,ちゃいろ,brown,JLPT JLPT_5 JLPT_N5,h<Se0W>cwB
+茶碗,ちゃわん,rice bowl,JLPT JLPT_5 JLPT_N5,p6c8>jnMm!
+～中,～ちゅう,"during, while ~ing",JLPT JLPT_5 JLPT_N5,J]E)zcwU%w
+丁度,ちょうど,"just, right, exactly",JLPT JLPT_5 JLPT_N5,K@fxH}$AC8
+ちょっと,ちょっと,"a little, somewhat; just a little, somewhat",Genki Genki_Ln.3 JLPT JLPT_2 JLPT_5 JLPT_N5,j)OcO!#[%u
+一日,ついたち,one day; first day of the month,JLPT JLPT_5 JLPT_N5,qK&D4iveg
+使う,つかう,to use,JLPT JLPT_5 JLPT_N5,B(Ve/L8[z5
+疲れる,つかれる,to get (become) tired; to become fatigued,Genki Genki_Ln.11 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,Oil7l6nt$n
+次,つぎ,next,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,IPls}w5_e-
+着く,つく,"to arrive at, to reach",JLPT JLPT_3 JLPT_5 JLPT_N5,hc-pfPX>PQ
+机,つくえ,desk,Genki Genki_Ln.4 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,G!9kEn9Y>c
+作る,つくる,"to make, to create",Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5,dlanfH_M#M
+つける,つける,"to turn on (e.g., a light); to take",JLPT JLPT_3 JLPT_4 JLPT_5 JLPT_N5,o}z*=/A8o~
+勤める,つとめる,to work (for),JLPT JLPT_5 JLPT_N5,xKU$$gsQPF
+つまらない,つまらない,"boring, dull; insignificant",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,HL~a;+T`kY
+冷たい,つめたい,"cold (things, people)",Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5,v8vDEW[6Rh
+強い,つよい,"strong, powerful",Genki Genki_Ln.17 Intermediate_Japanese Intermediate_Japanese_Ln.13 JLPT JLPT_5 JLPT_N5,d[wde~o@q(
+手,て,hand,JLPT JLPT_5 JLPT_N5,CAHcCP96BY
+テープ,テープ,tape,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,"H|,pBh(;BD"
+テープレコーダー,テープレコーダー,tape recorder,JLPT JLPT_5 JLPT_N5,izd^3[1~Pe
+テーブル,テーブル,table,JLPT JLPT_5 JLPT_N5,n-.M5OZr5!
+出かける,でかける,to go out; to depart,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,Fx}b2N2gun
+手紙,てがみ,letter,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,M#PC#!OTka
+できる,できる,to be able to (to accomplish),JLPT JLPT_3 JLPT_4 JLPT_5 JLPT_N5,vB~NGv+*>H
+出口,でぐち,an exit,Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5,sv__368x5>
+テスト,テスト,test,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,Lhy<!{J6SG
+では,では,"then, well, so",JLPT JLPT_3 JLPT_5 JLPT_N5,NY{|SsdlKz
+デパート,デパート,(abbr.) department store,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,rd.b%pP~B0
+でも,でも,"but, however",JLPT JLPT_3 JLPT_5 JLPT_N5,izQ~3T7Pp}
+出る,でる,"to appear, to leave",JLPT JLPT_5 JLPT_N5,A23ctPX1n^
+テレビ,テレビ,"television, TV",Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,pQXZQB+G|d
+天気,てんき,weather,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,vm1l+4c[9
+電気,でんき,"electricity, (electric) light",Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,HsW5jIb;SC
+電車,でんしゃ,electric train,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,e?+NxLTOv
+電話,でんわ,a telephone,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,"Q,geq&8^pJ"
+戸,と,door (Japanese style),JLPT JLPT_5 JLPT_N5,o.K?EMap~;
+～度,～ど,counter for occurrences; ~ degree; ~ point,JLPT JLPT_1 JLPT_5 JLPT_N5,K9|0UgYaJ_
+ドア,ドア,door (Western style),JLPT JLPT_5 JLPT_N5,l[rk}4@PVD
+トイレ,トイレ,bathroom; toilet,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,hv_ThfFsjj
+どう,どう,"how, in what way",JLPT JLPT_5 JLPT_N5,FZt/a?Mnu^
+どうして,どうして,"why, for what reason",Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,s<(2V@f6ff
+どうぞ,どうぞ,"please, kindly, by all means",JLPT JLPT_5 JLPT_N5,CXiSJodxs@
+動物,どうぶつ,animal,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,Q~mPY;2upw
+どうも,どうも,Thank you; somehow; no matter how hard one may try,Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,"Maz]_B`w,4"
+十,(〜を) とお,ten (~),Genki Genki_Ln.9 JLPT JLPT_3 JLPT_5 JLPT_N5,BjWdBTc)9!
+遠い,とおい,"far (away), distant",Genki Genki_Ln.21 JLPT JLPT_5 JLPT_N5,Jl9yYXnyJ<
+十日,とおか,ten days; tenth day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,g[CNT&GA2[
+～時,～とき,at the time of ~,JLPT JLPT_3 JLPT_5 JLPT_N5,bGLp[lZC.;
+時々,ときどき,sometimes,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,s+W64X?THZ
+時計,とけい,a watch; a clock,Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,u/fL<ne:Cb
+どこ,どこ,"where, what place",Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,h_Fa6?Ps@9
+所,ところ,place,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,J`^6YmuA-0
+年,とし,"year, age",JLPT JLPT_3 JLPT_5 JLPT_N5,N=hcG9wG3;
+図書館,としょかん,library,Genki Genki_Ln.2 Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_5 JLPT_N5,mp0X0~7Y`^
+どちら,どちら,which (one) (way); where (polite),Genki Genki_Ln.10 Genki_Ln.19 JLPT JLPT_5 JLPT_N5,pW(ud@AhIx
+どっち,どっち,"which one, which way",Genki Genki_Ln.10 JLPT JLPT_5 JLPT_N5,"PxI,t`JQ.N"
+とても,とても,"very (much), greatly, exceedingly",Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5,t]2-1h#)V/
+どなた,どなた,who,JLPT JLPT_5 JLPT_N5,Ll)TbcW$yb
+隣,となり,"next to, next door to",Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,GigT2yQ[2E
+どの,どの,which,JLPT JLPT_5 JLPT_N5,H+g1ci<Mvc
+飛ぶ,とぶ,"to fly, to hop",JLPT JLPT_5 JLPT_N5,wLF5gUV](>
+止まる,とまる,to come to a halt,JLPT JLPT_5 JLPT_N5,Q+OrrzleWd
+友達,ともだち,friend,Genki Genki_Ln.1 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,E)w$/p&I#O
+土曜日,どようび,Saturday,Genki Genki_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5,Q%+.*M.E9m
+鳥,とり,"chicken (lit., bird)",Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5,lc>;F##&%m
+鶏肉,とりにく,chicken meat,JLPT JLPT_5 JLPT_N5,dL<c9&FvJF
+取る,とる,to take (a class); to get (a grade),Genki Genki_Ln.11 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,bLpD3ABv2g
+撮る,とる,"to take (a photo), to make (a film)",JLPT JLPT_5 JLPT_N5,w7O/i=vkEI
+どれ,どれ,which one,Genki Genki_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5,icGG-;4x}M
+どんな,どんな,"what, what kind of",JLPT JLPT_3 JLPT_5 JLPT_N5,PZ~[>!hd8m
+ない,ない,"there isn't, doesn't have",JLPT JLPT_5 JLPT_N5,I08@<2+DPk
+ナイフ,ナイフ,knife,JLPT JLPT_5 JLPT_N5,domhg)5M&Q
+中,なか,"inside, middle, among",JLPT JLPT_3 JLPT_5 JLPT_N5,rVjcK=lE15
+長い,ながい,"long, lengthy",Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_2 JLPT_5 JLPT_N5,EHO`14{d-(
+鳴く,なく,to make sound (animal),JLPT JLPT_5 JLPT_N5,"ivpv*G,Zm%"
+無くす,なくす,to lose something,JLPT JLPT_3 JLPT_5 JLPT_N5,dteDI+R~`W
+なぜ,なぜ,why (same as どうして),Genki Genki_Ln.19 JLPT JLPT_5 JLPT_N5,Cvs*YiG5BD
+夏,なつ,summer,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,"P,[b8Eh|6R"
+夏休み,なつやすみ,summer vacation,JLPT JLPT_5 JLPT_N5,D=cA)b0@~(
+～など,～など,et cetera,JLPT JLPT_3 JLPT_5 JLPT_N5,"e(]O3py,;2"
+七つ,ななつ,seven things,Genki Genki_Ln.9 JLPT JLPT_3 JLPT_5 JLPT_N5,G25u:w`9Xu
+何,なん; なに,what,Genki Genki_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5,g<hW@mElnM
+七日,なのか,seven days; seventh day (of the month),Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,I|+G2AT>J]
+名前,なまえ,name,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,e6o_CEx8)b
+習う,ならう,to learn,Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5,iV+xor)WZT
+並ぶ,ならぶ,"to line up, to stand in a line (v.i.)",Intermediate_Japanese Intermediate_Japanese_Ln.7 JLPT JLPT_5 JLPT_N5,nIHPO#>_}+
+並べる,ならべる,to put (things) side by side; to line up,Intermediate_Japanese Intermediate_Japanese_Ln.15 JLPT JLPT_5 JLPT_N5,n!B94UfoT6
+なる,なる,to become,Genki Genki_Ln.10 JLPT JLPT_3 JLPT_5 JLPT_N5,ukKTUxR2lk
+何～,なん～,what sort of ~,JLPT JLPT_5 JLPT_N5,C!@pB0L*^>
+二,に,two,JLPT JLPT_5 JLPT_N5,uzD!:&B)8|
+にぎやか,にぎやか,"bustling, busy",JLPT JLPT_5 JLPT_N5,cIb<bg#^)L
+肉,にく,meat,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,Go(gh2eIxK
+西,にし,west,JLPT JLPT_5 JLPT_N5,D!YA^58RBg
+～日,～にち,"~ day of the month, for ~ days",JLPT JLPT_5 JLPT_N5,DbJ@Azg05L
+日曜日,にちようび,Sunday,Genki Genki_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5,XSi31p{-G
+荷物,にもつ,luggage; baggage,Genki Genki_Ln.6 Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5,MH72iI!<]q
+ニュース,ニュース,news,Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5,"iHtE.]1*,&"
+庭,にわ,garden,Genki Genki_Ln.15 JLPT JLPT_5 JLPT_N5,f&>q3YTU?H
+～人,～にん,counter for people,JLPT JLPT_5 JLPT_N5,FNnJ8yNPin
+脱ぐ,ぬぐ,to take off (clothes),Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5,cM_g)oAQIs
+温い,ぬるい,lukewarm,JLPT JLPT_3 JLPT_5 JLPT_N5,"gfQAF/k(q,"
+ネクタイ,ネクタイ,"tie, necktie",Genki Genki_Ln.14 JLPT JLPT_5 JLPT_N5,AQO{m&veen
+猫,ねこ,cat,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,x^.ijbc4Mz
+寝る,ねる,to sleep; to go to sleep; to go to bed,Genki Genki_Ln.3 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,PAI>}YTMT!
+～年,～ねん,~ years,JLPT JLPT_5 JLPT_N5,"gYAXz}z6O,"
+ノート,ノート,notebook,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,Go~p$PSFcm
+登る,のぼる,to climb,JLPT JLPT_3 JLPT_5 JLPT_N5,unM=ha?S3d
+飲み物,のみもの,"drink, beverage",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,"k?X,84{EZ8"
+飲む,のむ,to drink,JLPT JLPT_5 JLPT_N5,C;cf;f4#r6
+乗る,のる,"to get on, to ride in, to board",JLPT JLPT_3 JLPT_5 JLPT_N5,J~ykS_Bo0m
+歯,は,tooth,Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.12 JLPT JLPT_5 JLPT_N5,J1;2F+tdr`
+パーティー,パーティー,a party,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5,O}o_r|!syk
+はい,はい,yes,Genki Genki_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5,Q.;:Q&Nmh}
+～杯,～はい,counter for cupfuls,JLPT JLPT_5 JLPT_N5,JTOz#Az0jW
+灰皿,はいざら,ashtray,JLPT JLPT_5 JLPT_N5,mAdBNp<Jp$
+入る,はいる,"to enter, to contain, to hold",JLPT JLPT_5 JLPT_N5,zZFQIc).TB
+葉書,はがき,postcard,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,jer83m7P=.
+はく,はく,to put on (items below your waist),Genki Genki_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5,oRjJ`o{id)
+箱,はこ,box,JLPT JLPT_5 JLPT_N5,D@BX&%Fydt
+橋,はし,bridge,JLPT JLPT_3 JLPT_5 JLPT_N5,gMcz>SvPjQ
+箸,はし,chopsticks,Genki Genki_Ln.8 JLPT JLPT_3 JLPT_5 JLPT_N5,vlWz[4OAnE
+始まる,はじまる,(something) begins,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,g7#i$_:K%6
+初め; 始め,はじめ,"beginning, start",JLPT JLPT_3 JLPT_5 JLPT_N5,Po{k$4o=i}
+初めて,はじめて,for the first time,Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,FM~Al0*F*3
+走る,はしる,to run,Genki Genki_Ln.22 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,"B)($ycG+,c"
+バス,バス,bus; bath; bass,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_1 JLPT_5 JLPT_N5,nF2zK|?mh~
+バター,バター,butter,JLPT JLPT_5 JLPT_N5,bep_D~c3Ed
+二十歳,はたち,20 years old,JLPT JLPT_3 JLPT_5 JLPT_N5,"s,}HT(8Tzb"
+働く,はたらく,to work,Genki Genki_Ln.11 Intermediate_Japanese Intermediate_Japanese_Ln.9 JLPT JLPT_5 JLPT_N5,fCkP4x.Nco
+八,はち,eight,JLPT JLPT_5 JLPT_N5,maEI.lHT3>
+二十日,はつか,"twenty days, twentieth (day of the month)",JLPT JLPT_5 JLPT_N5,mmn=3%}>}J
+花,はな,flower,JLPT JLPT_5 JLPT_N5,js_smr~4Ak
+鼻,はな,nose,JLPT JLPT_5 JLPT_N5,"Ft8Z7qnLG,"
+話,はなし,"talk (chat), story",Genki Genki_Ln.19 JLPT JLPT_5 JLPT_N5,A(<B}*ZSa_
+話す,はなす,to speak,JLPT JLPT_3 JLPT_5 JLPT_N5,d]>`2&`x#1
+母,はは,(my) mother,Genki Genki_Ln.14 JLPT JLPT_5 JLPT_N5,I?S_Xs1PT;
+早い,はやい,early,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,J6yYVxGFN*
+速い,はやい,"fast, quick",Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,pfU@DZ;h3^
+春,はる,spring,Genki Genki_Ln.10 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5,mlEwn=b[H<
+貼る,はる,to post; to paste; to attach,Genki Genki_Ln.21 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_3 JLPT_5 JLPT_N5,zI5j%aDV0.
+晴れ,はれ,clear (sunny) weather,Genki Genki_Ln.12 JLPT JLPT_5 JLPT_N5,nBD2D7_?kw
+晴れる,はれる,to be sunny,Genki Genki_Ln.19 JLPT JLPT_5 JLPT_N5,ATM=j&::X;
+半,はん,"half (e.g., にじはん | half-past two)",Genki Genki_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5,s%lRHov]`n
+晩,ばん,evening,JLPT JLPT_3 JLPT_5 JLPT_N5,hO?dVEN`5B
+～番,～ばん,~st; ~th best,JLPT JLPT_5 JLPT_N5,b/wgPDiVBg
+パン,パン,bread,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,FI2Z[9I*9Q
+ハンカチ,ハンカチ,handkerchief,JLPT JLPT_5 JLPT_N5,yU4LCXkUnv
+番号,ばんごう,"number, series of digits",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,c^xE))av$-
+晩御飯,ばんごはん,"dinner, evening meal",Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,HihAr>C::*
+半分,はんぶん,half,JLPT JLPT_5 JLPT_N5,DN!/&cg9bL
+東,ひがし,east,JLPT JLPT_5 JLPT_N5,"pI3YEa2,3t"
+～匹,～ひき,counter for small animals,JLPT JLPT_5 JLPT_N5,ivmKu+!yZ}
+引く,ひく,"to pull, to draw; subtract",JLPT JLPT_2 JLPT_3 JLPT_5 JLPT_N5,tVVM)ZI7wM
+弾く,ひく,to play (a string instrument or piano),Genki Genki_Ln.9 JLPT JLPT_3 JLPT_5 JLPT_N5,HK}b0#P-HS
+低い,ひくい,"short, low",JLPT JLPT_5 JLPT_N5,BBr{:lP!;x
+飛行機,ひこうき,airplane,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,OUQ4o:]Va=
+左,ひだり,left hand side,JLPT JLPT_5 JLPT_N5,h_@t6d`1:*
+人,ひと,"man, person",Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,ya&#4:D}>{
+一つ,ひとつ,one thing,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,lMwiFE;gTW
+一月,ひとつき,one month,JLPT JLPT_5 JLPT_N5,JU.k{Nz*{h
+一人,ひとり,one person,Genki Genki_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5,rOUMQ8LZ5<
+暇,ひま,"free time, leisure",JLPT JLPT_5 JLPT_N5,urDxNZnrq<
+百,ひゃく,hundred,JLPT JLPT_5 JLPT_N5,J;(UasY_=O
+病院,びょういん,hospital,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,<+#t;D=L-
+病気,びょうき,illness; sickness,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,Ibs3I0!xB|
+平仮名,ひらがな,hiragana,JLPT JLPT_5 JLPT_N5,k}y1F@5e8u
+昼,ひる,"noon, daytime",JLPT JLPT_5 JLPT_N5,i8$:v@D8x1
+昼御飯,ひるごはん,"lunch, midday meal",Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,JGK7M1P.PA
+広い,ひろい,spacious; wide; broad,Genki Genki_Ln.15 Intermediate_Japanese Intermediate_Japanese_Ln.15 JLPT JLPT_5 JLPT_N5,nThxsh#3~a
+フィルム,フィルム,film (roll of),JLPT JLPT_5 JLPT_N5,w#JO*~D@<H
+封筒,ふうとう,envelope,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,JaXU6BSc-h
+プール,プール,swimming pool,Genki Genki_Ln.15 JLPT JLPT_5 JLPT_N5,J.!iKtAY)1
+フォーク,フォーク,fork,JLPT JLPT_5 JLPT_N5,Q#>HBX67;#
+吹く,ふく,"to blow (wind, etc.)",Genki Genki_Ln.22 JLPT JLPT_3 JLPT_5 JLPT_N5,mo@qiT7%d3
+服,ふく,clothes,Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5,G;N&<jI3Ep
+二つ,ふたつ,two things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,A@M*oG}Fjm
+豚肉,ぶたにく,pork,JLPT JLPT_5 JLPT_N5,N1fM*9;kPY
+二人,ふたり,two people,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,yRF#3ntAGH
+二日,ふつか,two days; second day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,dRYcz7jSL;
+太い,ふとい,"fat, thick",JLPT JLPT_5 JLPT_N5,LD`2@7dG9a
+冬,ふゆ,winter,Genki Genki_Ln.8 Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,reZ;<Y^{LL
+降る,ふる,"to precipitate, to fall (e.g., rain, snow, etc.)",Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_3 JLPT_5 JLPT_N5,q(<}4NV?U@
+古い,ふるい,"old (in reference to objects, not people), aged, ancient",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,gH<g@fkLje
+～分,～ふん,~ minutes,JLPT JLPT_5 JLPT_N5,chUnU+#xr]
+文章,ぶんしょう,"sentence, text",JLPT JLPT_5 JLPT_N5,F&}@z14/*V
+ページ,ページ,a page,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,jR*]a[JBx$
+下手,へた,"unskillful, poor",JLPT JLPT_5 JLPT_N5,zx]n<UpO/Q
+ベッド,ベッド,bed,JLPT JLPT_5 JLPT_N5,mm(#F~5?W7
+ペット,ペット,pet,Genki Genki_Ln.15 JLPT JLPT_3 JLPT_5 JLPT_N5,Gm:f8t8t/V
+部屋,へや,a room,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,"cB,rGZ.;c."
+辺,へん,"area, vicinity",JLPT JLPT_5 JLPT_N5,"v^uJ@o,r7C"
+ペン,ペン,pen,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,PpbmxKp]%S
+勉強,べんきょう (する),study,JLPT JLPT_3 JLPT_5 JLPT_N5,P|N-mC4itp
+便利,べんり,"convenient, handy",JLPT JLPT_5 JLPT_N5,NSM1sxi#q3
+帽子,ぼうし,hat; cap,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,whud$h6Xsa
+ボールペン,ボールペン,ball-point pen,JLPT JLPT_5 JLPT_N5,A1a57pRAi*
+外,ほか,"other, the rest",JLPT JLPT_3 JLPT_5 JLPT_N5,q-Rsw+YG/*
+ポケット,ポケット,pocket,JLPT JLPT_5 JLPT_N5,PrdL>hhb^[
+欲しい,ほしい,"to want, in need of",JLPT JLPT_5 JLPT_N5,"IB/)D,[pe$"
+ポスト,ポスト,"mailbox; post, position",JLPT JLPT_5 JLPT_N5,CSDW$^FNBN
+細い,ほそい,"thin, slender, fine",JLPT JLPT_5 JLPT_N5,zm=f9J*i)W
+ボタン,ボタン,button,JLPT JLPT_5 JLPT_N5,o=Cnvf:%>b
+ホテル,ホテル,hotel,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,n#S=W;:k;`
+本,ほん,book,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,PgM`&0<&bX
+～本,～ほん,counter for long cylindrical things,JLPT JLPT_2 JLPT_5 JLPT_N5,Aln2n5Y6m$
+本棚,ほんだな,bookshelf,JLPT JLPT_5 JLPT_N5,LlS7xyP)^9
+本当,ほんとう,"real, true",JLPT JLPT_3 JLPT_5 JLPT_N5,mp{CGAM3}E
+～枚,～まい,counter for flat things,JLPT JLPT_5 JLPT_N5,eZ7Lx)q}m
+毎朝,まいあさ,every morning,Genki Genki_Ln.19 JLPT JLPT_5 JLPT_N5,FY8YY]~jH+
+毎月,まいげつ; まいつき,"every month, monthly",JLPT JLPT_5 JLPT_N5,x6m6aNH)Wj
+毎週,まいしゅう,every week,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5,Lp7~a9~`1G
+毎日,まいにち,every day,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,"b}uYG),?~1"
+毎年,まいねん; まいとし,"every year, yearly, annually",JLPT JLPT_5 JLPT_N5,cLTCt({=p{
+毎晩,まいばん,every night,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,s&rZqJP=be
+前,まえ,"before, in front",Genki Genki_Ln.17 JLPT JLPT_5 JLPT_N5,AcNx(A=]3O
+～前,～まえ,in front of ~,JLPT JLPT_5 JLPT_N5,Jh#_2I1KK<
+曲る,まがる,"to turn, to bend",JLPT JLPT_3 JLPT_5 JLPT_N5,fZb*Dqk8+n
+まずい,まずい,"terrible (in reference to food), unappetizing, unpleasant (taste)",Genki Genki_Ln.23 JLPT JLPT_5 JLPT_N5,y=A8n$:VZF
+また,また,and; furthermore,Genki Genki_Ln.20 Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_3 JLPT_5 JLPT_N5,H#sUyG^B<2
+まだ,まだ,"yet, still, besides",Genki Genki_Ln.19 JLPT JLPT_3 JLPT_5 JLPT_N5,xr/3DB/ghC
+町,まち,town; city,Genki Genki_Ln.4 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_3 JLPT_5 JLPT_N5,xztbV5AMZZ
+待つ,まつ,to wait,JLPT JLPT_3 JLPT_5 JLPT_N5,N6<)T3m*1$
+まっすぐ,まっすぐ,"straight (ahead), direct",JLPT JLPT_3 JLPT_5 JLPT_N5,o(%GCd@4cN
+マッチ,マッチ,match,JLPT JLPT_5 JLPT_N5,r{cxPi6M{l
+窓,まど,window,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,dZZ^@1iCkq
+丸い; 円い,まるい,"round, circular",JLPT JLPT_3 JLPT_5 JLPT_N5,kXV&n*v-w~
+万,まん,ten thousand,JLPT JLPT_5 JLPT_N5,k%8Ts^<^Df
+万年筆,まんねんひつ,fountain pen,JLPT JLPT_5 JLPT_N5,pjtI#>[G;I
+磨く,みがく,to brush (teeth); to polish,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,f*XbBCL&y-
+右,みぎ,right hand side,JLPT JLPT_5 JLPT_N5,Dx]?1r0B)6
+短い,みじかい,short (length),Genki Genki_Ln.7 Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5,CoDv|eMw1>
+水,みず,water,Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5,Psad>Q=[fe
+店,みせ,"store, shop",Genki Genki_Ln.13 Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5,w{yPQLxrpZ
+見せる,みせる,"to show, to display",Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5,u/XQDC4A&:
+道,みち,"road, street; way, directions",Genki Genki_Ln.16 JLPT JLPT_5 JLPT_N5,g*1iadY2;L
+三日,みっか,"three days, third day of the month",Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,"BQ,4DuKr8>"
+三つ,みっつ,three things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,E%f95v%koQ
+緑,みどり,green,JLPT JLPT_5 JLPT_N5,d@$Uu~dQl-
+皆さん,みなさん,"all of you, everyone",Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,xUxg44IBk/
+南,みなみ,South,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,tmB.Hd2Sk_
+耳,みみ,ear,Intermediate_Japanese Intermediate_Japanese_Ln.5 JLPT JLPT_5 JLPT_N5,c2VG#0omOo
+見る,みる,"to see, to look",JLPT JLPT_3 JLPT_5 JLPT_N5,LJ*9Zy3g--
+みんな,みんな,"all, everyone, everybody",Genki Genki_Ln.9 JLPT JLPT_3 JLPT_5 JLPT_N5,NO(9_g@4E)
+六日,むいか,six days; sixth day of month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,cT@R(=%:PY
+向こう,むこう,"beyond, over there",JLPT JLPT_5 JLPT_N5,mQG@k1[%|C
+難しい,むずかしい,difficult,Genki Genki_Ln.5 Intermediate_Japanese Intermediate_Japanese_Ln.2 JLPT JLPT_5 JLPT_N5,cp|.gBg]*Y
+六つ,むっつ,six things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,",[k`qyR3)"
+村,むら,village,Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,INP.Ccu#He
+目,め,eye(s),Genki Genki_Ln.7 JLPT JLPT_3 JLPT_5 JLPT_N5,dhfW}%pIM+
+メートル,メートル,meter,JLPT JLPT_5 JLPT_N5,BPMIO$2k{i
+眼鏡,めがね,eye glasses,Genki Genki_Ln.7 JLPT JLPT_5 JLPT_N5,OGc^3PJcd3
+もう,もう,already; again; more,Genki Genki_Ln.9 JLPT JLPT_2 JLPT_5 JLPT_N5,C9[8>(KXKL
+木曜日,もくようび,Thursday,Genki Genki_Ln.4 JLPT JLPT_3 JLPT_5 JLPT_N5,k#-z20ZxXI
+もしもし,もしもし,Hello? (used on the phone),Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,nnhl#WnLYa
+持つ,もつ,"to hold, to carry; to possess",JLPT JLPT_5 JLPT_N5,A&O@O/^cS;
+もっと,もっと,more,Genki Genki_Ln.11 JLPT JLPT_3 JLPT_5 JLPT_N5,OqdI=b3^K`
+物,もの,thing (concrete object),Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5,"z6=4|ALO,V"
+門,もん,gate,JLPT JLPT_5 JLPT_N5,H&[yCKRvgq
+問題,もんだい,a problem,Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5,Eh6&Bnk+Z%
+～屋,～や,~ shop,JLPT_N5,ht#2@^87+]
+八百屋,やおや,greengrocer,JLPT JLPT_5 JLPT_N5,C[.TX0anRy
+野菜,やさい,vegetable,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,qVg2VfFKQ;
+易しい,やさしい,"easy, plain, simple",JLPT JLPT_5 JLPT_N5,O&W|&R47Dm
+安い,やすい,inexpensive; cheap (things),Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,ie=X%ZqpqO
+休み,やすみ,holiday; day off; absence,Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,J*/c5_R!J=
+休む,やすむ,"to rest, to have a break, to get time off",JLPT JLPT_5 JLPT_N5,i~a&f>8]D[
+八つ,やっつ,eight things,Genki Genki_Ln.9 JLPT JLPT_5 JLPT_N5,F=`<QfuMn*
+山,やま,mountain,Genki Genki_Ln.11 JLPT JLPT_5 JLPT_N5,FM#``XMUDZ
+やる,やる,"to do; to give (to pets, parents, siblings, etc.)",Genki Genki_Ln.21 JLPT JLPT_4 JLPT_5 JLPT_N5,"ee,Y5GOGX?"
+夕方,ゆうがた,"late afternoon (typically just before dinner time), evening",Genki Genki_Ln.18 Intermediate_Japanese Intermediate_Japanese_Ln.10 JLPT JLPT_5 JLPT_N5,wr(&N+9Gfn
+夕飯,ゆうはん,"dinner, supper, evening meal",JLPT JLPT_4 JLPT_5 JLPT_N5,x@-+;z#Bdx
+郵便局,ゆうびんきょく,post office,Genki Genki_Ln.2 JLPT JLPT_5 JLPT_N5,E9^vm]j#7*
+昨夜,ゆうべ,last night,JLPT JLPT_3 JLPT_5 JLPT_N5,h5wsUbx`&$
+有名,ゆうめい,famous,JLPT JLPT_5 JLPT_N5,cV2lu-%dm7
+雪,ゆき,snow,Genki Genki_Ln.12 JLPT JLPT_3 JLPT_5 JLPT_N5,jr0utv~KvB
+ゆっくりと,ゆっくりと,"slowly, at ease",JLPT JLPT_5 JLPT_N5,w_ef65R9#}
+八日,ようか,eight days; eighth day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,Fd}WQ7nZj^
+洋服,ようふく,Western-style clothes,JLPT JLPT_5 JLPT_N5,uv*)pIfBA|
+よく,よく,"frequently, often (much); well, skillfully",Genki Genki_Ln.14 Genki_Ln.3 JLPT JLPT_5 JLPT_N5,Fz[l>+!/Hl
+横,よこ,beside; side; width,Intermediate_Japanese Intermediate_Japanese_Ln.11 JLPT JLPT_5 JLPT_N5,C?K**~xaVS
+四日,よっか,four days; fourth day of the month,Genki Genki_Ln.13 JLPT JLPT_5 JLPT_N5,s(2D4IDk2]
+四つ,よっつ,four things,Genki Genki_Ln.9 JLPT JLPT_2 JLPT_5 JLPT_N5,BL9b_E4!L$
+呼ぶ,よぶ,to call (one's name); to invite,Genki Genki_Ln.19 JLPT JLPT_3 JLPT_5 JLPT_N5,zV4mur-%tO
+読む,よむ,to read,JLPT JLPT_5 JLPT_N5,G8F?CvYLz|
+夜,よる,"evening, night",Genki Genki_Ln.6 JLPT JLPT_3 JLPT_5 JLPT_N5,lj*phUSR[b
+弱い,よわい,weak,JLPT JLPT_5 JLPT_N5,x)3Ur1<az7
+来月,らいげつ,next month,Genki Genki_Ln.8 JLPT JLPT_5 JLPT_N5,O/Q*jP:8c|
+来週,らいしゅう,next week,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,h}c~#8X!n;
+来年,らいねん,next year,Genki Genki_Ln.6 JLPT JLPT_5 JLPT_N5,"mvNiHK,T4b"
+ラジオ,ラジオ,radio,Genki Genki_Ln.14 JLPT JLPT_5 JLPT_N5,wyqA~/nA@+
+ラジオカセ,ラジオカセ,radio cassette player,JLPT JLPT_5 JLPT_N5,"eBPF6I+,&0"
+りっぱ,りっぱ,"splendid, fine",JLPT JLPT_3 JLPT_5 JLPT_N5,J%`%&)W1.O
+留学生,りゅうがくせい,international student,Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,n89-KYTMQf
+両親,りょうしん,"parents (lit., both parents)",Genki Genki_Ln.14 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,L.[<hVhM?f
+料理,りょうり,cooking; cuisine,Intermediate_Japanese Intermediate_Japanese_Ln.4 JLPT JLPT_5 JLPT_N5,G!~TK}MKdj
+旅行,りょこう,"travel, trip",Genki Genki_Ln.5 JLPT JLPT_5 JLPT_N5,KmCEi1#qL@
+零,れい,"zero, nought",JLPT JLPT_3 JLPT_5 JLPT_N5,rc1t]Q^qI(
+冷蔵庫,れいぞうこ,refrigerator,Genki Genki_Ln.18 JLPT JLPT_5 JLPT_N5,j*=Z=Hk4*w
+レコード,レコード,record,JLPT JLPT_5 JLPT_N5,xn:3qV.c32
+レストラン,レストラン,restaurant,Genki Genki_Ln.4 JLPT JLPT_5 JLPT_N5,s3y4P[QtRd
+練習,れんしゅう (する),(to) practice,JLPT JLPT_5 JLPT_N5,KaUYN0c91a
+廊下,ろうか,corridor,JLPT JLPT_5 JLPT_N5,AsH$#BLZ{M
+六,ろく,six,JLPT JLPT_5 JLPT_N5,w>WY?cJ:VM
+ワイシャツ,ワイシャツ,"shirt (lit: white shirt), business shirt",JLPT JLPT_5 JLPT_N5,x|nJIKNm*T
+若い,わかい,young,Genki Genki_Ln.9 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5,xN9[eu+8aY
+分かる,わかる,to understand,JLPT JLPT_5 JLPT_N5,vF3#$3|-lu
+忘れる,わすれる,to forget,Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,HW)xrzU[Z4
+私,わたし,"I, myself",Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5,I+Y7lySy.4
+私,わたくし,"I (formal), myself, private affairs",Genki Genki_Ln.13 JLPT JLPT_2 JLPT_5 JLPT_N5,m!I5:hHt<W
+渡す,わたす,to hand (something) over (v.t.); to get across,Intermediate_Japanese Intermediate_Japanese_Ln.6 JLPT JLPT_5 JLPT_N5,KvDHRUZ*r&
+渡る,わたる,"to cross over, to go across",JLPT JLPT_5 JLPT_N5,z9kLvI4/{d
+悪い,わるい,"bad, sinful; inferior",Genki Genki_Ln.12 Intermediate_Japanese Intermediate_Japanese_Ln.3 JLPT JLPT_5 JLPT_N5,rxV$$v%QZ;
