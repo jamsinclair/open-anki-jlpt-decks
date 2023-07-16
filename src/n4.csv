@@ -1,669 +1,669 @@
-expression,reading,meaning,tags
-踏む,ふむ,"to step on, to tread on",JLPT JLPT_N4
-～区,～く,"~ district, ~ ward, ~ borough",JLPT JLPT_N4
-すっと,すっと,"straight, quickly",JLPT JLPT_N4
-盗む,ぬすむ,to steal; to rob,Genki Genki_Ln.21 JLPT JLPT_N4
-大抵,たいてい,"generally, usually",Genki Genki_Ln.3 JLPT JLPT_N4
-とうとう,とうとう,"finally, at last",JLPT JLPT_N4
-ガソリン,ガソリン,"gasoline, petrol",Genki Genki_Ln.21 JLPT JLPT_N4
-鳴る,なる,"to sound, to ring (v.i.)",Intermediate_Japanese_Ln.2 JLPT JLPT_N4
-しっかり,しっかり,"firmly, steady",JLPT JLPT_N4
-生きる,いきる,to live,JLPT JLPT_N4
-苦い,にがい,bitter,JLPT JLPT_N4
-沸く,わく,"to boil, to grow hot",JLPT JLPT_N4
-意見,いけん,"opinion, view, idea",JLPT JLPT_N4
-やはり; やっぱり,やはり; やっぱり,"as I thought, absolutely",JLPT JLPT_N4
-漫画,まんが,"comic (book), cartoon",Genki Genki_Ln.14 JLPT JLPT_N4
-ステレオ,ステレオ,stereo,JLPT JLPT_N4
-医学,いがく,medical science,JLPT JLPT_N4
-テキスト,テキスト,text; text book,JLPT JLPT_N4
-～月,～つき,month,JLPT JLPT_N4
-折る,おる,"to snap, to break; to bend",JLPT JLPT_N4
-～会,～かい,~ meeting,JLPT JLPT_N4
-うかがう,うかがう,to ask,JLPT JLPT_N4
-聞こえる,きこえる,"to be heard, to be audible",JLPT JLPT_N4
-僕,ぼく,I (used by men towards those of equal or lower status),Genki Genki_Ln.5 JLPT JLPT_N4
-必ず,かならず,"surely, certainly",Intermediate_Japanese_Ln.8 JLPT JLPT_N4
-壊す,こわす,"to break, to break down",JLPT JLPT_N4
-怒る,おこる,to get angry; to scold angrily,Genki Genki_Ln.19 JLPT JLPT_N4
-床屋,とこや,barber's (shop),Genki Genki_Ln.10 Intermediate_Japanese_Ln.6 JLPT JLPT_N4
-オートバイ,オートバイ,motorcycle (lit: auto-bi(ke)),JLPT JLPT_N4
-運動,うんどうする,exercise,JLPT JLPT_N4
-止む,やむ,"to cease, to stop",JLPT JLPT_N4
-もし,もし,if,JLPT JLPT_N4
-表,おもて,surface; front; outside,JLPT JLPT_N4
-大学生,だいがくせい,"college student, university student",Genki Genki_Ln.1 Genki_Ln.8 JLPT JLPT_N4
-運転手,うんてんしゅ,driver (by occupation),Intermediate_Japanese_Ln.6 JLPT JLPT_N4
-予習,よしゅう,preparation of lessons (for class),Genki Genki_Ln.22 Intermediate_Japanese_Ln.5 JLPT JLPT_N4
-心配,しんぱいする,"worry, concern",JLPT JLPT_N4
-別,べつ,"distinction, different",JLPT JLPT_N4
-非常に,ひじょうに,extremely; very,Intermediate_Japanese_Ln.2 JLPT JLPT_N4
-お宅,おたく,(someone else's) house; home -- polite word for 家 (いえ) --,Genki Genki_Ln.13 Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-柔らかい,やわらかい,"soft (in reference to texture), tender",JLPT JLPT_N4
-拾う,ひろう,"to pick up (something), to find",Genki Genki_Ln.22 JLPT JLPT_N4
-～ございます,～ございます,"to be (polite), to exist",JLPT JLPT_N4
-気,き,"spirit, mood",JLPT JLPT_N4
-比べる,くらべる,to compare,JLPT JLPT_N4
-ほとんど,ほとんど,"mostly, almost",Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-つもり,つもり,"intention, plan",JLPT JLPT_N4
-郊外,こうがい,"suburb, outskirts",JLPT JLPT_N4
-だめ,だめ,"useless, no good, hopeless",JLPT JLPT_N4
-売り場,うりば,place where things are sold,JLPT JLPT_N4
-正月,しょうがつ,"New Year, New Year's Day",JLPT JLPT_N4
-規則,きそく,"rule, regulation",JLPT JLPT_N4
-うん,うん,"yes (informal), all right (ok)",Genki Genki_Ln.8 JLPT JLPT_N4
-発音,はつおん,pronunciation,JLPT JLPT_N4
-焼く,やく,"to bake, to grill",Genki Genki_Ln.21 JLPT JLPT_N4
-屋上,おくじょう,rooftop,JLPT JLPT_N4
-失礼,しつれい,"discourtesy, impoliteness; Excuse me",JLPT JLPT_N4
-ごみ,ごみ,"trash, garbage",Genki Genki_Ln.16 JLPT JLPT_N4
-アフリカ,アフリカ,Africa,JLPT JLPT_N4
-点,てん,"mark, score, grade; point, dot",Intermediate_Japanese_Ln.5 JLPT JLPT_N4
-一生懸命,いっしょうけんめい,"very hard (as in ""to work hard""), with utmost effort",Intermediate_Japanese_Ln.5 JLPT JLPT_N4
-今度,こんど,"now, this time, near future, one of these days, next time",Genki Genki_Ln.9 JLPT JLPT_N4
-機会,きかい,"chance, opportunity",JLPT JLPT_N4
-建てる,たてる,to build,JLPT JLPT_N4
-複雑,ふくざつ,"complexity, complication",JLPT JLPT_N4
-彼,かれ,"he, boyfriend",Genki Genki_Ln.12 Intermediate_Japanese_Ln.8 JLPT JLPT_N4
-いらっしゃる,いらっしゃる,"-- honorific expression for いく, くる, and いる --",Genki Genki_Ln.19 JLPT JLPT_N4
-布団,ふとん,futon,JLPT JLPT_N4
-大事,だいじ,"important, valuable, serious matter",JLPT JLPT_N4
-贈り物,おくりもの,a gift; a present,Intermediate_Japanese_Ln.9 JLPT JLPT_N4
-泥棒,どろぼう,thief; burglar,Genki Genki_Ln.21 JLPT JLPT_N4
-～製,～せい,made in ~,JLPT JLPT_N4
-注意,ちゅうい,"caution, attention",JLPT JLPT_N4
-台風,たいふう,typhoon,Genki Genki_Ln.16 JLPT JLPT_N4
-日,ひ,"sun, sunshine, day",Genki Genki_Ln.16 JLPT JLPT_N4
-～軒,～けん,counter for houses,JLPT JLPT_N4
-そう,そう,"really, (is that) so; yes, right",JLPT JLPT_N4
-通る,とおる,"to pass (by), to go through",JLPT JLPT_N4
-過ぎる,すぎる,"to exceed, to go beyond",JLPT JLPT_N4
-レポート; リポート,レポート; リポート,report,JLPT JLPT_N4
-葉,は,leaf,JLPT JLPT_N4
-必要,ひつよう,necessary,JLPT JLPT_N4
-課長,かちょう,section manager,Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-地震,じしん,earthquake,Genki Genki_Ln.15 JLPT JLPT_N4
-すると,すると,"and, then",JLPT JLPT_N4
-止める,やめる,"to end, to stop",JLPT JLPT_N4
-ガラス,ガラス,"glass, pane",JLPT JLPT_N4
-～学部,～がくぶ,department of a university,JLPT JLPT_N4
-厳しい,きびしい,hard; rigorous; strict,Genki Genki_Ln.13 Intermediate_Japanese_Ln.5 JLPT JLPT_N4
-エスカレーター,エスカレーター,escalator,JLPT JLPT_N4
-人口,じんこう,population,Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-月,つき,moon,Genki Genki_Ln.20 JLPT JLPT_N4
-絹,きぬ,silk,JLPT JLPT_N4
-ちっとも,ちっとも,not at all (neg. verb),JLPT JLPT_N4
-深い,ふかい,"deep, profound",JLPT JLPT_N4
-壊れる,こわれる,"to be broken, to break",JLPT JLPT_N4
-揺れる,ゆれる,"to shake, to sway",JLPT JLPT_N4
-落る,おちる,"to fall, to drop",JLPT JLPT_N4
-できるだけ,できるだけ,"if at all possible, as much as possible",JLPT JLPT_N4
-悲しい,かなしい,"sad, sorrowful",Genki Genki_Ln.13 JLPT JLPT_N4
-中学校,ちゅうがっこう,junior high school pupil,JLPT JLPT_N4
-ガス,ガス,gas,JLPT JLPT_N4
-祈る,いのる,to pray; to wish,JLPT JLPT_N4
-盛ん,さかん,"prosperous, active, thriving",JLPT JLPT_N4
-アルバイト,アルバイト,part-time job,Genki Genki_Ln.4 JLPT JLPT_N4
-起こす,おこす,to wake (someone) up,Genki Genki_Ln.16 JLPT JLPT_N4
-致す,いたす,-- extra-modest expression for する --,Genki Genki_Ln.20 JLPT JLPT_N4
-噛む,かむ,"to bite, to chew",JLPT JLPT_N4
-赤ちゃん,あかちゃん,"baby, infant",Genki Genki_Ln.21 JLPT JLPT_N4
-浅い,あさい,"shallow, superficial",JLPT JLPT_N4
-嘘,うそ,lie,JLPT JLPT_N4
-小説,しょうせつ,novel,Genki Genki_Ln.20 JLPT JLPT_N4
-親,おや,a parent,Genki Genki_Ln.16 Intermediate_Japanese_Ln.6 JLPT JLPT_N4
-それに,それに,moreover; besides,Intermediate_Japanese_Ln.2 JLPT JLPT_N4
-西洋,せいよう,"the West, Western countries",JLPT JLPT_N4
-思う,おもう,"to think, to feel",Genki Genki_Ln.8 JLPT JLPT_N4
-パート (タイム),パート (タイム),part time (esp. female part time employees),JLPT JLPT_N4
-時代,じだい,"age, period, epoch, era",JLPT JLPT_N4
-申し上げる,もうしあげる,"(humble)to say, to tell",JLPT JLPT_N4
-～式,～しき,~ ceremony; ~ style,JLPT JLPT_N4
-出席,しゅっせきする,attendance,JLPT JLPT_N4
-～家,～か,person who is specialized in ~,JLPT JLPT_N4
-迎える,むかえる,to welcome; to meet; to greet,JLPT JLPT_N4
-触る,さわる,"to touch, to feel",JLPT JLPT_N4
-建て,～だて,"~ storied, separate housing",JLPT JLPT_N4
-社長,しゃちょう,president of a company,Genki Genki_Ln.11 JLPT JLPT_N4
-動物園,どうぶつえん,zoo,JLPT JLPT_N4
-捕まえる,つかまえる,"to catch, to arrest",JLPT JLPT_N4
-季節,きせつ,season (in reference to weather),Genki Genki_Ln.10 Intermediate_Japanese_Ln.9 JLPT JLPT_N4
-寄る,よる,to stop by,Genki Genki_Ln.19 Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-決まる,きまる,to be set; fixed (v.i.),Intermediate_Japanese_Ln.2 JLPT JLPT_N4
-開く,ひらく,to open; to hold (an event),JLPT JLPT_N4
-逃げる,にげる,"to escape, to run away",JLPT JLPT_N4
-だから,だから,so; therefore,Genki Genki_Ln.4 JLPT JLPT_N4
-残念,ざんねん,regret; regrettable,Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-畳,たたみ,tatami mat (Japanese straw mat),JLPT JLPT_N4
-丁寧,ていねい,"polite, courteous, careful",JLPT JLPT_N4
-地理,ちり,geography,JLPT JLPT_N4
-さっき,さっき,a little while ago,Genki Genki_Ln.4 JLPT JLPT_N4
-怖い,こわい,"scary, frightening",Genki Genki_Ln.5 JLPT JLPT_N4
-包む,つつむ,"to wrap, to cover",Genki Genki_Ln.21 JLPT JLPT_N4
-なるべく,なるべく,"if possible, as much as possible",Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-無理,むり,"unreasonable, impossible",JLPT JLPT_N4
-サンドイッチ,サンドイッチ,sandwich,JLPT JLPT_N4
-会議室,かいぎしつ,conference room,JLPT JLPT_N4
-品物,しなもの,goods,JLPT JLPT_N4
-人形,にんぎょう,"doll, figure",JLPT JLPT_N4
-利用,りよう,"use, utilization",JLPT JLPT_N4
-飾る,かざる,"to decorate, to adorn",JLPT JLPT_N4
-止める,とめる,to stop (something),JLPT JLPT_N4
-恥ずかしい,はずかしい,"ashamed, embarrassed",Genki Genki_Ln.18 JLPT JLPT_N4
-いくら～ても,いくら～ても,however much one may ~,JLPT JLPT_N4
-用事,ようじ,business to take care of; tasks; errands,Genki Genki_Ln.12 JLPT JLPT_N4
-ビル,ビル,(abbr.) building,JLPT JLPT_N4
-けんかする,けんかする,quarrel,JLPT JLPT_N4
-頑張る,がんばる,"to try one's best, to try hard, to persist",Genki Genki_Ln.13 JLPT JLPT_N4
-投げる,なげる,"to pitch, to cast away",Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-故障,こしょうする,breakdown,JLPT JLPT_N4
-力,ちから,"strength, power",JLPT JLPT_N4
-受ける,うける,"to take (an examination, interview, etc.); to receive",JLPT JLPT_N4
-気分,きぶん,"feeling, mood",JLPT JLPT_N4
-間違える,まちがえる,to make a mistake,Genki Genki_Ln.21 JLPT JLPT_N4
-そんな,そんな,"such, like that, that sort of",JLPT JLPT_N4
-星,ほし,star,JLPT JLPT_N4
-場合,ばあい,"case, situation",JLPT JLPT_N4
-やっと,やっと,"at last, finally",JLPT JLPT_N4
-足りる,たりる,to be sufficient; to be enough,Genki Genki_Ln.17 Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-行う,おこなう,to carry out; to conduct (typically used in written language),Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-ぶどう,ぶどう,grapes,JLPT JLPT_N4
-無くなる,なくなる,"to disappear, to get lost",JLPT JLPT_N4
-準備,じゅんびする,prepare,JLPT JLPT_N4
-世界,せかい,world,Genki Genki_Ln.10 JLPT JLPT_N4
-住所,じゅうしょ,address; place of residence,JLPT JLPT_N4
-再来月,さらいげつ,the month after next,JLPT JLPT_N4
-林,はやし,"woods, forest",JLPT JLPT_N4
-倍,ばい,double,JLPT JLPT_N4
-痩せる,やせる,to lose weight,Genki Genki_Ln.7 JLPT JLPT_N4
-線,せん,"line, wire",JLPT JLPT_N4
-戦争,せんそう,war,JLPT JLPT_N4
-決める,きめる,to decide (v.t.),Genki Genki_Ln.10 Intermediate_Japanese_Ln.9 JLPT JLPT_N4
-調べる,しらべる,to check; to look up; to inquire; to search,JLPT JLPT_N4
-寝坊,ねぼう,sleeping in late,JLPT JLPT_N4
-パパ,パパ,"papa, daddy",JLPT JLPT_N4
-光る,ひかる,"to shine, to glitter",JLPT JLPT_N4
-夫,おっと,husband,JLPT JLPT_N4
-雲,くも,cloud,JLPT JLPT_N4
-坂,さか,"slope, hill",JLPT JLPT_N4
-～(て) しまう,～(て) しまう,to end up ~,JLPT JLPT_N4
-飛行場,ひこうじょう,airport,JLPT JLPT_N4
-柔道,じゅうどう,judo,JLPT JLPT_N4
-決して,けっして,never,JLPT JLPT_N4
-事務所,じむしょ,office,JLPT JLPT_N4
-連絡,れんらく,"communication, contact, connection",JLPT JLPT_N4
-小学校,しょうがっこう,elementary school,Genki Genki_Ln.23 JLPT JLPT_N4
-客,きゃく,"guest, customer",Intermediate_Japanese_Ln.2 JLPT JLPT_N4
-昔,むかし,old days; past,Genki Genki_Ln.21 JLPT JLPT_N4
-美しい,うつくしい,"beautiful, lovely",JLPT JLPT_N4
-捨てる,すてる,"throw away (trash), dump, discard",Genki Genki_Ln.15 JLPT JLPT_N4
-なさる,なさる,-- honorific expression for する --,Genki Genki_Ln.19 JLPT JLPT_N4
-事,こと,"thing(s), matter(s), fact",Genki Genki_Ln.21 JLPT JLPT_N4
-どんどん,どんどん,quickly and steadily; at a rapid pace,JLPT JLPT_N4
-試合,しあい,"match, game, competition",Genki Genki_Ln.12 Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-適当,てきとう,"fitness, suitability",JLPT JLPT_N4
-素晴らしい,すばらしい,wonderful; terrific,Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-美術館,びじゅつかん,"art gallery, art museum",Genki Genki_Ln.11 JLPT JLPT_N4
-文法,ぶんぽう,grammar,Genki Genki_Ln.13 JLPT JLPT_N4
-終わり,おわり,end,JLPT JLPT_N4
-壁,かべ,wall,JLPT JLPT_N4
-一度,いちど,"once, one time",JLPT JLPT_N4
-お礼,おれい,expression of gratitude; thanking; gift of appreciation; bow,Genki Genki_Ln.19 Intermediate_Japanese_Ln.9 JLPT JLPT_N4
-親切,しんせつ,kindness,JLPT JLPT_N4
-知らせる,しらせる,to notify,JLPT JLPT_N4
-歯医者,はいしゃ,dentist,JLPT JLPT_N4
-熱心,ねっしん,enthusiasm,JLPT JLPT_N4
-始める,はじめる,"to start, to begin",Genki Genki_Ln.8 JLPT JLPT_N4
-もらう,もらう,to receive,JLPT JLPT_N4
-泣く,なく,to cry,Genki Genki_Ln.13 JLPT JLPT_N4
-治る,なおる,to get better; to recover from illness (v.i.),JLPT JLPT_N4
-熱,ねつ,"fever, temperature",Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-お祭り,おまつり,festival,JLPT JLPT_N4
-水道,すいどう,"water service, water line",JLPT JLPT_N4
-匂い,におい,"odor, smell",JLPT JLPT_N4
-ベル,ベル,bell,JLPT JLPT_N4
-赤ん坊,あかんぼう,baby,JLPT JLPT_N4
-おかしい,おかしい,strange; odd; funny,Intermediate_Japanese_Ln.2 JLPT JLPT_N4
-事故,じこ,accident,JLPT JLPT_N4
-変,へん,"strange, odd",JLPT JLPT_N4
-辞典,じてん,"encyclopedia, reference book",JLPT JLPT_N4
-残る,のこる,"to remain (v.i.), to be left",JLPT JLPT_N4
-立てる,たてる,"to stand (something) up, to erect (something)",JLPT JLPT_N4
-くれる,くれる,"to give, to do for",JLPT JLPT_N4
-～員,～いん,member of ~,JLPT JLPT_N4
-原因,げんいん,"cause, origin, source",JLPT JLPT_N4
-驚く,おどろく,"to be surprised, to be astonished",Intermediate_Japanese_Ln.8 JLPT JLPT_N4
-いただく,頂く,-- extra-modest expression for たべる and のむ; humble expression for もらう --,Genki Genki_Ln.20 JLPT JLPT_N4
-祖母,そぼ,grandmother,JLPT JLPT_N4
-場所,ばしょ,"place, location",Genki Genki_Ln.23 Intermediate_Japanese_Ln.5 JLPT JLPT_N4
-答,こたえ,"answer, response",JLPT JLPT_N4
-もちろん,もちろん,"certainly, of course",Genki Genki_Ln.7 Intermediate_Japanese_Ln.5 JLPT JLPT_N4
-漬ける,つける,"to soak, to moisten, to pickle",JLPT JLPT_N4
-受付,うけつけ,reception(ist) desk,Genki Genki_Ln.22 Intermediate_Japanese_Ln.8 JLPT JLPT_N4
-内,うち,"within, inside",JLPT JLPT_N4
-スクリーン,スクリーン,screen,JLPT JLPT_N4
-増える,ふえる,"to increase, to multiply",JLPT JLPT_N4
-または,または,"or, otherwise",JLPT JLPT_N4
-けがする,けがする,"injury (to animate object), hurt",JLPT JLPT_N4
-以下,いか,"less than, below",JLPT JLPT_N4
-選ぶ,えらぶ,to choose; to select,Genki Genki_Ln.17 Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-～ばかり,～ばかり,"just did ~, only",JLPT JLPT_N4
-心,こころ,"heart, mind",JLPT JLPT_N4
-～だす,～だす,to start doing ~,JLPT JLPT_N4
-サラダ,サラダ,salad,JLPT JLPT_N4
-届ける,とどける,to deliver (v.t.),Intermediate_Japanese_Ln.9 JLPT JLPT_N4
-挨拶,あいさつする,greet(ing),JLPT JLPT_N4
-景色,けしき,"scenery, landscape",JLPT JLPT_N4
-確か,たしか,"if I remember correctly; certain, definite",Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-ステーキ,ステーキ,steak,JLPT JLPT_N4
-食料品,しょくりょうひん,"foodstuff, groceries",JLPT JLPT_N4
-森,もり,forest,JLPT JLPT_N4
-以内,いない,"within, less (no more) than",JLPT JLPT_N4
-予定,よてい,"plans, arrangement, schedule",Genki Genki_Ln.15 Intermediate_Japanese_Ln.15 JLPT JLPT_N4
-オーバー,オーバー,"overcoat; over, exceeding, exaggeration",JLPT JLPT_N4
-乾く,かわく,to get dry,JLPT JLPT_N4
-石,いし,stone,JLPT JLPT_N4
-思い出す,おもいだす,"to recall, to remember",Intermediate_Japanese_Ln.8 JLPT JLPT_N4
-踊る,おどる,to dance,Genki Genki_Ln.9 JLPT JLPT_N4
-細かい,こまかい,"small; fine, minute",JLPT JLPT_N4
-塗る,ぬる,"to paint, to plaster",JLPT JLPT_N4
-ご主人,ごしゅじん,"(your, her) husband",Genki Genki_Ln.14 JLPT JLPT_N4
-珍しい,めずらしい,"unusual, rare",Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-用,よう,"errand, task, business (to take care of)",Intermediate_Japanese_Ln.9 JLPT JLPT_N4
-公務員,こうむいん,"government worker, public servant",JLPT JLPT_N4
-お嬢さん,おじょうさん,(someone's) daughter (polite),Genki Genki_Ln.22 JLPT JLPT_N4
-用意,ようい,preparation,JLPT JLPT_N4
-探す,さがす,"to search, to seek, to look for",Genki Genki_Ln.15 Intermediate_Japanese_Ln.8 JLPT JLPT_N4
-形,かたち,shape,JLPT JLPT_N4
-運転,うんてんする,driving,JLPT JLPT_N4
-すっかり,すっかり,"all, completely",JLPT JLPT_N4
-アナウンサー,アナウンサー,announcer,JLPT JLPT_N4
-お土産,おみやげ,souvenir,Genki Genki_Ln.4 JLPT JLPT_N4
-消しゴム,けしゴム,eraser,JLPT JLPT_N4
-旅館,りょかん,a Japanese inn,Genki Genki_Ln.15 Intermediate_Japanese_Ln.6 JLPT JLPT_N4
-海岸,かいがん,"coast, seashore",JLPT JLPT_N4
-寂しい,さびしい,"lonely, lonesome",Genki Genki_Ln.9 JLPT JLPT_N4
-火,ひ,fire,JLPT JLPT_N4
-育てる,そだてる,to raise (v.t.); to bring up,Genki Genki_Ln.22 JLPT JLPT_N4
-味噌,みそ,"miso, bean paste",JLPT JLPT_N4
-お祝い,おいわい,"congratulation, celebration",Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-乗り物,のりもの,vehicle,JLPT JLPT_N4
-案内,あんないする,"information, guidance",JLPT JLPT_N4
-通う,かよう,to go back and forth; to commute,JLPT JLPT_N4
-連れる,つれる,"to lead, to take (a person)",JLPT JLPT_N4
-技術,ぎじゅつ,"technique, technology, skill",JLPT JLPT_N4
-小鳥,ことり,small bird,JLPT JLPT_N4
-下宿,げしゅく,"lodging, boarding house",JLPT JLPT_N4
-ジャム,ジャム,jam,JLPT JLPT_N4
-招待,しょうたいする,invitation,JLPT JLPT_N4
-鏡,かがみ,mirror,JLPT JLPT_N4
-はず,はず,it should be so,JLPT JLPT_N4
-法律,ほうりつ,law,JLPT JLPT_N4
-進む,すすむ,"to advance, to proceed",JLPT JLPT_N4
-楽む,たのしむ,to enjoy,JLPT JLPT_N4
-貿易,ぼうえき,trade,JLPT JLPT_N4
-反対,はんたい,"oppose, opposition, resistance",JLPT JLPT_N4
-おる,おる,-- extra-modest expression for いる --,Genki Genki_Ln.20 JLPT JLPT_N4
-申す,もうす,-- extra-modest (humble) expression for 言う (いう) --,Genki Genki_Ln.20 JLPT JLPT_N4
-試験,しけん,an exam,Genki Genki_Ln.9 JLPT JLPT_N4
-真面目,まじめ,"diligent, serious",JLPT JLPT_N4
-ごらんになる,,-- honorific expression for みる --,Genki Genki_Ln.19 JLPT JLPT_N4
-店員,てんいん,clerk; shop-employee,Intermediate_Japanese_Ln.6 JLPT JLPT_N4
-泊まる,とまる,to stay (over night) (v.i.),JLPT JLPT_N4
-よろしい,よろしい,"(hon.) good, OK, all right",JLPT JLPT_N4
-今夜,こんや,"this evening, tonight",JLPT JLPT_N4
-おつり,おつり,change; balance of money returned to the purchaser,JLPT JLPT_N4
-チェックする,チェックする,check,JLPT JLPT_N4
-会話,かいわ,conversation,JLPT JLPT_N4
-空気,くうき,"air, atmosphere",Genki Genki_Ln.8 JLPT JLPT_N4
-交通,こうつう,"traffic, transportation",JLPT JLPT_N4
-ワープロ,ワープロ,word processor,JLPT JLPT_N4
-喜ぶ,よろこぶ,"to rejoice, to be delighted, to be glad",JLPT JLPT_N4
-急行,きゅうこう,express train or bus,Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-皆,みな,everyone,JLPT JLPT_N4
-味,あじ,"flavor, taste",JLPT JLPT_N4
-空港,くうこう,airport,Genki Genki_Ln.20 JLPT JLPT_N4
-手袋,てぶくろ,glove(s),Genki Genki_Ln.10 JLPT JLPT_N4
-校長,こうちょう,"principal, headmaster",JLPT JLPT_N4
-ごちそう,ごちそう,"feast, treating (someone)",JLPT JLPT_N4
-踊り,おどり,dance,JLPT JLPT_N4
-興味,きょうみ,interest (in something),JLPT JLPT_N4
-引っ越す,ひっこす,to move to a new place of residence,JLPT JLPT_N4
-冷房,れいぼう,"cooling, air conditioning",JLPT JLPT_N4
-都合,つごう,"circumstances, convenience",JLPT JLPT_N4
-遠慮,えんりょする,"restraint, reserve, hesitate",JLPT JLPT_N4
-亡くなる,なくなる,to pass away,JLPT JLPT_N4
-科学,かがく,science,Genki Genki_Ln.1 JLPT JLPT_N4
-はっきり,はっきり,"clearly, distinctly",JLPT JLPT_N4
-差し上げる,さしあげる,-- humble expression for あげる --,Genki Genki_Ln.20 JLPT JLPT_N4
-気持ち,きもち,"feeling, sensation, mood",JLPT JLPT_N4
-祖父,そふ,grandfather,JLPT JLPT_N4
-港,みなと,"harbor, port",JLPT JLPT_N4
-予約,よやく,reservation,Genki Genki_Ln.10 JLPT JLPT_N4
-凄い,すごい,"terrific, great",JLPT JLPT_N4
-入学,にゅうがくする,entry to school or university,JLPT JLPT_N4
-片付ける,かたづける,"to (clean) tidy up (v.t.), to put away",JLPT JLPT_N4
-写す,うつす,to copy (v.t.); to photograph,JLPT JLPT_N4
-パソコン,パソコン,(personal) computer,JLPT JLPT_N4
-部長,ぶちょう,department (division) manager,Genki Genki_Ln.19 Intermediate_Japanese_Ln.15 JLPT JLPT_N4
-火事,かじ,fire,JLPT JLPT_N4
-足す,たす,to add (numbers),JLPT JLPT_N4
-教会,きょうかい,church,Intermediate_Japanese_Ln.9 JLPT JLPT_N4
-彼ら,かれら,they (usually male),JLPT JLPT_N4
-一杯,いっぱい,"full, to the utmost",JLPT JLPT_N4
-アメリカ,アメリカ,"America, U.S.A.",Genki Genki_Ln.1 Genki_Ln.2 JLPT JLPT_N4
-男性,だんせい,man; male,JLPT JLPT_N4
-理由,りゆう,reason,JLPT JLPT_N4
-生産,せいさんする,production; to produce,JLPT JLPT_N4
-着物,きもの,kimono; Japanese traditional dress,Genki Genki_Ln.13 JLPT JLPT_N4
-おもちゃ,おもちゃ,a toy,Genki Genki_Ln.11 JLPT JLPT_N4
-暮れる,くれる,"to get dark, to come to an end",JLPT JLPT_N4
-釣る,つる,to fish,JLPT JLPT_N4
-～ちゃん,～ちゃん,suffix for familiar (female) person,JLPT JLPT_N4
-打つ,うつ,"to hit, to strike",JLPT JLPT_N4
-あんな,あんな,"such, like that",JLPT JLPT_N4
-謝る,あやまる,to apologize,JLPT JLPT_N4
-昼間,ひるま,"daytime, during the day",JLPT JLPT_N4
-教育,きょういく,education,JLPT JLPT_N4
-女性,じょせい,woman,JLPT JLPT_N4
-米,こめ,uncooked rice,JLPT JLPT_N4
-邪魔,じゃま,"hindrance, intrusion",JLPT JLPT_N4
-国際,こくさい,international,JLPT JLPT_N4
-隅,すみ,corner,JLPT JLPT_N4
-伺う,うかがう,"humble form of 行く (いく), 聞く (きく) and 来る (くる)",JLPT JLPT_N4
-再来週,さらいしゅう,the week after next,JLPT JLPT_N4
-夢,ゆめ,a dream,Genki Genki_Ln.11 JLPT JLPT_N4
-喉,のど,throat,JLPT JLPT_N4
-最近,さいきん,"recently, nowadays, in recent years, most recent, latest",Genki Genki_Ln.15 Intermediate_Japanese_Ln.9 JLPT JLPT_N4
-周り,まわり,surroundings,JLPT JLPT_N4
-歴史,れきし,history,Genki Genki_Ln.1 Genki_Ln.2 Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-不便,ふべん,inconvenience,JLPT JLPT_N4
-血,ち,blood,JLPT JLPT_N4
-～続ける,～つづける,to continue doing ~,JLPT JLPT_N4
-毛,け,"hair, fur",JLPT JLPT_N4
-ひどい,ひどい,"terrible, awful, unfair, cruel",Genki Genki_Ln.21 Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-例えば,たとえば,"for example, e.g.",Genki Genki_Ln.17 Intermediate_Japanese_Ln.2 JLPT JLPT_N4
-中々,なかなか,"very, considerably, quite",JLPT JLPT_N4
-随分,ずいぶん,extremely,JLPT JLPT_N4
-～やすい,～やすい,easy to do ~,JLPT JLPT_N4
-押し入れ,おしいれ,closet,JLPT JLPT_N4
-電灯,でんとう,electric light,JLPT JLPT_N4
-叱る,しかる,to scold,JLPT JLPT_N4
-サンダル,サンダル,sandal,JLPT JLPT_N4
-びっくりする,びっくりする,to be surprised,Genki Genki_Ln.21 JLPT JLPT_N4
-うまい,うまい,delicious; skillful; fortunate,JLPT JLPT_N4
-変える,かえる,"to change, to alter, to vary",JLPT JLPT_N4
-講堂,こうどう,auditorium,JLPT JLPT_N4
-子,こ,child,JLPT JLPT_N4
-沸かす,わかす,to boil,JLPT JLPT_N4
-レジ,レジ,register,JLPT JLPT_N4
-しばらく,しばらく,little while,JLPT JLPT_N4
-特に,とくに,particularly,Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-空く,あく,"to open, to become empty (vacant)",JLPT JLPT_N4
-計画,けいかくする,"plan, project, schedule",JLPT JLPT_N4
-通り,とおり,"~ Street, ~ Avenue",JLPT JLPT_N4
-下着,したぎ,underwear,JLPT JLPT_N4
-経済,けいざい,"economics, finance, economy",JLPT JLPT_N4
-こう,こう,"like this, this way",JLPT JLPT_N4
-是非,ぜひ,"certainly, by all means; without fail",Genki Genki_Ln.9 Intermediate_Japanese_Ln.15 Intermediate_Japanese_Ln.8 JLPT JLPT_N4
-裏,うら,"reverse side, back",JLPT JLPT_N4
-為,ため,"good, advantage, in order to",JLPT JLPT_N4
-おいでになる,おいでになる,(hon.) to be,JLPT JLPT_N4
-変わる,かわる,"to change (v.i.), to be transformed, to vary",Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-以外,いがい,"other than, with the exception of, excepting",Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-済む,すむ,"to finish, to end",JLPT JLPT_N4
-ハンバーグ,ハンバーグ,hamburger steak,JLPT JLPT_N4
-市,し,city,JLPT JLPT_N4
-引き出し,ひきだし,drawer,JLPT JLPT_N4
-遊び,あそび,play,JLPT JLPT_N4
-支度,したくする,preparation,JLPT JLPT_N4
-～始める,～はじめる,to start doing ~,JLPT JLPT_N4
-見える,みえる,to be visible; -- polite verb meaning 来る (くる) --,Genki Genki_Ln.15 JLPT JLPT_N4
-十分,じゅうぶん,enough,JLPT JLPT_N4
-音,おと,"sound, note",Genki Genki_Ln.20 JLPT JLPT_N4
-きっと,きっと,"surely, definitely, undoubtedly, certainly",Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-まず,まず,"first (of all), to start with",Genki Genki_Ln.18 JLPT JLPT_N4
-遠く,とおく,"far away, distant",JLPT JLPT_N4
-大体,だいたい,approximately; in most cases; in general; to begin with (same as もともと),Intermediate_Japanese_Ln.15 Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-折れる,おれる,"to break, to be folded, to give in; to turn (a corner)",JLPT JLPT_N4
-正しい,ただしい,correct,JLPT JLPT_N4
-輸入,ゆにゅう,import,JLPT JLPT_N4
-返事,へんじ,"reply, answer",JLPT JLPT_N4
-都,と,metropolitan,JLPT JLPT_N4
-産業,さんぎょう,industry,JLPT JLPT_N4
-伝える,つたえる,"to convey (a message); to tell, to report",Genki Genki_Ln.20 Intermediate_Japanese_Ln.15 JLPT JLPT_N4
-お金持ち,かねもち; おかねもち,rich person,JLPT JLPT_N4
-説明,せつめい,explanation,JLPT JLPT_N4
-島,しま,island,Intermediate_Japanese_Ln.5 JLPT JLPT_N4
-道具,どうぐ,tool,JLPT JLPT_N4
-滑る,すべる,"to slide, to slip",JLPT JLPT_N4
-それほど,それほど,to that degree; extent,JLPT JLPT_N4
-以上,いじょう,more than; this is all,JLPT JLPT_N4
-～まま,～まま,as it is,JLPT JLPT_N4
-特急,とっきゅう,limited express (train faster than an express),JLPT JLPT_N4
-プレゼント,プレゼント,"present, gift",Genki Genki_Ln.12 JLPT JLPT_N4
-～(に) よると,～(に) よると,according to ~,JLPT JLPT_N4
-妻,つま,wife (humble),JLPT JLPT_N4
-帰り,かえり,"return, coming back",JLPT JLPT_N4
-具合,ぐあい,"condition, state, health",JLPT JLPT_N4
-堅; 硬; 固い,かたい,"solid, hard, firm",JLPT JLPT_N4
-駐車場,ちゅうしゃじょう,parking lot,JLPT JLPT_N4
-スーツ,スーツ,suit,JLPT JLPT_N4
-危険,きけん,"danger, risk, hazard",Intermediate_Japanese_Ln.15 JLPT JLPT_N4
-髪,かみ,hair,Genki Genki_Ln.7 JLPT JLPT_N4
-天気予報,てんきよほう,weather forecast,Genki Genki_Ln.8 JLPT JLPT_N4
-彼女,かのじょ,girlfriend; she,Genki Genki_Ln.12 JLPT JLPT_N4
-間,あいだ,"space, interval",JLPT JLPT_N4
-卒業,そつぎょう,graduation,JLPT JLPT_N4
-それで,それで,"and (conj.), thereupon, because of that",JLPT JLPT_N4
-枝,えだ,"branch, twig",JLPT JLPT_N4
-専門,せんもん,major; speciality,Genki Genki_Ln.1 JLPT JLPT_N4
-そろそろ,そろそろ,"gradually, soon",JLPT JLPT_N4
-送る,おくる,"to send, to dispatch",Genki Genki_Ln.14 Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-あげる,あげる,to give,JLPT JLPT_N4
-騒ぐ,さわぐ,"to make noise, to clamor",JLPT JLPT_N4
-尋ねる,たずねる,to inquire (same as 質問する),JLPT JLPT_N4
-放送,ほうそうする,broadcasting,JLPT JLPT_N4
-政治,せいじ,politics,Genki Genki_Ln.1 Genki_Ln.12 Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-市民,しみん,citizen,JLPT JLPT_N4
-ファックス,ファックス,fax,JLPT JLPT_N4
-負ける,まける,"to lose (a game) (v.i.), to be defeated",Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-指輪,ゆびわ,(finger) ring,Genki Genki_Ln.14 JLPT JLPT_N4
-田舎,いなか,"rural, countryside",JLPT JLPT_N4
-見つける,みつける,"to discover, to find (v.t.)",Genki Genki_Ln.21 JLPT JLPT_N4
-高校生,こうこうせい,high school student,Genki Genki_Ln.1 JLPT JLPT_N4
-講義,こうぎ,a lecture,Intermediate_Japanese_Ln.5 JLPT JLPT_N4
-そんなに,そんなに,"so much, like that",JLPT JLPT_N4
-昼休み,ひるやすみ,"lunch break, noon recess",JLPT JLPT_N4
-忘れ物,わすれもの,"lost article, something forgotten",JLPT JLPT_N4
-下りる,おりる,"to get down, to go; come down",JLPT JLPT_N4
-腕,うで,arm (in reference to body),Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-訳,わけ,reason; explanation,JLPT JLPT_N4
-承知,しょうちする,"consent, acceptance",JLPT JLPT_N4
-日記,にっき,"diary, journal",Genki Genki_Ln.18 JLPT JLPT_N4
-高校; 高等学校,こうこう; こうとうがっこう,high school; senior high school,JLPT JLPT_N4
-似る,にる,"to resemble, to be similar",JLPT JLPT_N4
-～おわる,～おわる,to finish doing ~,JLPT JLPT_N4
-暖房,だんぼう,heating,JLPT JLPT_N4
-留守,るす,absence; not at home,Genki Genki_Ln.21 JLPT JLPT_N4
-割合,わりあい,"rate, ratio, percentage",JLPT JLPT_N4
-寺,てら,Buddhist temple,JLPT JLPT_N4
-慣れる,なれる,to grow accustomed to,JLPT JLPT_N4
-普通,ふつう,common; usual,Intermediate_Japanese_Ln.2 Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-手伝う,てつだう,to help,JLPT JLPT_N4
-なるほど,なるほど,I see; I now understand,Intermediate_Japanese_Ln.6 JLPT JLPT_N4
-くださる,くださる,"(hon.) to give, to confer",JLPT JLPT_N4
-息子,むすこ,(humble) son,JLPT JLPT_N4
-お子さん,おこさん,(someone else's) child (polite),Genki Genki_Ln.19 JLPT JLPT_N4
-会場,かいじょう,"venue, meeting place",JLPT JLPT_N4
-笑う,わらう,"to laugh, to smile",JLPT JLPT_N4
-運ぶ,はこぶ,"to transport, to carry",Genki Genki_Ln.22 Intermediate_Japanese_Ln.6 JLPT JLPT_N4
-文学,ぶんがく,literature,Genki Genki_Ln.1 Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-光,ひかり,light,JLPT JLPT_N4
-お見舞い,おみまい,"calling on someone who is ill, visit",JLPT JLPT_N4
-席,せき,a seat,Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-～様,～さま,"Mr., Mrs., Ms.",JLPT JLPT_N4
-ご存じ,ごぞんじ,"knowing, acquaintance",JLPT JLPT_N4
-下る,さがる,"to descend, to drop, to fall",JLPT JLPT_N4
-字,じ,letter; character,Genki Genki_Ln.20 JLPT JLPT_N4
-アジア,アジア,Asia,JLPT JLPT_N4
-褒める,ほめる,to praise; to say nice things,Genki Genki_Ln.21 JLPT JLPT_N4
-空く,すく,"to be empty (in reference to people), to be less crowded",JLPT JLPT_N4
-あ,あ,Ah,JLPT JLPT_N4
-最も,もっとも,most,JLPT JLPT_N4
-合う,あう,"to fit, to match",JLPT JLPT_N4
-～代,～だい,~ age; period,JLPT JLPT_N4
-最後,さいご,"last, end",JLPT JLPT_N4
-値段,ねだん,price,JLPT JLPT_N4
-退院,たいいんする,leaving hospital,JLPT JLPT_N4
-展覧会,てんらんかい,exhibition,JLPT JLPT_N4
-久しぶり,ひさしぶり,it has been a long time; for the first time in a long time,Genki Genki_Ln.11 Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-カーテン,カーテン,curtain,Genki Genki_Ln.18 JLPT JLPT_N4
-汽車,きしゃ,train (steam),JLPT JLPT_N4
-遅れる,おくれる,to (be) become late,Genki Genki_Ln.19 Intermediate_Japanese_Ln.2 JLPT JLPT_N4
-見つかる,みつかる,"to be found (v.i.), to be discovered",JLPT JLPT_N4
-召し上がる,めしあがる,-- honorific form of 食べる (たべる) and 飲む (のむ) --,Genki Genki_Ln.19 Intermediate_Japanese_Ln.6 JLPT JLPT_N4
-太る,ふとる,to gain weight,Genki Genki_Ln.7 JLPT JLPT_N4
-注射,ちゅうしゃ,injection,JLPT JLPT_N4
-様,よう,"way, manner, kind",JLPT JLPT_N4
-～おき,～おき,after every ~,JLPT JLPT_N4
-最初,さいしょ,"beginning, first",JLPT JLPT_N4
-御～,ご～,honorable ~,JLPT JLPT_N4
-安心,あんしん,"peace of mind, relief",JLPT JLPT_N4
-直る,なおる,to be fixed,JLPT JLPT_N4
-集める,あつめる,"to collect, to gather (v.t.), to assemble",Genki Genki_Ln.16 Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-直す,なおす,to correct (v.t.); to fix,Genki Genki_Ln.16 JLPT JLPT_N4
-続く,つづく,to be continued,JLPT JLPT_N4
-先輩,せんぱい,senior members of a group,Genki Genki_Ln.22 JLPT JLPT_N4
-約束,やくそく,"arrangement, appointment, promise",Genki Genki_Ln.13 JLPT JLPT_N4
-世話,せわする,looking after; to look after,JLPT JLPT_N4
-近所,きんじょ,neighborhood,JLPT JLPT_N4
-将来,しょうらい,(in the) future; prospects,Genki Genki_Ln.11 Intermediate_Japanese_Ln.5 JLPT JLPT_N4
-億,おく,hundred million,JLPT JLPT_N4
-数学,すうがく,mathematics,JLPT JLPT_N4
-文化,ぶんか,culture,Genki Genki_Ln.19 JLPT JLPT_N4
-払う,はらう,to pay,Genki Genki_Ln.10 Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-習慣,しゅうかん,custom (in reference to culture),JLPT JLPT_N4
-焼ける,やける,"to burn, to be roasted",JLPT JLPT_N4
-君,きみ,you (informal for men),JLPT JLPT_N4
-冷える,ひえる,"to grow cold, to cool down",JLPT JLPT_N4
-点く,つく,"to be started, to be switched on",JLPT JLPT_N4
-この間,このあいだ,"the other day, recently",Genki Genki_Ln.16 JLPT JLPT_N4
-格好,かっこう,"appearance, manner, shape, form, posture",JLPT JLPT_N4
-かまう,,"to mind, to care about, to be concerned about",JLPT JLPT_N4
-続ける,つづける,"to continue, to keep up",Genki Genki_Ln.21 JLPT JLPT_N4
-落す,おとす,"to drop, to lose",JLPT JLPT_N4
-明日,あす,tomorrow,JLPT JLPT_N4
-出発,しゅっぱつする,departure,JLPT JLPT_N4
-拝見,はいけんする,"(humble) (polite) seeing, look at",JLPT JLPT_N4
-割れる,われる,to break,JLPT JLPT_N4
-背中,せなか,back (of body),JLPT JLPT_N4
-新聞社,しんぶんしゃ,newspaper company,JLPT JLPT_N4
-いじめる,いじめる,"to bully, to torment",Genki Genki_Ln.21 JLPT JLPT_N4
-回る、回す,まわる、まわす,"to go around, to revolve",JLPT JLPT_N4
-～君,～くん,"Mr. (junior) ~, master ~",JLPT JLPT_N4
-おっしゃる,おっしゃる,-- honorific expression for いう --,Genki Genki_Ln.19 JLPT JLPT_N4
-眠い,ねむい,"sleepy, drowsy",Genki Genki_Ln.10 JLPT JLPT_N4
-濡れる,ぬれる,to get wet,JLPT JLPT_N4
-倒れる,たおれる,"to collapse, to break down",JLPT JLPT_N4
-スーパー (マーケット),スーパー (マーケット),supermarket,JLPT JLPT_N4
-アクセサリー,アクセサリー,accessory,JLPT JLPT_N4
-考える,かんがえる,to think (about); to consider,Genki Genki_Ln.18 JLPT JLPT_N4
-向かう,むかう,"to face, to go towards",JLPT JLPT_N4
-自由,じゆう,freedom,Genki Genki_Ln.22 JLPT JLPT_N4
-仕方,しかた,way (of doing something),JLPT JLPT_N4
-首,くび,neck,JLPT JLPT_N4
-程,ほど,"degree, extent",JLPT JLPT_N4
-代わり,かわり,"substitute, replacement",JLPT JLPT_N4
-失敗,しっぱい,"failure, mistake",JLPT JLPT_N4
-工業,こうぎょう,(manufacturing) industry,JLPT JLPT_N4
-移る,うつる,to move (from a house); to transfer (from a department); to shift,JLPT JLPT_N4
-スーツケース,スーツケース,suitcase,JLPT JLPT_N4
-ひげ,ひげ,beard,Genki Genki_Ln.17 JLPT JLPT_N4
-研究室,けんきゅうしつ,the professor's office; laboratory,Intermediate_Japanese_Ln.3 JLPT JLPT_N4
-工場,こうじょう,factory,Genki Genki_Ln.21 Intermediate_Japanese_Ln.15 JLPT JLPT_N4
-紹介,しょうかい,an introduction,JLPT JLPT_N4
-けれど; けれども,けれど; けれども,"but, although",JLPT JLPT_N4
-舟,ふね,"ship, boat",JLPT JLPT_N4
-動く,うごく,to move,JLPT JLPT_N4
-～(に) ついて,～(に) ついて,"about, concerning",JLPT JLPT_N4
-コンサート,コンサート,concert,Genki Genki_Ln.9 JLPT JLPT_N4
-虫,むし,insect,JLPT JLPT_N4
-優しい,やさしい,"kind (person), gentle (person), easy (problem)",Genki Genki_Ln.5 JLPT JLPT_N4
-コンピュータ; コンピューター,コンピュータ; コンピューター,computer,JLPT JLPT_N4
-植える,うえる,to plant,JLPT JLPT_N4
-両方,りょうほう,"both sides, both parties",JLPT JLPT_N4
-汚れる,よごれる,to become dirty,JLPT JLPT_N4
-水泳,すいえい,swimming,JLPT JLPT_N4
-経験,けいけんする,experience,JLPT JLPT_N4
-勝つ,かつ,to win,JLPT JLPT_N4
-砂,すな,sand,JLPT JLPT_N4
-警察,けいさつ,police; police station,Genki Genki_Ln.21 JLPT JLPT_N4
-取り替える,とりかえる,"to exchange, to replace",JLPT JLPT_N4
-急ぐ,いそぐ,"to hurry, to be in a hurry, to rush",Genki Genki_Ln.6 Intermediate_Japanese_Ln.2 JLPT JLPT_N4
-簡単,かんたん,simple,JLPT JLPT_N4
-参る,まいる,humble expression for 行く and 来る,Genki Genki_Ln.20 Intermediate_Japanese_Ln.6 JLPT JLPT_N4
-全然,ぜんぜん,"not at all; wholly, entirely",JLPT JLPT_N4
-特別,とくべつ,special,JLPT JLPT_N4
-復習,ふくしゅう,"review (of lessons), revision",JLPT JLPT_N4
-間に合う,まにあう,to be in time for,JLPT JLPT_N4
-役に立つ,やくにたつ,"to be helpful, to be useful",Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-もうすぐ,もうすぐ,very soon; in a few moments; days,Genki Genki_Ln.12 JLPT JLPT_N4
-真中,まんなか,"middle, center",JLPT JLPT_N4
-戻る,もどる,to return (v.i.); to come back,Genki Genki_Ln.20 Intermediate_Japanese_Ln.8 JLPT JLPT_N4
-研究,けんきゅう,"study, research, investigation",JLPT JLPT_N4
-ケーキ,ケーキ,cake,Genki Genki_Ln.13 JLPT JLPT_N4
-草,くさ,grass,JLPT JLPT_N4
-込む,こむ,to be crowded,JLPT JLPT_N4
-この頃,このごろ,"these days, nowadays",Genki Genki_Ln.10 JLPT JLPT_N4
-訪ねる,たずねる,to visit,JLPT JLPT_N4
-下げる,さげる,to lower (v.t.); to hang,Intermediate_Japanese_Ln.2 JLPT JLPT_N4
-花見,はなみ,cherry-blossom viewing,JLPT JLPT_N4
-途中,とちゅう,"on the way, midway",JLPT JLPT_N4
-入院,にゅういんする,hospitalization,JLPT JLPT_N4
-乗り換える,のりかえる,"to transfer (trains), to change (bus, train, etc.)",JLPT JLPT_N4
-別れる,わかれる,"to part from, to separate",JLPT JLPT_N4
-～町,～ちょう,the town of ~,JLPT JLPT_N4
-安全,あんぜん,"safety, security",JLPT JLPT_N4
-看護婦,かんごふ,(female) nurse,JLPT JLPT_N4
-見物,けんぶつ,sightseeing,JLPT JLPT_N4
-相談,そうだんする,consultation,JLPT JLPT_N4
-ガソリンスタンド,ガソリンスタンド,"gas station, service station",JLPT JLPT_N4
-テニス,テニス,tennis,Genki Genki_Ln.3 JLPT JLPT_N4
-眠る,ねむる,to sleep,JLPT JLPT_N4
-上がる,あがる,"to rise, to go up",JLPT JLPT_N4
-翻訳,ほんやく,translation,Intermediate_Japanese_Ln.8 JLPT JLPT_N4
-食事,しょくじする,meal,JLPT JLPT_N4
-お陰,おかげ,thanks or owing to,JLPT JLPT_N4
-娘,むすめ,daughter (humble),JLPT JLPT_N4
-湯,ゆ,hot water,JLPT JLPT_N4
-競争,きょうそう,"competition, contest",JLPT JLPT_N4
-会議,かいぎ,business meeting; conference,Genki Genki_Ln.21 JLPT JLPT_N4
-湖,みずうみ,lake,Genki Genki_Ln.11 Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-集まる,あつまる,"to gather (v.i.), to collect",Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-～にくい,～にくい,difficult to do ~,JLPT JLPT_N4
-生活,せいかつする,"living, life; to live",JLPT JLPT_N4
-糸,いと,thread,JLPT JLPT_N4
-関係,かんけい,"relation(ship), connection",JLPT JLPT_N4
-ピアノ,ピアノ,piano,Genki Genki_Ln.9 JLPT JLPT_N4
-～目,～め,"number ~ sequence, ~nd; ~th",JLPT JLPT_N4
-番組,ばんぐみ,broadcast program,Genki Genki_Ln.15 JLPT JLPT_N4
-急,きゅう,"urgent, sudden; steep",JLPT JLPT_N4
-棚,たな,"shelves, rack",JLPT JLPT_N4
-木綿,もめん,cotton,JLPT JLPT_N4
-輸出,ゆしゅつする,export,JLPT JLPT_N4
-タイプ,タイプ,"type, style",JLPT JLPT_N4
-すり,すり,pickpocket,JLPT JLPT_N4
-嬉しい,うれしい,to be happy; to be glad,Genki Genki_Ln.13 JLPT JLPT_N4
-アルコール,アルコール,alcohol,JLPT JLPT_N4
-ソフト,ソフト,soft; soft hat; software,JLPT JLPT_N4
-神社,じんじゃ,Shinto shrine,JLPT JLPT_N4
-大分,だいぶ,"fairly well, to a large extent, considerably, pretty much",Intermediate_Japanese_Ln.4 JLPT JLPT_N4
-楽しみ,たのしみ,"pleasure, joy",JLPT JLPT_N4
-趣味,しゅみ,hobby; pastime,Genki Genki_Ln.20 JLPT JLPT_N4
-電報,でんぽう,telegram,JLPT JLPT_N4
-家内,かない,(one's own) wife,Intermediate_Japanese_Ln.7 JLPT JLPT_N4
-指,ゆび,finger,JLPT JLPT_N4
-これから,これから,"from now on, after this",JLPT JLPT_N4
-たまに,たまに,occasionally,JLPT JLPT_N4
-社会,しゃかい,society,JLPT JLPT_N4
+expression,reading,meaning,tags,guid
+踏む,ふむ,"to step on, to tread on",JLPT JLPT_N4,MD)?c2/f%j
+～区,～く,"~ district, ~ ward, ~ borough",JLPT JLPT_N4,jyNlO!<_rh
+すっと,すっと,"straight, quickly",JLPT JLPT_N4,k|7>>bJ_;p
+盗む,ぬすむ,to steal; to rob,Genki Genki_Ln.21 JLPT JLPT_N4,yRRr.o{S!G
+大抵,たいてい,"generally, usually",Genki Genki_Ln.3 JLPT JLPT_N4,F4RWhn9KV7
+とうとう,とうとう,"finally, at last",JLPT JLPT_N4,b~a!BAlss]
+ガソリン,ガソリン,"gasoline, petrol",Genki Genki_Ln.21 JLPT JLPT_N4,DtjnF2f-}S
+鳴る,なる,"to sound, to ring (v.i.)",Intermediate_Japanese_Ln.2 JLPT JLPT_N4,N2XM.u#*9T
+しっかり,しっかり,"firmly, steady",JLPT JLPT_N4,s1@<ogH]|l
+生きる,いきる,to live,JLPT JLPT_N4,PsYPR<^eS}
+苦い,にがい,bitter,JLPT JLPT_N4,s7onh_qmu>
+沸く,わく,"to boil, to grow hot",JLPT JLPT_N4,PG:x_[8:n{
+意見,いけん,"opinion, view, idea",JLPT JLPT_N4,rm|oi`$1Dg
+やはり; やっぱり,やはり; やっぱり,"as I thought, absolutely",JLPT JLPT_N4,uKv@@b~bnv
+漫画,まんが,"comic (book), cartoon",Genki Genki_Ln.14 JLPT JLPT_N4,l|R^YmR+|c
+ステレオ,ステレオ,stereo,JLPT JLPT_N4,j)<hxBenH^
+医学,いがく,medical science,JLPT JLPT_N4,j>$AcgpmMe
+テキスト,テキスト,text; text book,JLPT JLPT_N4,tNueVeWq/i
+～月,～つき,month,JLPT JLPT_N4,fmd>SOFFek
+折る,おる,"to snap, to break; to bend",JLPT JLPT_N4,yVVu7>5}8_
+～会,～かい,~ meeting,JLPT JLPT_N4,q`5&BgJq(Y
+うかがう,うかがう,to ask,JLPT JLPT_N4,i(<6VU5W9O
+聞こえる,きこえる,"to be heard, to be audible",JLPT JLPT_N4,quf~I<>p>
+僕,ぼく,I (used by men towards those of equal or lower status),Genki Genki_Ln.5 JLPT JLPT_N4,sZrMWgN[D[
+必ず,かならず,"surely, certainly",Intermediate_Japanese_Ln.8 JLPT JLPT_N4,t=>{J>bIy^
+壊す,こわす,"to break, to break down",JLPT JLPT_N4,d^9}5OH`;*
+怒る,おこる,to get angry; to scold angrily,Genki Genki_Ln.19 JLPT JLPT_N4,Ib^RmCfT#f
+床屋,とこや,barber's (shop),Genki Genki_Ln.10 Intermediate_Japanese_Ln.6 JLPT JLPT_N4,t^jDr`iefA
+オートバイ,オートバイ,motorcycle (lit: auto-bi(ke)),JLPT JLPT_N4,Pt[L]fX^FJ
+運動,うんどうする,exercise,JLPT JLPT_N4,=pK+M[-/J
+止む,やむ,"to cease, to stop",JLPT JLPT_N4,i[hf?*~a)V
+もし,もし,if,JLPT JLPT_N4,oLI2n{GVOs
+表,おもて,surface; front; outside,JLPT JLPT_N4,qP[jTS0$-o
+大学生,だいがくせい,"college student, university student",Genki Genki_Ln.1 Genki_Ln.8 JLPT JLPT_N4,cCEA>;7p%n
+運転手,うんてんしゅ,driver (by occupation),Intermediate_Japanese_Ln.6 JLPT JLPT_N4,c=1Zd>L>/{
+予習,よしゅう,preparation of lessons (for class),Genki Genki_Ln.22 Intermediate_Japanese_Ln.5 JLPT JLPT_N4,A$348:bL<R
+心配,しんぱいする,"worry, concern",JLPT JLPT_N4,reB^;ntMm;
+別,べつ,"distinction, different",JLPT JLPT_N4,pvVM*k}K*D
+非常に,ひじょうに,extremely; very,Intermediate_Japanese_Ln.2 JLPT JLPT_N4,Ih.~ep.W8C
+お宅,おたく,(someone else's) house; home -- polite word for 家 (いえ) --,Genki Genki_Ln.13 Intermediate_Japanese_Ln.7 JLPT JLPT_N4,"G:h,g@5k[b"
+柔らかい,やわらかい,"soft (in reference to texture), tender",JLPT JLPT_N4,Mb;<89jf/c
+拾う,ひろう,"to pick up (something), to find",Genki Genki_Ln.22 JLPT JLPT_N4,A7mxJIkuGg
+～ございます,～ございます,"to be (polite), to exist",JLPT JLPT_N4,kMO?quX[B$
+気,き,"spirit, mood",JLPT JLPT_N4,N`FU2bb#2c
+比べる,くらべる,to compare,JLPT JLPT_N4,OXHWkwV:?8
+ほとんど,ほとんど,"mostly, almost",Intermediate_Japanese_Ln.7 JLPT JLPT_N4,nQ>_aG@b-U
+つもり,つもり,"intention, plan",JLPT JLPT_N4,fOH84**JB]
+郊外,こうがい,"suburb, outskirts",JLPT JLPT_N4,m[#TphS~Yp
+だめ,だめ,"useless, no good, hopeless",JLPT JLPT_N4,F`}=@;2gGr
+売り場,うりば,place where things are sold,JLPT JLPT_N4,g8Zs2)0MYs
+正月,しょうがつ,"New Year, New Year's Day",JLPT JLPT_N4,z?cV&4IRT$
+規則,きそく,"rule, regulation",JLPT JLPT_N4,"fX,<9qoCbI"
+うん,うん,"yes (informal), all right (ok)",Genki Genki_Ln.8 JLPT JLPT_N4,AU=4aGU<;g
+発音,はつおん,pronunciation,JLPT JLPT_N4,ij2OK3T1KH
+焼く,やく,"to bake, to grill",Genki Genki_Ln.21 JLPT JLPT_N4,ze5y7QDk;*
+屋上,おくじょう,rooftop,JLPT JLPT_N4,dNyWHH2le2
+失礼,しつれい,"discourtesy, impoliteness; Excuse me",JLPT JLPT_N4,i}rJ2aUEQY
+ごみ,ごみ,"trash, garbage",Genki Genki_Ln.16 JLPT JLPT_N4,l0zGWz;u*B
+アフリカ,アフリカ,Africa,JLPT JLPT_N4,s(eSC66i0(
+点,てん,"mark, score, grade; point, dot",Intermediate_Japanese_Ln.5 JLPT JLPT_N4,xl]z9.M3ii
+一生懸命,いっしょうけんめい,"very hard (as in ""to work hard""), with utmost effort",Intermediate_Japanese_Ln.5 JLPT JLPT_N4,x}#WG:x<B%
+今度,こんど,"now, this time, near future, one of these days, next time",Genki Genki_Ln.9 JLPT JLPT_N4,"c3M,%sgpuH"
+機会,きかい,"chance, opportunity",JLPT JLPT_N4,QN(r}6a#1P
+建てる,たてる,to build,JLPT JLPT_N4,p>?r}3Zl{s
+複雑,ふくざつ,"complexity, complication",JLPT JLPT_N4,CH}=lqHM1.
+彼,かれ,"he, boyfriend",Genki Genki_Ln.12 Intermediate_Japanese_Ln.8 JLPT JLPT_N4,t}ZPEKulM{
+いらっしゃる,いらっしゃる,"-- honorific expression for いく, くる, and いる --",Genki Genki_Ln.19 JLPT JLPT_N4,q4xt(yor`^
+布団,ふとん,futon,JLPT JLPT_N4,o9cl6;pq_D
+大事,だいじ,"important, valuable, serious matter",JLPT JLPT_N4,K-;(kx?ed|
+贈り物,おくりもの,a gift; a present,Intermediate_Japanese_Ln.9 JLPT JLPT_N4,ea]7XukKd^
+泥棒,どろぼう,thief; burglar,Genki Genki_Ln.21 JLPT JLPT_N4,q/[sonb>SP
+～製,～せい,made in ~,JLPT JLPT_N4,I|]_Gf;YLD
+注意,ちゅうい,"caution, attention",JLPT JLPT_N4,tSqn:MggQx
+台風,たいふう,typhoon,Genki Genki_Ln.16 JLPT JLPT_N4,uFiu<};|%T
+日,ひ,"sun, sunshine, day",Genki Genki_Ln.16 JLPT JLPT_N4,Ap$ELNr5>B
+～軒,～けん,counter for houses,JLPT JLPT_N4,"KbFf,NH{5y"
+そう,そう,"really, (is that) so; yes, right",JLPT JLPT_N4,wr0#d-auwR
+通る,とおる,"to pass (by), to go through",JLPT JLPT_N4,z?tZP}u#Ea
+過ぎる,すぎる,"to exceed, to go beyond",JLPT JLPT_N4,O_}jg<!z1-
+レポート; リポート,レポート; リポート,report,JLPT JLPT_N4,xai}>:G-4a
+葉,は,leaf,JLPT JLPT_N4,xQbxW<V1k4
+必要,ひつよう,necessary,JLPT JLPT_N4,ty_M]/QA_N
+課長,かちょう,section manager,Intermediate_Japanese_Ln.7 JLPT JLPT_N4,Q;5M-:Rtr;
+地震,じしん,earthquake,Genki Genki_Ln.15 JLPT JLPT_N4,DGTtnnC4Nd
+すると,すると,"and, then",JLPT JLPT_N4,Fz>2(<Q3D%
+止める,やめる,"to end, to stop",JLPT JLPT_N4,w08D;C[*x`
+ガラス,ガラス,"glass, pane",JLPT JLPT_N4,Wl!XdU*F<
+～学部,～がくぶ,department of a university,JLPT JLPT_N4,qq2at6CGnZ
+厳しい,きびしい,hard; rigorous; strict,Genki Genki_Ln.13 Intermediate_Japanese_Ln.5 JLPT JLPT_N4,pjG^I!L.;w
+エスカレーター,エスカレーター,escalator,JLPT JLPT_N4,y6e9BNnN(6
+人口,じんこう,population,Intermediate_Japanese_Ln.4 JLPT JLPT_N4,h:04.`><%U
+月,つき,moon,Genki Genki_Ln.20 JLPT JLPT_N4,g.!8Tz-L0l
+絹,きぬ,silk,JLPT JLPT_N4,tNV0})jEsh
+ちっとも,ちっとも,not at all (neg. verb),JLPT JLPT_N4,p(lsw|$R1V
+深い,ふかい,"deep, profound",JLPT JLPT_N4,N%G$/Va72i
+壊れる,こわれる,"to be broken, to break",JLPT JLPT_N4,PH#eB=.[|i
+揺れる,ゆれる,"to shake, to sway",JLPT JLPT_N4,CJT@S-rGcq
+落る,おちる,"to fall, to drop",JLPT JLPT_N4,QEWE{hX5.8
+できるだけ,できるだけ,"if at all possible, as much as possible",JLPT JLPT_N4,z|27hHgqS.
+悲しい,かなしい,"sad, sorrowful",Genki Genki_Ln.13 JLPT JLPT_N4,P[6ROxur[z
+中学校,ちゅうがっこう,junior high school pupil,JLPT JLPT_N4,o@F6a}&sDT
+ガス,ガス,gas,JLPT JLPT_N4,J0vS6#XFQP
+祈る,いのる,to pray; to wish,JLPT JLPT_N4,gOVf)x5I|I
+盛ん,さかん,"prosperous, active, thriving",JLPT JLPT_N4,iN0&Vv}z1G
+アルバイト,アルバイト,part-time job,Genki Genki_Ln.4 JLPT JLPT_N4,uhbB_H_zmK
+起こす,おこす,to wake (someone) up,Genki Genki_Ln.16 JLPT JLPT_N4,e)?&!q93%0
+致す,いたす,-- extra-modest expression for する --,Genki Genki_Ln.20 JLPT JLPT_N4,s{uMBFr}QR
+噛む,かむ,"to bite, to chew",JLPT JLPT_N4,E0N_YXN>-x
+赤ちゃん,あかちゃん,"baby, infant",Genki Genki_Ln.21 JLPT JLPT_N4,s09]7w9[]D
+浅い,あさい,"shallow, superficial",JLPT JLPT_N4,Bq97rav-&k
+嘘,うそ,lie,JLPT JLPT_N4,dDVZZUX$0%
+小説,しょうせつ,novel,Genki Genki_Ln.20 JLPT JLPT_N4,k;Wm8^zP:1
+親,おや,a parent,Genki Genki_Ln.16 Intermediate_Japanese_Ln.6 JLPT JLPT_N4,EM~YxWr$Fw
+それに,それに,moreover; besides,Intermediate_Japanese_Ln.2 JLPT JLPT_N4,q*Vh;RO@9L
+西洋,せいよう,"the West, Western countries",JLPT JLPT_N4,CYHizo6/]:
+思う,おもう,"to think, to feel",Genki Genki_Ln.8 JLPT JLPT_N4,bu>M]5SnGX
+パート (タイム),パート (タイム),part time (esp. female part time employees),JLPT JLPT_N4,v_m4?zP2.9
+時代,じだい,"age, period, epoch, era",JLPT JLPT_N4,L?Q&>175XG
+申し上げる,もうしあげる,"(humble)to say, to tell",JLPT JLPT_N4,GF+@f2CV$T
+～式,～しき,~ ceremony; ~ style,JLPT JLPT_N4,"r&5Ybsff,l"
+出席,しゅっせきする,attendance,JLPT JLPT_N4,veUCYD:#[?
+～家,～か,person who is specialized in ~,JLPT JLPT_N4,jmL@^X(3xD
+迎える,むかえる,to welcome; to meet; to greet,JLPT JLPT_N4,c)r?fC@d`X
+触る,さわる,"to touch, to feel",JLPT JLPT_N4,EE}]!?vk-o
+建て,～だて,"~ storied, separate housing",JLPT JLPT_N4,O;BgWj4xcP
+社長,しゃちょう,president of a company,Genki Genki_Ln.11 JLPT JLPT_N4,esu`;_q%~}
+動物園,どうぶつえん,zoo,JLPT JLPT_N4,LA>0An]TpD
+捕まえる,つかまえる,"to catch, to arrest",JLPT JLPT_N4,"dxA,$K8Jjo"
+季節,きせつ,season (in reference to weather),Genki Genki_Ln.10 Intermediate_Japanese_Ln.9 JLPT JLPT_N4,"H-HO2,.Mf&"
+寄る,よる,to stop by,Genki Genki_Ln.19 Intermediate_Japanese_Ln.3 JLPT JLPT_N4,wowQrA=!@I
+決まる,きまる,to be set; fixed (v.i.),Intermediate_Japanese_Ln.2 JLPT JLPT_N4,ftU/w6Rm9)
+開く,ひらく,to open; to hold (an event),JLPT JLPT_N4,EqW3}ML(%4
+逃げる,にげる,"to escape, to run away",JLPT JLPT_N4,olt^H[(k%k
+だから,だから,so; therefore,Genki Genki_Ln.4 JLPT JLPT_N4,"l,%/>C{Y}S"
+残念,ざんねん,regret; regrettable,Intermediate_Japanese_Ln.7 JLPT JLPT_N4,u8P;}KnN>M
+畳,たたみ,tatami mat (Japanese straw mat),JLPT JLPT_N4,K6&+!%&]%g
+丁寧,ていねい,"polite, courteous, careful",JLPT JLPT_N4,y#[3yo1.4|
+地理,ちり,geography,JLPT JLPT_N4,L>P&NZL8Ln
+さっき,さっき,a little while ago,Genki Genki_Ln.4 JLPT JLPT_N4,K6.[:IAM|.
+怖い,こわい,"scary, frightening",Genki Genki_Ln.5 JLPT JLPT_N4,oO+f.U&hT(
+包む,つつむ,"to wrap, to cover",Genki Genki_Ln.21 JLPT JLPT_N4,j.kjH)CP:g
+なるべく,なるべく,"if possible, as much as possible",Intermediate_Japanese_Ln.3 JLPT JLPT_N4,N|K[$y_r^[
+無理,むり,"unreasonable, impossible",JLPT JLPT_N4,i]oOmAHlg9
+サンドイッチ,サンドイッチ,sandwich,JLPT JLPT_N4,"Lah$0,$FHs"
+会議室,かいぎしつ,conference room,JLPT JLPT_N4,oxHUFdCY;/
+品物,しなもの,goods,JLPT JLPT_N4,kiGyZq*rIU
+人形,にんぎょう,"doll, figure",JLPT JLPT_N4,vPlJ&v75[Q
+利用,りよう,"use, utilization",JLPT JLPT_N4,Rh@8N~e0eQ
+飾る,かざる,"to decorate, to adorn",JLPT JLPT_N4,"OaqvYHn98,"
+止める,とめる,to stop (something),JLPT JLPT_N4,uL2<QDM;W:
+恥ずかしい,はずかしい,"ashamed, embarrassed",Genki Genki_Ln.18 JLPT JLPT_N4,e$Mth*I+Cg
+いくら～ても,いくら～ても,however much one may ~,JLPT JLPT_N4,I]og(vfh}t
+用事,ようじ,business to take care of; tasks; errands,Genki Genki_Ln.12 JLPT JLPT_N4,p$RznpfpCY
+ビル,ビル,(abbr.) building,JLPT JLPT_N4,H[!Yph0[mz
+けんかする,けんかする,quarrel,JLPT JLPT_N4,Oc14`ELpiF
+頑張る,がんばる,"to try one's best, to try hard, to persist",Genki Genki_Ln.13 JLPT JLPT_N4,Mz@9d9PizL
+投げる,なげる,"to pitch, to cast away",Intermediate_Japanese_Ln.7 JLPT JLPT_N4,"A%8%S+mN,O"
+故障,こしょうする,breakdown,JLPT JLPT_N4,mP~NCidGL7
+力,ちから,"strength, power",JLPT JLPT_N4,t<Fy!4ZXqc
+受ける,うける,"to take (an examination, interview, etc.); to receive",JLPT JLPT_N4,d#N;{6r~iD
+気分,きぶん,"feeling, mood",JLPT JLPT_N4,GJl$1:;vCi
+間違える,まちがえる,to make a mistake,Genki Genki_Ln.21 JLPT JLPT_N4,Q5b~VM7IRc
+そんな,そんな,"such, like that, that sort of",JLPT JLPT_N4,ei/O3MuiLE
+星,ほし,star,JLPT JLPT_N4,h=LT];WutA
+場合,ばあい,"case, situation",JLPT JLPT_N4,qV-2<HJ$$5
+やっと,やっと,"at last, finally",JLPT JLPT_N4,Qf-Nk|9F8D
+足りる,たりる,to be sufficient; to be enough,Genki Genki_Ln.17 Intermediate_Japanese_Ln.4 JLPT JLPT_N4,tSHDO2cb1M
+行う,おこなう,to carry out; to conduct (typically used in written language),Intermediate_Japanese_Ln.3 JLPT JLPT_N4,kSwpIk>RTo
+ぶどう,ぶどう,grapes,JLPT JLPT_N4,qtf+q-Z+n]
+無くなる,なくなる,"to disappear, to get lost",JLPT JLPT_N4,QEFsGzu!|/
+準備,じゅんびする,prepare,JLPT JLPT_N4,h&P$N~U6-[
+世界,せかい,world,Genki Genki_Ln.10 JLPT JLPT_N4,e<Tae_jQo4
+住所,じゅうしょ,address; place of residence,JLPT JLPT_N4,fPoS$h^c(u
+再来月,さらいげつ,the month after next,JLPT JLPT_N4,Zux^JW=t?
+林,はやし,"woods, forest",JLPT JLPT_N4,@LWUXw-^>
+倍,ばい,double,JLPT JLPT_N4,k.0mCWDs+|
+痩せる,やせる,to lose weight,Genki Genki_Ln.7 JLPT JLPT_N4,A[Q-]LV0S:
+線,せん,"line, wire",JLPT JLPT_N4,dK0yR1DBK`
+戦争,せんそう,war,JLPT JLPT_N4,l@;Cq/&#91
+決める,きめる,to decide (v.t.),Genki Genki_Ln.10 Intermediate_Japanese_Ln.9 JLPT JLPT_N4,p(qb/m`R:b
+調べる,しらべる,to check; to look up; to inquire; to search,JLPT JLPT_N4,Ov6y=mBwgM
+寝坊,ねぼう,sleeping in late,JLPT JLPT_N4,B(>pXN{@@q
+パパ,パパ,"papa, daddy",JLPT JLPT_N4,v.-(XP=XJY
+光る,ひかる,"to shine, to glitter",JLPT JLPT_N4,xp|/7BLK40
+夫,おっと,husband,JLPT JLPT_N4,zDF$wWIUs8
+雲,くも,cloud,JLPT JLPT_N4,"C3Z1{X<H,4"
+坂,さか,"slope, hill",JLPT JLPT_N4,fMGrCf7XcB
+～(て) しまう,～(て) しまう,to end up ~,JLPT JLPT_N4,us+Z5ns><g
+飛行場,ひこうじょう,airport,JLPT JLPT_N4,A2O=3b{hXI
+柔道,じゅうどう,judo,JLPT JLPT_N4,d[2qz9jnc7
+決して,けっして,never,JLPT JLPT_N4,Kd9N)Izj!4
+事務所,じむしょ,office,JLPT JLPT_N4,wxgf%k:fc2
+連絡,れんらく,"communication, contact, connection",JLPT JLPT_N4,"v[($g<|S,F"
+小学校,しょうがっこう,elementary school,Genki Genki_Ln.23 JLPT JLPT_N4,f^*MMB(l>o
+客,きゃく,"guest, customer",Intermediate_Japanese_Ln.2 JLPT JLPT_N4,xF)V^}awc{
+昔,むかし,old days; past,Genki Genki_Ln.21 JLPT JLPT_N4,hUjfJU~9){
+美しい,うつくしい,"beautiful, lovely",JLPT JLPT_N4,OB^[>@2T05
+捨てる,すてる,"throw away (trash), dump, discard",Genki Genki_Ln.15 JLPT JLPT_N4,G;1IJzl`jC
+なさる,なさる,-- honorific expression for する --,Genki Genki_Ln.19 JLPT JLPT_N4,zj*av$=2pO
+事,こと,"thing(s), matter(s), fact",Genki Genki_Ln.21 JLPT JLPT_N4,ca&G<Ve~Nx
+どんどん,どんどん,quickly and steadily; at a rapid pace,JLPT JLPT_N4,q0h/etzyxE
+試合,しあい,"match, game, competition",Genki Genki_Ln.12 Intermediate_Japanese_Ln.7 JLPT JLPT_N4,Hv/PI<4cqa
+適当,てきとう,"fitness, suitability",JLPT JLPT_N4,HX3el]3jvP
+素晴らしい,すばらしい,wonderful; terrific,Intermediate_Japanese_Ln.4 JLPT JLPT_N4,Mq|7Xt}rKi
+美術館,びじゅつかん,"art gallery, art museum",Genki Genki_Ln.11 JLPT JLPT_N4,Lovq=LkX$G
+文法,ぶんぽう,grammar,Genki Genki_Ln.13 JLPT JLPT_N4,"h2m8,%coR8"
+終わり,おわり,end,JLPT JLPT_N4,j1fvX?gG0M
+壁,かべ,wall,JLPT JLPT_N4,um!T&Q*O[?
+一度,いちど,"once, one time",JLPT JLPT_N4,z3&2cN)6^e
+お礼,おれい,expression of gratitude; thanking; gift of appreciation; bow,Genki Genki_Ln.19 Intermediate_Japanese_Ln.9 JLPT JLPT_N4,IzFCHK5nu1
+親切,しんせつ,kindness,JLPT JLPT_N4,lZWRz?K3ET
+知らせる,しらせる,to notify,JLPT JLPT_N4,mORr*vy|g/
+歯医者,はいしゃ,dentist,JLPT JLPT_N4,"<G@n,w<8p"
+熱心,ねっしん,enthusiasm,JLPT JLPT_N4,bLrU`I|/*{
+始める,はじめる,"to start, to begin",Genki Genki_Ln.8 JLPT JLPT_N4,"g,>$G?*/Q&"
+もらう,もらう,to receive,JLPT JLPT_N4,MhXS3i[O39
+泣く,なく,to cry,Genki Genki_Ln.13 JLPT JLPT_N4,wS:0`lVju$
+治る,なおる,to get better; to recover from illness (v.i.),JLPT JLPT_N4,J-V8gKft=&
+熱,ねつ,"fever, temperature",Intermediate_Japanese_Ln.3 JLPT JLPT_N4,D9dKTYQi:O
+お祭り,おまつり,festival,JLPT JLPT_N4,n=i-:`LzjX
+水道,すいどう,"water service, water line",JLPT JLPT_N4,FV`Tc-%-nK
+匂い,におい,"odor, smell",JLPT JLPT_N4,P&q^w6d0fO
+ベル,ベル,bell,JLPT JLPT_N4,D!1f]e)iSX
+赤ん坊,あかんぼう,baby,JLPT JLPT_N4,I>S)eTr_]B
+おかしい,おかしい,strange; odd; funny,Intermediate_Japanese_Ln.2 JLPT JLPT_N4,O9;m#]XEB2
+事故,じこ,accident,JLPT JLPT_N4,K(yw!r=B:1
+変,へん,"strange, odd",JLPT JLPT_N4,e/SMd06F!x
+辞典,じてん,"encyclopedia, reference book",JLPT JLPT_N4,brNC9/_sI`
+残る,のこる,"to remain (v.i.), to be left",JLPT JLPT_N4,INR^BBo=#J
+立てる,たてる,"to stand (something) up, to erect (something)",JLPT JLPT_N4,O9fk.~k_.E
+くれる,くれる,"to give, to do for",JLPT JLPT_N4,hSC5|:)aVz
+～員,～いん,member of ~,JLPT JLPT_N4,QHO%z16SSs
+原因,げんいん,"cause, origin, source",JLPT JLPT_N4,y8<@Y+?o6j
+驚く,おどろく,"to be surprised, to be astonished",Intermediate_Japanese_Ln.8 JLPT JLPT_N4,qBeaklesW+
+いただく,頂く,-- extra-modest expression for たべる and のむ; humble expression for もらう --,Genki Genki_Ln.20 JLPT JLPT_N4,J*KGnzk|Z2
+祖母,そぼ,grandmother,JLPT JLPT_N4,x!LCLRW]y2
+場所,ばしょ,"place, location",Genki Genki_Ln.23 Intermediate_Japanese_Ln.5 JLPT JLPT_N4,qw3.O}/lOC
+答,こたえ,"answer, response",JLPT JLPT_N4,xmTYLgV-T_
+もちろん,もちろん,"certainly, of course",Genki Genki_Ln.7 Intermediate_Japanese_Ln.5 JLPT JLPT_N4,"m8,NutV2dG"
+漬ける,つける,"to soak, to moisten, to pickle",JLPT JLPT_N4,h!i?H{d*F@
+受付,うけつけ,reception(ist) desk,Genki Genki_Ln.22 Intermediate_Japanese_Ln.8 JLPT JLPT_N4,"uraaf1,;7Q"
+内,うち,"within, inside",JLPT JLPT_N4,G1H0$T!7Vl
+スクリーン,スクリーン,screen,JLPT JLPT_N4,"L/njBN,iH6"
+増える,ふえる,"to increase, to multiply",JLPT JLPT_N4,QW.w#0qn}8
+または,または,"or, otherwise",JLPT JLPT_N4,J-^^Uw<Tl~
+けがする,けがする,"injury (to animate object), hurt",JLPT JLPT_N4,NP:|wpXW(M
+以下,いか,"less than, below",JLPT JLPT_N4,DS5y_+4p`Y
+選ぶ,えらぶ,to choose; to select,Genki Genki_Ln.17 Intermediate_Japanese_Ln.3 JLPT JLPT_N4,Jo*`4U5e.W
+～ばかり,～ばかり,"just did ~, only",JLPT JLPT_N4,vbW68h-IIc
+心,こころ,"heart, mind",JLPT JLPT_N4,Fkhe%Dz2nb
+～だす,～だす,to start doing ~,JLPT JLPT_N4,B+=k~owmr!
+サラダ,サラダ,salad,JLPT JLPT_N4,J3A=]P#ec<
+届ける,とどける,to deliver (v.t.),Intermediate_Japanese_Ln.9 JLPT JLPT_N4,tA&cXA55C=
+挨拶,あいさつする,greet(ing),JLPT JLPT_N4,h|NjvFq!b]
+景色,けしき,"scenery, landscape",JLPT JLPT_N4,Cd#u9/v:Pu
+確か,たしか,"if I remember correctly; certain, definite",Intermediate_Japanese_Ln.4 JLPT JLPT_N4,v&7%T>e{{z
+ステーキ,ステーキ,steak,JLPT JLPT_N4,K0B$/YQ?Op
+食料品,しょくりょうひん,"foodstuff, groceries",JLPT JLPT_N4,kg/Pg!K6&w
+森,もり,forest,JLPT JLPT_N4,mJkKf?UAUT
+以内,いない,"within, less (no more) than",JLPT JLPT_N4,EyK>c0C[$K
+予定,よてい,"plans, arrangement, schedule",Genki Genki_Ln.15 Intermediate_Japanese_Ln.15 JLPT JLPT_N4,I$<#IwHCvW
+オーバー,オーバー,"overcoat; over, exceeding, exaggeration",JLPT JLPT_N4,umd4AX=/RI
+乾く,かわく,to get dry,JLPT JLPT_N4,s+Ju<mmF]C
+石,いし,stone,JLPT JLPT_N4,gg2=(OnQKh
+思い出す,おもいだす,"to recall, to remember",Intermediate_Japanese_Ln.8 JLPT JLPT_N4,O?8pX)Ooz*
+踊る,おどる,to dance,Genki Genki_Ln.9 JLPT JLPT_N4,LnHUFv$!`;
+細かい,こまかい,"small; fine, minute",JLPT JLPT_N4,PrWma5VeE[
+塗る,ぬる,"to paint, to plaster",JLPT JLPT_N4,gb*{+)EK`F
+ご主人,ごしゅじん,"(your, her) husband",Genki Genki_Ln.14 JLPT JLPT_N4,"Gb,y/-3SAS"
+珍しい,めずらしい,"unusual, rare",Intermediate_Japanese_Ln.4 JLPT JLPT_N4,LG3n^a@XAC
+用,よう,"errand, task, business (to take care of)",Intermediate_Japanese_Ln.9 JLPT JLPT_N4,CvxvGX`|/>
+公務員,こうむいん,"government worker, public servant",JLPT JLPT_N4,p;42%b%y:T
+お嬢さん,おじょうさん,(someone's) daughter (polite),Genki Genki_Ln.22 JLPT JLPT_N4,Ee+d{e?WRj
+用意,ようい,preparation,JLPT JLPT_N4,"PJ%Q,E{$_L"
+探す,さがす,"to search, to seek, to look for",Genki Genki_Ln.15 Intermediate_Japanese_Ln.8 JLPT JLPT_N4,h4(YO`o85t
+形,かたち,shape,JLPT JLPT_N4,f7_i%J0-/Y
+運転,うんてんする,driving,JLPT JLPT_N4,r!zv#R0ur*
+すっかり,すっかり,"all, completely",JLPT JLPT_N4,nV=]]BK.9=
+アナウンサー,アナウンサー,announcer,JLPT JLPT_N4,oG?shn0:uO
+お土産,おみやげ,souvenir,Genki Genki_Ln.4 JLPT JLPT_N4,IKS:}hgF8q
+消しゴム,けしゴム,eraser,JLPT JLPT_N4,"gW^biR[nM,"
+旅館,りょかん,a Japanese inn,Genki Genki_Ln.15 Intermediate_Japanese_Ln.6 JLPT JLPT_N4,Ke`aN1|5T#
+海岸,かいがん,"coast, seashore",JLPT JLPT_N4,O1]Ne=Q0*.
+寂しい,さびしい,"lonely, lonesome",Genki Genki_Ln.9 JLPT JLPT_N4,pi{)YOFX|t
+火,ひ,fire,JLPT JLPT_N4,gjC}:7>!AJ
+育てる,そだてる,to raise (v.t.); to bring up,Genki Genki_Ln.22 JLPT JLPT_N4,r6b~+z#uh_
+味噌,みそ,"miso, bean paste",JLPT JLPT_N4,FzA7odIzvp
+お祝い,おいわい,"congratulation, celebration",Intermediate_Japanese_Ln.7 JLPT JLPT_N4,sQaWTq!hP`
+乗り物,のりもの,vehicle,JLPT JLPT_N4,i9[ZI9WM}X
+案内,あんないする,"information, guidance",JLPT JLPT_N4,DO_nJ<yYaJ
+通う,かよう,to go back and forth; to commute,JLPT JLPT_N4,D<g$_r(YBs
+連れる,つれる,"to lead, to take (a person)",JLPT JLPT_N4,J&sg+H>0p_
+技術,ぎじゅつ,"technique, technology, skill",JLPT JLPT_N4,PCC!&zGiCY
+小鳥,ことり,small bird,JLPT JLPT_N4,G|$muceS&O
+下宿,げしゅく,"lodging, boarding house",JLPT JLPT_N4,"bmjB!,8T=p"
+ジャム,ジャム,jam,JLPT JLPT_N4,D@h7*f7p?d
+招待,しょうたいする,invitation,JLPT JLPT_N4,c$Y~;QF){;
+鏡,かがみ,mirror,JLPT JLPT_N4,v%J5x[E:;(
+はず,はず,it should be so,JLPT JLPT_N4,Jg5{R&fxyH
+法律,ほうりつ,law,JLPT JLPT_N4,O9|FD5Fq3.
+進む,すすむ,"to advance, to proceed",JLPT JLPT_N4,b6Re}g0};8
+楽む,たのしむ,to enjoy,JLPT JLPT_N4,iCe:{Xn-6L
+貿易,ぼうえき,trade,JLPT JLPT_N4,bc9Yp10YbE
+反対,はんたい,"oppose, opposition, resistance",JLPT JLPT_N4,KY]P)[osSM
+おる,おる,-- extra-modest expression for いる --,Genki Genki_Ln.20 JLPT JLPT_N4,Adc_Jds{te
+申す,もうす,-- extra-modest (humble) expression for 言う (いう) --,Genki Genki_Ln.20 JLPT JLPT_N4,e<WJ-6`NVb
+試験,しけん,an exam,Genki Genki_Ln.9 JLPT JLPT_N4,bUCd_5rR^-
+真面目,まじめ,"diligent, serious",JLPT JLPT_N4,xK*F{fx?.z
+ごらんになる,,-- honorific expression for みる --,Genki Genki_Ln.19 JLPT JLPT_N4,k(j]!OR1gM
+店員,てんいん,clerk; shop-employee,Intermediate_Japanese_Ln.6 JLPT JLPT_N4,GeFU%up;F{
+泊まる,とまる,to stay (over night) (v.i.),JLPT JLPT_N4,IbHq#Ubd>&
+よろしい,よろしい,"(hon.) good, OK, all right",JLPT JLPT_N4,Ah<}g#ysAC
+今夜,こんや,"this evening, tonight",JLPT JLPT_N4,qWO]e*;%U}
+おつり,おつり,change; balance of money returned to the purchaser,JLPT JLPT_N4,wx#vXTnj!Z
+チェックする,チェックする,check,JLPT JLPT_N4,o%*Ndg~YHB
+会話,かいわ,conversation,JLPT JLPT_N4,dD;CvmzQ9b
+空気,くうき,"air, atmosphere",Genki Genki_Ln.8 JLPT JLPT_N4,C)1Z!^eB^|
+交通,こうつう,"traffic, transportation",JLPT JLPT_N4,AyJ>}k*DyK
+ワープロ,ワープロ,word processor,JLPT JLPT_N4,!Qc[fI`%{
+喜ぶ,よろこぶ,"to rejoice, to be delighted, to be glad",JLPT JLPT_N4,DF7Py?yTD[
+急行,きゅうこう,express train or bus,Intermediate_Japanese_Ln.7 JLPT JLPT_N4,t]K/5%].:3
+皆,みな,everyone,JLPT JLPT_N4,r56e/uzKVH
+味,あじ,"flavor, taste",JLPT JLPT_N4,B]?q9zUNzO
+空港,くうこう,airport,Genki Genki_Ln.20 JLPT JLPT_N4,Qgx/]mMiIj
+手袋,てぶくろ,glove(s),Genki Genki_Ln.10 JLPT JLPT_N4,LM6P1@!I~2
+校長,こうちょう,"principal, headmaster",JLPT JLPT_N4,eI/Ghjq;7/
+ごちそう,ごちそう,"feast, treating (someone)",JLPT JLPT_N4,D/ibPniDYT
+踊り,おどり,dance,JLPT JLPT_N4,J=*Z|>n+QR
+興味,きょうみ,interest (in something),JLPT JLPT_N4,DIyl0xA#)2
+引っ越す,ひっこす,to move to a new place of residence,JLPT JLPT_N4,EGeSfwOFZ.
+冷房,れいぼう,"cooling, air conditioning",JLPT JLPT_N4,stZHJs{qvP
+都合,つごう,"circumstances, convenience",JLPT JLPT_N4,b;szYJp1~0
+遠慮,えんりょする,"restraint, reserve, hesitate",JLPT JLPT_N4,uqPUmCD*1n
+亡くなる,なくなる,to pass away,JLPT JLPT_N4,Iq_q:mI=}n
+科学,かがく,science,Genki Genki_Ln.1 JLPT JLPT_N4,gWOi-(wW;M
+はっきり,はっきり,"clearly, distinctly",JLPT JLPT_N4,soMm6B)m]t
+差し上げる,さしあげる,-- humble expression for あげる --,Genki Genki_Ln.20 JLPT JLPT_N4,zkSrvJWm{I
+気持ち,きもち,"feeling, sensation, mood",JLPT JLPT_N4,P!ajdoiyb.
+祖父,そふ,grandfather,JLPT JLPT_N4,ytyAfRG*6x
+港,みなと,"harbor, port",JLPT JLPT_N4,sHl5)cnUcM
+予約,よやく,reservation,Genki Genki_Ln.10 JLPT JLPT_N4,rSce1JPbkI
+凄い,すごい,"terrific, great",JLPT JLPT_N4,P~)7jIfH{m
+入学,にゅうがくする,entry to school or university,JLPT JLPT_N4,"jo:/>1,9uU"
+片付ける,かたづける,"to (clean) tidy up (v.t.), to put away",JLPT JLPT_N4,Ef_Twp5ERS
+写す,うつす,to copy (v.t.); to photograph,JLPT JLPT_N4,x|L%TU)*iv
+パソコン,パソコン,(personal) computer,JLPT JLPT_N4,tQ#JE!pNrV
+部長,ぶちょう,department (division) manager,Genki Genki_Ln.19 Intermediate_Japanese_Ln.15 JLPT JLPT_N4,O:v<m}n3*n
+火事,かじ,fire,JLPT JLPT_N4,Kll.Pvc/gB
+足す,たす,to add (numbers),JLPT JLPT_N4,M:pOTP>t7-
+教会,きょうかい,church,Intermediate_Japanese_Ln.9 JLPT JLPT_N4,oA&[8r+GKm
+彼ら,かれら,they (usually male),JLPT JLPT_N4,k?K1].&L.0
+一杯,いっぱい,"full, to the utmost",JLPT JLPT_N4,w&/o{@M=$:
+アメリカ,アメリカ,"America, U.S.A.",Genki Genki_Ln.1 Genki_Ln.2 JLPT JLPT_N4,IVipO?aKE#
+男性,だんせい,man; male,JLPT JLPT_N4,r6Y+#Vxx9S
+理由,りゆう,reason,JLPT JLPT_N4,P7}t{e2du#
+生産,せいさんする,production; to produce,JLPT JLPT_N4,pm+O;C4U:>
+着物,きもの,kimono; Japanese traditional dress,Genki Genki_Ln.13 JLPT JLPT_N4,"A(ZdyF5k,T"
+おもちゃ,おもちゃ,a toy,Genki Genki_Ln.11 JLPT JLPT_N4,Cf`[JaXL7u
+暮れる,くれる,"to get dark, to come to an end",JLPT JLPT_N4,i-JL+Sl!mg
+釣る,つる,to fish,JLPT JLPT_N4,"GWJ%g`TG,o"
+～ちゃん,～ちゃん,suffix for familiar (female) person,JLPT JLPT_N4,r2m3z~%1s]
+打つ,うつ,"to hit, to strike",JLPT JLPT_N4,pBs^gx/@>a
+あんな,あんな,"such, like that",JLPT JLPT_N4,K%g**4JE#C
+謝る,あやまる,to apologize,JLPT JLPT_N4,C%+Y^2-4l[
+昼間,ひるま,"daytime, during the day",JLPT JLPT_N4,p3^ge-^eJl
+教育,きょういく,education,JLPT JLPT_N4,HW9*4`esHu
+女性,じょせい,woman,JLPT JLPT_N4,E9gO2XIg*K
+米,こめ,uncooked rice,JLPT JLPT_N4,"t,HSQDh#2"
+邪魔,じゃま,"hindrance, intrusion",JLPT JLPT_N4,c]>yivA`ny
+国際,こくさい,international,JLPT JLPT_N4,f~g3tMo97^
+隅,すみ,corner,JLPT JLPT_N4,eeOvjZ5zl.
+伺う,うかがう,"humble form of 行く (いく), 聞く (きく) and 来る (くる)",JLPT JLPT_N4,Lmfy{2F]$A
+再来週,さらいしゅう,the week after next,JLPT JLPT_N4,kKHM?VM`7o
+夢,ゆめ,a dream,Genki Genki_Ln.11 JLPT JLPT_N4,lZn7[}J9+0
+喉,のど,throat,JLPT JLPT_N4,c+C3t7I~.8
+最近,さいきん,"recently, nowadays, in recent years, most recent, latest",Genki Genki_Ln.15 Intermediate_Japanese_Ln.9 JLPT JLPT_N4,e2RD]Myt9A
+周り,まわり,surroundings,JLPT JLPT_N4,fhT%f*K[Vx
+歴史,れきし,history,Genki Genki_Ln.1 Genki_Ln.2 Intermediate_Japanese_Ln.3 JLPT JLPT_N4,lQ}Sxv&`A!
+不便,ふべん,inconvenience,JLPT JLPT_N4,C!<M[IO(?_
+血,ち,blood,JLPT JLPT_N4,0ihaC]*Q^
+～続ける,～つづける,to continue doing ~,JLPT JLPT_N4,JHO_m/Gf)j
+毛,け,"hair, fur",JLPT JLPT_N4,gsy(C|!IEU
+ひどい,ひどい,"terrible, awful, unfair, cruel",Genki Genki_Ln.21 Intermediate_Japanese_Ln.4 JLPT JLPT_N4,M6<?LBefmj
+例えば,たとえば,"for example, e.g.",Genki Genki_Ln.17 Intermediate_Japanese_Ln.2 JLPT JLPT_N4,n/o*9@bFx6
+中々,なかなか,"very, considerably, quite",JLPT JLPT_N4,@YWCVJq=)
+随分,ずいぶん,extremely,JLPT JLPT_N4,NMl:D%#1zF
+～やすい,～やすい,easy to do ~,JLPT JLPT_N4,exjp1w(~N7
+押し入れ,おしいれ,closet,JLPT JLPT_N4,Al&#S)GWr$
+電灯,でんとう,electric light,JLPT JLPT_N4,jodPP9K~W{
+叱る,しかる,to scold,JLPT JLPT_N4,LMzmk?%TI!
+サンダル,サンダル,sandal,JLPT JLPT_N4,nKx7m0Vnj8
+びっくりする,びっくりする,to be surprised,Genki Genki_Ln.21 JLPT JLPT_N4,Cr@7!m+n{m
+うまい,うまい,delicious; skillful; fortunate,JLPT JLPT_N4,"C`4~Q!,KRn"
+変える,かえる,"to change, to alter, to vary",JLPT JLPT_N4,x+80xLQg^-
+講堂,こうどう,auditorium,JLPT JLPT_N4,ktg9A%:iyA
+子,こ,child,JLPT JLPT_N4,u.wVLBCC7[
+沸かす,わかす,to boil,JLPT JLPT_N4,"d,.x::f0>g"
+レジ,レジ,register,JLPT JLPT_N4,m?VOxpy?_K
+しばらく,しばらく,little while,JLPT JLPT_N4,w1JlkP{0C8
+特に,とくに,particularly,Intermediate_Japanese_Ln.3 JLPT JLPT_N4,Qf=L0@hP&F
+空く,あく,"to open, to become empty (vacant)",JLPT JLPT_N4,Cg0$u|Ogik
+計画,けいかくする,"plan, project, schedule",JLPT JLPT_N4,s2fE.u9}xk
+通り,とおり,"~ Street, ~ Avenue",JLPT JLPT_N4,QBI<)8t#SN
+下着,したぎ,underwear,JLPT JLPT_N4,tFl(JKOvJ3
+経済,けいざい,"economics, finance, economy",JLPT JLPT_N4,rJHgD<t_i_
+こう,こう,"like this, this way",JLPT JLPT_N4,Q%+*%s6}J9
+是非,ぜひ,"certainly, by all means; without fail",Genki Genki_Ln.9 Intermediate_Japanese_Ln.15 Intermediate_Japanese_Ln.8 JLPT JLPT_N4,kray(3KD^X
+裏,うら,"reverse side, back",JLPT JLPT_N4,pQ2heE~587
+為,ため,"good, advantage, in order to",JLPT JLPT_N4,Fly+C7B(R*
+おいでになる,おいでになる,(hon.) to be,JLPT JLPT_N4,ok-j:Fq]#X
+変わる,かわる,"to change (v.i.), to be transformed, to vary",Intermediate_Japanese_Ln.4 JLPT JLPT_N4,N?)pR_`l)L
+以外,いがい,"other than, with the exception of, excepting",Intermediate_Japanese_Ln.3 JLPT JLPT_N4,io5npAJ^ZJ
+済む,すむ,"to finish, to end",JLPT JLPT_N4,eQV4%/qxB)
+ハンバーグ,ハンバーグ,hamburger steak,JLPT JLPT_N4,zs3r)kO4N*
+市,し,city,JLPT JLPT_N4,rXed<x$qC(
+引き出し,ひきだし,drawer,JLPT JLPT_N4,tGG+yHdqmL
+遊び,あそび,play,JLPT JLPT_N4,"O8zue,3OP7"
+支度,したくする,preparation,JLPT JLPT_N4,QsqU&|{INc
+～始める,～はじめる,to start doing ~,JLPT JLPT_N4,BA.Jz]NK1.
+見える,みえる,to be visible; -- polite verb meaning 来る (くる) --,Genki Genki_Ln.15 JLPT JLPT_N4,cEonZn&vE$
+十分,じゅうぶん,enough,JLPT JLPT_N4,vgB;={Nvrv
+音,おと,"sound, note",Genki Genki_Ln.20 JLPT JLPT_N4,y~nFfa-~?d
+きっと,きっと,"surely, definitely, undoubtedly, certainly",Intermediate_Japanese_Ln.7 JLPT JLPT_N4,>[X6H]9HU
+まず,まず,"first (of all), to start with",Genki Genki_Ln.18 JLPT JLPT_N4,b.U+m9N1DV
+遠く,とおく,"far away, distant",JLPT JLPT_N4,P.EKUt5=[B
+大体,だいたい,approximately; in most cases; in general; to begin with (same as もともと),Intermediate_Japanese_Ln.15 Intermediate_Japanese_Ln.3 JLPT JLPT_N4,PoQwq(:pGi
+折れる,おれる,"to break, to be folded, to give in; to turn (a corner)",JLPT JLPT_N4,"C>N,+q5aTm"
+正しい,ただしい,correct,JLPT JLPT_N4,ynVxN8fR|I
+輸入,ゆにゅう,import,JLPT JLPT_N4,c#?sbZfFpt
+返事,へんじ,"reply, answer",JLPT JLPT_N4,KqUGjMWU_#
+都,と,metropolitan,JLPT JLPT_N4,OcM{?!kX-7
+産業,さんぎょう,industry,JLPT JLPT_N4,r<I`MSX5aQ
+伝える,つたえる,"to convey (a message); to tell, to report",Genki Genki_Ln.20 Intermediate_Japanese_Ln.15 JLPT JLPT_N4,"z>dT,I0S3h"
+お金持ち,かねもち; おかねもち,rich person,JLPT JLPT_N4,H?Z`hWb&65
+説明,せつめい,explanation,JLPT JLPT_N4,jzx*<D-6cG
+島,しま,island,Intermediate_Japanese_Ln.5 JLPT JLPT_N4,AOZjwUDN5g
+道具,どうぐ,tool,JLPT JLPT_N4,Me$$/AnEcv
+滑る,すべる,"to slide, to slip",JLPT JLPT_N4,nobw)6B/(-
+それほど,それほど,to that degree; extent,JLPT JLPT_N4,tq|Owona;B
+以上,いじょう,more than; this is all,JLPT JLPT_N4,kbfzlR:5u>
+～まま,～まま,as it is,JLPT JLPT_N4,j#zKPMXsT3
+特急,とっきゅう,limited express (train faster than an express),JLPT JLPT_N4,sOgOxrQFHN
+プレゼント,プレゼント,"present, gift",Genki Genki_Ln.12 JLPT JLPT_N4,FrsjD-2$(X
+～(に) よると,～(に) よると,according to ~,JLPT JLPT_N4,erz+S2{yL|
+妻,つま,wife (humble),JLPT JLPT_N4,pfL{;:Bm<O
+帰り,かえり,"return, coming back",JLPT JLPT_N4,A1{^9x(Ly$
+具合,ぐあい,"condition, state, health",JLPT JLPT_N4,Ha+Fpz*nIy
+堅; 硬; 固い,かたい,"solid, hard, firm",JLPT JLPT_N4,Qr]]OTGag7
+駐車場,ちゅうしゃじょう,parking lot,JLPT JLPT_N4,Q9!i44Gj}q
+スーツ,スーツ,suit,JLPT JLPT_N4,"M~,%txA#EO"
+危険,きけん,"danger, risk, hazard",Intermediate_Japanese_Ln.15 JLPT JLPT_N4,f#x=KD-)bk
+髪,かみ,hair,Genki Genki_Ln.7 JLPT JLPT_N4,roFwJrlfKR
+天気予報,てんきよほう,weather forecast,Genki Genki_Ln.8 JLPT JLPT_N4,rN#1gCRiI^
+彼女,かのじょ,girlfriend; she,Genki Genki_Ln.12 JLPT JLPT_N4,xL3J@WlS{%
+間,あいだ,"space, interval",JLPT JLPT_N4,MXEynMn6*x
+卒業,そつぎょう,graduation,JLPT JLPT_N4,yOSz]L8FJS
+それで,それで,"and (conj.), thereupon, because of that",JLPT JLPT_N4,rZ[:sRogcN
+枝,えだ,"branch, twig",JLPT JLPT_N4,FAl}KCf:~8
+専門,せんもん,major; speciality,Genki Genki_Ln.1 JLPT JLPT_N4,k;2({qLOGz
+そろそろ,そろそろ,"gradually, soon",JLPT JLPT_N4,Q|>K44^N++
+送る,おくる,"to send, to dispatch",Genki Genki_Ln.14 Intermediate_Japanese_Ln.3 JLPT JLPT_N4,e1#_xMS<)@
+あげる,あげる,to give,JLPT JLPT_N4,w6NP$s|k?>
+騒ぐ,さわぐ,"to make noise, to clamor",JLPT JLPT_N4,E-jyAQ+?xZ
+尋ねる,たずねる,to inquire (same as 質問する),JLPT JLPT_N4,B;}vj%?W%Z
+放送,ほうそうする,broadcasting,JLPT JLPT_N4,HT(fAub[.Z
+政治,せいじ,politics,Genki Genki_Ln.1 Genki_Ln.12 Intermediate_Japanese_Ln.3 JLPT JLPT_N4,LbbPDli%;(
+市民,しみん,citizen,JLPT JLPT_N4,KnKdz8[G7<
+ファックス,ファックス,fax,JLPT JLPT_N4,sG]9/N[j*>
+負ける,まける,"to lose (a game) (v.i.), to be defeated",Intermediate_Japanese_Ln.7 JLPT JLPT_N4,t-t/Tk%(SS
+指輪,ゆびわ,(finger) ring,Genki Genki_Ln.14 JLPT JLPT_N4,By9Xq1v4J{
+田舎,いなか,"rural, countryside",JLPT JLPT_N4,qO;XWK^*$*
+見つける,みつける,"to discover, to find (v.t.)",Genki Genki_Ln.21 JLPT JLPT_N4,JSBDi~:Uul
+高校生,こうこうせい,high school student,Genki Genki_Ln.1 JLPT JLPT_N4,s|lGtGG1fi
+講義,こうぎ,a lecture,Intermediate_Japanese_Ln.5 JLPT JLPT_N4,q(32?ls(B3
+そんなに,そんなに,"so much, like that",JLPT JLPT_N4,pG^h}ycj3(
+昼休み,ひるやすみ,"lunch break, noon recess",JLPT JLPT_N4,lFVXC$-X%0
+忘れ物,わすれもの,"lost article, something forgotten",JLPT JLPT_N4,c>u.i{BBMW
+下りる,おりる,"to get down, to go; come down",JLPT JLPT_N4,"d9,VKd=RU="
+腕,うで,arm (in reference to body),Intermediate_Japanese_Ln.7 JLPT JLPT_N4,AiW}:.4@ze
+訳,わけ,reason; explanation,JLPT JLPT_N4,usS4^zwn[>
+承知,しょうちする,"consent, acceptance",JLPT JLPT_N4,H:BcaGHLGe
+日記,にっき,"diary, journal",Genki Genki_Ln.18 JLPT JLPT_N4,"BMMWqQZ#[,"
+高校; 高等学校,こうこう; こうとうがっこう,high school; senior high school,JLPT JLPT_N4,KKBE9#o7:F
+似る,にる,"to resemble, to be similar",JLPT JLPT_N4,i`_a~no4G!
+～おわる,～おわる,to finish doing ~,JLPT JLPT_N4,qwf(Try}@4
+暖房,だんぼう,heating,JLPT JLPT_N4,dvn`p4e0P6
+留守,るす,absence; not at home,Genki Genki_Ln.21 JLPT JLPT_N4,BK(gHI]ze3
+割合,わりあい,"rate, ratio, percentage",JLPT JLPT_N4,vGMwhqQc%{
+寺,てら,Buddhist temple,JLPT JLPT_N4,Hiagec7p~[
+慣れる,なれる,to grow accustomed to,JLPT JLPT_N4,m30?cbGY7<
+普通,ふつう,common; usual,Intermediate_Japanese_Ln.2 Intermediate_Japanese_Ln.3 JLPT JLPT_N4,s:f#izD=u2
+手伝う,てつだう,to help,JLPT JLPT_N4,s_Pi8jG!6%
+なるほど,なるほど,I see; I now understand,Intermediate_Japanese_Ln.6 JLPT JLPT_N4,b:e%Ujd8JZ
+くださる,くださる,"(hon.) to give, to confer",JLPT JLPT_N4,sPmqOCO=cT
+息子,むすこ,(humble) son,JLPT JLPT_N4,xE%1d@q~=0
+お子さん,おこさん,(someone else's) child (polite),Genki Genki_Ln.19 JLPT JLPT_N4,JfH~5*U.a_
+会場,かいじょう,"venue, meeting place",JLPT JLPT_N4,rYhMPU9-hG
+笑う,わらう,"to laugh, to smile",JLPT JLPT_N4,y~ow$kbx8M
+運ぶ,はこぶ,"to transport, to carry",Genki Genki_Ln.22 Intermediate_Japanese_Ln.6 JLPT JLPT_N4,v9DX2R5H-S
+文学,ぶんがく,literature,Genki Genki_Ln.1 Intermediate_Japanese_Ln.3 JLPT JLPT_N4,"lUX,?(3;D]"
+光,ひかり,light,JLPT JLPT_N4,qZgkVt9uh<
+お見舞い,おみまい,"calling on someone who is ill, visit",JLPT JLPT_N4,vi}b>#%^FD
+席,せき,a seat,Intermediate_Japanese_Ln.7 JLPT JLPT_N4,frRhF)UU}W
+～様,～さま,"Mr., Mrs., Ms.",JLPT JLPT_N4,JidByAlQoq
+ご存じ,ごぞんじ,"knowing, acquaintance",JLPT JLPT_N4,k8%o+}YbEd
+下る,さがる,"to descend, to drop, to fall",JLPT JLPT_N4,oX|5UGkIW2
+字,じ,letter; character,Genki Genki_Ln.20 JLPT JLPT_N4,paD_A<.{(!
+アジア,アジア,Asia,JLPT JLPT_N4,"Q{IM`lB,o7"
+褒める,ほめる,to praise; to say nice things,Genki Genki_Ln.21 JLPT JLPT_N4,!.H?[6|B.
+空く,すく,"to be empty (in reference to people), to be less crowded",JLPT JLPT_N4,fg<?z[S^C:
+あ,あ,Ah,JLPT JLPT_N4,qc]3W&Jc<m
+最も,もっとも,most,JLPT JLPT_N4,TJ2Lm-F`{
+合う,あう,"to fit, to match",JLPT JLPT_N4,OAIc&<q]o$
+～代,～だい,~ age; period,JLPT JLPT_N4,y4r%$Sls[D
+最後,さいご,"last, end",JLPT JLPT_N4,P^V7$JoB=L
+値段,ねだん,price,JLPT JLPT_N4,E3[j8aN}XJ
+退院,たいいんする,leaving hospital,JLPT JLPT_N4,E-^*b8-xhX
+展覧会,てんらんかい,exhibition,JLPT JLPT_N4,PN~#oqMNRx
+久しぶり,ひさしぶり,it has been a long time; for the first time in a long time,Genki Genki_Ln.11 Intermediate_Japanese_Ln.4 JLPT JLPT_N4,"J`#Y!H,,<%"
+カーテン,カーテン,curtain,Genki Genki_Ln.18 JLPT JLPT_N4,NFW!?qkYyo
+汽車,きしゃ,train (steam),JLPT JLPT_N4,KH0a_3!CiN
+遅れる,おくれる,to (be) become late,Genki Genki_Ln.19 Intermediate_Japanese_Ln.2 JLPT JLPT_N4,rDxLnq^]Ph
+見つかる,みつかる,"to be found (v.i.), to be discovered",JLPT JLPT_N4,b>m8LlfHOm
+召し上がる,めしあがる,-- honorific form of 食べる (たべる) and 飲む (のむ) --,Genki Genki_Ln.19 Intermediate_Japanese_Ln.6 JLPT JLPT_N4,Fa=r1a7`zE
+太る,ふとる,to gain weight,Genki Genki_Ln.7 JLPT JLPT_N4,BN&?E=z3*H
+注射,ちゅうしゃ,injection,JLPT JLPT_N4,lG`+>+=?Os
+様,よう,"way, manner, kind",JLPT JLPT_N4,t[MNQO-W6
+～おき,～おき,after every ~,JLPT JLPT_N4,ISv;l<*PQR
+最初,さいしょ,"beginning, first",JLPT JLPT_N4,uJfgbAk&PM
+御～,ご～,honorable ~,JLPT JLPT_N4,b?YXE$9w]A
+安心,あんしん,"peace of mind, relief",JLPT JLPT_N4,C^vt]hY6vW
+直る,なおる,to be fixed,JLPT JLPT_N4,wOi%P<vl?O
+集める,あつめる,"to collect, to gather (v.t.), to assemble",Genki Genki_Ln.16 Intermediate_Japanese_Ln.7 JLPT JLPT_N4,OW4zN$vq<h
+直す,なおす,to correct (v.t.); to fix,Genki Genki_Ln.16 JLPT JLPT_N4,g9g}aXNY+w
+続く,つづく,to be continued,JLPT JLPT_N4,"I,82^s2,ha"
+先輩,せんぱい,senior members of a group,Genki Genki_Ln.22 JLPT JLPT_N4,iQ7T^oqMw-
+約束,やくそく,"arrangement, appointment, promise",Genki Genki_Ln.13 JLPT JLPT_N4,gG#1gGEk5+
+世話,せわする,looking after; to look after,JLPT JLPT_N4,u{y[j%Z9W2
+近所,きんじょ,neighborhood,JLPT JLPT_N4,hCRlD3m.g(
+将来,しょうらい,(in the) future; prospects,Genki Genki_Ln.11 Intermediate_Japanese_Ln.5 JLPT JLPT_N4,y@QKAOSu|U
+億,おく,hundred million,JLPT JLPT_N4,iX-FN@Kj?p
+数学,すうがく,mathematics,JLPT JLPT_N4,EO5o6*tgn9
+文化,ぶんか,culture,Genki Genki_Ln.19 JLPT JLPT_N4,z%ky|Q={QQ
+払う,はらう,to pay,Genki Genki_Ln.10 Intermediate_Japanese_Ln.3 JLPT JLPT_N4,i~kIT)jn~k
+習慣,しゅうかん,custom (in reference to culture),JLPT JLPT_N4,v)1shr#hf=
+焼ける,やける,"to burn, to be roasted",JLPT JLPT_N4,ws>!BOMOtu
+君,きみ,you (informal for men),JLPT JLPT_N4,P|5<lpF.:2
+冷える,ひえる,"to grow cold, to cool down",JLPT JLPT_N4,np-S*rxEi@
+点く,つく,"to be started, to be switched on",JLPT JLPT_N4,s+|BHBlyTh
+この間,このあいだ,"the other day, recently",Genki Genki_Ln.16 JLPT JLPT_N4,c(L)|Hc$oD
+格好,かっこう,"appearance, manner, shape, form, posture",JLPT JLPT_N4,j4zgBW-)uI
+かまう,,"to mind, to care about, to be concerned about",JLPT JLPT_N4,l%US3Ov|)s
+続ける,つづける,"to continue, to keep up",Genki Genki_Ln.21 JLPT JLPT_N4,Dmf=K4sY#J
+落す,おとす,"to drop, to lose",JLPT JLPT_N4,p0#ZhzpH-}
+明日,あす,tomorrow,JLPT JLPT_N4,ITR}TzQQ.H
+出発,しゅっぱつする,departure,JLPT JLPT_N4,hH4(GI}wN&
+拝見,はいけんする,"(humble) (polite) seeing, look at",JLPT JLPT_N4,udBE2Kt)`=
+割れる,われる,to break,JLPT JLPT_N4,G?t1hbgS`?
+背中,せなか,back (of body),JLPT JLPT_N4,hg%3^*8ICS
+新聞社,しんぶんしゃ,newspaper company,JLPT JLPT_N4,m^QI_$65r>
+いじめる,いじめる,"to bully, to torment",Genki Genki_Ln.21 JLPT JLPT_N4,gd&LFipme&
+回る、回す,まわる、まわす,"to go around, to revolve",JLPT JLPT_N4,OXe]%sDun3
+～君,～くん,"Mr. (junior) ~, master ~",JLPT JLPT_N4,yqGP#fHaRj
+おっしゃる,おっしゃる,-- honorific expression for いう --,Genki Genki_Ln.19 JLPT JLPT_N4,Bv6:t/{x_6
+眠い,ねむい,"sleepy, drowsy",Genki Genki_Ln.10 JLPT JLPT_N4,g1)0|I<ucL
+濡れる,ぬれる,to get wet,JLPT JLPT_N4,"n,@-PdsLi~"
+倒れる,たおれる,"to collapse, to break down",JLPT JLPT_N4,k|Od:&*w$$
+スーパー (マーケット),スーパー (マーケット),supermarket,JLPT JLPT_N4,DH3_3RD/FB
+アクセサリー,アクセサリー,accessory,JLPT JLPT_N4,qvO-&Z#/h
+考える,かんがえる,to think (about); to consider,Genki Genki_Ln.18 JLPT JLPT_N4,"M,WdgwY$__"
+向かう,むかう,"to face, to go towards",JLPT JLPT_N4,sLFa<Dk5BC
+自由,じゆう,freedom,Genki Genki_Ln.22 JLPT JLPT_N4,lFnDZou.7G
+仕方,しかた,way (of doing something),JLPT JLPT_N4,AM]yYl5eIO
+首,くび,neck,JLPT JLPT_N4,JPecz-JR}]
+程,ほど,"degree, extent",JLPT JLPT_N4,p%bF6rAi^7
+代わり,かわり,"substitute, replacement",JLPT JLPT_N4,rZ#&qP#LLe
+失敗,しっぱい,"failure, mistake",JLPT JLPT_N4,KT@^}h^l+<
+工業,こうぎょう,(manufacturing) industry,JLPT JLPT_N4,kLOeCV|5Ly
+移る,うつる,to move (from a house); to transfer (from a department); to shift,JLPT JLPT_N4,EwBssfbpE#
+スーツケース,スーツケース,suitcase,JLPT JLPT_N4,z<X.?7YIM*
+ひげ,ひげ,beard,Genki Genki_Ln.17 JLPT JLPT_N4,OC&/lk8Sbt
+研究室,けんきゅうしつ,the professor's office; laboratory,Intermediate_Japanese_Ln.3 JLPT JLPT_N4,C=g-AqnF6#
+工場,こうじょう,factory,Genki Genki_Ln.21 Intermediate_Japanese_Ln.15 JLPT JLPT_N4,zB*.:-`=4j
+紹介,しょうかい,an introduction,JLPT JLPT_N4,dT=BbRaUvW
+けれど; けれども,けれど; けれども,"but, although",JLPT JLPT_N4,mDzGR2QZWc
+舟,ふね,"ship, boat",JLPT JLPT_N4,"B,m2(2B05a"
+動く,うごく,to move,JLPT JLPT_N4,F~}14d`>!6
+～(に) ついて,～(に) ついて,"about, concerning",JLPT JLPT_N4,"s~K|,g+o=("
+コンサート,コンサート,concert,Genki Genki_Ln.9 JLPT JLPT_N4,c-Fil]C?m3
+虫,むし,insect,JLPT JLPT_N4,gn!@amuoHx
+優しい,やさしい,"kind (person), gentle (person), easy (problem)",Genki Genki_Ln.5 JLPT JLPT_N4,gfbdYDbw~Y
+コンピュータ; コンピューター,コンピュータ; コンピューター,computer,JLPT JLPT_N4,i=KlAInS10
+植える,うえる,to plant,JLPT JLPT_N4,M>_C}7!LEs
+両方,りょうほう,"both sides, both parties",JLPT JLPT_N4,w+8nx7:F3*
+汚れる,よごれる,to become dirty,JLPT JLPT_N4,yxTJ>uc(`r
+水泳,すいえい,swimming,JLPT JLPT_N4,p8o.J&l.y:
+経験,けいけんする,experience,JLPT JLPT_N4,f+zL`Y7buD
+勝つ,かつ,to win,JLPT JLPT_N4,vi?&`a{.eH
+砂,すな,sand,JLPT JLPT_N4,"v^,Hr#Vg!e"
+警察,けいさつ,police; police station,Genki Genki_Ln.21 JLPT JLPT_N4,Cqbq5lE;g6
+取り替える,とりかえる,"to exchange, to replace",JLPT JLPT_N4,fAPL%{p!|p
+急ぐ,いそぐ,"to hurry, to be in a hurry, to rush",Genki Genki_Ln.6 Intermediate_Japanese_Ln.2 JLPT JLPT_N4,C+o)~b82kd
+簡単,かんたん,simple,JLPT JLPT_N4,oG^L}3iGdF
+参る,まいる,humble expression for 行く and 来る,Genki Genki_Ln.20 Intermediate_Japanese_Ln.6 JLPT JLPT_N4,dY_fG(MyTI
+全然,ぜんぜん,"not at all; wholly, entirely",JLPT JLPT_N4,iJGs=<smMr
+特別,とくべつ,special,JLPT JLPT_N4,w*:rZ|MXHf
+復習,ふくしゅう,"review (of lessons), revision",JLPT JLPT_N4,O40vK?08(g
+間に合う,まにあう,to be in time for,JLPT JLPT_N4,l3xWb^IMb
+役に立つ,やくにたつ,"to be helpful, to be useful",Intermediate_Japanese_Ln.4 JLPT JLPT_N4,Bodoj{2=?#
+もうすぐ,もうすぐ,very soon; in a few moments; days,Genki Genki_Ln.12 JLPT JLPT_N4,cr{2h{c->
+真中,まんなか,"middle, center",JLPT JLPT_N4,R5Bu:`G<@
+戻る,もどる,to return (v.i.); to come back,Genki Genki_Ln.20 Intermediate_Japanese_Ln.8 JLPT JLPT_N4,g9-rOAl2<k
+研究,けんきゅう,"study, research, investigation",JLPT JLPT_N4,"r,JjBHrK!8"
+ケーキ,ケーキ,cake,Genki Genki_Ln.13 JLPT JLPT_N4,iADgmRoi>q
+草,くさ,grass,JLPT JLPT_N4,CRSs:E15FF
+込む,こむ,to be crowded,JLPT JLPT_N4,C3zU]</XPv
+この頃,このごろ,"these days, nowadays",Genki Genki_Ln.10 JLPT JLPT_N4,F2eeT8$KYX
+訪ねる,たずねる,to visit,JLPT JLPT_N4,l{^{>8a$f>
+下げる,さげる,to lower (v.t.); to hang,Intermediate_Japanese_Ln.2 JLPT JLPT_N4,mC:cy`3AnB
+花見,はなみ,cherry-blossom viewing,JLPT JLPT_N4,ulvW_e[_zQ
+途中,とちゅう,"on the way, midway",JLPT JLPT_N4,"qP[3T,bvTy"
+入院,にゅういんする,hospitalization,JLPT JLPT_N4,iB?^g:!ksb
+乗り換える,のりかえる,"to transfer (trains), to change (bus, train, etc.)",JLPT JLPT_N4,Fu#~2.ajY<
+別れる,わかれる,"to part from, to separate",JLPT JLPT_N4,ova[fXA&]m
+～町,～ちょう,the town of ~,JLPT JLPT_N4,"mf84}],`T,"
+安全,あんぜん,"safety, security",JLPT JLPT_N4,x>KuTt~>`B
+看護婦,かんごふ,(female) nurse,JLPT JLPT_N4,Mvt??7-[{v
+見物,けんぶつ,sightseeing,JLPT JLPT_N4,z/6V9+.-]v
+相談,そうだんする,consultation,JLPT JLPT_N4,"h,~$1#Tmi]"
+ガソリンスタンド,ガソリンスタンド,"gas station, service station",JLPT JLPT_N4,NoACr|m()D
+テニス,テニス,tennis,Genki Genki_Ln.3 JLPT JLPT_N4,Bm|4X!fT~f
+眠る,ねむる,to sleep,JLPT JLPT_N4,H2kKiMD`}M
+上がる,あがる,"to rise, to go up",JLPT JLPT_N4,cvVez@U$xD
+翻訳,ほんやく,translation,Intermediate_Japanese_Ln.8 JLPT JLPT_N4,q5u{4?O6M1
+食事,しょくじする,meal,JLPT JLPT_N4,K<!4=Wx(&)
+お陰,おかげ,thanks or owing to,JLPT JLPT_N4,y:GH2MLVp!
+娘,むすめ,daughter (humble),JLPT JLPT_N4,D>Uc.0t(Pv
+湯,ゆ,hot water,JLPT JLPT_N4,qZk(zY%Dgg
+競争,きょうそう,"competition, contest",JLPT JLPT_N4,G%KC6%zs?X
+会議,かいぎ,business meeting; conference,Genki Genki_Ln.21 JLPT JLPT_N4,O^:<Y%-[JT
+湖,みずうみ,lake,Genki Genki_Ln.11 Intermediate_Japanese_Ln.4 JLPT JLPT_N4,pP3.DL~IX-
+集まる,あつまる,"to gather (v.i.), to collect",Intermediate_Japanese_Ln.7 JLPT JLPT_N4,dj|VykRm7g
+～にくい,～にくい,difficult to do ~,JLPT JLPT_N4,m7`CbDBUYU
+生活,せいかつする,"living, life; to live",JLPT JLPT_N4,w`Fz_<nW/g
+糸,いと,thread,JLPT JLPT_N4,IpR-(E.>}{
+関係,かんけい,"relation(ship), connection",JLPT JLPT_N4,A95yiv24#q
+ピアノ,ピアノ,piano,Genki Genki_Ln.9 JLPT JLPT_N4,l~WqV~#3P+
+～目,～め,"number ~ sequence, ~nd; ~th",JLPT JLPT_N4,E~pd/+U#PU
+番組,ばんぐみ,broadcast program,Genki Genki_Ln.15 JLPT JLPT_N4,A~P5;`m>{J
+急,きゅう,"urgent, sudden; steep",JLPT JLPT_N4,tI;p#VWdsZ
+棚,たな,"shelves, rack",JLPT JLPT_N4,u[EB{0+w?@
+木綿,もめん,cotton,JLPT JLPT_N4,C1;C=MJBjh
+輸出,ゆしゅつする,export,JLPT JLPT_N4,tgSB[Csamk
+タイプ,タイプ,"type, style",JLPT JLPT_N4,GKLj7~1p[w
+すり,すり,pickpocket,JLPT JLPT_N4,"LZR2]zL[V,"
+嬉しい,うれしい,to be happy; to be glad,Genki Genki_Ln.13 JLPT JLPT_N4,"d;<k5,X?rJ"
+アルコール,アルコール,alcohol,JLPT JLPT_N4,g3}Or~C[qU
+ソフト,ソフト,soft; soft hat; software,JLPT JLPT_N4,D1{]Y{P=2b
+神社,じんじゃ,Shinto shrine,JLPT JLPT_N4,"p-k,[(f(jy"
+大分,だいぶ,"fairly well, to a large extent, considerably, pretty much",Intermediate_Japanese_Ln.4 JLPT JLPT_N4,F=YkB>ku|#
+楽しみ,たのしみ,"pleasure, joy",JLPT JLPT_N4,bsnv=TM#%{
+趣味,しゅみ,hobby; pastime,Genki Genki_Ln.20 JLPT JLPT_N4,NkyAEs05(h
+電報,でんぽう,telegram,JLPT JLPT_N4,d~+A[2;3vQ
+家内,かない,(one's own) wife,Intermediate_Japanese_Ln.7 JLPT JLPT_N4,JMHIMXzaOu
+指,ゆび,finger,JLPT JLPT_N4,mOnb%$R^21
+これから,これから,"from now on, after this",JLPT JLPT_N4,xyC3_bE-{d
+たまに,たまに,occasionally,JLPT JLPT_N4,Op~e1|~DMP
+社会,しゃかい,society,JLPT JLPT_N4,br3q(Z|Zbk
