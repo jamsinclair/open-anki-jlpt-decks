@@ -53,7 +53,7 @@ Use these principles to help guide changes to the project.
 
 Feel free to [create an issue](https://github.com/jamsinclair/open-anki-jlpt-decks/issues/new/choose) to let us know of any mistakes, improvements or other suggestions.
 
-For those who feel comfortable changing CSV files or any code see the [contributing document.](CONTRIBUTING.md) for more information.
+For those who feel comfortable changing CSV files or any code see the [contributing document](CONTRIBUTING.md) for more information.
 
 ## Acknowledgements
 Original deck data was taken from https://github.com/chyyran/jlpt-anki-decks,
