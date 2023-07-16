@@ -59,9 +59,12 @@ def createDeckFromCsv(id, name, description, csvPath):
         lineCount = 0
         for row in reader:
             if lineCount > 0:
-                note = genanki.Note(model=model, fields=row[0:3], tags=row[3].split())
+                note = genanki.Note(
+                    model=model, fields=row[0:3], tags=row[3].split(), guid=row[4]
+                )
                 deck.add_note(note)
             lineCount += 1
+    csvFile.close()
     return genanki.Package(deck)
 
 
