@@ -31,6 +31,17 @@ To install Node.js dependencies:
 npm install
 ```
 
+## Making Changes
+
+### CSV Format
+
+The CSV schema contains the following fields
+- `expression` - The text of how the vocablurary would appear in a JLPT test
+- `reading` - The reading of the text, usually expressed in hiragana or katakana
+- `meaning` - The english meaning of the expression
+- `tags` - Metadata for the note that could be used by various Anki apps for advanced customisation. The existing data are relics from the previous deck that the project was sourced from.
+- `guid` - The “Globally Unique Identifier” used by Anki to keep a stable reference of notes. For new entries we can ignore adding this and the project should autogenerate a new guid. Changing this field would result in losing existing progress or history within your Anki app.
+
 ### Building
 
 To build Anki `apkg` files from the CSVs run the script `scripts/generate-decks.py`.
